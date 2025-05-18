@@ -1,0 +1,2939 @@
+{
+  "id": "893071f4f028",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Моя рука болит.",
+      "meaningInSourceLanguage": "My hand hurts.",
+      "id": "34fe294b2f5c",
+      "priority": 0,
+      "group": "4ab5ac81506e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Моя рука болит.",
+      "meaning": "My hand hurts.",
+      "audio": "f55a0a16c196d6c260c6fa8745dc7b675ec2ff99b5c292ad418f8351b6f3dcfe",
+      "id": "99948ac9ba8e",
+      "priority": 1,
+      "group": "4ab5ac81506e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined"
+        },
+        {
+          "word": "hand",
+          "definition": "undefined\nрука"
+        },
+        {
+          "word": "hurts.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Моя",
+        "рука",
+        "болит",
+        "Мои",
+        "моя"
+      ],
+      "solutions": [
+        [
+          "Моя",
+          "рука",
+          "болит"
+        ]
+      ],
+      "formattedSolution": "Моя рука болит.",
+      "id": "a0df12aec5c4",
+      "priority": 2,
+      "group": "4ab5ac81506e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Моя",
+          "definition": "undefined"
+        },
+        {
+          "word": "рука",
+          "definition": "hand\nundefined"
+        },
+        {
+          "word": "болит.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "hand",
+        "hurts",
+        "has",
+        "had"
+      ],
+      "solutions": [
+        [
+          "My",
+          "hand",
+          "hurts"
+        ]
+      ],
+      "formattedSolution": "My hand hurts.",
+      "id": "17b99078b0e4",
+      "priority": 2,
+      "group": "4ab5ac81506e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она имеет долгую ногу.",
+      "meaningInSourceLanguage": "She has a long leg.",
+      "id": "ff202561f5c9",
+      "priority": 0,
+      "group": "460ea4943df5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она имеет долгую ногу.",
+      "meaning": "She has a long leg.",
+      "audio": "2c5d29577b205ea5885cab8afd75b0059e7d696ecf80a7eb3c68228a5967b82a",
+      "id": "4ba10ff961d5",
+      "priority": 1,
+      "group": "460ea4943df5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "long",
+          "definition": "undefined\nдлинный"
+        },
+        {
+          "word": "leg.",
+          "definition": "undefined\nнога"
+        }
+      ],
+      "chips": [
+        "Она",
+        "имеет",
+        "долгую",
+        "ногу",
+        "моею",
+        "но",
+        "полу"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "имеет",
+          "долгую",
+          "ногу"
+        ]
+      ],
+      "formattedSolution": "Она имеет долгую ногу.",
+      "id": "f2ac88e3ddb7",
+      "priority": 2,
+      "group": "460ea4943df5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "имеет",
+          "definition": "undefined"
+        },
+        {
+          "word": "долгую",
+          "definition": "undefined"
+        },
+        {
+          "word": "ногу.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "has",
+        "a",
+        "long",
+        "leg",
+        "an",
+        "bag",
+        "as",
+        "am"
+      ],
+      "solutions": [
+        [
+          "She",
+          "has",
+          "a",
+          "long",
+          "leg"
+        ]
+      ],
+      "formattedSolution": "She has a long leg.",
+      "id": "de54bf850536",
+      "priority": 2,
+      "group": "460ea4943df5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Голова есть на теле.",
+      "meaningInSourceLanguage": "The head is on the body.",
+      "id": "3255b937b164",
+      "priority": 0,
+      "group": "3d505aa8048b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Голова есть на теле.",
+      "meaning": "The head is on the body.",
+      "audio": "09fcc160f4ebed84aa29fa2937169780477ed598a3e3b539c0b546d124196c7d",
+      "id": "a2cfadd3ed1e",
+      "priority": 1,
+      "group": "3d505aa8048b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "head",
+          "definition": "undefined\nголова"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "body.",
+          "definition": "undefined\nтело"
+        }
+      ],
+      "chips": [
+        "Голова",
+        "есть",
+        "на",
+        "теле",
+        "то",
+        "ест",
+        "сна"
+      ],
+      "solutions": [
+        [
+          "Голова",
+          "есть",
+          "на",
+          "теле"
+        ]
+      ],
+      "formattedSolution": "Голова есть на теле.",
+      "id": "7684dd2a6855",
+      "priority": 2,
+      "group": "3d505aa8048b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Голова",
+          "definition": "head\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "теле.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "head",
+        "is",
+        "on",
+        "the",
+        "body",
+        "be",
+        "She",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "head",
+          "is",
+          "on",
+          "the",
+          "body"
+        ]
+      ],
+      "formattedSolution": "The head is on the body.",
+      "id": "fc79ac5e603c",
+      "priority": 2,
+      "group": "3d505aa8048b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он имеет синие красивые глаза.",
+      "meaningInSourceLanguage": "He has beautiful blue eyes.",
+      "id": "0d8f8e3f7b9e",
+      "priority": 0,
+      "group": "a6c87246ee8c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он имеет синие красивые глаза.",
+      "meaning": "He has beautiful blue eyes.",
+      "audio": "ac2e92a94384600907e35189a3f482bf49e677f4f634f962ea5a96318c4a22e6",
+      "id": "54e7de63e6d9",
+      "priority": 1,
+      "group": "a6c87246ee8c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "beautiful",
+          "definition": "undefined\nкрасивый"
+        },
+        {
+          "word": "blue",
+          "definition": "undefined\nсиний"
+        },
+        {
+          "word": "eyes.",
+          "definition": "undefined\nглаза"
+        }
+      ],
+      "chips": [
+        "Он",
+        "имеет",
+        "синие",
+        "красивые",
+        "глаза",
+        "синее",
+        "мне",
+        "Она",
+        "не"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "имеет",
+          "синие",
+          "красивые",
+          "глаза"
+        ]
+      ],
+      "formattedSolution": "Он имеет синие красивые глаза.",
+      "id": "c77c088a11e6",
+      "priority": 2,
+      "group": "a6c87246ee8c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "имеет",
+          "definition": "undefined"
+        },
+        {
+          "word": "синие",
+          "definition": "undefined"
+        },
+        {
+          "word": "красивые",
+          "definition": "undefined"
+        },
+        {
+          "word": "глаза.",
+          "definition": "eyes\nundefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "has",
+        "beautiful",
+        "blue",
+        "eyes",
+        "be",
+        "bus",
+        "he",
+        "We"
+      ],
+      "solutions": [
+        [
+          "He",
+          "has",
+          "beautiful",
+          "blue",
+          "eyes"
+        ]
+      ],
+      "formattedSolution": "He has beautiful blue eyes.",
+      "id": "cac440d18eab",
+      "priority": 2,
+      "group": "a6c87246ee8c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Её ухо не слышит добро.",
+      "meaningInSourceLanguage": "Her ear does not hear well.",
+      "id": "ae3d3aae6714",
+      "priority": 0,
+      "group": "8e5abcdebfb9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Её ухо не слышит добро.",
+      "meaning": "Her ear does not hear well.",
+      "audio": "222f22cb3955bc3930951ba0c7deabd3bdc56289acce574047878bef8fad9247",
+      "id": "a4a1ea07af20",
+      "priority": 1,
+      "group": "8e5abcdebfb9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Her",
+          "definition": "undefined"
+        },
+        {
+          "word": "ear",
+          "definition": "undefined\nухо"
+        },
+        {
+          "word": "does",
+          "definition": "undefined"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "hear",
+          "definition": "undefined"
+        },
+        {
+          "word": "well.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Её",
+        "ухо",
+        "не",
+        "слышит",
+        "добро",
+        "со",
+        "но",
+        "до",
+        "то"
+      ],
+      "solutions": [
+        [
+          "Её",
+          "ухо",
+          "не",
+          "слышит",
+          "добро"
+        ]
+      ],
+      "formattedSolution": "Её ухо не слышит добро.",
+      "id": "6e0f7e37f859",
+      "priority": 2,
+      "group": "8e5abcdebfb9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Её",
+          "definition": "undefined"
+        },
+        {
+          "word": "ухо",
+          "definition": "ear\nundefined"
+        },
+        {
+          "word": "не",
+          "definition": "undefined"
+        },
+        {
+          "word": "слышит",
+          "definition": "undefined"
+        },
+        {
+          "word": "добро.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Her",
+        "ear",
+        "does",
+        "not",
+        "hear",
+        "well",
+        "her",
+        "near",
+        "wear",
+        "tea",
+        "eat"
+      ],
+      "solutions": [
+        [
+          "Her",
+          "ear",
+          "does",
+          "not",
+          "hear",
+          "well"
+        ]
+      ],
+      "formattedSolution": "Her ear does not hear well.",
+      "id": "e3d9521c658e",
+      "priority": 2,
+      "group": "8e5abcdebfb9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Нос есть красный от мороза.",
+      "meaningInSourceLanguage": "The nose is red from the cold.",
+      "id": "b69e3908e353",
+      "priority": 0,
+      "group": "f91079b75021"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Нос есть красный от мороза.",
+      "meaning": "The nose is red from the cold.",
+      "audio": "569a89602754ce9901ff7de520f2ac60cc28b044fac440df26f0490365263067",
+      "id": "f8085df3354e",
+      "priority": 1,
+      "group": "f91079b75021"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "nose",
+          "definition": "undefined\nнос"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "red",
+          "definition": "undefined\nкрасный"
+        },
+        {
+          "word": "from",
+          "definition": "undefined\nиз"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "cold.",
+          "definition": "undefined\nхолодно"
+        }
+      ],
+      "chips": [
+        "Нос",
+        "есть",
+        "красный",
+        "от",
+        "мороза",
+        "мой",
+        "Тот",
+        "со",
+        "ест"
+      ],
+      "solutions": [
+        [
+          "Нос",
+          "есть",
+          "красный",
+          "от",
+          "мороза"
+        ]
+      ],
+      "formattedSolution": "Нос есть красный от мороза.",
+      "id": "72051cef157a",
+      "priority": 2,
+      "group": "f91079b75021"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Нос",
+          "definition": "nose\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "красный",
+          "definition": "red\nundefined"
+        },
+        {
+          "word": "от",
+          "definition": "undefined"
+        },
+        {
+          "word": "мороза.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "nose",
+        "is",
+        "red",
+        "from",
+        "the",
+        "cold",
+        "She",
+        "We",
+        "are",
+        "He",
+        "me",
+        "To"
+      ],
+      "solutions": [
+        [
+          "The",
+          "nose",
+          "is",
+          "red",
+          "from",
+          "the",
+          "cold"
+        ]
+      ],
+      "formattedSolution": "The nose is red from the cold.",
+      "id": "f70cb54123f5",
+      "priority": 2,
+      "group": "f91079b75021"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Лицо есть подобно.",
+      "meaningInSourceLanguage": "The face is similar.",
+      "id": "6dff0766943f",
+      "priority": 0,
+      "group": "2cc925971680"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Лицо есть подобно.",
+      "meaning": "The face is similar.",
+      "audio": "63be1038291a9bbd299d421a2c0a176e7abb859523991c0f060b8c7ab0e97512",
+      "id": "3ba6d271d7f3",
+      "priority": 1,
+      "group": "2cc925971680"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "face",
+          "definition": "undefined\nлицо"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "similar.",
+          "definition": "undefined\nподобный"
+        }
+      ],
+      "chips": [
+        "Лицо",
+        "есть",
+        "подобно",
+        "одно",
+        "вино"
+      ],
+      "solutions": [
+        [
+          "Лицо",
+          "есть",
+          "подобно"
+        ]
+      ],
+      "formattedSolution": "Лицо есть подобно.",
+      "id": "7183e8b21a21",
+      "priority": 2,
+      "group": "2cc925971680"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Лицо",
+          "definition": "face\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "подобно.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "face",
+        "is",
+        "similar",
+        "are",
+        "me",
+        "air"
+      ],
+      "solutions": [
+        [
+          "The",
+          "face",
+          "is",
+          "similar"
+        ]
+      ],
+      "formattedSolution": "The face is similar.",
+      "id": "529b6ab0fa40",
+      "priority": 2,
+      "group": "2cc925971680"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Её сердце бьёт быстро.",
+      "meaningInSourceLanguage": "Her heart beats fast.",
+      "id": "a0310f9c0b7e",
+      "priority": 0,
+      "group": "38d14b98fc06"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Её сердце бьёт быстро.",
+      "meaning": "Her heart beats fast.",
+      "audio": "e1e2be1e34dfeb07261beb6cc92943f5f445b57de40eb2621e04f0364721b446",
+      "id": "1fdc4a266ac8",
+      "priority": 1,
+      "group": "38d14b98fc06"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Her",
+          "definition": "undefined"
+        },
+        {
+          "word": "heart",
+          "definition": "undefined\nсердце"
+        },
+        {
+          "word": "beats",
+          "definition": "undefined"
+        },
+        {
+          "word": "fast.",
+          "definition": "undefined\nбыстро"
+        }
+      ],
+      "chips": [
+        "Её",
+        "сердце",
+        "бьёт",
+        "быстро",
+        "идёт",
+        "со",
+        "ест"
+      ],
+      "solutions": [
+        [
+          "Её",
+          "сердце",
+          "бьёт",
+          "быстро"
+        ]
+      ],
+      "formattedSolution": "Её сердце бьёт быстро.",
+      "id": "c4cb05066df2",
+      "priority": 2,
+      "group": "38d14b98fc06"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Её",
+          "definition": "undefined"
+        },
+        {
+          "word": "сердце",
+          "definition": "heart\nundefined"
+        },
+        {
+          "word": "бьёт",
+          "definition": "undefined"
+        },
+        {
+          "word": "быстро.",
+          "definition": "fast\nundefined"
+        }
+      ],
+      "chips": [
+        "Her",
+        "heart",
+        "beats",
+        "fast",
+        "eat",
+        "meat",
+        "bear"
+      ],
+      "solutions": [
+        [
+          "Her",
+          "heart",
+          "beats",
+          "fast"
+        ]
+      ],
+      "formattedSolution": "Her heart beats fast.",
+      "id": "4e7ae5f6ae39",
+      "priority": 2,
+      "group": "38d14b98fc06"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Желудок тебе болит.",
+      "meaningInSourceLanguage": "My stomach hurts.",
+      "id": "e0dcdf787873",
+      "priority": 0,
+      "group": "e6c361f3e568"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Желудок тебе болит.",
+      "meaning": "My stomach hurts.",
+      "audio": "e63ce13b33d4c6c641c3828ee4304652cab0de903e42b562ce13233dca04a9a8",
+      "id": "70e1d3d2d536",
+      "priority": 1,
+      "group": "e6c361f3e568"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined"
+        },
+        {
+          "word": "stomach",
+          "definition": "undefined\nжелудок"
+        },
+        {
+          "word": "hurts.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Желудок",
+        "тебе",
+        "болит",
+        "теле",
+        "белую"
+      ],
+      "solutions": [
+        [
+          "Желудок",
+          "тебе",
+          "болит"
+        ]
+      ],
+      "formattedSolution": "Желудок тебе болит.",
+      "id": "fcc064d74356",
+      "priority": 2,
+      "group": "e6c361f3e568"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Желудок",
+          "definition": "stomach\nundefined"
+        },
+        {
+          "word": "тебе",
+          "definition": "undefined"
+        },
+        {
+          "word": "болит.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "stomach",
+        "hurts",
+        "my",
+        "much"
+      ],
+      "solutions": [
+        [
+          "My",
+          "stomach",
+          "hurts"
+        ]
+      ],
+      "formattedSolution": "My stomach hurts.",
+      "id": "cc69f872393c",
+      "priority": 2,
+      "group": "e6c361f3e568"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Тело у меня здорово.",
+      "meaningInSourceLanguage": "My body is healthy.",
+      "id": "fc5991b7c951",
+      "priority": 0,
+      "group": "66564ae186e8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Тело у меня здорово.",
+      "meaning": "My body is healthy.",
+      "audio": "90c69da68bc5748d1f1da17d24b0cbffe4846d4d99e7fa8a35754073ceb553ad",
+      "id": "053e2aed36fb",
+      "priority": 1,
+      "group": "66564ae186e8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined"
+        },
+        {
+          "word": "body",
+          "definition": "undefined\nтело"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "healthy.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Тело",
+        "у",
+        "меня",
+        "здорово",
+        "еду",
+        "но",
+        "до"
+      ],
+      "solutions": [
+        [
+          "Тело",
+          "у",
+          "меня",
+          "здорово"
+        ]
+      ],
+      "formattedSolution": "Тело у меня здорово.",
+      "id": "076018d5101f",
+      "priority": 2,
+      "group": "66564ae186e8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Тело",
+          "definition": "body\nundefined"
+        },
+        {
+          "word": "у",
+          "definition": "at/by\nundefined"
+        },
+        {
+          "word": "меня",
+          "definition": "undefined"
+        },
+        {
+          "word": "здорово.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "body",
+        "is",
+        "healthy",
+        "by",
+        "my",
+        "boy"
+      ],
+      "solutions": [
+        [
+          "My",
+          "body",
+          "is",
+          "healthy"
+        ]
+      ],
+      "formattedSolution": "My body is healthy.",
+      "id": "1a21cf8bfe80",
+      "priority": 2,
+      "group": "66564ae186e8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я имею две руки и две ноги и тоже две стопы.",
+      "meaningInSourceLanguage": "I have two hands and two legs, and also two feet.",
+      "id": "9bb8fb96164c",
+      "priority": 0,
+      "group": "e4ccfceb4bca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я имею две руки и две ноги и тоже две стопы.",
+      "meaning": "I have two hands and two legs, and also two feet.",
+      "audio": "8df42876b61f05bd622d8fc68ba9f1331f126fc9e74abd8545fd22327ca91489",
+      "id": "5821517f2597",
+      "priority": 1,
+      "group": "e4ccfceb4bca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "have",
+          "definition": "undefined"
+        },
+        {
+          "word": "two",
+          "definition": "undefined\nдва (м/с)\nдве (ж)"
+        },
+        {
+          "word": "hands",
+          "definition": "undefined"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "two",
+          "definition": "undefined\nдва (м/с)\nдве (ж)"
+        },
+        {
+          "word": "legs,",
+          "definition": "undefined"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "also",
+          "definition": "undefined\nтоже"
+        },
+        {
+          "word": "two",
+          "definition": "undefined\nдва (м/с)\nдве (ж)"
+        },
+        {
+          "word": "feet.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Я",
+        "имею",
+        "две",
+        "руки",
+        "и",
+        "две",
+        "ноги",
+        "и",
+        "тоже",
+        "две",
+        "стопы",
+        "не",
+        "в",
+        "до",
+        "о",
+        "во",
+        "то",
+        "Те",
+        "ли",
+        "со",
+        "уже"
+      ],
+      "solutions": [
+        [
+          "Я",
+          "имею",
+          "две",
+          "руки",
+          "и",
+          "две",
+          "ноги",
+          "и",
+          "тоже",
+          "две",
+          "стопы"
+        ]
+      ],
+      "formattedSolution": "Я имею две руки и две ноги и тоже две стопы.",
+      "id": "df8fa35073e2",
+      "priority": 2,
+      "group": "e4ccfceb4bca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Я",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "имею",
+          "definition": "undefined"
+        },
+        {
+          "word": "две",
+          "definition": "undefined"
+        },
+        {
+          "word": "руки",
+          "definition": "undefined"
+        },
+        {
+          "word": "и",
+          "definition": "undefined"
+        },
+        {
+          "word": "две",
+          "definition": "undefined"
+        },
+        {
+          "word": "ноги",
+          "definition": "undefined"
+        },
+        {
+          "word": "и",
+          "definition": "undefined"
+        },
+        {
+          "word": "тоже",
+          "definition": "also\nundefined"
+        },
+        {
+          "word": "две",
+          "definition": "undefined"
+        },
+        {
+          "word": "стопы.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "have",
+        "two",
+        "hands",
+        "and",
+        "two",
+        "legs",
+        "and",
+        "also",
+        "two",
+        "feet",
+        "an",
+        "as",
+        "add",
+        "end",
+        "age",
+        "are",
+        "a",
+        "too",
+        "at",
+        "has"
+      ],
+      "solutions": [
+        [
+          "I",
+          "have",
+          "two",
+          "hands",
+          "and",
+          "two",
+          "legs",
+          "and",
+          "also",
+          "two",
+          "feet"
+        ]
+      ],
+      "formattedSolution": "I have two hands and two legs, and also two feet.",
+      "id": "866cbc377b4c",
+      "priority": 2,
+      "group": "e4ccfceb4bca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Глаза смотрят в книгу.",
+      "meaningInSourceLanguage": "The eyes are looking at the book.",
+      "id": "624192e6b19e",
+      "priority": 0,
+      "group": "db98ca3f686e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Глаза смотрят в книгу.",
+      "meaning": "The eyes are looking at the book.",
+      "audio": "5d197813460b74cc77cf27fde7a1a10df18d7dd661ce0a7c4a645a494f1f3118",
+      "id": "dce74b36e828",
+      "priority": 1,
+      "group": "db98ca3f686e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "eyes",
+          "definition": "undefined\nглаза"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+        },
+        {
+          "word": "looking",
+          "definition": "undefined"
+        },
+        {
+          "word": "at",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "book.",
+          "definition": "undefined\nкнига"
+        }
+      ],
+      "chips": [
+        "Глаза",
+        "смотрят",
+        "в",
+        "книгу",
+        "моя",
+        "ли",
+        "за"
+      ],
+      "solutions": [
+        [
+          "Глаза",
+          "смотрят",
+          "в",
+          "книгу"
+        ]
+      ],
+      "formattedSolution": "Глаза смотрят в книгу.",
+      "id": "81c623371825",
+      "priority": 2,
+      "group": "db98ca3f686e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Глаза",
+          "definition": "eyes\nundefined"
+        },
+        {
+          "word": "смотрят",
+          "definition": "undefined"
+        },
+        {
+          "word": "в",
+          "definition": "undefined"
+        },
+        {
+          "word": "книгу.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "eyes",
+        "are",
+        "looking",
+        "at",
+        "the",
+        "book",
+        "She",
+        "be",
+        "age",
+        "We",
+        "Are",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "eyes",
+          "are",
+          "looking",
+          "at",
+          "the",
+          "book"
+        ]
+      ],
+      "formattedSolution": "The eyes are looking at the book.",
+      "id": "3975aeb1fba0",
+      "priority": 2,
+      "group": "db98ca3f686e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ухо слышит музыку.",
+      "meaningInSourceLanguage": "The ear hears music.",
+      "id": "7573d4ce4b0a",
+      "priority": 0,
+      "group": "282a50d1e34e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ухо слышит музыку.",
+      "meaning": "The ear hears music.",
+      "audio": "f75aa45a5a5257f2cf17e9ccf7cb2f4abc84543373ac3f9ddadad357ec04eae1",
+      "id": "695d9006eed0",
+      "priority": 1,
+      "group": "282a50d1e34e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "ear",
+          "definition": "undefined\nухо"
+        },
+        {
+          "word": "hears",
+          "definition": "undefined"
+        },
+        {
+          "word": "music.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ухо",
+        "слышит",
+        "музыку",
+        "мыши",
+        "языку"
+      ],
+      "solutions": [
+        [
+          "Ухо",
+          "слышит",
+          "музыку"
+        ]
+      ],
+      "formattedSolution": "Ухо слышит музыку.",
+      "id": "2c2c19913f88",
+      "priority": 2,
+      "group": "282a50d1e34e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ухо",
+          "definition": "ear\nundefined"
+        },
+        {
+          "word": "слышит",
+          "definition": "undefined"
+        },
+        {
+          "word": "музыку.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "ear",
+        "hears",
+        "music",
+        "hear",
+        "her",
+        "has"
+      ],
+      "solutions": [
+        [
+          "The",
+          "ear",
+          "hears",
+          "music"
+        ]
+      ],
+      "formattedSolution": "The ear hears music.",
+      "id": "ace417667caf",
+      "priority": 2,
+      "group": "282a50d1e34e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Его мозг есть быстрый.",
+      "meaningInSourceLanguage": "His brain is quick.",
+      "id": "3f1f010b63ce",
+      "priority": 0,
+      "group": "dfd25a7873c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Его мозг есть быстрый.",
+      "meaning": "His brain is quick.",
+      "audio": "f512e3fc8d871ae717180e0a8fa7ae4719dac7797a5ee409af1fdd27c03fe076",
+      "id": "37167c4c85cf",
+      "priority": 1,
+      "group": "dfd25a7873c2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "His",
+          "definition": "undefined"
+        },
+        {
+          "word": "brain",
+          "definition": "undefined\nмозг"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "quick.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Его",
+        "мозг",
+        "есть",
+        "быстрый",
+        "Есть",
+        "ест",
+        "сто"
+      ],
+      "solutions": [
+        [
+          "Его",
+          "мозг",
+          "есть",
+          "быстрый"
+        ]
+      ],
+      "formattedSolution": "Его мозг есть быстрый.",
+      "id": "97a5e9cdc2af",
+      "priority": 2,
+      "group": "dfd25a7873c2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Его",
+          "definition": "undefined"
+        },
+        {
+          "word": "мозг",
+          "definition": "brain\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "быстрый.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "His",
+        "brain",
+        "is",
+        "quick",
+        "his",
+        "in",
+        "it"
+      ],
+      "solutions": [
+        [
+          "His",
+          "brain",
+          "is",
+          "quick"
+        ]
+      ],
+      "formattedSolution": "His brain is quick.",
+      "id": "967678b1998a",
+      "priority": 2,
+      "group": "dfd25a7873c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Её лицо есть красиво.",
+      "meaningInSourceLanguage": "Her face is beautiful.",
+      "id": "349fe6269371",
+      "priority": 0,
+      "group": "4ad08080240b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Её лицо есть красиво.",
+      "meaning": "Her face is beautiful.",
+      "audio": "fd5da0dff1b1ec6bf1c81df9c03ccc0ec304e7fcfc1c6f24cc0c3c61c2d2606c",
+      "id": "d76a28ab05ed",
+      "priority": 1,
+      "group": "4ad08080240b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Her",
+          "definition": "undefined"
+        },
+        {
+          "word": "face",
+          "definition": "undefined\nлицо"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "beautiful.",
+          "definition": "undefined\nкрасивый"
+        }
+      ],
+      "chips": [
+        "Её",
+        "лицо",
+        "есть",
+        "красиво",
+        "со",
+        "сто",
+        "еси"
+      ],
+      "solutions": [
+        [
+          "Её",
+          "лицо",
+          "есть",
+          "красиво"
+        ]
+      ],
+      "formattedSolution": "Её лицо есть красиво.",
+      "id": "7be82a16400c",
+      "priority": 2,
+      "group": "4ad08080240b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Её",
+          "definition": "undefined"
+        },
+        {
+          "word": "лицо",
+          "definition": "face\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "красиво.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Her",
+        "face",
+        "is",
+        "beautiful",
+        "He",
+        "air",
+        "be"
+      ],
+      "solutions": [
+        [
+          "Her",
+          "face",
+          "is",
+          "beautiful"
+        ]
+      ],
+      "formattedSolution": "Her face is beautiful.",
+      "id": "29be545fb830",
+      "priority": 2,
+      "group": "4ad08080240b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сердце есть символ любви.",
+      "meaningInSourceLanguage": "The heart is a symbol of love.",
+      "id": "8276a10b8f5f",
+      "priority": 0,
+      "group": "da2d4f20efb1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сердце есть символ любви.",
+      "meaning": "The heart is a symbol of love.",
+      "audio": "dfc2605ed2c060bb180f607912c3bc962a30b528d8bb87d80c0cd1904fc60344",
+      "id": "e0bc9fbf22b6",
+      "priority": 1,
+      "group": "da2d4f20efb1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "heart",
+          "definition": "undefined\nсердце"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "symbol",
+          "definition": "undefined"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "love.",
+          "definition": "undefined\nлюбовь"
+        }
+      ],
+      "chips": [
+        "Сердце",
+        "есть",
+        "символ",
+        "любви",
+        "есмь",
+        "есте",
+        "еси"
+      ],
+      "solutions": [
+        [
+          "Сердце",
+          "есть",
+          "символ",
+          "любви"
+        ]
+      ],
+      "formattedSolution": "Сердце есть символ любви.",
+      "id": "b76996f9c2aa",
+      "priority": 2,
+      "group": "da2d4f20efb1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Сердце",
+          "definition": "heart\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "символ",
+          "definition": "undefined"
+        },
+        {
+          "word": "любви.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "heart",
+        "is",
+        "a",
+        "symbol",
+        "of",
+        "love",
+        "me",
+        "be",
+        "or",
+        "am",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "heart",
+          "is",
+          "a",
+          "symbol",
+          "of",
+          "love"
+        ]
+      ],
+      "formattedSolution": "The heart is a symbol of love.",
+      "id": "3b648b40926f",
+      "priority": 2,
+      "group": "da2d4f20efb1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мой желудок есть просто полный после ужина.",
+      "meaningInSourceLanguage": "My stomach is just full after dinner.",
+      "id": "a6d81e70c136",
+      "priority": 0,
+      "group": "cd7132a251fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мой желудок есть просто полный после ужина.",
+      "meaning": "My stomach is just full after dinner.",
+      "audio": "8bd559dc0d9b74949034f034c44e80ef85949f902a94458a958cf0a559d9a922",
+      "id": "5531eb29cb90",
+      "priority": 1,
+      "group": "cd7132a251fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined"
+        },
+        {
+          "word": "stomach",
+          "definition": "undefined\nжелудок"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "just",
+          "definition": "undefined"
+        },
+        {
+          "word": "full",
+          "definition": "undefined"
+        },
+        {
+          "word": "after",
+          "definition": "undefined"
+        },
+        {
+          "word": "dinner.",
+          "definition": "undefined\nужин"
+        }
+      ],
+      "chips": [
+        "Мой",
+        "желудок",
+        "есть",
+        "просто",
+        "полный",
+        "после",
+        "ужина",
+        "полу",
+        "поле",
+        "полна",
+        "полей",
+        "пою",
+        "под"
+      ],
+      "solutions": [
+        [
+          "Мой",
+          "желудок",
+          "есть",
+          "просто",
+          "полный",
+          "после",
+          "ужина"
+        ]
+      ],
+      "formattedSolution": "Мой желудок есть просто полный после ужина.",
+      "id": "b9d2db77fe83",
+      "priority": 2,
+      "group": "cd7132a251fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мой",
+          "definition": "undefined"
+        },
+        {
+          "word": "желудок",
+          "definition": "stomach\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "просто",
+          "definition": "undefined"
+        },
+        {
+          "word": "полный",
+          "definition": "undefined"
+        },
+        {
+          "word": "после",
+          "definition": "undefined"
+        },
+        {
+          "word": "ужина.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "stomach",
+        "is",
+        "just",
+        "full",
+        "after",
+        "dinner",
+        "it",
+        "at",
+        "air",
+        "us",
+        "as",
+        "me"
+      ],
+      "solutions": [
+        [
+          "My",
+          "stomach",
+          "is",
+          "just",
+          "full",
+          "after",
+          "dinner"
+        ]
+      ],
+      "formattedSolution": "My stomach is just full after dinner.",
+      "id": "22a4054ecd58",
+      "priority": 2,
+      "group": "cd7132a251fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Телу надо отдыха.",
+      "meaningInSourceLanguage": "The body needs rest.",
+      "id": "23bd50d27de7",
+      "priority": 0,
+      "group": "0a9eae5332fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Телу надо отдыха.",
+      "meaning": "The body needs rest.",
+      "audio": "fe974e5d7533e5105e7c5391d012e310698ed3e9b0f3c7f486dac58e0d41ed2a",
+      "id": "90279ff08654",
+      "priority": 1,
+      "group": "0a9eae5332fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "body",
+          "definition": "undefined\nтело"
+        },
+        {
+          "word": "needs",
+          "definition": "undefined"
+        },
+        {
+          "word": "rest.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Телу",
+        "надо",
+        "отдыха",
+        "Надо",
+        "еду"
+      ],
+      "solutions": [
+        [
+          "Телу",
+          "надо",
+          "отдыха"
+        ]
+      ],
+      "formattedSolution": "Телу надо отдыха.",
+      "id": "2cffe350b195",
+      "priority": 2,
+      "group": "0a9eae5332fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Телу",
+          "definition": "undefined"
+        },
+        {
+          "word": "надо",
+          "definition": "undefined"
+        },
+        {
+          "word": "отдыха.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "body",
+        "needs",
+        "rest",
+        "red",
+        "bed",
+        "need"
+      ],
+      "solutions": [
+        [
+          "The",
+          "body",
+          "needs",
+          "rest"
+        ]
+      ],
+      "formattedSolution": "The body needs rest.",
+      "id": "236211a6c6c9",
+      "priority": 2,
+      "group": "0a9eae5332fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он имеет каштановые волосы на голове.",
+      "meaningInSourceLanguage": "He has chestnut-colored hair on his head.",
+      "id": "8feaa993c433",
+      "priority": 0,
+      "group": "38eb2702a457"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он имеет каштановые волосы на голове.",
+      "meaning": "He has chestnut-colored hair on his head.",
+      "audio": "e99435c517657c1dd0984bc5522154fb51c1871e72c1c6b838115eee918e6a1f",
+      "id": "03c24781fc5b",
+      "priority": 1,
+      "group": "38eb2702a457"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "chestnut-colored",
+          "definition": "undefined"
+        },
+        {
+          "word": "hair",
+          "definition": "undefined\nволосы"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "his",
+          "definition": "undefined"
+        },
+        {
+          "word": "head.",
+          "definition": "undefined\nголова"
+        }
+      ],
+      "chips": [
+        "Он",
+        "имеет",
+        "каштановые",
+        "волосы",
+        "на",
+        "голове",
+        "не",
+        "мне",
+        "но",
+        "Оно",
+        "то"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "имеет",
+          "каштановые",
+          "волосы",
+          "на",
+          "голове"
+        ]
+      ],
+      "formattedSolution": "Он имеет каштановые волосы на голове.",
+      "id": "287803fa6b10",
+      "priority": 2,
+      "group": "38eb2702a457"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "имеет",
+          "definition": "undefined"
+        },
+        {
+          "word": "каштановые",
+          "definition": "undefined"
+        },
+        {
+          "word": "волосы",
+          "definition": "hair\nundefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "голове.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "has",
+        "chestnut-colored",
+        "hair",
+        "on",
+        "his",
+        "head",
+        "her",
+        "had",
+        "he",
+        "hat",
+        "hear",
+        "as"
+      ],
+      "solutions": [
+        [
+          "He",
+          "has",
+          "chestnut-colored",
+          "hair",
+          "on",
+          "his",
+          "head"
+        ]
+      ],
+      "formattedSolution": "He has chestnut-colored hair on his head.",
+      "id": "a88959837c30",
+      "priority": 2,
+      "group": "38eb2702a457"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она слышит тебя только одним ухом.",
+      "meaningInSourceLanguage": "She hears you only with one ear.",
+      "id": "0df1b88fa0ce",
+      "priority": 0,
+      "group": "a43e07758bde"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она слышит тебя только одним ухом.",
+      "meaning": "She hears you only with one ear.",
+      "audio": "e0a7a56c9183c21e044ca7895d8d5919001db1e4141da8eabb3a4374da760da8",
+      "id": "7552f10854b8",
+      "priority": 1,
+      "group": "a43e07758bde"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "hears",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nвы\nты"
+        },
+        {
+          "word": "only",
+          "definition": "undefined"
+        },
+        {
+          "word": "with",
+          "definition": "undefined"
+        },
+        {
+          "word": "one",
+          "definition": "undefined\nодин (м)\nодна (ж)\nодно (с)"
+        },
+        {
+          "word": "ear.",
+          "definition": "undefined\nухо"
+        }
+      ],
+      "chips": [
+        "Она",
+        "слышит",
+        "тебя",
+        "только",
+        "одним",
+        "ухом",
+        "том",
+        "дом",
+        "Они",
+        "Оно",
+        "одна"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "слышит",
+          "тебя",
+          "только",
+          "одним",
+          "ухом"
+        ]
+      ],
+      "formattedSolution": "Она слышит тебя только одним ухом.",
+      "id": "293b32a555ef",
+      "priority": 2,
+      "group": "a43e07758bde"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "слышит",
+          "definition": "undefined"
+        },
+        {
+          "word": "тебя",
+          "definition": "undefined"
+        },
+        {
+          "word": "только",
+          "definition": "undefined"
+        },
+        {
+          "word": "одним",
+          "definition": "undefined"
+        },
+        {
+          "word": "ухом.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "hears",
+        "you",
+        "only",
+        "with",
+        "one",
+        "ear",
+        "are",
+        "the",
+        "her",
+        "our",
+        "on",
+        "eat"
+      ],
+      "solutions": [
+        [
+          "She",
+          "hears",
+          "you",
+          "only",
+          "with",
+          "one",
+          "ear"
+        ]
+      ],
+      "formattedSolution": "She hears you only with one ear.",
+      "id": "684f552a4108",
+      "priority": 2,
+      "group": "a43e07758bde"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "рука",
+      "meaningInSourceLanguage": "hand",
+      "id": "0f81c87a043e",
+      "priority": 0,
+      "group": "d7e73c280097"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "рука"
+      ],
+      "phrase": [
+        {
+          "word": "hand",
+          "definition": "undefined\nрука"
+        }
+      ],
+      "id": "c22a6c4da4ae",
+      "priority": 1,
+      "group": "d7e73c280097"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "рука",
+      "meaning": "hand",
+      "audio": "de6d75d7babbf652e1be5720f21667d1b97715d7d198a9e4eef647e5025ecf16",
+      "id": "a07de81efb88",
+      "priority": 1,
+      "group": "d7e73c280097"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "нога",
+      "meaningInSourceLanguage": "leg",
+      "id": "be801ac0d8ec",
+      "priority": 0,
+      "group": "239b0c2ff5c6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "нога"
+      ],
+      "phrase": [
+        {
+          "word": "leg",
+          "definition": "undefined\nнога"
+        }
+      ],
+      "id": "ad74df5850a2",
+      "priority": 1,
+      "group": "239b0c2ff5c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "нога",
+      "meaning": "leg",
+      "audio": "12e2c7678ca361debbb06a90295d359df795deb83fc471924f996220f097fdbe",
+      "id": "2039c7889df9",
+      "priority": 1,
+      "group": "239b0c2ff5c6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "голова",
+      "meaningInSourceLanguage": "head",
+      "id": "9c654a0c7a98",
+      "priority": 0,
+      "group": "07515c0b355c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "голова"
+      ],
+      "phrase": [
+        {
+          "word": "head",
+          "definition": "undefined\nголова"
+        }
+      ],
+      "id": "a4705d7f029f",
+      "priority": 1,
+      "group": "07515c0b355c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "голова",
+      "meaning": "head",
+      "audio": "e29918b119a8bd17ef5c06eeee476968c994dcd34767c3c60b3720a8cc2dd9f6",
+      "id": "85cd02e8361b",
+      "priority": 1,
+      "group": "07515c0b355c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "глаз",
+      "meaningInSourceLanguage": "eye",
+      "id": "eb7221a450e5",
+      "priority": 0,
+      "group": "2e551ee3fa4c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "глаз"
+      ],
+      "phrase": [
+        {
+          "word": "eye",
+          "definition": "undefined\nглаз"
+        }
+      ],
+      "id": "b8de7995f4e9",
+      "priority": 1,
+      "group": "2e551ee3fa4c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "глаз",
+      "meaning": "eye",
+      "audio": "e0ab1fc59dfff81246bf4506c96194dc0288d52cecf1da2296d6c964ceaf0eed",
+      "id": "b4858b5d9c74",
+      "priority": 1,
+      "group": "2e551ee3fa4c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "мозг",
+      "meaningInSourceLanguage": "brain",
+      "id": "e38fd295fa5d",
+      "priority": 0,
+      "group": "1c37cddb2184"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "мозг"
+      ],
+      "phrase": [
+        {
+          "word": "brain",
+          "definition": "undefined\nмозг"
+        }
+      ],
+      "id": "1f95c0ade9c3",
+      "priority": 1,
+      "group": "1c37cddb2184"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "мозг",
+      "meaning": "brain",
+      "audio": "e9fac1ec8e93987a7e1590fe8080a40531dd4aca5e006258f49bb9e28912435b",
+      "id": "6e4486b5ca37",
+      "priority": 1,
+      "group": "1c37cddb2184"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "стопа",
+      "meaningInSourceLanguage": "foot",
+      "id": "3961cb1e404a",
+      "priority": 0,
+      "group": "375ae9cb5a60"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "стопа"
+      ],
+      "phrase": [
+        {
+          "word": "foot",
+          "definition": "undefined\nстопа"
+        }
+      ],
+      "id": "e14890b4fc9a",
+      "priority": 1,
+      "group": "375ae9cb5a60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "стопа",
+      "meaning": "foot",
+      "audio": "575441a814230a094d74af8e513be70f0d7d02ae542a5bd2e5eab25d70c3d0eb",
+      "id": "62f679701cb5",
+      "priority": 1,
+      "group": "375ae9cb5a60"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ухо",
+      "meaningInSourceLanguage": "ear",
+      "id": "a19cfaf93f7f",
+      "priority": 0,
+      "group": "1011190dae47"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ухо"
+      ],
+      "phrase": [
+        {
+          "word": "ear",
+          "definition": "undefined\nухо"
+        }
+      ],
+      "id": "2e6d2c8f1ccd",
+      "priority": 1,
+      "group": "1011190dae47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ухо",
+      "meaning": "ear",
+      "audio": "b8e48bb7b714dbf1a57260bd34846c93f05ca7432273c0d70a3310e15c3f3140",
+      "id": "d9e02088c191",
+      "priority": 1,
+      "group": "1011190dae47"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "нос",
+      "meaningInSourceLanguage": "nose",
+      "id": "a5413ab35a4f",
+      "priority": 0,
+      "group": "1566e8c5c1a0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "нос"
+      ],
+      "phrase": [
+        {
+          "word": "nose",
+          "definition": "undefined\nнос"
+        }
+      ],
+      "id": "8deef1f0e0c1",
+      "priority": 1,
+      "group": "1566e8c5c1a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "нос",
+      "meaning": "nose",
+      "audio": "36b0ff582c90207bfa3a8834567dba0aabefacd08ac9862af8a51a84668b449c",
+      "id": "f617fc5cd9fe",
+      "priority": 1,
+      "group": "1566e8c5c1a0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "лицо",
+      "meaningInSourceLanguage": "face",
+      "id": "1777a5873657",
+      "priority": 0,
+      "group": "499e5154a2a2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "лицо"
+      ],
+      "phrase": [
+        {
+          "word": "face",
+          "definition": "undefined\nлицо"
+        }
+      ],
+      "id": "099765f33abc",
+      "priority": 1,
+      "group": "499e5154a2a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "лицо",
+      "meaning": "face",
+      "audio": "c9f49eb81a679f240f86b6cc57f0f7335430581230c532e71f39fd5b50a203f3",
+      "id": "ef43f96db1a7",
+      "priority": 1,
+      "group": "499e5154a2a2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "сердце",
+      "meaningInSourceLanguage": "heart",
+      "id": "88f0eb7b159c",
+      "priority": 0,
+      "group": "5934704f8d81"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "сердце"
+      ],
+      "phrase": [
+        {
+          "word": "heart",
+          "definition": "undefined\nсердце"
+        }
+      ],
+      "id": "f284a10eaa1a",
+      "priority": 1,
+      "group": "5934704f8d81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "сердце",
+      "meaning": "heart",
+      "audio": "3e44a337c9fe6e883c86e6515ebce39f9607b4049a3edb2f42a0b3d112b50207",
+      "id": "cf159ff4e943",
+      "priority": 1,
+      "group": "5934704f8d81"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "палец",
+      "meaningInSourceLanguage": "finger",
+      "id": "84af4d590d25",
+      "priority": 0,
+      "group": "6717baa233da"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "палец"
+      ],
+      "phrase": [
+        {
+          "word": "finger",
+          "definition": "undefined\nпалец"
+        }
+      ],
+      "id": "a0a9f9ac2ca5",
+      "priority": 1,
+      "group": "6717baa233da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "палец",
+      "meaning": "finger",
+      "audio": "6cd7bca29aca15493d895d2b4fb304b210bc0ef66faf090f8b42673a886bc075",
+      "id": "42cd70790a8f",
+      "priority": 1,
+      "group": "6717baa233da"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "желудок",
+      "meaningInSourceLanguage": "stomach",
+      "id": "040aeb43308b",
+      "priority": 0,
+      "group": "ca9cd7c37af4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "желудок"
+      ],
+      "phrase": [
+        {
+          "word": "stomach",
+          "definition": "undefined\nжелудок"
+        }
+      ],
+      "id": "947d57ffe12e",
+      "priority": 1,
+      "group": "ca9cd7c37af4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "желудок",
+      "meaning": "stomach",
+      "audio": "fcbb0770927c110b6f23a984140cb816b47d6d9c8f6c37074e8d484ad6f3d428",
+      "id": "fd83af403c23",
+      "priority": 1,
+      "group": "ca9cd7c37af4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "тело",
+      "meaningInSourceLanguage": "body",
+      "id": "a00866bedfef",
+      "priority": 0,
+      "group": "722ab3d9b40d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "тело"
+      ],
+      "phrase": [
+        {
+          "word": "body",
+          "definition": "undefined\nтело"
+        }
+      ],
+      "id": "eb341e31e15d",
+      "priority": 1,
+      "group": "722ab3d9b40d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "тело",
+      "meaning": "body",
+      "audio": "774596bea5913b3e6eb838556559ce1868b11d0625a617f63dd8bb2aecb3418d",
+      "id": "9f8252d7eab6",
+      "priority": 1,
+      "group": "722ab3d9b40d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "болеть (болит)",
+      "meaningInSourceLanguage": "to hurt",
+      "id": "696b11e83bbe",
+      "priority": 0,
+      "group": "dcb8942f3ae2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "болеть (болит)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "hurt",
+          "definition": "undefined"
+        }
+      ],
+      "id": "d554a7e018a1",
+      "priority": 1,
+      "group": "dcb8942f3ae2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "болеть (болит)",
+      "meaning": "to hurt",
+      "audio": "3eb70e97c7aed0d99f59e78fb027fecb312e98506db64c4849644a019687a84f",
+      "id": "5a33f3f210f7",
+      "priority": 1,
+      "group": "dcb8942f3ae2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "волосы",
+      "meaningInSourceLanguage": "hair",
+      "id": "8dd96cfd6aa7",
+      "priority": 0,
+      "group": "10a8980697f0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "волосы"
+      ],
+      "phrase": [
+        {
+          "word": "hair",
+          "definition": "undefined\nволосы"
+        }
+      ],
+      "id": "5a0b80f1dcdd",
+      "priority": 1,
+      "group": "10a8980697f0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "волосы",
+      "meaning": "hair",
+      "audio": "cd55dbe89c0d52e86073bc76d442171ddcc42837d03193a058cbcad7051f959e",
+      "id": "87bdf403452a",
+      "priority": 1,
+      "group": "10a8980697f0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "подобный",
+      "meaningInSourceLanguage": "similar",
+      "id": "b4ebcb95f4f7",
+      "priority": 0,
+      "group": "fc1bf80154df"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "подобный"
+      ],
+      "phrase": [
+        {
+          "word": "similar",
+          "definition": "undefined\nподобный"
+        }
+      ],
+      "id": "dd5658f3b645",
+      "priority": 1,
+      "group": "fc1bf80154df"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "подобный",
+      "meaning": "similar",
+      "audio": "9d5f38849b227827fa4c1e102b69cb5bc4289912c6b138ca86ea8e4c9a4677f7",
+      "id": "bf00cd61131c",
+      "priority": 1,
+      "group": "fc1bf80154df"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "слышать (слышит)",
+      "meaningInSourceLanguage": "to hear",
+      "id": "0c5a4e5098a0",
+      "priority": 0,
+      "group": "362f5639a033"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "слышать (слышит)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "hear",
+          "definition": "undefined"
+        }
+      ],
+      "id": "037b200e7df9",
+      "priority": 1,
+      "group": "362f5639a033"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "слышать (слышит)",
+      "meaning": "to hear",
+      "audio": "29ca1bd2a89b3e68140ce09002ec3640bf7e22f10eb4ca2b0b8ddbf76a34f9b2",
+      "id": "0bd1d21d205d",
+      "priority": 1,
+      "group": "362f5639a033"
+    }
+  ]
+}

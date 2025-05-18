@@ -1,0 +1,2753 @@
+{
+  "id": "e3b95a96a7dc",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Avto stoji na ulici.",
+      "meaningInSourceLanguage": "The car is standing on the street.",
+      "id": "bfc24cfd7c46",
+      "priority": 0,
+      "group": "eaa8139b0a98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Avto stoji na ulici.",
+      "meaning": "The car is standing on the street.",
+      "audio": "b1c1b59ff415056bf5907360e97bce39076ce41c50dbbefda6af7a2f9b4e62de",
+      "id": "7eb38c9e0c57",
+      "priority": 1,
+      "group": "eaa8139b0a98"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "car",
+          "definition": "avto\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "standing",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "na\nundefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "street.",
+          "definition": "ulica\nundefined"
+        }
+      ],
+      "chips": [
+        "Avto",
+        "stoji",
+        "na",
+        "ulici",
+        "ti",
+        "sto",
+        "so"
+      ],
+      "solutions": [
+        [
+          "Avto",
+          "stoji",
+          "na",
+          "ulici"
+        ]
+      ],
+      "formattedSolution": "Avto stoji na ulici.",
+      "id": "e92052901b23",
+      "priority": 2,
+      "group": "eaa8139b0a98"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Avto",
+          "definition": "car\nundefined"
+        },
+        {
+          "word": "stoji",
+          "definition": "undefined"
+        },
+        {
+          "word": "na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "ulici.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "car",
+        "is",
+        "standing",
+        "on",
+        "the",
+        "street",
+        "are",
+        "in",
+        "an",
+        "see",
+        "ten",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "car",
+          "is",
+          "standing",
+          "on",
+          "the",
+          "street"
+        ]
+      ],
+      "formattedSolution": "The car is standing on the street.",
+      "id": "e79f24c58ae1",
+      "priority": 2,
+      "group": "eaa8139b0a98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Avtobus vozi do centra.",
+      "meaningInSourceLanguage": "The bus goes to the center.",
+      "id": "6529b6af9fe6",
+      "priority": 0,
+      "group": "a28ae62a8134"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Avtobus vozi do centra.",
+      "meaning": "The bus goes to the center.",
+      "audio": "a9e853950651422d8761700479e490c438ab06049c64f94181953e6ca012fe4c",
+      "id": "a4d8266c41ce",
+      "priority": 1,
+      "group": "a28ae62a8134"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bus",
+          "definition": "avtobus\nundefined"
+        },
+        {
+          "word": "goes",
+          "definition": "gre\nundefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "center.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Avtobus",
+        "vozi",
+        "do",
+        "centra",
+        "vodo",
+        "vonj",
+        "vodi"
+      ],
+      "solutions": [
+        [
+          "Avtobus",
+          "vozi",
+          "do",
+          "centra"
+        ]
+      ],
+      "formattedSolution": "Avtobus vozi do centra.",
+      "id": "efecce7d54dd",
+      "priority": 2,
+      "group": "a28ae62a8134"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Avtobus",
+          "definition": "bus\nundefined"
+        },
+        {
+          "word": "vozi",
+          "definition": "undefined"
+        },
+        {
+          "word": "do",
+          "definition": "undefined"
+        },
+        {
+          "word": "centra.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bus",
+        "goes",
+        "to",
+        "the",
+        "center",
+        "She",
+        "be",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bus",
+          "goes",
+          "to",
+          "the",
+          "center"
+        ]
+      ],
+      "formattedSolution": "The bus goes to the center.",
+      "id": "fef010eeb71a",
+      "priority": 2,
+      "group": "a28ae62a8134"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vlak vozi na postajo.",
+      "meaningInSourceLanguage": "The train goes to the station.",
+      "id": "8f80a23bfa67",
+      "priority": 0,
+      "group": "65f9b011c5da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Vlak vozi na postajo.",
+      "meaning": "The train goes to the station.",
+      "audio": "d73eba93ba2ea311aaf021a8503e6b0fbb8955d5a1c2a633374f05f6f1771660",
+      "id": "7c7115b81029",
+      "priority": 1,
+      "group": "65f9b011c5da"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "train",
+          "definition": "undefined\nvlak"
+        },
+        {
+          "word": "goes",
+          "definition": "gre\nundefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "station.",
+          "definition": "postaja\nundefined"
+        }
+      ],
+      "chips": [
+        "Vlak",
+        "vozi",
+        "na",
+        "postajo",
+        "za",
+        "vsak",
+        "sta"
+      ],
+      "solutions": [
+        [
+          "Vlak",
+          "vozi",
+          "na",
+          "postajo"
+        ]
+      ],
+      "formattedSolution": "Vlak vozi na postajo.",
+      "id": "31ca3670a511",
+      "priority": 2,
+      "group": "65f9b011c5da"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vlak",
+          "definition": "train\nundefined"
+        },
+        {
+          "word": "vozi",
+          "definition": "undefined"
+        },
+        {
+          "word": "na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "postajo.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "train",
+        "goes",
+        "to",
+        "the",
+        "station",
+        "then",
+        "too",
+        "ten",
+        "thin",
+        "tea"
+      ],
+      "solutions": [
+        [
+          "The",
+          "train",
+          "goes",
+          "to",
+          "the",
+          "station"
+        ]
+      ],
+      "formattedSolution": "The train goes to the station.",
+      "id": "5018ebdc46ba",
+      "priority": 2,
+      "group": "65f9b011c5da"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tu je sedenje. Možno je sesti",
+      "meaningInSourceLanguage": "Here is a seat. One can sit.",
+      "id": "14560a55c822",
+      "priority": 0,
+      "group": "0c1eda2bb66c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tu je sedenje. Možno je sesti",
+      "meaning": "Here is a seat. One can sit.",
+      "audio": "b709b566e42640eba500e5ab3fafcd9db8222868f97447ef59ebde4f276584fc",
+      "id": "78d5ca1315ea",
+      "priority": 1,
+      "group": "0c1eda2bb66c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Here",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "seat.",
+          "definition": "undefined"
+        },
+        {
+          "word": "One",
+          "definition": "ena\neno\nundefined"
+        },
+        {
+          "word": "can",
+          "definition": "undefined"
+        },
+        {
+          "word": "sit.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Tu",
+        "je",
+        "sedenje",
+        "Možno",
+        "je",
+        "sesti",
+        "ne",
+        "se",
+        "že",
+        "Te",
+        "Je"
+      ],
+      "solutions": [
+        [
+          "Tu",
+          "je",
+          "sedenje",
+          "Možno",
+          "je",
+          "sesti"
+        ]
+      ],
+      "formattedSolution": "Tu je sedenje. Možno je sesti",
+      "id": "dbb6f33cf416",
+      "priority": 2,
+      "group": "0c1eda2bb66c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Tu",
+          "definition": "undefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "sedenje.",
+          "definition": "undefined"
+        },
+        {
+          "word": "Možno",
+          "definition": "possible\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "sesti",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Here",
+        "is",
+        "a",
+        "seat",
+        "One",
+        "can",
+        "sit",
+        "at",
+        "an",
+        "eat",
+        "He",
+        "it",
+        "in"
+      ],
+      "solutions": [
+        [
+          "Here",
+          "is",
+          "a",
+          "seat",
+          "One",
+          "can",
+          "sit"
+        ]
+      ],
+      "formattedSolution": "Here is a seat. One can sit.",
+      "id": "930f2439c868",
+      "priority": 2,
+      "group": "0c1eda2bb66c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Postaja je velika.",
+      "meaningInSourceLanguage": "The station is big.",
+      "id": "cac9a8321c1f",
+      "priority": 0,
+      "group": "8be09143c59e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Postaja je velika.",
+      "meaning": "The station is big.",
+      "audio": "1badac80b2e4502258e1fcd1b7d0e0912dc69c28678c18ee019da01ed763cf35",
+      "id": "24f33307a768",
+      "priority": 1,
+      "group": "8be09143c59e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "station",
+          "definition": "postaja\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "big.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Postaja",
+        "je",
+        "velika",
+        "moja",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Postaja",
+          "je",
+          "velika"
+        ]
+      ],
+      "formattedSolution": "Postaja je velika.",
+      "id": "7d583ecfb0df",
+      "priority": 2,
+      "group": "8be09143c59e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Postaja",
+          "definition": "station\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "velika.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "station",
+        "is",
+        "big",
+        "in",
+        "it",
+        "his"
+      ],
+      "solutions": [
+        [
+          "The",
+          "station",
+          "is",
+          "big"
+        ]
+      ],
+      "formattedSolution": "The station is big.",
+      "id": "685d82ed5ce2",
+      "priority": 2,
+      "group": "8be09143c59e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Šofer vozi hitro.",
+      "meaningInSourceLanguage": "The driver drives fast.",
+      "id": "38fa4b3aa590",
+      "priority": 0,
+      "group": "de06d05c182a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Šofer vozi hitro.",
+      "meaning": "The driver drives fast.",
+      "audio": "27fdf52e6ce892b795bc7953b20500dae0c1af32c4534064c40232d3160160f6",
+      "id": "11bb3a496705",
+      "priority": 1,
+      "group": "de06d05c182a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "driver",
+          "definition": "undefined\nšofer"
+        },
+        {
+          "word": "drives",
+          "definition": "undefined"
+        },
+        {
+          "word": "fast.",
+          "definition": "hitro\nundefined"
+        }
+      ],
+      "chips": [
+        "Šofer",
+        "vozi",
+        "hitro",
+        "vode",
+        "vodo"
+      ],
+      "solutions": [
+        [
+          "Šofer",
+          "vozi",
+          "hitro"
+        ]
+      ],
+      "formattedSolution": "Šofer vozi hitro.",
+      "id": "2afee013200a",
+      "priority": 2,
+      "group": "de06d05c182a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Šofer",
+          "definition": "driver\nundefined"
+        },
+        {
+          "word": "vozi",
+          "definition": "undefined"
+        },
+        {
+          "word": "hitro.",
+          "definition": "fast\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "driver",
+        "drives",
+        "fast",
+        "river",
+        "five",
+        "are"
+      ],
+      "solutions": [
+        [
+          "The",
+          "driver",
+          "drives",
+          "fast"
+        ]
+      ],
+      "formattedSolution": "The driver drives fast.",
+      "id": "b099d26b87c8",
+      "priority": 2,
+      "group": "de06d05c182a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Cesta gre čez gozd.",
+      "meaningInSourceLanguage": "The road goes through the forest.",
+      "id": "8ee006d0c9e1",
+      "priority": 0,
+      "group": "f3f95fda9962"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Cesta gre čez gozd.",
+      "meaning": "The road goes through the forest.",
+      "audio": "ff9c3a70a3645cd70e0e0f6462c46e6ae5b37515cf0c61adf3b13be08355ec6b",
+      "id": "05e62262200f",
+      "priority": 1,
+      "group": "f3f95fda9962"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "road",
+          "definition": "cesta\nundefined"
+        },
+        {
+          "word": "goes",
+          "definition": "gre\nundefined"
+        },
+        {
+          "word": "through",
+          "definition": "undefined\nčez"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "forest.",
+          "definition": "gozd\nundefined"
+        }
+      ],
+      "chips": [
+        "Cesta",
+        "gre",
+        "čez",
+        "gozd",
+        "grd",
+        "je",
+        "ne"
+      ],
+      "solutions": [
+        [
+          "Cesta",
+          "gre",
+          "čez",
+          "gozd"
+        ]
+      ],
+      "formattedSolution": "Cesta gre čez gozd.",
+      "id": "0dabe6766c00",
+      "priority": 2,
+      "group": "f3f95fda9962"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Cesta",
+          "definition": "road\nundefined"
+        },
+        {
+          "word": "gre",
+          "definition": "goes\nundefined"
+        },
+        {
+          "word": "čez",
+          "definition": "through\nundefined"
+        },
+        {
+          "word": "gozd.",
+          "definition": "forest\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "road",
+        "goes",
+        "through",
+        "the",
+        "forest",
+        "does",
+        "She",
+        "rose",
+        "then",
+        "them"
+      ],
+      "solutions": [
+        [
+          "The",
+          "road",
+          "goes",
+          "through",
+          "the",
+          "forest"
+        ]
+      ],
+      "formattedSolution": "The road goes through the forest.",
+      "id": "4f0c327074b6",
+      "priority": 2,
+      "group": "f3f95fda9962"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Most povezuje dve mesti.",
+      "meaningInSourceLanguage": "The bridge connects two cities.",
+      "id": "6fabab15cbd6",
+      "priority": 0,
+      "group": "90fce3a97245"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Most povezuje dve mesti.",
+      "meaning": "The bridge connects two cities.",
+      "audio": "1c5f4d908f5f39d0ca650ed07656f06d8dd4746b18419d6c2fba84c9b0c786fe",
+      "id": "ce1aa6e203de",
+      "priority": 1,
+      "group": "90fce3a97245"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bridge",
+          "definition": "most\nundefined"
+        },
+        {
+          "word": "connects",
+          "definition": "undefined"
+        },
+        {
+          "word": "two",
+          "definition": "dva\ndve\nundefined"
+        },
+        {
+          "word": "cities.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Most",
+        "povezuje",
+        "dve",
+        "mesti",
+        "pove",
+        "moje",
+        "dete"
+      ],
+      "solutions": [
+        [
+          "Most",
+          "povezuje",
+          "dve",
+          "mesti"
+        ]
+      ],
+      "formattedSolution": "Most povezuje dve mesti.",
+      "id": "0734ec826006",
+      "priority": 2,
+      "group": "90fce3a97245"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Most",
+          "definition": "bridge\nundefined"
+        },
+        {
+          "word": "povezuje",
+          "definition": "undefined"
+        },
+        {
+          "word": "dve",
+          "definition": "two\nundefined"
+        },
+        {
+          "word": "mesti.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bridge",
+        "connects",
+        "two",
+        "cities",
+        "the",
+        "She",
+        "are",
+        "does"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bridge",
+          "connects",
+          "two",
+          "cities"
+        ]
+      ],
+      "formattedSolution": "The bridge connects two cities.",
+      "id": "72e11d08a9d6",
+      "priority": 2,
+      "group": "90fce3a97245"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Hitrost je pomembna za varnost na ulici.",
+      "meaningInSourceLanguage": "A speed limit is important for the security on the street.",
+      "id": "40909ce8c32f",
+      "priority": 0,
+      "group": "cec5b0b56523"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Hitrost je pomembna za varnost na ulici.",
+      "meaning": "A speed limit is important for the security on the street.",
+      "audio": "4d5603da446041a5938607ae1dea734b2012421b7e9df98527506b7405b9ee2d",
+      "id": "55b038ae7c2c",
+      "priority": 1,
+      "group": "cec5b0b56523"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "speed",
+          "definition": "hitrost\nundefined"
+        },
+        {
+          "word": "limit",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "important",
+          "definition": "undefined"
+        },
+        {
+          "word": "for",
+          "definition": "undefined\nza"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "security",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "na\nundefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "street.",
+          "definition": "ulica\nundefined"
+        }
+      ],
+      "chips": [
+        "Hitrost",
+        "je",
+        "pomembna",
+        "za",
+        "varnost",
+        "na",
+        "ulici",
+        "ni",
+        "Ta",
+        "ne",
+        "Na",
+        "Da",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Hitrost",
+          "je",
+          "pomembna",
+          "za",
+          "varnost",
+          "na",
+          "ulici"
+        ]
+      ],
+      "formattedSolution": "Hitrost je pomembna za varnost na ulici.",
+      "id": "b0bc5004079c",
+      "priority": 2,
+      "group": "cec5b0b56523"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Hitrost",
+          "definition": "speed\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "pomembna",
+          "definition": "undefined"
+        },
+        {
+          "word": "za",
+          "definition": "for\nundefined"
+        },
+        {
+          "word": "varnost",
+          "definition": "undefined"
+        },
+        {
+          "word": "na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "ulici.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "speed",
+        "limit",
+        "is",
+        "important",
+        "for",
+        "the",
+        "security",
+        "on",
+        "the",
+        "street",
+        "it",
+        "me",
+        "see",
+        "or",
+        "sit",
+        "in",
+        "pot",
+        "ten",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "A",
+          "speed",
+          "limit",
+          "is",
+          "important",
+          "for",
+          "the",
+          "security",
+          "on",
+          "the",
+          "street"
+        ]
+      ],
+      "formattedSolution": "A speed limit is important for the security on the street.",
+      "id": "76fde9ed60dc",
+      "priority": 2,
+      "group": "cec5b0b56523"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Semafor kaže rdečo.",
+      "meaningInSourceLanguage": "The traffic light shows red.",
+      "id": "72c8760bb607",
+      "priority": 0,
+      "group": "7db861cd7561"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Semafor kaže rdečo.",
+      "meaning": "The traffic light shows red.",
+      "audio": "945e6def53c58c374225a129185b7fab181c07086a59f0818d94917233457655",
+      "id": "de5949b16b2d",
+      "priority": 1,
+      "group": "7db861cd7561"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "traffic",
+          "definition": "undefined"
+        },
+        {
+          "word": "light",
+          "definition": "svetel\nundefined"
+        },
+        {
+          "word": "shows",
+          "definition": "undefined"
+        },
+        {
+          "word": "red.",
+          "definition": "rdeč\nundefined"
+        }
+      ],
+      "chips": [
+        "Semafor",
+        "kaže",
+        "rdečo",
+        "jemo",
+        "dajo"
+      ],
+      "solutions": [
+        [
+          "Semafor",
+          "kaže",
+          "rdečo"
+        ]
+      ],
+      "formattedSolution": "Semafor kaže rdečo.",
+      "id": "64c111917e73",
+      "priority": 2,
+      "group": "7db861cd7561"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Semafor",
+          "definition": "traffic light\nundefined"
+        },
+        {
+          "word": "kaže",
+          "definition": "undefined"
+        },
+        {
+          "word": "rdečo.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "traffic",
+        "light",
+        "shows",
+        "red",
+        "the",
+        "She",
+        "Who",
+        "his"
+      ],
+      "solutions": [
+        [
+          "The",
+          "traffic",
+          "light",
+          "shows",
+          "red"
+        ]
+      ],
+      "formattedSolution": "The traffic light shows red.",
+      "id": "ef19380a4be5",
+      "priority": 2,
+      "group": "7db861cd7561"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Avto je nov in lep.",
+      "meaningInSourceLanguage": "The car is new and beautiful.",
+      "id": "da1d18f47b56",
+      "priority": 0,
+      "group": "f708b0445dee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Avto je nov in lep.",
+      "meaning": "The car is new and beautiful.",
+      "audio": "55d7e55b84fbdb380f8befa5154914607922ce6fd10059e412a9ee91ba09086c",
+      "id": "caccc13e0d0f",
+      "priority": 1,
+      "group": "f708b0445dee"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "car",
+          "definition": "avto\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "new",
+          "definition": "undefined"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "beautiful.",
+          "definition": "lep\nundefined"
+        }
+      ],
+      "chips": [
+        "Avto",
+        "je",
+        "nov",
+        "in",
+        "lep",
+        "ne",
+        "ve",
+        "To",
+        "so"
+      ],
+      "solutions": [
+        [
+          "Avto",
+          "je",
+          "nov",
+          "in",
+          "lep"
+        ]
+      ],
+      "formattedSolution": "Avto je nov in lep.",
+      "id": "304f479a93e3",
+      "priority": 2,
+      "group": "f708b0445dee"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Avto",
+          "definition": "car\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "nov",
+          "definition": "undefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "lep.",
+          "definition": "beautiful\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "car",
+        "is",
+        "new",
+        "and",
+        "beautiful",
+        "at",
+        "an",
+        "air",
+        "be",
+        "as"
+      ],
+      "solutions": [
+        [
+          "The",
+          "car",
+          "is",
+          "new",
+          "and",
+          "beautiful"
+        ]
+      ],
+      "formattedSolution": "The car is new and beautiful.",
+      "id": "a079128e1914",
+      "priority": 2,
+      "group": "f708b0445dee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Avtobus vozi veliko ljudi.",
+      "meaningInSourceLanguage": "The bus carries many people.",
+      "id": "69b8cf6bc33a",
+      "priority": 0,
+      "group": "3f69bc35a784"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Avtobus vozi veliko ljudi.",
+      "meaning": "The bus carries many people.",
+      "audio": "bcff55a32cc61dc75c6167e35c3cbac666c2187161aa761dfcaf7a33d5b60d0b",
+      "id": "f1894d48fce6",
+      "priority": 1,
+      "group": "3f69bc35a784"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bus",
+          "definition": "avtobus\nundefined"
+        },
+        {
+          "word": "carries",
+          "definition": "undefined"
+        },
+        {
+          "word": "many",
+          "definition": "undefined"
+        },
+        {
+          "word": "people.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Avtobus",
+        "vozi",
+        "veliko",
+        "ljudi",
+        "vodi",
+        "velik",
+        "vodo"
+      ],
+      "solutions": [
+        [
+          "Avtobus",
+          "vozi",
+          "veliko",
+          "ljudi"
+        ]
+      ],
+      "formattedSolution": "Avtobus vozi veliko ljudi.",
+      "id": "818e5250b717",
+      "priority": 2,
+      "group": "3f69bc35a784"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Avtobus",
+          "definition": "bus\nundefined"
+        },
+        {
+          "word": "vozi",
+          "definition": "undefined"
+        },
+        {
+          "word": "veliko",
+          "definition": "undefined"
+        },
+        {
+          "word": "ljudi.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bus",
+        "carries",
+        "many",
+        "people",
+        "are",
+        "age",
+        "She",
+        "man"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bus",
+          "carries",
+          "many",
+          "people"
+        ]
+      ],
+      "formattedSolution": "The bus carries many people.",
+      "id": "d9ff177b57ea",
+      "priority": 2,
+      "group": "3f69bc35a784"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vlak vozi na sever.",
+      "meaningInSourceLanguage": "The train goes to the north.",
+      "id": "6bf59b7b5074",
+      "priority": 0,
+      "group": "a61dfa10b69e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Vlak vozi na sever.",
+      "meaning": "The train goes to the north.",
+      "audio": "14b11fd4979c79084bb1f01f9c262351e195a9e5f3ab4c8608405bfcbff71369",
+      "id": "cd33b1b50d17",
+      "priority": 1,
+      "group": "a61dfa10b69e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "train",
+          "definition": "undefined\nvlak"
+        },
+        {
+          "word": "goes",
+          "definition": "gre\nundefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "north.",
+          "definition": "sever\nundefined"
+        }
+      ],
+      "chips": [
+        "Vlak",
+        "vozi",
+        "na",
+        "sever",
+        "za",
+        "ve",
+        "vas"
+      ],
+      "solutions": [
+        [
+          "Vlak",
+          "vozi",
+          "na",
+          "sever"
+        ]
+      ],
+      "formattedSolution": "Vlak vozi na sever.",
+      "id": "d95f25ebc176",
+      "priority": 2,
+      "group": "a61dfa10b69e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vlak",
+          "definition": "train\nundefined"
+        },
+        {
+          "word": "vozi",
+          "definition": "undefined"
+        },
+        {
+          "word": "na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "sever.",
+          "definition": "north\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "train",
+        "goes",
+        "to",
+        "the",
+        "north",
+        "too",
+        "then",
+        "She",
+        "are",
+        "not"
+      ],
+      "solutions": [
+        [
+          "The",
+          "train",
+          "goes",
+          "to",
+          "the",
+          "north"
+        ]
+      ],
+      "formattedSolution": "The train goes to the north.",
+      "id": "f9acd987dd94",
+      "priority": 2,
+      "group": "a61dfa10b69e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kolo je razbito.",
+      "meaningInSourceLanguage": "The bicycle is broken.",
+      "id": "edfd5a496f23",
+      "priority": 0,
+      "group": "d9c254372c0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Kolo je razbito.",
+      "meaning": "The bicycle is broken.",
+      "audio": "a519c5d9571d16f7e96e0b71c3603e772be9b4ee6e7c00834830afb692e22578",
+      "id": "8c591bf14d07",
+      "priority": 1,
+      "group": "d9c254372c0b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bicycle",
+          "definition": "kolo\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "broken.",
+          "definition": "razbit\nundefined"
+        }
+      ],
+      "chips": [
+        "Kolo",
+        "je",
+        "razbito",
+        "zelo",
+        "belo"
+      ],
+      "solutions": [
+        [
+          "Kolo",
+          "je",
+          "razbito"
+        ]
+      ],
+      "formattedSolution": "Kolo je razbito.",
+      "id": "2b793a59aa8c",
+      "priority": 2,
+      "group": "d9c254372c0b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kolo",
+          "definition": "bicycle\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "razbito.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bicycle",
+        "is",
+        "broken",
+        "be",
+        "wise",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bicycle",
+          "is",
+          "broken"
+        ]
+      ],
+      "formattedSolution": "The bicycle is broken.",
+      "id": "bdbba82298cb",
+      "priority": 2,
+      "group": "d9c254372c0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Postaja je odprta.",
+      "meaningInSourceLanguage": "The station is open.",
+      "id": "ab506d7b660a",
+      "priority": 0,
+      "group": "963f8e02aac5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Postaja je odprta.",
+      "meaning": "The station is open.",
+      "audio": "374777cd340e853ccfd7b752f520f253909bf979dfce0c91e7bf79fcec6360ab",
+      "id": "fb1392962924",
+      "priority": 1,
+      "group": "963f8e02aac5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "station",
+          "definition": "postaja\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "open.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Postaja",
+        "je",
+        "odprta",
+        "sta",
+        "peta"
+      ],
+      "solutions": [
+        [
+          "Postaja",
+          "je",
+          "odprta"
+        ]
+      ],
+      "formattedSolution": "Postaja je odprta.",
+      "id": "fd40723c2dde",
+      "priority": 2,
+      "group": "963f8e02aac5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Postaja",
+          "definition": "station\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "odprta.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "station",
+        "is",
+        "open",
+        "in",
+        "on",
+        "the"
+      ],
+      "solutions": [
+        [
+          "The",
+          "station",
+          "is",
+          "open"
+        ]
+      ],
+      "formattedSolution": "The station is open.",
+      "id": "7bc7789543b6",
+      "priority": 2,
+      "group": "963f8e02aac5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Šofer je previden.",
+      "meaningInSourceLanguage": "The driver is careful.",
+      "id": "700d19c96482",
+      "priority": 0,
+      "group": "3e9ef955d314"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Šofer je previden.",
+      "meaning": "The driver is careful.",
+      "audio": "9fe530dfa03b965670bde74bb92ba327d105c52ce69b5aeb7780559d8190fd37",
+      "id": "f17dd190c2d1",
+      "priority": 1,
+      "group": "3e9ef955d314"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "driver",
+          "definition": "undefined\nšofer"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "careful.",
+          "definition": "previden\nundefined"
+        }
+      ],
+      "chips": [
+        "Šofer",
+        "je",
+        "previden",
+        "poje",
+        "jed"
+      ],
+      "solutions": [
+        [
+          "Šofer",
+          "je",
+          "previden"
+        ]
+      ],
+      "formattedSolution": "Šofer je previden.",
+      "id": "05290cd0154c",
+      "priority": 2,
+      "group": "3e9ef955d314"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Šofer",
+          "definition": "driver\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "previden.",
+          "definition": "careful\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "driver",
+        "is",
+        "careful",
+        "are",
+        "wise",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "driver",
+          "is",
+          "careful"
+        ]
+      ],
+      "formattedSolution": "The driver is careful.",
+      "id": "7eb738c9f5f5",
+      "priority": 2,
+      "group": "3e9ef955d314"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Cesta je široka.",
+      "meaningInSourceLanguage": "The road is wide.",
+      "id": "3d5f015e5e47",
+      "priority": 0,
+      "group": "41de2a353f4c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Cesta je široka.",
+      "meaning": "The road is wide.",
+      "audio": "de3f833bf8e552d6daf778cc0f6dc79b82c211c36930378c8e21dc9dbb4ceb1b",
+      "id": "0bb8a061fd26",
+      "priority": 1,
+      "group": "41de2a353f4c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "road",
+          "definition": "cesta\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "wide.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Cesta",
+        "je",
+        "široka",
+        "še",
+        "sta"
+      ],
+      "solutions": [
+        [
+          "Cesta",
+          "je",
+          "široka"
+        ]
+      ],
+      "formattedSolution": "Cesta je široka.",
+      "id": "5a14f1d51725",
+      "priority": 2,
+      "group": "41de2a353f4c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Cesta",
+          "definition": "road\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "široka.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "road",
+        "is",
+        "wide",
+        "wise",
+        "did",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "road",
+          "is",
+          "wide"
+        ]
+      ],
+      "formattedSolution": "The road is wide.",
+      "id": "57604046fe9d",
+      "priority": 2,
+      "group": "41de2a353f4c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Most je visok.",
+      "meaningInSourceLanguage": "The bridge is high.",
+      "id": "9aa3aef6b341",
+      "priority": 0,
+      "group": "549e07b19038"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Most je visok.",
+      "meaning": "The bridge is high.",
+      "audio": "746c6da6ee0a924abf9dfd83404eeabd5b3bd165d8be807872e489e4478ef817",
+      "id": "be66ce08c8bf",
+      "priority": 1,
+      "group": "549e07b19038"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bridge",
+          "definition": "most\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "high.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Most",
+        "je",
+        "visok",
+        "so",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Most",
+          "je",
+          "visok"
+        ]
+      ],
+      "formattedSolution": "Most je visok.",
+      "id": "db785097abfb",
+      "priority": 2,
+      "group": "549e07b19038"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Most",
+          "definition": "bridge\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "visok.",
+          "definition": "tall\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bridge",
+        "is",
+        "high",
+        "big",
+        "his",
+        "wise"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bridge",
+          "is",
+          "high"
+        ]
+      ],
+      "formattedSolution": "The bridge is high.",
+      "id": "1788c0844a64",
+      "priority": 2,
+      "group": "549e07b19038"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Hitrost je omejena.",
+      "meaningInSourceLanguage": "The speed is limited.",
+      "id": "5a01879e05d9",
+      "priority": 0,
+      "group": "6fb2769c606a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Hitrost je omejena.",
+      "meaning": "The speed is limited.",
+      "audio": "6fdd0d2adbe9016071d7770a95e2b409cc228d6ced2104e27e6b6dda21d11500",
+      "id": "8ef68387096f",
+      "priority": 1,
+      "group": "6fb2769c606a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "speed",
+          "definition": "hitrost\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "limited.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Hitrost",
+        "je",
+        "omejena",
+        "moje",
+        "moja"
+      ],
+      "solutions": [
+        [
+          "Hitrost",
+          "je",
+          "omejena"
+        ]
+      ],
+      "formattedSolution": "Hitrost je omejena.",
+      "id": "ba7b6eff75a1",
+      "priority": 2,
+      "group": "6fb2769c606a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Hitrost",
+          "definition": "speed\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "omejena.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "speed",
+        "is",
+        "limited",
+        "me",
+        "see",
+        "lies"
+      ],
+      "solutions": [
+        [
+          "The",
+          "speed",
+          "is",
+          "limited"
+        ]
+      ],
+      "formattedSolution": "The speed is limited.",
+      "id": "cab9b9c15247",
+      "priority": 2,
+      "group": "6fb2769c606a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Semafor kaže zeleno.",
+      "meaningInSourceLanguage": "The traffic light shows green.",
+      "id": "4b4c4a45709d",
+      "priority": 0,
+      "group": "7d4df820938a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Semafor kaže zeleno.",
+      "meaning": "The traffic light shows green.",
+      "audio": "2659cb2d5a04bd29048a9390a2bab6233c3327eeff4b2368311a78fd0880bed4",
+      "id": "7c177ac1612a",
+      "priority": 1,
+      "group": "7d4df820938a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "traffic",
+          "definition": "undefined"
+        },
+        {
+          "word": "light",
+          "definition": "svetel\nundefined"
+        },
+        {
+          "word": "shows",
+          "definition": "undefined"
+        },
+        {
+          "word": "green.",
+          "definition": "undefined\nzelen"
+        }
+      ],
+      "chips": [
+        "Semafor",
+        "kaže",
+        "zeleno",
+        "zelo",
+        "jemo"
+      ],
+      "solutions": [
+        [
+          "Semafor",
+          "kaže",
+          "zeleno"
+        ]
+      ],
+      "formattedSolution": "Semafor kaže zeleno.",
+      "id": "9c04f991676e",
+      "priority": 2,
+      "group": "7d4df820938a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Semafor",
+          "definition": "traffic light\nundefined"
+        },
+        {
+          "word": "kaže",
+          "definition": "undefined"
+        },
+        {
+          "word": "zeleno.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "traffic",
+        "light",
+        "shows",
+        "green",
+        "the",
+        "She",
+        "tree",
+        "trees"
+      ],
+      "solutions": [
+        [
+          "The",
+          "traffic",
+          "light",
+          "shows",
+          "green"
+        ]
+      ],
+      "formattedSolution": "The traffic light shows green.",
+      "id": "0d43a1949f85",
+      "priority": 2,
+      "group": "7d4df820938a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "avto",
+      "meaningInSourceLanguage": "car",
+      "id": "dac272c2edcc",
+      "priority": 0,
+      "group": "7471b97c6bc6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "avto"
+      ],
+      "phrase": [
+        {
+          "word": "car",
+          "definition": "avto\nundefined"
+        }
+      ],
+      "id": "4f846a5bcbe7",
+      "priority": 1,
+      "group": "7471b97c6bc6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "avto",
+      "meaning": "car",
+      "audio": "e5d594bbf815dd532cf3197d907ad08866a1bf4aad3e48032f6662763e379ed1",
+      "id": "3ae293dc4b02",
+      "priority": 1,
+      "group": "7471b97c6bc6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "avtobus",
+      "meaningInSourceLanguage": "bus",
+      "id": "aee3c3ed749e",
+      "priority": 0,
+      "group": "61e0f7d61643"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "avtobus"
+      ],
+      "phrase": [
+        {
+          "word": "bus",
+          "definition": "avtobus\nundefined"
+        }
+      ],
+      "id": "e51a7924fc7e",
+      "priority": 1,
+      "group": "61e0f7d61643"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "avtobus",
+      "meaning": "bus",
+      "audio": "cff89a0b2d2acce97537defdbe6db9d651dfc75fe542f08bccc9135827b7a87d",
+      "id": "895602f6522b",
+      "priority": 1,
+      "group": "61e0f7d61643"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "vlak",
+      "meaningInSourceLanguage": "train",
+      "id": "5140f00fc1c5",
+      "priority": 0,
+      "group": "a1a4729f9721"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "vlak"
+      ],
+      "phrase": [
+        {
+          "word": "train",
+          "definition": "undefined\nvlak"
+        }
+      ],
+      "id": "f27cf5a79306",
+      "priority": 1,
+      "group": "a1a4729f9721"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vlak",
+      "meaning": "train",
+      "audio": "62c11d4ef9bd54ef8f0d20a8be00fd50bedca1ae03cb6501cfaa82c30a1110b7",
+      "id": "f363cad12a77",
+      "priority": 1,
+      "group": "a1a4729f9721"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "kolo",
+      "meaningInSourceLanguage": "bicycle",
+      "id": "84a40e26eca5",
+      "priority": 0,
+      "group": "14cb713a64c9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "kolo"
+      ],
+      "phrase": [
+        {
+          "word": "bicycle",
+          "definition": "kolo\nundefined"
+        }
+      ],
+      "id": "dd7678911b41",
+      "priority": 1,
+      "group": "14cb713a64c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kolo",
+      "meaning": "bicycle",
+      "audio": "6f6afb30ebea66cd3385ef434a88518fc6a4a44d4e226f51d4f047b2f9161ebd",
+      "id": "00222d6e031b",
+      "priority": 1,
+      "group": "14cb713a64c9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "postaja",
+      "meaningInSourceLanguage": "station",
+      "id": "05e174c2a009",
+      "priority": 0,
+      "group": "3e96d1ef6865"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "postaja"
+      ],
+      "phrase": [
+        {
+          "word": "station",
+          "definition": "postaja\nundefined"
+        }
+      ],
+      "id": "c08efe987e00",
+      "priority": 1,
+      "group": "3e96d1ef6865"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "postaja",
+      "meaning": "station",
+      "audio": "d4757bf1f542992188bc13c492f85f9e61cdf523d540620486e0a42ff89753a3",
+      "id": "ed8ef16b4050",
+      "priority": 1,
+      "group": "3e96d1ef6865"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "šofer",
+      "meaningInSourceLanguage": "driver",
+      "id": "2dbf61f1d205",
+      "priority": 0,
+      "group": "d68080213af1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "šofer"
+      ],
+      "phrase": [
+        {
+          "word": "driver",
+          "definition": "undefined\nšofer"
+        }
+      ],
+      "id": "3e0487f89425",
+      "priority": 1,
+      "group": "d68080213af1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "šofer",
+      "meaning": "driver",
+      "audio": "c1a54212f9437e098eef73728bc8631a416dbd238077b54e1b0245c91c656c23",
+      "id": "a12d87e449d3",
+      "priority": 1,
+      "group": "d68080213af1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cesta",
+      "meaningInSourceLanguage": "road",
+      "id": "316411e18d4e",
+      "priority": 0,
+      "group": "ae040c525b25"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cesta"
+      ],
+      "phrase": [
+        {
+          "word": "road",
+          "definition": "cesta\nundefined"
+        }
+      ],
+      "id": "9d7702d6c4c5",
+      "priority": 1,
+      "group": "ae040c525b25"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cesta",
+      "meaning": "road",
+      "audio": "091519b21356bc5f4ec14141b0c1ebe901ff15137c1248d8575e6e5be3b6e009",
+      "id": "19ea6aaf583d",
+      "priority": 1,
+      "group": "ae040c525b25"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "most",
+      "meaningInSourceLanguage": "bridge",
+      "id": "c57738900b58",
+      "priority": 0,
+      "group": "276a5d1665f0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "most"
+      ],
+      "phrase": [
+        {
+          "word": "bridge",
+          "definition": "most\nundefined"
+        }
+      ],
+      "id": "06a0d213f246",
+      "priority": 1,
+      "group": "276a5d1665f0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "most",
+      "meaning": "bridge",
+      "audio": "c33ecc12ca8bcc2c4404951ab2cf10275c29a4a6250be211e0559476a26c678f",
+      "id": "3e6b455bf7ce",
+      "priority": 1,
+      "group": "276a5d1665f0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "hitrost",
+      "meaningInSourceLanguage": "speed",
+      "id": "4db106c59817",
+      "priority": 0,
+      "group": "ad3a16f9e4f3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "hitrost"
+      ],
+      "phrase": [
+        {
+          "word": "speed",
+          "definition": "hitrost\nundefined"
+        }
+      ],
+      "id": "757562997caf",
+      "priority": 1,
+      "group": "ad3a16f9e4f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hitrost",
+      "meaning": "speed",
+      "audio": "33b5671ed26ca371c60ed1743530ca8a3345b05f4083447800c779141bd6e1c6",
+      "id": "d952c0ab51f4",
+      "priority": 1,
+      "group": "ad3a16f9e4f3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "semafor",
+      "meaningInSourceLanguage": "traffic light",
+      "id": "702e8bb2ac7a",
+      "priority": 0,
+      "group": "b0cace7f26d5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "semafor"
+      ],
+      "phrase": [
+        {
+          "word": "traffic",
+          "definition": "undefined"
+        },
+        {
+          "word": "light",
+          "definition": "svetel\nundefined"
+        }
+      ],
+      "id": "dde9b69cb663",
+      "priority": 1,
+      "group": "b0cace7f26d5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "semafor",
+      "meaning": "traffic light",
+      "audio": "14f08c56eaca63a04c5ba99c7f1bea51a7a8b230758ff94c69e4a5ce9d003591",
+      "id": "22d069faae87",
+      "priority": 1,
+      "group": "b0cace7f26d5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "voziti (vozi)",
+      "meaningInSourceLanguage": "to go/drive",
+      "id": "654666936834",
+      "priority": 0,
+      "group": "9dd73653533d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "voziti (vozi)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "go/drive",
+          "definition": "undefined"
+        }
+      ],
+      "id": "3f8aa21d61a1",
+      "priority": 1,
+      "group": "9dd73653533d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "voziti (vozi)",
+      "meaning": "to go/drive",
+      "audio": "20d2368bb25df31cfd5f23ed94955574835e3ba514fe4fe4c7d39f270efca6a7",
+      "id": "1fb09acc695b",
+      "priority": 1,
+      "group": "9dd73653533d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "sesti (sede)",
+      "meaningInSourceLanguage": "to sit",
+      "id": "f82f2ad39ba0",
+      "priority": 0,
+      "group": "f5d9ea2b342a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "sesti (sede)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "sit",
+          "definition": "undefined"
+        }
+      ],
+      "id": "b5891f804452",
+      "priority": 1,
+      "group": "f5d9ea2b342a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sesti (sede)",
+      "meaning": "to sit",
+      "audio": "9bd538d226f97fc9c1e48f664c6697ea8447676d34e634eaec083e6aaf2513e7",
+      "id": "4a17c812606b",
+      "priority": 1,
+      "group": "f5d9ea2b342a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "povezati (poveže)",
+      "meaningInSourceLanguage": "to connect/tie",
+      "id": "3af3557382df",
+      "priority": 0,
+      "group": "4585a057fd1e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "povezati (poveže)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "connect/tie",
+          "definition": "undefined"
+        }
+      ],
+      "id": "5a08df8b2785",
+      "priority": 1,
+      "group": "4585a057fd1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "povezati (poveže)",
+      "meaning": "to connect/tie",
+      "audio": "b671f14ea65f8d6dc3bbeb44594f35748491d18852e3763d73a87978fd04aed9",
+      "id": "89519feab597",
+      "priority": 1,
+      "group": "4585a057fd1e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "razbit",
+      "meaningInSourceLanguage": "broken",
+      "id": "4c8b8727b5d1",
+      "priority": 0,
+      "group": "2d202656e063"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "razbit"
+      ],
+      "phrase": [
+        {
+          "word": "broken",
+          "definition": "razbit\nundefined"
+        }
+      ],
+      "id": "de65c2a45b8a",
+      "priority": 1,
+      "group": "2d202656e063"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "razbit",
+      "meaning": "broken",
+      "audio": "afcd74c39e140698e98e844d97f6bf2abbbbeb5d69702352ee4457c73e973a3b",
+      "id": "81ccd6d8cee5",
+      "priority": 1,
+      "group": "2d202656e063"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "previden",
+      "meaningInSourceLanguage": "careful",
+      "id": "6c8e1b87806a",
+      "priority": 0,
+      "group": "ddfe28c28107"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "previden"
+      ],
+      "phrase": [
+        {
+          "word": "careful",
+          "definition": "previden\nundefined"
+        }
+      ],
+      "id": "e01e0021db8e",
+      "priority": 1,
+      "group": "ddfe28c28107"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "previden",
+      "meaning": "careful",
+      "audio": "170b0b12ecf16af8bcae2d9f683d2a64381e64819a57303bb34da5eb6dae10f8",
+      "id": "9f72aea1e124",
+      "priority": 1,
+      "group": "ddfe28c28107"
+    }
+  ]
+}

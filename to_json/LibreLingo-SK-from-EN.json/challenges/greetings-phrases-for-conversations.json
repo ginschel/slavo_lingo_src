@@ -1,0 +1,3507 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 12,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dobré ráno!",
+      "meaningInSourceLanguage": "Good morning!",
+      "id": "1f7c4021a5fa",
+      "priority": 0,
+      "group": "9fd33c2edf41"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dobré ráno!",
+      "meaning": "Good morning!",
+      "audio": "9db587adbb97861ecd57a08cdefcd0a75e1b5656a3382fd0f2a65056b106807f",
+      "id": "6790719135f6",
+      "priority": 1,
+      "group": "9fd33c2edf41"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobrý\nundefined"
+        },
+        {
+          "word": "morning!",
+          "definition": "ráno\nundefined"
+        }
+      ],
+      "chips": [
+        "Dobré",
+        "ráno",
+        "dobré",
+        "Dobrú"
+      ],
+      "solutions": [
+        [
+          "Dobré",
+          "ráno"
+        ]
+      ],
+      "formattedSolution": "Dobré ráno!",
+      "id": "b6f0cbb3733b",
+      "priority": 2,
+      "group": "9fd33c2edf41"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dobré",
+          "definition": "undefined"
+        },
+        {
+          "word": "ráno!",
+          "definition": "in the morning\nmorning\nundefined"
+        }
+      ],
+      "chips": [
+        "Good",
+        "morning",
+        "moon",
+        "good"
+      ],
+      "solutions": [
+        [
+          "Good",
+          "morning"
+        ]
+      ],
+      "formattedSolution": "Good morning!",
+      "id": "f5461b0159cb",
+      "priority": 2,
+      "group": "9fd33c2edf41"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dobrý večer!",
+      "meaningInSourceLanguage": "Good evening!",
+      "id": "79ca25c76e6b",
+      "priority": 0,
+      "group": "4fa4a6224d00"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dobrý večer!",
+      "meaning": "Good evening!",
+      "audio": "69798cc02a4fa2eccd7fd73f835beb5317aa1e7390a4c15895ae965b76a69cdb",
+      "id": "87da837a3ce8",
+      "priority": 1,
+      "group": "4fa4a6224d00"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobrý\nundefined"
+        },
+        {
+          "word": "evening!",
+          "definition": "undefined\nvečer"
+        }
+      ],
+      "chips": [
+        "Dobrý",
+        "večer",
+        "dobrý",
+        "Dobrú"
+      ],
+      "solutions": [
+        [
+          "Dobrý",
+          "večer"
+        ]
+      ],
+      "formattedSolution": "Dobrý večer!",
+      "id": "58cea9014705",
+      "priority": 2,
+      "group": "4fa4a6224d00"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dobrý",
+          "definition": "good\nundefined"
+        },
+        {
+          "word": "večer!",
+          "definition": "evening\nundefined"
+        }
+      ],
+      "chips": [
+        "Good",
+        "evening",
+        "good",
+        "kind"
+      ],
+      "solutions": [
+        [
+          "Good",
+          "evening"
+        ]
+      ],
+      "formattedSolution": "Good evening!",
+      "id": "75ef3bf94408",
+      "priority": 2,
+      "group": "4fa4a6224d00"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dobrý deň!",
+      "meaningInSourceLanguage": "Good day!",
+      "id": "fd72b87db5ed",
+      "priority": 0,
+      "group": "3323486f0b4e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dobrý deň!",
+      "meaning": "Good day!",
+      "audio": "ceafb75dd7564bc2cc8a3df46eeb39396ad49c4f60ae476ebaad68a1010f156c",
+      "id": "6d3d818ae44c",
+      "priority": 1,
+      "group": "3323486f0b4e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobrý\nundefined"
+        },
+        {
+          "word": "day!",
+          "definition": "deň\nundefined"
+        }
+      ],
+      "chips": [
+        "Dobrý",
+        "deň",
+        "dobrý",
+        "dobrá"
+      ],
+      "solutions": [
+        [
+          "Dobrý",
+          "deň"
+        ]
+      ],
+      "formattedSolution": "Dobrý deň!",
+      "id": "9c995293d7d0",
+      "priority": 2,
+      "group": "3323486f0b4e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dobrý",
+          "definition": "good\nundefined"
+        },
+        {
+          "word": "deň!",
+          "definition": "day\nundefined"
+        }
+      ],
+      "chips": [
+        "Good",
+        "day",
+        "God",
+        "good"
+      ],
+      "solutions": [
+        [
+          "Good",
+          "day"
+        ]
+      ],
+      "formattedSolution": "Good day!",
+      "id": "a4710410c538",
+      "priority": 2,
+      "group": "3323486f0b4e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dobrú noc!",
+      "meaningInSourceLanguage": "Good night!",
+      "id": "1ca767e7a80a",
+      "priority": 0,
+      "group": "7691aff36a2b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dobrú noc!",
+      "meaning": "Good night!",
+      "audio": "561421942a638fcdacaaff0fd7fa5447ee46f3bdb2c08f020be6308bd3d17cdd",
+      "id": "a3bd311667a7",
+      "priority": 1,
+      "group": "7691aff36a2b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobrý\nundefined"
+        },
+        {
+          "word": "night!",
+          "definition": "noc\nundefined"
+        }
+      ],
+      "chips": [
+        "Dobrú",
+        "noc",
+        "novú",
+        "som"
+      ],
+      "solutions": [
+        [
+          "Dobrú",
+          "noc"
+        ]
+      ],
+      "formattedSolution": "Dobrú noc!",
+      "id": "aed499136d82",
+      "priority": 2,
+      "group": "7691aff36a2b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dobrú",
+          "definition": "undefined"
+        },
+        {
+          "word": "noc!",
+          "definition": "night\nundefined"
+        }
+      ],
+      "chips": [
+        "Good",
+        "night",
+        "good",
+        "not"
+      ],
+      "solutions": [
+        [
+          "Good",
+          "night"
+        ]
+      ],
+      "formattedSolution": "Good night!",
+      "id": "16fb5782a40c",
+      "priority": 2,
+      "group": "7691aff36a2b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ako si?",
+      "meaningInSourceLanguage": "How are you?",
+      "id": "b3736a6fdb1a",
+      "priority": 0,
+      "group": "2717fcae253b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ako si?",
+      "meaning": "How are you?",
+      "audio": "ad174831dc42f3e08e6a679a740170962c10a4b5ff42d1cf0b55ed22557013eb",
+      "id": "2fe635dfc186",
+      "priority": 1,
+      "group": "2717fcae253b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "How",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "si\nsme\nste\nsú\nundefined"
+        },
+        {
+          "word": "you?",
+          "definition": "ty\nundefined\nvy"
+        }
+      ],
+      "chips": [
+        "Ako",
+        "si",
+        "so",
+        "Ak"
+      ],
+      "solutions": [
+        [
+          "Ako",
+          "si"
+        ]
+      ],
+      "formattedSolution": "Ako si?",
+      "id": "91aae569258d",
+      "priority": 2,
+      "group": "2717fcae253b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ako",
+          "definition": "undefined"
+        },
+        {
+          "word": "si?",
+          "definition": "are\nundefined"
+        }
+      ],
+      "chips": [
+        "How",
+        "are",
+        "you",
+        "You",
+        "how"
+      ],
+      "solutions": [
+        [
+          "How",
+          "are",
+          "you"
+        ]
+      ],
+      "formattedSolution": "How are you?",
+      "id": "53d13fa4f555",
+      "priority": 2,
+      "group": "2717fcae253b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Som dobre, ďakujem!",
+      "meaningInSourceLanguage": "I am well, thank you!",
+      "id": "419aee2d194a",
+      "priority": 0,
+      "group": "5751f53718ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Som dobre, ďakujem!",
+      "meaning": "I am well, thank you!",
+      "audio": "1388fbcfb00fd82fe529897b0d9b3da4d4985f2aeee899b2cb51b555453ffef1",
+      "id": "fb54da954478",
+      "priority": 1,
+      "group": "5751f53718ac"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "ja"
+        },
+        {
+          "word": "am",
+          "definition": "som\nundefined"
+        },
+        {
+          "word": "well,",
+          "definition": "undefined"
+        },
+        {
+          "word": "thank",
+          "definition": "undefined"
+        },
+        {
+          "word": "you!",
+          "definition": "ty\nundefined\nvy"
+        }
+      ],
+      "chips": [
+        "Som",
+        "dobre",
+        "ďakujem",
+        "dom",
+        "dome"
+      ],
+      "solutions": [
+        [
+          "Som",
+          "dobre",
+          "ďakujem"
+        ]
+      ],
+      "formattedSolution": "Som dobre, ďakujem!",
+      "id": "fa501cae7976",
+      "priority": 2,
+      "group": "5751f53718ac"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Som",
+          "definition": "am\nundefined"
+        },
+        {
+          "word": "dobre,",
+          "definition": "undefined"
+        },
+        {
+          "word": "ďakujem!",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "well",
+        "thank",
+        "you",
+        "a",
+        "an",
+        "at",
+        "on"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "well",
+          "thank",
+          "you"
+        ]
+      ],
+      "formattedSolution": "I am well, thank you!",
+      "id": "b8241e485002",
+      "priority": 2,
+      "group": "5751f53718ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "A ty?",
+      "meaningInSourceLanguage": "And you?",
+      "id": "f1f85b2fcbd3",
+      "priority": 0,
+      "group": "bb3ad1f6a10f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "A ty?",
+      "meaning": "And you?",
+      "audio": "e799795ef7bd8584a59b6c6bb94b7f46c5955e071154ecb46074b115fe5dd1e8",
+      "id": "77e9de6a640f",
+      "priority": 1,
+      "group": "bb3ad1f6a10f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "And",
+          "definition": "undefined"
+        },
+        {
+          "word": "you?",
+          "definition": "ty\nundefined\nvy"
+        }
+      ],
+      "chips": [
+        "A",
+        "ty",
+        "My",
+        "Vy"
+      ],
+      "solutions": [
+        [
+          "A",
+          "ty"
+        ]
+      ],
+      "formattedSolution": "A ty?",
+      "id": "3dad4b5e0b01",
+      "priority": 2,
+      "group": "bb3ad1f6a10f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "ty?",
+          "definition": "undefined\nyou"
+        }
+      ],
+      "chips": [
+        "And",
+        "you",
+        "You",
+        "God"
+      ],
+      "solutions": [
+        [
+          "And",
+          "you"
+        ]
+      ],
+      "formattedSolution": "And you?",
+      "id": "a4ea94b49507",
+      "priority": 2,
+      "group": "bb3ad1f6a10f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ďakujem ti veľmi.",
+      "meaningInSourceLanguage": "Thank you very much.",
+      "id": "a846ec9564e6",
+      "priority": 0,
+      "group": "d2bc68f93816"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ďakujem ti veľmi.",
+      "meaning": "Thank you very much.",
+      "audio": "e721ca8a16304cd32f80681ba370297426cf227ea88c54038a101d23aae871d0",
+      "id": "0baa1c5f62a2",
+      "priority": 1,
+      "group": "d2bc68f93816"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Thank",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "ty\nundefined\nvy"
+        },
+        {
+          "word": "very",
+          "definition": "undefined"
+        },
+        {
+          "word": "much.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ďakujem",
+        "ti",
+        "veľmi",
+        "jem",
+        "je"
+      ],
+      "solutions": [
+        [
+          "Ďakujem",
+          "ti",
+          "veľmi"
+        ]
+      ],
+      "formattedSolution": "Ďakujem ti veľmi.",
+      "id": "137e8f838e90",
+      "priority": 2,
+      "group": "d2bc68f93816"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ďakujem",
+          "definition": "undefined"
+        },
+        {
+          "word": "ti",
+          "definition": "undefined"
+        },
+        {
+          "word": "veľmi.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Thank",
+        "you",
+        "very",
+        "much",
+        "man",
+        "mean",
+        "her"
+      ],
+      "solutions": [
+        [
+          "Thank",
+          "you",
+          "very",
+          "much"
+        ]
+      ],
+      "formattedSolution": "Thank you very much.",
+      "id": "4b515ead5adc",
+      "priority": 2,
+      "group": "d2bc68f93816"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pardon, nerozumiem.",
+      "meaningInSourceLanguage": "Excuse me, I don't understand.",
+      "id": "efb7dd1b4a15",
+      "priority": 0,
+      "group": "acf39302ef02"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Pardon, nerozumiem.",
+      "meaning": "Excuse me, I don't understand.",
+      "audio": "21e9873e74519c3ade7e399d2ff03127ba6e24bb468248680f47a97048e9dfe5",
+      "id": "e3d8349bce6e",
+      "priority": 1,
+      "group": "acf39302ef02"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Excuse",
+          "definition": "undefined"
+        },
+        {
+          "word": "me,",
+          "definition": "undefined"
+        },
+        {
+          "word": "I",
+          "definition": "ja"
+        },
+        {
+          "word": "don't",
+          "definition": "undefined"
+        },
+        {
+          "word": "understand.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Pardon",
+        "nerozumiem",
+        "perom",
+        "Nerozumel"
+      ],
+      "solutions": [
+        [
+          "Pardon",
+          "nerozumiem"
+        ]
+      ],
+      "formattedSolution": "Pardon, nerozumiem.",
+      "id": "91f45d3d3934",
+      "priority": 2,
+      "group": "acf39302ef02"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pardon,",
+          "definition": "pardon\nundefined"
+        },
+        {
+          "word": "nerozumiem.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Excuse",
+        "me",
+        "I",
+        "don't",
+        "understand",
+        "us",
+        "We",
+        "He",
+        "so"
+      ],
+      "solutions": [
+        [
+          "Excuse",
+          "me",
+          "I",
+          "don't",
+          "understand"
+        ]
+      ],
+      "formattedSolution": "Excuse me, I don't understand.",
+      "id": "73d489b08a53",
+      "priority": 2,
+      "group": "acf39302ef02"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pozdrav!",
+      "meaningInSourceLanguage": "Greetings!",
+      "id": "fefbde2fed66",
+      "priority": 0,
+      "group": "00dc85dbfd84"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Pozdrav!",
+      "meaning": "Greetings!",
+      "audio": "f7fc36b3d5003b1661621bf992a2ce9df7b4e7490c60a9648175ca285f9e6fa8",
+      "id": "62708551185e",
+      "priority": 1,
+      "group": "00dc85dbfd84"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Zdravý!",
+      "meaningInSourceLanguage": "Hello!",
+      "id": "4aa37c36867e",
+      "priority": 0,
+      "group": "ab5eed07013f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Zdravý!",
+      "meaning": "Hello!",
+      "audio": "1a9bf38069ada1cb62bbcf449bb8ce6d011b45025b5d2850d5dd3e7f27130f3b",
+      "id": "280ff273cae4",
+      "priority": 1,
+      "group": "ab5eed07013f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dobrý deň, ako si?",
+      "meaningInSourceLanguage": "Good day, how are you?",
+      "id": "036864ed82c1",
+      "priority": 0,
+      "group": "85bcd5922b88"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dobrý deň, ako si?",
+      "meaning": "Good day, how are you?",
+      "audio": "aff5f7ed5e9f3e20bdda3eae1d3f7155f0263712b9d3e00ca190d2bf4210932c",
+      "id": "83e1cae722dd",
+      "priority": 1,
+      "group": "85bcd5922b88"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "dobrý\nundefined"
+        },
+        {
+          "word": "day,",
+          "definition": "deň\nundefined"
+        },
+        {
+          "word": "how",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "si\nsme\nste\nsú\nundefined"
+        },
+        {
+          "word": "you?",
+          "definition": "ty\nundefined\nvy"
+        }
+      ],
+      "chips": [
+        "Dobrý",
+        "deň",
+        "ako",
+        "si",
+        "do",
+        "so",
+        "To"
+      ],
+      "solutions": [
+        [
+          "Dobrý",
+          "deň",
+          "ako",
+          "si"
+        ]
+      ],
+      "formattedSolution": "Dobrý deň, ako si?",
+      "id": "d959233e50c0",
+      "priority": 2,
+      "group": "85bcd5922b88"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dobrý",
+          "definition": "good\nundefined"
+        },
+        {
+          "word": "deň,",
+          "definition": "day\nundefined"
+        },
+        {
+          "word": "ako",
+          "definition": "undefined"
+        },
+        {
+          "word": "si?",
+          "definition": "are\nundefined"
+        }
+      ],
+      "chips": [
+        "Good",
+        "day",
+        "how",
+        "are",
+        "you",
+        "God",
+        "You",
+        "How",
+        "too"
+      ],
+      "solutions": [
+        [
+          "Good",
+          "day",
+          "how",
+          "are",
+          "you"
+        ]
+      ],
+      "formattedSolution": "Good day, how are you?",
+      "id": "f367ce62e3dd",
+      "priority": 2,
+      "group": "85bcd5922b88"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Si ty zdravý?",
+      "meaningInSourceLanguage": "Are you healthy?",
+      "id": "4117ada3538e",
+      "priority": 0,
+      "group": "4f53b2a03edd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Si ty zdravý?",
+      "meaning": "Are you healthy?",
+      "audio": "9a146eafc80ba48f462309194cb416b147337297a3d8227d061c0eaa52d625bf",
+      "id": "5e5c9a469e6b",
+      "priority": 1,
+      "group": "4f53b2a03edd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "si\nsme\nste\nsú\nundefined"
+        },
+        {
+          "word": "you",
+          "definition": "ty\nundefined\nvy"
+        },
+        {
+          "word": "healthy?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Si",
+        "ty",
+        "zdravý",
+        "ti",
+        "za"
+      ],
+      "solutions": [
+        [
+          "Si",
+          "ty",
+          "zdravý"
+        ]
+      ],
+      "formattedSolution": "Si ty zdravý?",
+      "id": "22178850e20f",
+      "priority": 2,
+      "group": "4f53b2a03edd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Si",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "ty",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "zdravý?",
+          "definition": "healthy/hello\nundefined"
+        }
+      ],
+      "chips": [
+        "Are",
+        "you",
+        "healthy",
+        "are",
+        "the"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "you",
+          "healthy"
+        ]
+      ],
+      "formattedSolution": "Are you healthy?",
+      "id": "7454df09fb18",
+      "priority": 2,
+      "group": "4f53b2a03edd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vitajte!",
+      "meaningInSourceLanguage": "Welcome!",
+      "id": "fe2c30534178",
+      "priority": 0,
+      "group": "6ee4b5f498a9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Vitajte!",
+      "meaning": "Welcome!",
+      "audio": "c3dcd819ae72dae109010bd627ee3feeaee918a6173afcb5b68df762eb173dca",
+      "id": "dfd2df75cf8a",
+      "priority": 1,
+      "group": "6ee4b5f498a9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Na zdravie!",
+      "meaningInSourceLanguage": "To your health!",
+      "id": "63f28f4c4579",
+      "priority": 0,
+      "group": "b761ee31ae67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Na zdravie!",
+      "meaning": "To your health!",
+      "audio": "2465498130aec06dc22fe726a1b632a0188761ab962da27c3665977e5d18e773",
+      "id": "0319ff33312e",
+      "priority": 1,
+      "group": "b761ee31ae67"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "To",
+          "definition": "undefined"
+        },
+        {
+          "word": "your",
+          "definition": "undefined"
+        },
+        {
+          "word": "health!",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Na",
+        "zdravie",
+        "za",
+        "Ja"
+      ],
+      "solutions": [
+        [
+          "Na",
+          "zdravie"
+        ]
+      ],
+      "formattedSolution": "Na zdravie!",
+      "id": "a8bf3c7f134a",
+      "priority": 2,
+      "group": "b761ee31ae67"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "zdravie!",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "To",
+        "your",
+        "health",
+        "you",
+        "to"
+      ],
+      "solutions": [
+        [
+          "To",
+          "your",
+          "health"
+        ]
+      ],
+      "formattedSolution": "To your health!",
+      "id": "e66f49ce1225",
+      "priority": 2,
+      "group": "b761ee31ae67"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pozdrav tvoju sestru.",
+      "meaningInSourceLanguage": "Greet your sister.",
+      "id": "14db62466a6d",
+      "priority": 0,
+      "group": "b3e4286b2ec6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Pozdrav tvoju sestru.",
+      "meaning": "Greet your sister.",
+      "audio": "e851f925bcc8ab38a0707c03ae30c69b4ddd066a5e0267924b3474285369e97a",
+      "id": "a211fd673cef",
+      "priority": 1,
+      "group": "b3e4286b2ec6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Greet",
+          "definition": "undefined"
+        },
+        {
+          "word": "your",
+          "definition": "undefined"
+        },
+        {
+          "word": "sister.",
+          "definition": "sestra\nundefined"
+        }
+      ],
+      "chips": [
+        "Pozdrav",
+        "tvoju",
+        "sestru",
+        "sestra",
+        "sestrou"
+      ],
+      "solutions": [
+        [
+          "Pozdrav",
+          "tvoju",
+          "sestru"
+        ]
+      ],
+      "formattedSolution": "Pozdrav tvoju sestru.",
+      "id": "13057770df9c",
+      "priority": 2,
+      "group": "b3e4286b2ec6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pozdrav",
+          "definition": "greeting\nundefined"
+        },
+        {
+          "word": "tvoju",
+          "definition": "undefined"
+        },
+        {
+          "word": "sestru.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Greet",
+        "your",
+        "sister",
+        "beer",
+        "sour"
+      ],
+      "solutions": [
+        [
+          "Greet",
+          "your",
+          "sister"
+        ]
+      ],
+      "formattedSolution": "Greet your sister.",
+      "id": "0b15df84fd03",
+      "priority": 2,
+      "group": "b3e4286b2ec6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ako sa voláš?",
+      "meaningInSourceLanguage": "What is your name?",
+      "id": "29f792738f13",
+      "priority": 0,
+      "group": "c7f736d7be98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ako sa voláš?",
+      "meaning": "What is your name?",
+      "audio": "f8618aefd1b4bd42a8b675899042f21cbed9510d0460d376e9f344527c62e7a8",
+      "id": "8702278044f4",
+      "priority": 1,
+      "group": "c7f736d7be98"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "What",
+          "definition": "undefined\nčo"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "your",
+          "definition": "undefined"
+        },
+        {
+          "word": "name?",
+          "definition": "meno\nundefined"
+        }
+      ],
+      "chips": [
+        "Ako",
+        "sa",
+        "voláš",
+        "so",
+        "vo"
+      ],
+      "solutions": [
+        [
+          "Ako",
+          "sa",
+          "voláš"
+        ]
+      ],
+      "formattedSolution": "Ako sa voláš?",
+      "id": "306e7803970b",
+      "priority": 2,
+      "group": "c7f736d7be98"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ako",
+          "definition": "undefined"
+        },
+        {
+          "word": "sa",
+          "definition": "undefined"
+        },
+        {
+          "word": "voláš?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "What",
+        "is",
+        "your",
+        "name",
+        "am",
+        "at",
+        "has"
+      ],
+      "solutions": [
+        [
+          "What",
+          "is",
+          "your",
+          "name"
+        ]
+      ],
+      "formattedSolution": "What is your name?",
+      "id": "dd1e3187d6df",
+      "priority": 2,
+      "group": "c7f736d7be98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Volám sa Bartek.",
+      "meaningInSourceLanguage": "My name is Bartek.",
+      "id": "cb4912da9237",
+      "priority": 0,
+      "group": "57eba1b42905"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Volám sa Bartek.",
+      "meaning": "My name is Bartek.",
+      "audio": "bd79cfa5268482d804f272f277d73ddb69145fc3232d96050de11460b98fee63",
+      "id": "6c4d792214f0",
+      "priority": 1,
+      "group": "57eba1b42905"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined"
+        },
+        {
+          "word": "name",
+          "definition": "meno\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "Bartek.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Volám",
+        "sa",
+        "Bartek",
+        "Ja",
+        "som"
+      ],
+      "solutions": [
+        [
+          "Volám",
+          "sa",
+          "Bartek"
+        ]
+      ],
+      "formattedSolution": "Volám sa Bartek.",
+      "id": "c03265a790c4",
+      "priority": 2,
+      "group": "57eba1b42905"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Volám",
+          "definition": "undefined"
+        },
+        {
+          "word": "sa",
+          "definition": "undefined"
+        },
+        {
+          "word": "Bartek.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "name",
+        "is",
+        "Bartek",
+        "am",
+        "are",
+        "me"
+      ],
+      "solutions": [
+        [
+          "My",
+          "name",
+          "is",
+          "Bartek"
+        ]
+      ],
+      "formattedSolution": "My name is Bartek.",
+      "id": "be497de9bdf4",
+      "priority": 2,
+      "group": "57eba1b42905"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ďakujem za besedu.",
+      "meaningInSourceLanguage": "Thank you for the conversation.",
+      "id": "ccd31dc464a4",
+      "priority": 0,
+      "group": "76fcbface47d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ďakujem za besedu.",
+      "meaning": "Thank you for the conversation.",
+      "audio": "792327d9357c404cf8ca786d2ad718629d49ffbe3eb442aa31555e3891122f90",
+      "id": "ec6b43b3846d",
+      "priority": 1,
+      "group": "76fcbface47d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Thank",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "ty\nundefined\nvy"
+        },
+        {
+          "word": "for",
+          "definition": "undefined\nza"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "conversation.",
+          "definition": "beseda\nundefined"
+        }
+      ],
+      "chips": [
+        "Ďakujem",
+        "za",
+        "besedu",
+        "je",
+        "sa"
+      ],
+      "solutions": [
+        [
+          "Ďakujem",
+          "za",
+          "besedu"
+        ]
+      ],
+      "formattedSolution": "Ďakujem za besedu.",
+      "id": "aa8392ac0040",
+      "priority": 2,
+      "group": "76fcbface47d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ďakujem",
+          "definition": "undefined"
+        },
+        {
+          "word": "za",
+          "definition": "for\nundefined"
+        },
+        {
+          "word": "besedu.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Thank",
+        "you",
+        "for",
+        "the",
+        "conversation",
+        "son",
+        "too",
+        "her",
+        "The"
+      ],
+      "solutions": [
+        [
+          "Thank",
+          "you",
+          "for",
+          "the",
+          "conversation"
+        ]
+      ],
+      "formattedSolution": "Thank you for the conversation.",
+      "id": "affae68d9507",
+      "priority": 2,
+      "group": "76fcbface47d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tak je.",
+      "meaningInSourceLanguage": "That is so.",
+      "id": "32e9c422649f",
+      "priority": 0,
+      "group": "05ef00502241"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tak je.",
+      "meaning": "That is so.",
+      "audio": "6554bc2d7db05725b1d2d592241d8bc76c7a2971ba040b112930ef16909d9199",
+      "id": "d98c5acc022d",
+      "priority": 1,
+      "group": "05ef00502241"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "That",
+          "definition": "ten\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "so.",
+          "definition": "tak\nundefined"
+        }
+      ],
+      "chips": [
+        "Tak",
+        "je",
+        "Ja",
+        "To"
+      ],
+      "solutions": [
+        [
+          "Tak",
+          "je"
+        ]
+      ],
+      "formattedSolution": "Tak je.",
+      "id": "09c561f8b556",
+      "priority": 2,
+      "group": "05ef00502241"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Tak",
+          "definition": "so\nundefined"
+        },
+        {
+          "word": "je.",
+          "definition": "is\nundefined"
+        }
+      ],
+      "chips": [
+        "That",
+        "is",
+        "so",
+        "To",
+        "it"
+      ],
+      "solutions": [
+        [
+          "That",
+          "is",
+          "so"
+        ]
+      ],
+      "formattedSolution": "That is so.",
+      "id": "e9e63e56933c",
+      "priority": 2,
+      "group": "05ef00502241"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Nie tak.",
+      "meaningInSourceLanguage": "Not so.",
+      "id": "338d871f6b17",
+      "priority": 0,
+      "group": "04ab94a9dac7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Nie tak.",
+      "meaning": "Not so.",
+      "audio": "86259f57ef8800aa0d13c608c7ef1309d54ff18f5d1760be749a34b4d629c800",
+      "id": "54feccb3390f",
+      "priority": 1,
+      "group": "04ab94a9dac7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Not",
+          "definition": "undefined"
+        },
+        {
+          "word": "so.",
+          "definition": "tak\nundefined"
+        }
+      ],
+      "chips": [
+        "Nie",
+        "tak",
+        "nie",
+        "ti"
+      ],
+      "solutions": [
+        [
+          "Nie",
+          "tak"
+        ]
+      ],
+      "formattedSolution": "Nie tak.",
+      "id": "722041ab8c7b",
+      "priority": 2,
+      "group": "04ab94a9dac7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Nie",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "tak.",
+          "definition": "so\nundefined"
+        }
+      ],
+      "chips": [
+        "Not",
+        "so",
+        "No",
+        "not"
+      ],
+      "solutions": [
+        [
+          "Not",
+          "so"
+        ]
+      ],
+      "formattedSolution": "Not so.",
+      "id": "105688c2bda9",
+      "priority": 2,
+      "group": "04ab94a9dac7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Možno.",
+      "meaningInSourceLanguage": "Maybe.",
+      "id": "93b0991e7d0d",
+      "priority": 0,
+      "group": "22b5a2e6431a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Možno.",
+      "meaning": "Maybe.",
+      "audio": "a588dd65c3f4656ae95a9f26d7a497c9c5f8308b863a514f28f142767ea40926",
+      "id": "dcbf9842bd04",
+      "priority": 1,
+      "group": "22b5a2e6431a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Nie je možné.",
+      "meaningInSourceLanguage": "Not possible.",
+      "id": "f3f81146a561",
+      "priority": 0,
+      "group": "1b5acb8cb440"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Nie je možné.",
+      "meaning": "Not possible.",
+      "audio": "d441be6807ba07e70d36e73d1ddabf8257843579b05a047760aa0b4ea7ae7303",
+      "id": "a8d56fe153c9",
+      "priority": 1,
+      "group": "1b5acb8cb440"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Not",
+          "definition": "undefined"
+        },
+        {
+          "word": "possible.",
+          "definition": "možno\nundefined"
+        }
+      ],
+      "chips": [
+        "Nie",
+        "je",
+        "možné",
+        "mne",
+        "moje"
+      ],
+      "solutions": [
+        [
+          "Nie",
+          "je",
+          "možné"
+        ]
+      ],
+      "formattedSolution": "Nie je možné.",
+      "id": "1b6ce674041a",
+      "priority": 2,
+      "group": "1b5acb8cb440"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Nie",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "možné.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Not",
+        "possible",
+        "pot",
+        "not"
+      ],
+      "solutions": [
+        [
+          "Not",
+          "possible"
+        ]
+      ],
+      "formattedSolution": "Not possible.",
+      "id": "c3c71cdd3b0e",
+      "priority": 2,
+      "group": "1b5acb8cb440"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Škoda!",
+      "meaningInSourceLanguage": "What a pity!",
+      "id": "0d312ff4be8a",
+      "priority": 0,
+      "group": "b8adbc966e8f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Škoda!",
+      "meaning": "What a pity!",
+      "audio": "5ea9715f83ec87f8ea5521ac034ba6f4e284fde934328d90cd34767028ae37ff",
+      "id": "bf083529599b",
+      "priority": 1,
+      "group": "b8adbc966e8f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dobre!",
+      "meaningInSourceLanguage": "Good!",
+      "id": "1f28f0a9da5f",
+      "priority": 0,
+      "group": "415bec515f3d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dobre!",
+      "meaning": "Good!",
+      "audio": "172e0f4870f03d7955cca882ae0e2051f3c1ffcb6685f2e471e5260d5964c9d5",
+      "id": "b30bb292a546",
+      "priority": 1,
+      "group": "415bec515f3d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Nie dobre.",
+      "meaningInSourceLanguage": "Not good.",
+      "id": "71681a661ec9",
+      "priority": 0,
+      "group": "21f157c1231f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Nie dobre.",
+      "meaning": "Not good.",
+      "audio": "584f16182aca876300511630eeb23aecf2a48adcc3009facb3a65a0e5f69ac56",
+      "id": "7c3abc4134bb",
+      "priority": 1,
+      "group": "21f157c1231f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Not",
+          "definition": "undefined"
+        },
+        {
+          "word": "good.",
+          "definition": "dobrý\nundefined"
+        }
+      ],
+      "chips": [
+        "Nie",
+        "dobre",
+        "nie",
+        "Dobre"
+      ],
+      "solutions": [
+        [
+          "Nie",
+          "dobre"
+        ]
+      ],
+      "formattedSolution": "Nie dobre.",
+      "id": "ed41e765ceb4",
+      "priority": 2,
+      "group": "21f157c1231f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Nie",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "dobre.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Not",
+        "good",
+        "not",
+        "Good"
+      ],
+      "solutions": [
+        [
+          "Not",
+          "good"
+        ]
+      ],
+      "formattedSolution": "Not good.",
+      "id": "af79bb3fef2f",
+      "priority": 2,
+      "group": "21f157c1231f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "To je lepšie.",
+      "meaningInSourceLanguage": "This is better.",
+      "id": "48f652896f0a",
+      "priority": 0,
+      "group": "af3c2ed84185"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "To je lepšie.",
+      "meaning": "This is better.",
+      "audio": "0696740fc54561ca8a1b079986b81e333b61db98de6ba8a60025d5a2595e3519",
+      "id": "2960eaa13227",
+      "priority": 1,
+      "group": "af3c2ed84185"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "to\ntá\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "better.",
+          "definition": "lepšie\nundefined"
+        }
+      ],
+      "chips": [
+        "To",
+        "je",
+        "lepšie",
+        "Je",
+        "ješ"
+      ],
+      "solutions": [
+        [
+          "To",
+          "je",
+          "lepšie"
+        ]
+      ],
+      "formattedSolution": "To je lepšie.",
+      "id": "ad03cefddffc",
+      "priority": 2,
+      "group": "af3c2ed84185"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "To",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "lepšie.",
+          "definition": "better\nundefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "better",
+        "this",
+        "his"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "better"
+        ]
+      ],
+      "formattedSolution": "This is better.",
+      "id": "814c115e8eab",
+      "priority": 2,
+      "group": "af3c2ed84185"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "To nie je lepšie.",
+      "meaningInSourceLanguage": "This is not better.",
+      "id": "ead02baa7ba9",
+      "priority": 0,
+      "group": "fe8be02d8a6b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "To nie je lepšie.",
+      "meaning": "This is not better.",
+      "audio": "5ba0cae21f53bd0fa5f3f7497f28ed6e6f9f19ebc0767b428fd7ab534c9424cc",
+      "id": "bfe20a928199",
+      "priority": 1,
+      "group": "fe8be02d8a6b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "to\ntá\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "better.",
+          "definition": "lepšie\nundefined"
+        }
+      ],
+      "chips": [
+        "To",
+        "nie",
+        "je",
+        "lepšie",
+        "Tie",
+        "Nie",
+        "Je"
+      ],
+      "solutions": [
+        [
+          "To",
+          "nie",
+          "je",
+          "lepšie"
+        ]
+      ],
+      "formattedSolution": "To nie je lepšie.",
+      "id": "6a4c3b5876af",
+      "priority": 2,
+      "group": "fe8be02d8a6b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "To",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "nie",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "lepšie.",
+          "definition": "better\nundefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "not",
+        "better",
+        "it",
+        "his",
+        "this"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "not",
+          "better"
+        ]
+      ],
+      "formattedSolution": "This is not better.",
+      "id": "4663cb13c8a3",
+      "priority": 2,
+      "group": "fe8be02d8a6b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Áno, môže.",
+      "meaningInSourceLanguage": "Yes, it is possible.",
+      "id": "80e7a6d780a9",
+      "priority": 0,
+      "group": "1369826fa1fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Áno, môže.",
+      "meaning": "Yes, it is possible.",
+      "audio": "0cd88c42d1951f2623c2392c1defc6ccad1c125b676d7052c4bb7757f19c29ad",
+      "id": "abd168df4cd9",
+      "priority": 1,
+      "group": "1369826fa1fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Yes,",
+          "definition": "undefined\náno"
+        },
+        {
+          "word": "it",
+          "definition": "ono\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "possible.",
+          "definition": "možno\nundefined"
+        }
+      ],
+      "chips": [
+        "Áno",
+        "môže",
+        "mne",
+        "môj"
+      ],
+      "solutions": [
+        [
+          "Áno",
+          "môže"
+        ]
+      ],
+      "formattedSolution": "Áno, môže.",
+      "id": "985e9af9acb2",
+      "priority": 2,
+      "group": "1369826fa1fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Áno,",
+          "definition": "undefined\nyes"
+        },
+        {
+          "word": "môže.",
+          "definition": "maybe/can\nundefined"
+        }
+      ],
+      "chips": [
+        "Yes",
+        "it",
+        "is",
+        "possible",
+        "Is",
+        "his",
+        "in"
+      ],
+      "solutions": [
+        [
+          "Yes",
+          "it",
+          "is",
+          "possible"
+        ]
+      ],
+      "formattedSolution": "Yes, it is possible.",
+      "id": "3a1ab4c06fed",
+      "priority": 2,
+      "group": "1369826fa1fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Nie, nie je možné.",
+      "meaningInSourceLanguage": "No, it is not possible.",
+      "id": "7a03fe28dff2",
+      "priority": 0,
+      "group": "61c6b2d485c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Nie, nie je možné.",
+      "meaning": "No, it is not possible.",
+      "audio": "0577576d78f499d0ca38f2541058272c0044f427ce4fa80ed42cc335659472f0",
+      "id": "5fc39d3d71c9",
+      "priority": 1,
+      "group": "61c6b2d485c0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "No,",
+          "definition": "nie\nundefined"
+        },
+        {
+          "word": "it",
+          "definition": "ono\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "possible.",
+          "definition": "možno\nundefined"
+        }
+      ],
+      "chips": [
+        "Nie",
+        "nie",
+        "je",
+        "možné",
+        "vie",
+        "mne",
+        "Tie"
+      ],
+      "solutions": [
+        [
+          "Nie",
+          "nie",
+          "je",
+          "možné"
+        ]
+      ],
+      "formattedSolution": "Nie, nie je možné.",
+      "id": "e5f797a24357",
+      "priority": 2,
+      "group": "61c6b2d485c0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Nie,",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "nie",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "možné.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "No",
+        "it",
+        "is",
+        "not",
+        "possible",
+        "no",
+        "To",
+        "so",
+        "Not"
+      ],
+      "solutions": [
+        [
+          "No",
+          "it",
+          "is",
+          "not",
+          "possible"
+        ]
+      ],
+      "formattedSolution": "No, it is not possible.",
+      "id": "2068e1e4667f",
+      "priority": 2,
+      "group": "61c6b2d485c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Je to možné?",
+      "meaningInSourceLanguage": "Is this possible?",
+      "id": "6f28f7acf756",
+      "priority": 0,
+      "group": "3ec323980e8d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Je to možné?",
+      "meaning": "Is this possible?",
+      "audio": "7cfaac7f30063c10f8fcadee3d01963a1f10d531cb53dc5f0c5ccb075445ce2c",
+      "id": "7eceb1ec757a",
+      "priority": 1,
+      "group": "3ec323980e8d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "this",
+          "definition": "to\ntá\nundefined"
+        },
+        {
+          "word": "possible?",
+          "definition": "možno\nundefined"
+        }
+      ],
+      "chips": [
+        "Je",
+        "to",
+        "možné",
+        "To",
+        "Čo"
+      ],
+      "solutions": [
+        [
+          "Je",
+          "to",
+          "možné"
+        ]
+      ],
+      "formattedSolution": "Je to možné?",
+      "id": "2cfe77aaf626",
+      "priority": 2,
+      "group": "3ec323980e8d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "to",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "možné?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Is",
+        "this",
+        "possible",
+        "is",
+        "his"
+      ],
+      "solutions": [
+        [
+          "Is",
+          "this",
+          "possible"
+        ]
+      ],
+      "formattedSolution": "Is this possible?",
+      "id": "2fe5e1ff61d0",
+      "priority": 2,
+      "group": "3ec323980e8d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Čo to znamená?",
+      "meaningInSourceLanguage": "What does this mean?",
+      "id": "b8221697bdaa",
+      "priority": 0,
+      "group": "f89c43ac925f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Čo to znamená?",
+      "meaning": "What does this mean?",
+      "audio": "4aea51b368251799ffc1a5c74d29473e43ef8cb6cf2d9e3f7851f063628dd5e2",
+      "id": "cfb0dabdcfc8",
+      "priority": 1,
+      "group": "f89c43ac925f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "What",
+          "definition": "undefined\nčo"
+        },
+        {
+          "word": "does",
+          "definition": "undefined"
+        },
+        {
+          "word": "this",
+          "definition": "to\ntá\nundefined"
+        },
+        {
+          "word": "mean?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Čo",
+        "to",
+        "znamená",
+        "zo",
+        "To"
+      ],
+      "solutions": [
+        [
+          "Čo",
+          "to",
+          "znamená"
+        ]
+      ],
+      "formattedSolution": "Čo to znamená?",
+      "id": "ade5de10dc90",
+      "priority": 2,
+      "group": "f89c43ac925f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Čo",
+          "definition": "undefined\nwhat"
+        },
+        {
+          "word": "to",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "znamená?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "What",
+        "does",
+        "this",
+        "mean",
+        "has",
+        "than",
+        "This"
+      ],
+      "solutions": [
+        [
+          "What",
+          "does",
+          "this",
+          "mean"
+        ]
+      ],
+      "formattedSolution": "What does this mean?",
+      "id": "8dc99933ea07",
+      "priority": 2,
+      "group": "f89c43ac925f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Aj ja.",
+      "meaningInSourceLanguage": "Me too.",
+      "id": "defdc711849e",
+      "priority": 0,
+      "group": "c182a8094c32"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Aj ja.",
+      "meaning": "Me too.",
+      "audio": "a859f15bb97405ee94c6ef25fe1c09bf952df0b40d294512c2c8218d9ec0a551",
+      "id": "99b87cd61d9d",
+      "priority": 1,
+      "group": "c182a8094c32"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Me",
+          "definition": "undefined"
+        },
+        {
+          "word": "too.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Aj",
+        "ja",
+        "Ja",
+        "je"
+      ],
+      "solutions": [
+        [
+          "Aj",
+          "ja"
+        ]
+      ],
+      "formattedSolution": "Aj ja.",
+      "id": "b854d02ee89a",
+      "priority": 2,
+      "group": "c182a8094c32"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Aj",
+          "definition": "undefined"
+        },
+        {
+          "word": "ja.",
+          "definition": "I\nundefined"
+        }
+      ],
+      "chips": [
+        "Me",
+        "too",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "Me",
+          "too"
+        ]
+      ],
+      "formattedSolution": "Me too.",
+      "id": "91746e51d058",
+      "priority": 2,
+      "group": "c182a8094c32"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "S Bohom!",
+      "meaningInSourceLanguage": "Go with God!",
+      "id": "5d89afc6634f",
+      "priority": 0,
+      "group": "9ed7299c6553"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "S Bohom!",
+      "meaning": "Go with God!",
+      "audio": "d1142ec6834ba6ad006cb03cfca572c1680a9c7c5d29be277a961e2850b3d94f",
+      "id": "b58d29d6a89a",
+      "priority": 1,
+      "group": "9ed7299c6553"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Go",
+          "definition": "undefined"
+        },
+        {
+          "word": "with",
+          "definition": "undefined"
+        },
+        {
+          "word": "God!",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "S",
+        "Bohom",
+        "o",
+        "som"
+      ],
+      "solutions": [
+        [
+          "S",
+          "Bohom"
+        ]
+      ],
+      "formattedSolution": "S Bohom!",
+      "id": "6123ba516211",
+      "priority": 2,
+      "group": "9ed7299c6553"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "S",
+          "definition": "undefined"
+        },
+        {
+          "word": "Bohom!",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Go",
+        "with",
+        "God",
+        "not",
+        "To"
+      ],
+      "solutions": [
+        [
+          "Go",
+          "with",
+          "God"
+        ]
+      ],
+      "formattedSolution": "Go with God!",
+      "id": "a5d3ee8ae19c",
+      "priority": 2,
+      "group": "9ed7299c6553"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Neviem.",
+      "meaningInSourceLanguage": "I don't know.",
+      "id": "b453d42eb649",
+      "priority": 0,
+      "group": "19273fd5f1fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Neviem.",
+      "meaning": "I don't know.",
+      "audio": "e917edeb1de406bc56e1a7cf5a27f8e0d9d90fc61feae754ebb8936447a068af",
+      "id": "fbd8e7f262ce",
+      "priority": 1,
+      "group": "19273fd5f1fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Môže.",
+      "meaningInSourceLanguage": "Perhaps.",
+      "id": "7221c1b4012b",
+      "priority": 0,
+      "group": "d4d92f41e1cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Môže.",
+      "meaning": "Perhaps.",
+      "audio": "89a178fdcc84c287bd8da2ecad8eec81057274d1204849f70ab75e93cbea4f98",
+      "id": "3ce95a2aaca0",
+      "priority": 1,
+      "group": "d4d92f41e1cb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Opakuj. Nerozumel.",
+      "meaningInSourceLanguage": "Repeat. I didn't understand.",
+      "id": "4f12ce56b787",
+      "priority": 0,
+      "group": "8d4e84f63787"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Opakuj. Nerozumel.",
+      "meaning": "Repeat. I didn't understand.",
+      "audio": "f7a1508bc4d74a5ab402450d42e91710ae32a7cc2aa3691c5349e97050282960",
+      "id": "3c7b1248caae",
+      "priority": 1,
+      "group": "8d4e84f63787"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Repeat.",
+          "definition": "undefined"
+        },
+        {
+          "word": "I",
+          "definition": "ja"
+        },
+        {
+          "word": "didn't",
+          "definition": "undefined"
+        },
+        {
+          "word": "understand.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Opakuj",
+        "Nerozumel",
+        "parku",
+        "perom"
+      ],
+      "solutions": [
+        [
+          "Opakuj",
+          "Nerozumel"
+        ]
+      ],
+      "formattedSolution": "Opakuj. Nerozumel.",
+      "id": "3bec9dc5294e",
+      "priority": 2,
+      "group": "8d4e84f63787"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Opakuj.",
+          "definition": "undefined"
+        },
+        {
+          "word": "Nerozumel.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Repeat",
+        "I",
+        "didn't",
+        "understand",
+        "eat",
+        "not",
+        "don't"
+      ],
+      "solutions": [
+        [
+          "Repeat",
+          "I",
+          "didn't",
+          "understand"
+        ]
+      ],
+      "formattedSolution": "Repeat. I didn't understand.",
+      "id": "29fd5a7bbdd0",
+      "priority": 2,
+      "group": "8d4e84f63787"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Si pripravený?",
+      "meaningInSourceLanguage": "Are you ready?",
+      "id": "4deb58104324",
+      "priority": 0,
+      "group": "0ddf62f1e70d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Si pripravený?",
+      "meaning": "Are you ready?",
+      "audio": "9d86835f45c2b0e14dec55a4f8f194516c94ef0e8a19b188901031b51d4a0448",
+      "id": "c0c9b417146d",
+      "priority": 1,
+      "group": "0ddf62f1e70d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "si\nsme\nste\nsú\nundefined"
+        },
+        {
+          "word": "you",
+          "definition": "ty\nundefined\nvy"
+        },
+        {
+          "word": "ready?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Si",
+        "pripravený",
+        "pri",
+        "si"
+      ],
+      "solutions": [
+        [
+          "Si",
+          "pripravený"
+        ]
+      ],
+      "formattedSolution": "Si pripravený?",
+      "id": "3a51f1527172",
+      "priority": 2,
+      "group": "0ddf62f1e70d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Si",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "pripravený?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Are",
+        "you",
+        "ready",
+        "red",
+        "are"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "you",
+          "ready"
+        ]
+      ],
+      "formattedSolution": "Are you ready?",
+      "id": "03279716b59a",
+      "priority": 2,
+      "group": "0ddf62f1e70d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Daj!",
+      "meaningInSourceLanguage": "Let's go!",
+      "id": "1092773eff7a",
+      "priority": 0,
+      "group": "292ea2f76c3d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Daj!",
+      "meaning": "Let's go!",
+      "audio": "dd28e16ea08ce2f02e8ac352a9ce33c085db6ec61fa013dacc14543663be4209",
+      "id": "7ddab15eae46",
+      "priority": 1,
+      "group": "292ea2f76c3d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pozdrav",
+      "meaningInSourceLanguage": "greeting",
+      "id": "ef373e8d8c4d",
+      "priority": 0,
+      "group": "a4cd28d542dd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pozdrav"
+      ],
+      "phrase": [
+        {
+          "word": "greeting",
+          "definition": "pozdrav\nundefined"
+        }
+      ],
+      "id": "e8899d29d504",
+      "priority": 1,
+      "group": "a4cd28d542dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pozdrav",
+      "meaning": "greeting",
+      "audio": "683d82ab40f5a2a1225852f5a5c234407d74b97c84946a57462c9bfbc3663f23",
+      "id": "1bb754625185",
+      "priority": 1,
+      "group": "a4cd28d542dd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "zdravý",
+      "meaningInSourceLanguage": "healthy/hello",
+      "id": "754c33b1525f",
+      "priority": 0,
+      "group": "d94160bdab1b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "zdravý"
+      ],
+      "phrase": [
+        {
+          "word": "healthy/hello",
+          "definition": "undefined\nzdravý"
+        }
+      ],
+      "id": "51f1c2c3089d",
+      "priority": 1,
+      "group": "d94160bdab1b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "zdravý",
+      "meaning": "healthy/hello",
+      "audio": "37bb737642bc98a71f2146fc1e36ac1b1d1a085abc5eeda5a6c30a2926ba1cc2",
+      "id": "aa63deff71f9",
+      "priority": 1,
+      "group": "d94160bdab1b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "beseda",
+      "meaningInSourceLanguage": "conversation",
+      "id": "59c9f76bcf4c",
+      "priority": 0,
+      "group": "096f9f220976"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "beseda"
+      ],
+      "phrase": [
+        {
+          "word": "conversation",
+          "definition": "beseda\nundefined"
+        }
+      ],
+      "id": "2e911fe909a2",
+      "priority": 1,
+      "group": "096f9f220976"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "beseda",
+      "meaning": "conversation",
+      "audio": "608cc0232d497a58bdf142323bd6bf5254cffc02831b63bc7135e6879dd80efb",
+      "id": "2daba949ae37",
+      "priority": 1,
+      "group": "096f9f220976"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ráno",
+      "meaningInSourceLanguage": "morning",
+      "id": "ef10f0921013",
+      "priority": 0,
+      "group": "f65bc5d28d0e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ráno"
+      ],
+      "phrase": [
+        {
+          "word": "morning",
+          "definition": "ráno\nundefined"
+        }
+      ],
+      "id": "1782dae54521",
+      "priority": 1,
+      "group": "f65bc5d28d0e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ráno",
+      "meaning": "morning",
+      "audio": "36bfb0df57b4b605aec9beca3443c24e7d32ebebb7413e20e6f966b60a5633d5",
+      "id": "a445dfddc330",
+      "priority": 1,
+      "group": "f65bc5d28d0e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "večer",
+      "meaningInSourceLanguage": "evening",
+      "id": "b2b841f0cba0",
+      "priority": 0,
+      "group": "533763f11726"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "večer"
+      ],
+      "phrase": [
+        {
+          "word": "evening",
+          "definition": "undefined\nvečer"
+        }
+      ],
+      "id": "0568863ba09c",
+      "priority": 1,
+      "group": "533763f11726"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "večer",
+      "meaning": "evening",
+      "audio": "68c6123688c3fcc88cb3e5f2888b47c5631bd014455674d601f30f47387b0692",
+      "id": "66807949e01a",
+      "priority": 1,
+      "group": "533763f11726"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "deň",
+      "meaningInSourceLanguage": "day",
+      "id": "390ddbefa2e0",
+      "priority": 0,
+      "group": "f167cf0e80c8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "deň"
+      ],
+      "phrase": [
+        {
+          "word": "day",
+          "definition": "deň\nundefined"
+        }
+      ],
+      "id": "f34e90fa9a97",
+      "priority": 1,
+      "group": "f167cf0e80c8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deň",
+      "meaning": "day",
+      "audio": "6cd44aab0d4d44c0e9e83c1c61cd0d64920e9099188065d477cce42c8071f947",
+      "id": "1c0e378d91b7",
+      "priority": 1,
+      "group": "f167cf0e80c8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "noc",
+      "meaningInSourceLanguage": "night",
+      "id": "c907ec7b5b65",
+      "priority": 0,
+      "group": "003ed3a33c9a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "noc"
+      ],
+      "phrase": [
+        {
+          "word": "night",
+          "definition": "noc\nundefined"
+        }
+      ],
+      "id": "7ba57171b269",
+      "priority": 1,
+      "group": "003ed3a33c9a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "noc",
+      "meaning": "night",
+      "audio": "6deef24502ab643cc25182d136b40bd2209f12789eaeee918bc364823df987ba",
+      "id": "b3752f8d783d",
+      "priority": 1,
+      "group": "003ed3a33c9a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "chvála",
+      "meaningInSourceLanguage": "thanks",
+      "id": "f84d4390be0a",
+      "priority": 0,
+      "group": "bc1571b1ce4b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "chvála"
+      ],
+      "phrase": [
+        {
+          "word": "thanks",
+          "definition": "chvála\nundefined"
+        }
+      ],
+      "id": "3c82c555a31b",
+      "priority": 1,
+      "group": "bc1571b1ce4b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chvála",
+      "meaning": "thanks",
+      "audio": "f0decf9c641140c2943b7c628a6bc56dd01d00375cff9197da83bc9f66f1beb5",
+      "id": "b5907e0b7346",
+      "priority": 1,
+      "group": "bc1571b1ce4b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pardon",
+      "meaningInSourceLanguage": "pardon",
+      "id": "79ac62c3089e",
+      "priority": 0,
+      "group": "81b61d3e60ed"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pardon"
+      ],
+      "phrase": [
+        {
+          "word": "pardon",
+          "definition": "pardon\nundefined"
+        }
+      ],
+      "id": "eb716ca2cd3f",
+      "priority": 1,
+      "group": "81b61d3e60ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pardon",
+      "meaning": "pardon",
+      "audio": "2a3405af605670bb3ac103bcf05cc50e78877091bcc0a27aa46e915df0148f11",
+      "id": "1768af4a761e",
+      "priority": 1,
+      "group": "81b61d3e60ed"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "izvini",
+      "meaningInSourceLanguage": "excuse me",
+      "id": "0f073010d904",
+      "priority": 0,
+      "group": "708dfa0eaa88"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "izvini"
+      ],
+      "phrase": [
+        {
+          "word": "excuse",
+          "definition": "undefined"
+        },
+        {
+          "word": "me",
+          "definition": "undefined"
+        }
+      ],
+      "id": "e7578c4a1c7c",
+      "priority": 1,
+      "group": "708dfa0eaa88"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "izvini",
+      "meaning": "excuse me",
+      "audio": "0d3beb34379daf4ea3a5e0ef1bb8d2f09af5727d45eeab6f4e04099acbc87d79",
+      "id": "37f4c6bc0197",
+      "priority": 1,
+      "group": "708dfa0eaa88"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "dobrý",
+      "meaningInSourceLanguage": "good",
+      "id": "dca1b3652dab",
+      "priority": 0,
+      "group": "c665da1208a0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "dobrý"
+      ],
+      "phrase": [
+        {
+          "word": "good",
+          "definition": "dobrý\nundefined"
+        }
+      ],
+      "id": "9843165cde30",
+      "priority": 1,
+      "group": "c665da1208a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dobrý",
+      "meaning": "good",
+      "audio": "bf558f4cae34a9d76371816951592f170f4e4ad0803e5d10ad503af227da120a",
+      "id": "8a752869d7d3",
+      "priority": 1,
+      "group": "c665da1208a0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "lepšie",
+      "meaningInSourceLanguage": "better",
+      "id": "4500c5c317a4",
+      "priority": 0,
+      "group": "d2ade34afaef"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "lepšie"
+      ],
+      "phrase": [
+        {
+          "word": "better",
+          "definition": "lepšie\nundefined"
+        }
+      ],
+      "id": "53d82f758bb2",
+      "priority": 1,
+      "group": "d2ade34afaef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lepšie",
+      "meaning": "better",
+      "audio": "14bda94ef652c2bbaba2fa4c14a7d2541430b1976fb0110d1761d730eb0d627d",
+      "id": "14e1aae0064a",
+      "priority": 1,
+      "group": "d2ade34afaef"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "možno",
+      "meaningInSourceLanguage": "possible",
+      "id": "9ec8027b1b61",
+      "priority": 0,
+      "group": "e3dcdcc3ecca"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "možno"
+      ],
+      "phrase": [
+        {
+          "word": "possible",
+          "definition": "možno\nundefined"
+        }
+      ],
+      "id": "79375e291936",
+      "priority": 1,
+      "group": "e3dcdcc3ecca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "možno",
+      "meaning": "possible",
+      "audio": "d569950ad4b5b552e1d06cff6f3544d0631e4c1abe8a876fc11729737fef830d",
+      "id": "85aad0f491d1",
+      "priority": 1,
+      "group": "e3dcdcc3ecca"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "škoda",
+      "meaningInSourceLanguage": "pity",
+      "id": "740deb8ffa50",
+      "priority": 0,
+      "group": "1cb7281421ff"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "škoda"
+      ],
+      "phrase": [
+        {
+          "word": "pity",
+          "definition": "undefined\nškoda"
+        }
+      ],
+      "id": "0174f9239d35",
+      "priority": 1,
+      "group": "1cb7281421ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "škoda",
+      "meaning": "pity",
+      "audio": "bc9d77c0597bc4e506e078e94db311f1c403c9ab36176847bec4791b675dc942",
+      "id": "62f056310727",
+      "priority": 1,
+      "group": "1cb7281421ff"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "tak",
+      "meaningInSourceLanguage": "so",
+      "id": "0c83c6c8a495",
+      "priority": 0,
+      "group": "6095362f0822"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "tak"
+      ],
+      "phrase": [
+        {
+          "word": "so",
+          "definition": "tak\nundefined"
+        }
+      ],
+      "id": "e037c8d0943c",
+      "priority": 1,
+      "group": "6095362f0822"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tak",
+      "meaning": "so",
+      "audio": "2bf8ca953ceb858a147173dca3965d0ee5f2a91eea23c69d214ad4165a6c2433",
+      "id": "4eed9bb66fd9",
+      "priority": 1,
+      "group": "6095362f0822"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "čo",
+      "meaningInSourceLanguage": "what",
+      "id": "c4ed5f0a00d7",
+      "priority": 0,
+      "group": "a6efb9b86df7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "čo"
+      ],
+      "phrase": [
+        {
+          "word": "what",
+          "definition": "undefined\nčo"
+        }
+      ],
+      "id": "030e350a9b66",
+      "priority": 1,
+      "group": "a6efb9b86df7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "čo",
+      "meaning": "what",
+      "audio": "88b685b525782883f59e77885ab6b5e844aa99bbf11a65e5a686bb3111aa584c",
+      "id": "a907f8ef39bd",
+      "priority": 1,
+      "group": "a6efb9b86df7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "nie",
+      "meaningInSourceLanguage": "no",
+      "id": "0203986e43a9",
+      "priority": 0,
+      "group": "0b20ac6d8627"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "nie"
+      ],
+      "phrase": [
+        {
+          "word": "no",
+          "definition": "nie\nundefined"
+        }
+      ],
+      "id": "8bf685b01059",
+      "priority": 1,
+      "group": "0b20ac6d8627"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nie",
+      "meaning": "no",
+      "audio": "a24ce6d11de320f944adf21e6c98e9a1c6371e3352789f2b628d83c43781f01c",
+      "id": "615003b8f023",
+      "priority": 1,
+      "group": "0b20ac6d8627"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "áno",
+      "meaningInSourceLanguage": "yes",
+      "id": "4329c76eb889",
+      "priority": 0,
+      "group": "4fe54fecf4f4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "áno"
+      ],
+      "phrase": [
+        {
+          "word": "yes",
+          "definition": "undefined\náno"
+        }
+      ],
+      "id": "20ae86bc3db0",
+      "priority": 1,
+      "group": "4fe54fecf4f4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "áno",
+      "meaning": "yes",
+      "audio": "9bd4a7f02f3f9ccea37eb6a3e6ed2d123d8d2ad4e566ef87862db9eee7569c08",
+      "id": "d0dbd172aaf7",
+      "priority": 1,
+      "group": "4fe54fecf4f4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "môže",
+      "meaningInSourceLanguage": "maybe/can",
+      "id": "40ae9f77edca",
+      "priority": 0,
+      "group": "ec057366db1a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "môže"
+      ],
+      "phrase": [
+        {
+          "word": "maybe/can",
+          "definition": "môže\nundefined"
+        }
+      ],
+      "id": "a0d28c7d6a2f",
+      "priority": 1,
+      "group": "ec057366db1a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "môže",
+      "meaning": "maybe/can",
+      "audio": "eff798c1c6b25fc79f4c012db7cc011ef0ea535075c87b5e4dc7d0fbdd44e5a3",
+      "id": "1c9ebc255946",
+      "priority": 1,
+      "group": "ec057366db1a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "daj",
+      "meaningInSourceLanguage": "let's go",
+      "id": "1397286b1fe3",
+      "priority": 0,
+      "group": "5f75267dacfe"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "daj"
+      ],
+      "phrase": [
+        {
+          "word": "let's",
+          "definition": "undefined"
+        },
+        {
+          "word": "go",
+          "definition": "undefined"
+        }
+      ],
+      "id": "b78e9ebc1297",
+      "priority": 1,
+      "group": "5f75267dacfe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "daj",
+      "meaning": "let's go",
+      "audio": "fbfbfdb885576c49df804f88b8c4f1cbffa97acb929eae82a80c8af2b3041e69",
+      "id": "889143de327e",
+      "priority": 1,
+      "group": "5f75267dacfe"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Module 1 - Very basic grammar and phrases
 ## Conjugation of to be and the Nominative Case
-New Words: [this, this, that, that over there, that over there, am, are, is, are, are, are, I, you, he, she, it, we, you, they (m/mixed), they (f/n), person, woman, man, child, friend, sister, parent, house, city, day, also, who]
+New Words: [this, this, that, that over there, that over there, am, are, is, are, are, are, I, you, he, she, it, we, you, they, they, person, woman, man, child, friend, sister, parent, house, city, day, also, who]
 Phrases: ["I am wise.",
 "This is my sister.",
 "She is very wise",
@@ -71,7 +71,7 @@ Phrases: [
 "Let's go!"]
 
 ## Family (Instrumental case)
-New Words: [brother, grandfather, grandmother, aunt, grandson, granddaughter, mother, father, family, son, daughter, uncle (father's brother), speaks, goes, we go, lives]
+New Words: [brother, grandfather, grandmother, aunt, grandson, granddaughter, mother, father, family, son, daughter, uncle, speaks, goes, we go, lives]
 Phrases: [
 "He is my brother.",
 "He is your father",
@@ -96,7 +96,7 @@ Phrases: [
 ]
 
 ## Hobbies (Verbs – Imperfective only)
-New Words: [to read, to write (writes), to play, to watch, to listen, to paint, to sing, to learn, to sit (sits), to sew (sews), to dance]
+New Words: [to read, to write, to play, to watch, to listen, to paint, to sing, to learn, to sit, to sew, to dance]
 Phrases: ["I am reading a book.",
 "She is writing letters.",
 "He is playing football.",
@@ -144,7 +144,7 @@ Phrases: ["I play football.",
 
 # Module 2 – Food and Drinks
 ## Food (Accusative case)
-New Words: [bread, to prepare, to carry, to eat (eats), butter, milk, meat, egg, breakfast, lunch, to buy, dinner, dish, book, sweet, food]
+New Words: [bread, to prepare, to carry, to eat, butter, milk, meat, egg, breakfast, lunch, to buy, dinner, dish, book, sweet, food]
 Phrases: ["I am eating bread.",
 "She is eating meat.",
 "He likes milk.",
@@ -168,7 +168,7 @@ Phrases: ["I am eating bread.",
 "They know that I always eat bread with butter."]
 
 ## Drinks (Genitive case)
-New Words: [water, beer, to drink, wine, coffee, juice, to want (wants), bottle (flask), to try to find, glass, bottle, tea, milk, without, for, from, at/by]
+New Words: [water, beer, to drink, wine, coffee, juice, to want, bottle, to try to find, glass, bottle, tea, milk, without, for, from, at/by]
 Phrases: ["I do not have water.",
 "She does not drink wine.",
 "We do not drink beer.",
@@ -240,7 +240,7 @@ Phrases: ["This is my school.",
 "He is my teacher."]
 
 ## Shapes
-New Words: [circle, square, four, long, three, triangle, to stand (stands), straight, shape, line, point, outline, side, figure, shape]
+New Words: [circle, square, four, long, three, triangle, to stand, straight, shape, line, point, outline, side, figure, shape]
 Phrases: ["This is a circle.",
 "A square has four sides.",
 "A triangle has three sides.",
@@ -263,7 +263,7 @@ Phrases: ["This is a circle.",
 "A beautiful figure is standing on the table."]
 
 ## Nationalities / Languages
-New Words: [Slav, language, country, nation, name, Croat (f), Russian (m), Pole (m), German (m), Englishman]
+New Words: [Slav, language, country, nation, name, Croat, Russian, Pole, German, Englishman]
 Phrases: ["He is a Slav.",
 "She speaks the Slavic language.",
 "This is my language.",
@@ -288,7 +288,7 @@ Phrases: ["He is a Slav.",
 # Module 4 – Rooms and stuff at home
 
 ## Rooms/furniture
-New Words: [room, table, chair, pillow, bed, window, doors, wardrobe, chest, shelf, to hold (holds), to hang (hangs), wall, lamp, to give]
+New Words: [room, table, chair, pillow, bed, window, doors, wardrobe, chest, shelf, to hold, to hang, wall, lamp, to give]
 Phrases: ["The room is warm and quiet.",
 "The table stands in the middle of the room.",
 "The chair is near the table.",
@@ -336,7 +336,7 @@ Phrases: ["The knife is lying on the table.",
 
 # Module 5 – Describing nature and directions
 ## Animals (Dative case)
-New Words: [cat, dog, bird, to help, to show (shows), horse, to give (gives), fish, frog, bear, wolf, mouse, animal]
+New Words: [cat, dog, bird, to help, to show, horse, to give, fish, frog, bear, wolf, mouse, animal]
 Phrases: ["I give the cat a fish.",
 "She says to the dog.",
 "He helps the bird.",
@@ -359,7 +359,7 @@ Phrases: ["I give the cat a fish.",
 "Will you give the dog a tasty bone?"]
 
 ## Nature
-New Words: [river, through, mountain, valley, forest, grass, flower, rose, to grow (grows), earth, stone, field, oak, moon, to bloom (blooms), tree, to lie (lies), between]
+New Words: [river, through, mountain, valley, forest, grass, flower, rose, to grow, earth, stone, field, oak, moon, to bloom, tree, to lie, between]
 Phrases: ["The river flows through the valley.",
 "The mountain is high.",
 "We are going to the forest.",
@@ -383,7 +383,7 @@ Phrases: ["The river flows through the valley.",
 "The river goes between the fields."]
 
 ## Weather
-New Words: [weather, rain, to fall, snow, to change, sun, to shine, air, wind, warm, cold, frost, cloud, to heat (heats), cloudy, to smell, to see (sees)]
+New Words: [weather, rain, to fall, snow, to change, sun, to shine, air, wind, warm, cold, frost, cloud, to heat, cloudy, to smell, to see]
 Phrases: ["The weather is good.",
 "It is raining.",
 "Snow lies on the ground.",
@@ -430,7 +430,7 @@ Phrases: [
 "A red rose grows here."]
 
 ## Cardinal points/directions
-New Words: [north, south, west, east, northern, southern, western, eastern, compass, side, where, to rise (rises), to show, map, to travel, right, left, straight]
+New Words: [north, south, west, east, northern, southern, western, eastern, compass, side, where, to rise, to show, map, to travel, right, left, straight]
 Phrases: ["The north is cold.",
 "The south is warm.",
 "The sun rises in the east.",
@@ -455,7 +455,7 @@ Phrases: ["The north is cold.",
 
 # Module 6 Grammar revision
 ## Grammar revision cases
-New Words: [to cut (cuts), gift, universe, mirror]
+New Words: [to cut, gift, universe, mirror]
 Phrases: ["There is no bone here.",
 "I give to the woman.",
 "She is in the city.",
@@ -480,7 +480,7 @@ Phrases: ["There is no bone here.",
 "Good night!"]
 
 ## Grammar revision pronouncs
-New Words: [to know, to know (knows), dream, thing]
+New Words: [to know, to know, dream, thing]
 Phrases: ["I don't know that.",
 "I have known about that thing for a long time.",
 "Who do you see?.",
@@ -492,21 +492,21 @@ Phrases: ["I don't know that.",
 "Give me water.",
 "With us everything is always cheerful.",
 "You don't see me.",
-"Komu daš dar?",
+"Who do you give a gift to?",
 "Are you talking about me?",
-"Ne, ja ne govorim o tobě.",
+"No, I don't talt about you.",
 "What are you talking about?",
 "These women are beautiful.",
 "You do not have those friends.",
-"On daě sobě spokoj.",
-"čego tu nema v domu?",
-"Tomu psu ty daěš kosti.",
-"To vaša kava ili jej?"]
+"He stops troubling others.",
+"What isn't at this house here?",
+"You give to this dog bones.",
+"Is it your coffee or her?"]
 
 # Module 7 – Living in the city and interactions with them
 ## City/Buildings
 
-New Words: [city, house, square/market, station, bridge, shop/store, market, library, church, street, to lead (leads)]
+New Words: [city, house, square/market, station, bridge, shop/store, market, library, church, street, to lead]
 Phrases: ["This is a big city.",
 "The house stands on the street.",
 "We are going to the square.",
@@ -553,16 +553,16 @@ Phrases: ["My brother is a teacher.",
 "The artist shows his work."]
 ## Transport/Vehicles/Car
 
-New Words: [car, bus, train, bicycle, station, driver, road, bridge, speed, traffic light, to go/drive (goes/drives), to sit (sits), to connect/tie (connects/ties), broken, careful]
+New Words: [car, bus, train, bicycle, station, driver, road, bridge, speed, traffic light, to go/drive, to sit, to connect/tie, broken, careful]
 Phrases: ["The car is standing on the street.",
 "The bus goes to the center.",
 "The train goes to the station.",
-"Tu jest sěděnje. Možna sěsti",
+"Here is a seat. One can sit.",
 "The station is big.",
 "The driver drives fast.",
 "The road goes through the forest.",
 "The bridge connects two cities.",
-"Brzina jest važna za bezpečnosti na ulici.",
+"A speed limit is important for the security on the street.",
 "The traffic light shows red.",
 "The car is new and beautiful.",
 "The bus carries many people.",
@@ -624,7 +624,7 @@ Phrases: ["Where is the station?",
 
 # Module 8 Numbers and time of the day
 ## Numbers 0-10
-New Words: [zero, one (m), one (f), one (n), two (m/n), two (f), three, four, five, six, seven, eight, nine, ten, clock/watch, boy, computer, bicycle, ruble, woman, field, cat, dollar]
+New Words: [zero, one, one, one, two, two, three, four, five, six, seven, eight, nine, ten, clock/watch, boy, computer, bicycle, ruble, woman, field, cat, dollar]
 Phrases: ["zero clocks",
 "one boy",
 "one woman",
@@ -744,7 +744,7 @@ Here is the translation of your entire markdown file:
 
 ## Talking about Time (past tense)
 
-New Words: [time, minute, second, hour, today, was (m), was (f), was (n), were, went/walked (m), went/walked (f), went/walked (n), went/walked (pl), yesterday, tomorrow, evening, midnight, how much, to sleep (sleeps), to last]
+New Words: [time, minute, second, hour, today, was, was, was, were, went/walked, went/walked, went/walked, went/walked, yesterday, tomorrow, evening, midnight, how much, to sleep, to last]
 Phrases: ["What time is it?",
 "He had one hour.",
 "Tomorrow is too late.",
@@ -835,7 +835,7 @@ Phrases: ["He wears a blue shirt.",
 "New clothes are expensive.",
 "The shirt is in the drawer.",
 "The hat hangs on the wall.",
-"He wore and put on a green tennis shoe or shirt yesterday at two o'clock. I'm not sure right now.",
+"He wore and put on a green tennis shoe or shirt yesterday at two AM. I'm not sure right now.",
 "You want a scarf or a shirt.",
 "The ugly gloves are lying on the table, and I wear the red coat.",
 "She bought warm shoes.",
@@ -847,7 +847,7 @@ Phrases: ["He wears a blue shirt.",
 
 ## Body
 
-New Words: [hand, leg, head, eye, brain, foot, ear, nose, face, heart, finger, stomach, body, to hurt (hurts), hair, similar, to hear (hears)]
+New Words: [hand, leg, head, eye, brain, foot, ear, nose, face, heart, finger, stomach, body, to hurt, hair, similar, to hear]
 Phrases: ["My hand hurts.",
 "She has a long leg.",
 "The head is on the body.",
@@ -872,7 +872,7 @@ Phrases: ["My hand hurts.",
 
 ## Character (Conditional)
 
-New Words: [good, bad, strong, weak, brave, quiet, wise, stupid, sincere, lazy, I would be, you would be, he/she/it would be, we would be, you would be, they would be, to be silent (is silent)]
+New Words: [good, bad, strong, weak, brave, quiet, wise, stupid, sincere, lazy, I would be, you would be, he/she/it would be, we would be, you would be, they would be, to be silent]
 Phrases: ["He is a good person.",
 "She is sometimes bad.",
 "A strong spirit is important.",
@@ -897,7 +897,7 @@ Phrases: ["He is a good person.",
 
 ## Emotions (adverbs)
 
-New Words: [joyful, sad, angry, love, frightened, peace, envy, ashamed, shame, proud, cheerful, tremor, to feel (feels), to hide, to run away]
+New Words: [joyful, sad, angry, love, frightened, peace, envy, ashamed, shame, proud, cheerful, tremor, to feel, to hide, to run away]
 Phrases: ["We feel joyful this week.",
 "He spoke sadly.",
 "He angrily tells him to work.",
@@ -921,7 +921,7 @@ Phrases: ["We feel joyful this week.",
 
 ## Physical Appearance (Easy comparisons)
 
-New Words: [tall, short, fat, thin, small, beautiful, ugly, old, young, hair, eyes, than, taller/higher, skin, less, to laugh (laughs), to shine, star, light, dark]
+New Words: [tall, short, fat, thin, small, beautiful, ugly, old, young, hair, eyes, than, taller/higher, skin, less, to laugh, to shine, star, light, dark]
 Phrases: ["He is taller and stronger than he is.",
 "She is shorter and thinner like him.",
 "The fat man is walking down the street.",

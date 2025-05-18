@@ -1,0 +1,2677 @@
+{
+  "id": "4873b8184638",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Počasí je dobré.",
+      "meaningInSourceLanguage": "The weather is good.",
+      "id": "24a1f51cce61",
+      "priority": 0,
+      "group": "2ce34eb7467e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Počasí je dobré.",
+      "meaning": "The weather is good.",
+      "audio": "54b103125bd7782be0c32a05ee02a6151640c8467f8164101060720236a00167",
+      "id": "35695be3ca70",
+      "priority": 1,
+      "group": "2ce34eb7467e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "weather",
+          "definition": "počasí\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "good.",
+          "definition": "dobrý\nundefined"
+        }
+      ],
+      "chips": [
+        "Počasí",
+        "je",
+        "dobré",
+        "do",
+        "To"
+      ],
+      "solutions": [
+        [
+          "Počasí",
+          "je",
+          "dobré"
+        ]
+      ],
+      "formattedSolution": "Počasí je dobré.",
+      "id": "e0e3b828739d",
+      "priority": 2,
+      "group": "2ce34eb7467e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Počasí",
+          "definition": "undefined\nweather"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "dobré.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "weather",
+        "is",
+        "good",
+        "the",
+        "She",
+        "her"
+      ],
+      "solutions": [
+        [
+          "The",
+          "weather",
+          "is",
+          "good"
+        ]
+      ],
+      "formattedSolution": "The weather is good.",
+      "id": "4b76564ef6e8",
+      "priority": 2,
+      "group": "2ce34eb7467e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Padá déšť.",
+      "meaningInSourceLanguage": "It is raining.",
+      "id": "6472c6c5b111",
+      "priority": 0,
+      "group": "fc651be8fc9e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Padá déšť.",
+      "meaning": "It is raining.",
+      "audio": "3aae6853781e33422d40cf7f8e8eb20496494df6713fa8c630c7c72598b593e5",
+      "id": "4accebd56b91",
+      "priority": 1,
+      "group": "fc651be8fc9e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "ono\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "raining.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Padá",
+        "déšť",
+        "dáš",
+        "dá"
+      ],
+      "solutions": [
+        [
+          "Padá",
+          "déšť"
+        ]
+      ],
+      "formattedSolution": "Padá déšť.",
+      "id": "1bd8a4a1418b",
+      "priority": 2,
+      "group": "fc651be8fc9e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Padá",
+          "definition": "undefined"
+        },
+        {
+          "word": "déšť.",
+          "definition": "rain\nundefined"
+        }
+      ],
+      "chips": [
+        "It",
+        "is",
+        "raining",
+        "it",
+        "in"
+      ],
+      "solutions": [
+        [
+          "It",
+          "is",
+          "raining"
+        ]
+      ],
+      "formattedSolution": "It is raining.",
+      "id": "93ba0ffe79bc",
+      "priority": 2,
+      "group": "fc651be8fc9e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sníh leží na zemi.",
+      "meaningInSourceLanguage": "Snow lies on the ground.",
+      "id": "9ae34cda4a1a",
+      "priority": 0,
+      "group": "84b5db3b7cc8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sníh leží na zemi.",
+      "meaning": "Snow lies on the ground.",
+      "audio": "a48a2d8d6a6da01c1ed25de61ea167694eb0e3d13703d3be183d031a98635796",
+      "id": "99ed26a439ff",
+      "priority": 1,
+      "group": "84b5db3b7cc8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Snow",
+          "definition": "sníh\nundefined"
+        },
+        {
+          "word": "lies",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "na\nundefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "ground.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Sníh",
+        "leží",
+        "na",
+        "zemi",
+        "než",
+        "není",
+        "ze"
+      ],
+      "solutions": [
+        [
+          "Sníh",
+          "leží",
+          "na",
+          "zemi"
+        ]
+      ],
+      "formattedSolution": "Sníh leží na zemi.",
+      "id": "c75b9c23feac",
+      "priority": 2,
+      "group": "84b5db3b7cc8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Sníh",
+          "definition": "snow\nundefined"
+        },
+        {
+          "word": "leží",
+          "definition": "undefined"
+        },
+        {
+          "word": "na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "zemi.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Snow",
+        "lies",
+        "on",
+        "the",
+        "ground",
+        "son",
+        "in",
+        "now",
+        "One"
+      ],
+      "solutions": [
+        [
+          "Snow",
+          "lies",
+          "on",
+          "the",
+          "ground"
+        ]
+      ],
+      "formattedSolution": "Snow lies on the ground.",
+      "id": "d0277cd75f45",
+      "priority": 2,
+      "group": "84b5db3b7cc8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Slunce svítí.",
+      "meaningInSourceLanguage": "The sun is shining.",
+      "id": "5be5abefbb08",
+      "priority": 0,
+      "group": "3845acc8fafa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Slunce svítí.",
+      "meaning": "The sun is shining.",
+      "audio": "678689187d873ec4cf801c5968a851fc7e64e3e7f46128609747adeed77c4ce5",
+      "id": "f69c874f4da0",
+      "priority": 1,
+      "group": "3845acc8fafa"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "sun",
+          "definition": "slunce\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "shining.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Slunce",
+        "svítí",
+        "slunce",
+        "sluncí"
+      ],
+      "solutions": [
+        [
+          "Slunce",
+          "svítí"
+        ]
+      ],
+      "formattedSolution": "Slunce svítí.",
+      "id": "f12abff1528a",
+      "priority": 2,
+      "group": "3845acc8fafa"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Slunce",
+          "definition": "sun\nundefined"
+        },
+        {
+          "word": "svítí.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "sun",
+        "is",
+        "shining",
+        "in",
+        "his",
+        "son"
+      ],
+      "solutions": [
+        [
+          "The",
+          "sun",
+          "is",
+          "shining"
+        ]
+      ],
+      "formattedSolution": "The sun is shining.",
+      "id": "7c2cef99cb6c",
+      "priority": 2,
+      "group": "3845acc8fafa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vzduch je čistý.",
+      "meaningInSourceLanguage": "The air is clean.",
+      "id": "c01670de6530",
+      "priority": 0,
+      "group": "f7c53796f042"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Vzduch je čistý.",
+      "meaning": "The air is clean.",
+      "audio": "22428512968d358700b7da218c9cd709917285866b742a9822c4c4b01c69b057",
+      "id": "054a914d4a14",
+      "priority": 1,
+      "group": "f7c53796f042"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "air",
+          "definition": "undefined\nvzduch"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "clean.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Vzduch",
+        "je",
+        "čistý",
+        "se",
+        "jde"
+      ],
+      "solutions": [
+        [
+          "Vzduch",
+          "je",
+          "čistý"
+        ]
+      ],
+      "formattedSolution": "Vzduch je čistý.",
+      "id": "d8ba46be9592",
+      "priority": 2,
+      "group": "f7c53796f042"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vzduch",
+          "definition": "air\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "čistý.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "air",
+        "is",
+        "clean",
+        "in",
+        "an",
+        "as"
+      ],
+      "solutions": [
+        [
+          "The",
+          "air",
+          "is",
+          "clean"
+        ]
+      ],
+      "formattedSolution": "The air is clean.",
+      "id": "51651659f7e3",
+      "priority": 2,
+      "group": "f7c53796f042"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vítr fouká silně.",
+      "meaningInSourceLanguage": "The wind is blowing strongly.",
+      "id": "e1d77291b801",
+      "priority": 0,
+      "group": "269fdf5a1836"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Vítr fouká silně.",
+      "meaning": "The wind is blowing strongly.",
+      "audio": "9650fe976c54e847991459e7a8b16a4b94426e44fcee225f2c78d407a5e328bc",
+      "id": "b040bc0905cc",
+      "priority": 1,
+      "group": "269fdf5a1836"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "wind",
+          "definition": "undefined\nvítr"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "blowing",
+          "definition": "undefined"
+        },
+        {
+          "word": "strongly.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Vítr",
+        "fouká",
+        "silně",
+        "silná",
+        "dítě"
+      ],
+      "solutions": [
+        [
+          "Vítr",
+          "fouká",
+          "silně"
+        ]
+      ],
+      "formattedSolution": "Vítr fouká silně.",
+      "id": "9adebf6a715d",
+      "priority": 2,
+      "group": "269fdf5a1836"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vítr",
+          "definition": "undefined\nwind"
+        },
+        {
+          "word": "fouká",
+          "definition": "undefined"
+        },
+        {
+          "word": "silně.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "wind",
+        "is",
+        "blowing",
+        "strongly",
+        "in",
+        "wine",
+        "son",
+        "on"
+      ],
+      "solutions": [
+        [
+          "The",
+          "wind",
+          "is",
+          "blowing",
+          "strongly"
+        ]
+      ],
+      "formattedSolution": "The wind is blowing strongly.",
+      "id": "6366a0774397",
+      "priority": 2,
+      "group": "269fdf5a1836"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dnes je teplo.",
+      "meaningInSourceLanguage": "It is warm today.",
+      "id": "c1372c4210f0",
+      "priority": 0,
+      "group": "3b62e031fa84"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dnes je teplo.",
+      "meaning": "It is warm today.",
+      "audio": "de1bd872b4e06dd621f7a2fd3ad208991d8fd48a258075b1ffaf99e04e263e7c",
+      "id": "dd4e1ea05e39",
+      "priority": 1,
+      "group": "3b62e031fa84"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "ono\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "warm",
+          "definition": "teplo\nundefined"
+        },
+        {
+          "word": "today.",
+          "definition": "dnes\nundefined"
+        }
+      ],
+      "chips": [
+        "Dnes",
+        "je",
+        "teplo",
+        "se",
+        "Ne"
+      ],
+      "solutions": [
+        [
+          "Dnes",
+          "je",
+          "teplo"
+        ]
+      ],
+      "formattedSolution": "Dnes je teplo.",
+      "id": "39a1214247e0",
+      "priority": 2,
+      "group": "3b62e031fa84"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dnes",
+          "definition": "today\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "teplo.",
+          "definition": "undefined\nwarm"
+        }
+      ],
+      "chips": [
+        "It",
+        "is",
+        "warm",
+        "today",
+        "am",
+        "at",
+        "da"
+      ],
+      "solutions": [
+        [
+          "It",
+          "is",
+          "warm",
+          "today"
+        ]
+      ],
+      "formattedSolution": "It is warm today.",
+      "id": "02bfe7958b3c",
+      "priority": 2,
+      "group": "3b62e031fa84"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "V Rusku je chladno.",
+      "meaningInSourceLanguage": "In Russia it is cold.",
+      "id": "31b2c62309ab",
+      "priority": 0,
+      "group": "19f1e61156ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "V Rusku je chladno.",
+      "meaning": "In Russia it is cold.",
+      "audio": "ef2380384f6f55c1054a0231d0218e6b8988832e9f712bffde95ba45553550da",
+      "id": "8545aa374ce4",
+      "priority": 1,
+      "group": "19f1e61156ee"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "In",
+          "definition": "undefined"
+        },
+        {
+          "word": "Russia",
+          "definition": "undefined"
+        },
+        {
+          "word": "it",
+          "definition": "ono\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "cold.",
+          "definition": "chladno\nundefined"
+        }
+      ],
+      "chips": [
+        "V",
+        "Rusku",
+        "je",
+        "chladno",
+        "se",
+        "do",
+        "k"
+      ],
+      "solutions": [
+        [
+          "V",
+          "Rusku",
+          "je",
+          "chladno"
+        ]
+      ],
+      "formattedSolution": "V Rusku je chladno.",
+      "id": "93ba9a618678",
+      "priority": 2,
+      "group": "19f1e61156ee"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "V",
+          "definition": "undefined"
+        },
+        {
+          "word": "Rusku",
+          "definition": "undefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "chladno.",
+          "definition": "cold\nundefined"
+        }
+      ],
+      "chips": [
+        "In",
+        "Russia",
+        "it",
+        "is",
+        "cold",
+        "in",
+        "Is",
+        "us",
+        "so"
+      ],
+      "solutions": [
+        [
+          "In",
+          "Russia",
+          "it",
+          "is",
+          "cold"
+        ]
+      ],
+      "formattedSolution": "In Russia it is cold.",
+      "id": "559dd2461d2c",
+      "priority": 2,
+      "group": "19f1e61156ee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mráz je silný.",
+      "meaningInSourceLanguage": "The frost is strong.",
+      "id": "9cb816d83dbf",
+      "priority": 0,
+      "group": "d593c52325d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Mráz je silný.",
+      "meaning": "The frost is strong.",
+      "audio": "40b1fa230b3c7785b05879e0498261fe843b3a35de4a6c8b25cb10fb44e20a5c",
+      "id": "c916e991d5fd",
+      "priority": 1,
+      "group": "d593c52325d4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "frost",
+          "definition": "mráz\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "strong.",
+          "definition": "silný\nundefined"
+        }
+      ],
+      "chips": [
+        "Mráz",
+        "je",
+        "silný",
+        "se",
+        "sen"
+      ],
+      "solutions": [
+        [
+          "Mráz",
+          "je",
+          "silný"
+        ]
+      ],
+      "formattedSolution": "Mráz je silný.",
+      "id": "38021c568cd1",
+      "priority": 2,
+      "group": "d593c52325d4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Mráz",
+          "definition": "frost\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "silný.",
+          "definition": "strong\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "frost",
+        "is",
+        "strong",
+        "rose",
+        "To",
+        "so"
+      ],
+      "solutions": [
+        [
+          "The",
+          "frost",
+          "is",
+          "strong"
+        ]
+      ],
+      "formattedSolution": "The frost is strong.",
+      "id": "c755d0dd854f",
+      "priority": 2,
+      "group": "d593c52325d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Oblaky jsou temné.",
+      "meaningInSourceLanguage": "The clouds are dark.",
+      "id": "7424619bb270",
+      "priority": 0,
+      "group": "92b5400a17e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Oblaky jsou temné.",
+      "meaning": "The clouds are dark.",
+      "audio": "094719ece3b73c58b80335ffef2f7f7632e6a708c68e1f6b1d064a9f78dbc364",
+      "id": "1ab77f199ca6",
+      "priority": 1,
+      "group": "92b5400a17e5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "clouds",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "jsi\njsme\njsou\njste\nundefined"
+        },
+        {
+          "word": "dark.",
+          "definition": "temný\nundefined"
+        }
+      ],
+      "chips": [
+        "Oblaky",
+        "jsou",
+        "temné",
+        "také",
+        "jemu"
+      ],
+      "solutions": [
+        [
+          "Oblaky",
+          "jsou",
+          "temné"
+        ]
+      ],
+      "formattedSolution": "Oblaky jsou temné.",
+      "id": "6d323f7addef",
+      "priority": 2,
+      "group": "92b5400a17e5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Oblaky",
+          "definition": "undefined"
+        },
+        {
+          "word": "jsou",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "temné.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "clouds",
+        "are",
+        "dark",
+        "Are",
+        "car",
+        "age"
+      ],
+      "solutions": [
+        [
+          "The",
+          "clouds",
+          "are",
+          "dark"
+        ]
+      ],
+      "formattedSolution": "The clouds are dark.",
+      "id": "59df2228e332",
+      "priority": 2,
+      "group": "92b5400a17e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Padá sníh a déšť.",
+      "meaningInSourceLanguage": "Snow and rain are falling.",
+      "id": "819680aff2ce",
+      "priority": 0,
+      "group": "91383ab4216a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Padá sníh a déšť.",
+      "meaning": "Snow and rain are falling.",
+      "audio": "5ca2907a4044a8bc3da1e79d819381b747e2391e4ba80a262c15d047d7d15058",
+      "id": "976269ed6322",
+      "priority": 1,
+      "group": "91383ab4216a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Snow",
+          "definition": "sníh\nundefined"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "rain",
+          "definition": "déšť\nundefined"
+        },
+        {
+          "word": "are",
+          "definition": "jsi\njsme\njsou\njste\nundefined"
+        },
+        {
+          "word": "falling.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Padá",
+        "sníh",
+        "a",
+        "déšť",
+        "nad",
+        "dá",
+        "Ta"
+      ],
+      "solutions": [
+        [
+          "Padá",
+          "sníh",
+          "a",
+          "déšť"
+        ]
+      ],
+      "formattedSolution": "Padá sníh a déšť.",
+      "id": "b3d4355b636b",
+      "priority": 2,
+      "group": "91383ab4216a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Padá",
+          "definition": "undefined"
+        },
+        {
+          "word": "sníh",
+          "definition": "snow\nundefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "déšť.",
+          "definition": "rain\nundefined"
+        }
+      ],
+      "chips": [
+        "Snow",
+        "and",
+        "rain",
+        "are",
+        "falling",
+        "an",
+        "in",
+        "air",
+        "ran"
+      ],
+      "solutions": [
+        [
+          "Snow",
+          "and",
+          "rain",
+          "are",
+          "falling"
+        ]
+      ],
+      "formattedSolution": "Snow and rain are falling.",
+      "id": "a6ed6af79001",
+      "priority": 2,
+      "group": "91383ab4216a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Počasí se mění.",
+      "meaningInSourceLanguage": "The weather is changing.",
+      "id": "88b200cf8316",
+      "priority": 0,
+      "group": "8480cf6388fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Počasí se mění.",
+      "meaning": "The weather is changing.",
+      "audio": "c71eda2923688b7e7c5b8edd347d456778add0a582a53634c3ba39134243cda0",
+      "id": "d3d1dc184e63",
+      "priority": 1,
+      "group": "8480cf6388fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "weather",
+          "definition": "počasí\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "changing.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Počasí",
+        "se",
+        "mění",
+        "nosí",
+        "není"
+      ],
+      "solutions": [
+        [
+          "Počasí",
+          "se",
+          "mění"
+        ]
+      ],
+      "formattedSolution": "Počasí se mění.",
+      "id": "fe6f67b514cc",
+      "priority": 2,
+      "group": "8480cf6388fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Počasí",
+          "definition": "undefined\nweather"
+        },
+        {
+          "word": "se",
+          "definition": "undefined"
+        },
+        {
+          "word": "mění.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "weather",
+        "is",
+        "changing",
+        "the",
+        "This",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "weather",
+          "is",
+          "changing"
+        ]
+      ],
+      "formattedSolution": "The weather is changing.",
+      "id": "19a7bb2c89c6",
+      "priority": 2,
+      "group": "8480cf6388fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Slunce hřeje nás.",
+      "meaningInSourceLanguage": "The sun heats us.",
+      "id": "cd26f639844d",
+      "priority": 0,
+      "group": "d5e7c51ed0d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Slunce hřeje nás.",
+      "meaning": "The sun heats us.",
+      "audio": "cfd8e83c58dc2dc455a83f9f98fb03361747ca134d035c5d3ebc727c90b65e18",
+      "id": "3fa092c5f4bf",
+      "priority": 1,
+      "group": "d5e7c51ed0d7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "sun",
+          "definition": "slunce\nundefined"
+        },
+        {
+          "word": "heats",
+          "definition": "undefined"
+        },
+        {
+          "word": "us.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Slunce",
+        "hřeje",
+        "nás",
+        "řece",
+        "nese"
+      ],
+      "solutions": [
+        [
+          "Slunce",
+          "hřeje",
+          "nás"
+        ]
+      ],
+      "formattedSolution": "Slunce hřeje nás.",
+      "id": "0dac4afa9139",
+      "priority": 2,
+      "group": "d5e7c51ed0d7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Slunce",
+          "definition": "sun\nundefined"
+        },
+        {
+          "word": "hřeje",
+          "definition": "undefined"
+        },
+        {
+          "word": "nás.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "sun",
+        "heats",
+        "us",
+        "has",
+        "bus",
+        "as"
+      ],
+      "solutions": [
+        [
+          "The",
+          "sun",
+          "heats",
+          "us"
+        ]
+      ],
+      "formattedSolution": "The sun heats us.",
+      "id": "52939293f90e",
+      "priority": 2,
+      "group": "d5e7c51ed0d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dnes je teplo a sucho.",
+      "meaningInSourceLanguage": "It is warm and dry today.",
+      "id": "482dbebfb38e",
+      "priority": 0,
+      "group": "1f49a2cb5864"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dnes je teplo a sucho.",
+      "meaning": "It is warm and dry today.",
+      "audio": "b59350d8a81e3483a9bda682489122c43befdac3e7f5174b8ca42a8fa5a004d6",
+      "id": "73ce3f4fe6ad",
+      "priority": 1,
+      "group": "1f49a2cb5864"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "ono\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "warm",
+          "definition": "teplo\nundefined"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "dry",
+          "definition": "undefined"
+        },
+        {
+          "word": "today.",
+          "definition": "dnes\nundefined"
+        }
+      ],
+      "chips": [
+        "Dnes",
+        "je",
+        "teplo",
+        "a",
+        "sucho",
+        "se",
+        "Ne",
+        "Je",
+        "ve"
+      ],
+      "solutions": [
+        [
+          "Dnes",
+          "je",
+          "teplo",
+          "a",
+          "sucho"
+        ]
+      ],
+      "formattedSolution": "Dnes je teplo a sucho.",
+      "id": "2f59e3595441",
+      "priority": 2,
+      "group": "1f49a2cb5864"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dnes",
+          "definition": "today\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "teplo",
+          "definition": "undefined\nwarm"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "sucho.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "It",
+        "is",
+        "warm",
+        "and",
+        "dry",
+        "today",
+        "am",
+        "day",
+        "at",
+        "an",
+        "da"
+      ],
+      "solutions": [
+        [
+          "It",
+          "is",
+          "warm",
+          "and",
+          "dry",
+          "today"
+        ]
+      ],
+      "formattedSolution": "It is warm and dry today.",
+      "id": "20b288eb2287",
+      "priority": 2,
+      "group": "1f49a2cb5864"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Je li vítr silný?",
+      "meaningInSourceLanguage": "Is the wind strong?",
+      "id": "f15d6a68c0ce",
+      "priority": 0,
+      "group": "48967afa1e8c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Je li vítr silný?",
+      "meaning": "Is the wind strong?",
+      "audio": "62128b06350fea06b22cbce7b343b8d0ff48357f71eaff9e6f188561357a2324",
+      "id": "9436a6a71784",
+      "priority": 1,
+      "group": "48967afa1e8c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "wind",
+          "definition": "undefined\nvítr"
+        },
+        {
+          "word": "strong?",
+          "definition": "silný\nundefined"
+        }
+      ],
+      "chips": [
+        "Je",
+        "li",
+        "vítr",
+        "silný",
+        "ti",
+        "si",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Je",
+          "li",
+          "vítr",
+          "silný"
+        ]
+      ],
+      "formattedSolution": "Je li vítr silný?",
+      "id": "056f40d518df",
+      "priority": 2,
+      "group": "48967afa1e8c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "li",
+          "definition": "undefined"
+        },
+        {
+          "word": "vítr",
+          "definition": "undefined\nwind"
+        },
+        {
+          "word": "silný?",
+          "definition": "strong\nundefined"
+        }
+      ],
+      "chips": [
+        "Is",
+        "the",
+        "wind",
+        "strong",
+        "son",
+        "in",
+        "on"
+      ],
+      "solutions": [
+        [
+          "Is",
+          "the",
+          "wind",
+          "strong"
+        ]
+      ],
+      "formattedSolution": "Is the wind strong?",
+      "id": "f4cb0428e343",
+      "priority": 2,
+      "group": "48967afa1e8c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mráz je ráno.",
+      "meaningInSourceLanguage": "There is frost in the morning.",
+      "id": "33eb86bd0fc6",
+      "priority": 0,
+      "group": "51c982474955"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Mráz je ráno.",
+      "meaning": "There is frost in the morning.",
+      "audio": "b8e832d016bd88718816374770fe59943bf029076e817275563e6097e86473e5",
+      "id": "e1f841cefcc5",
+      "priority": 1,
+      "group": "51c982474955"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "There",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "frost",
+          "definition": "mráz\nundefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "morning.",
+          "definition": "ráno\nundefined"
+        }
+      ],
+      "chips": [
+        "Mráz",
+        "je",
+        "ráno",
+        "rád",
+        "Já"
+      ],
+      "solutions": [
+        [
+          "Mráz",
+          "je",
+          "ráno"
+        ]
+      ],
+      "formattedSolution": "Mráz je ráno.",
+      "id": "2e2a8008c617",
+      "priority": 2,
+      "group": "51c982474955"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Mráz",
+          "definition": "frost\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "ráno.",
+          "definition": "in the morning\nmorning\nundefined"
+        }
+      ],
+      "chips": [
+        "There",
+        "is",
+        "frost",
+        "in",
+        "the",
+        "morning",
+        "it",
+        "his",
+        "on",
+        "or",
+        "This"
+      ],
+      "solutions": [
+        [
+          "There",
+          "is",
+          "frost",
+          "in",
+          "the",
+          "morning"
+        ]
+      ],
+      "formattedSolution": "There is frost in the morning.",
+      "id": "4d296f2bf7fc",
+      "priority": 2,
+      "group": "51c982474955"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Oblačno je dnes.",
+      "meaningInSourceLanguage": "It is cloudy today.",
+      "id": "885bfa73ea57",
+      "priority": 0,
+      "group": "85275dd6948e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Oblačno je dnes.",
+      "meaning": "It is cloudy today.",
+      "audio": "b3d7ba2d7fa80f3ba43ee9f06d2b2feff7c9432a5c37b34c7029653f2f80343d",
+      "id": "253f38036535",
+      "priority": 1,
+      "group": "85275dd6948e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "ono\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "cloudy",
+          "definition": "oblačno\nundefined"
+        },
+        {
+          "word": "today.",
+          "definition": "dnes\nundefined"
+        }
+      ],
+      "chips": [
+        "Oblačno",
+        "je",
+        "dnes",
+        "One",
+        "On"
+      ],
+      "solutions": [
+        [
+          "Oblačno",
+          "je",
+          "dnes"
+        ]
+      ],
+      "formattedSolution": "Oblačno je dnes.",
+      "id": "200caa6fa36d",
+      "priority": 2,
+      "group": "85275dd6948e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Oblačno",
+          "definition": "cloudy\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "dnes.",
+          "definition": "today\nundefined"
+        }
+      ],
+      "chips": [
+        "It",
+        "is",
+        "cloudy",
+        "today",
+        "da",
+        "my",
+        "day"
+      ],
+      "solutions": [
+        [
+          "It",
+          "is",
+          "cloudy",
+          "today"
+        ]
+      ],
+      "formattedSolution": "It is cloudy today.",
+      "id": "a5749d1ad523",
+      "priority": 2,
+      "group": "85275dd6948e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vzduch voní po dešti.",
+      "meaningInSourceLanguage": "The air smells of rain.",
+      "id": "1f1dfbe11f5b",
+      "priority": 0,
+      "group": "dd36fd018f6d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Vzduch voní po dešti.",
+      "meaning": "The air smells of rain.",
+      "audio": "0f233333917bdfbd42c867a12d8ea163b44fac6de644b76f102f08ba96df1f36",
+      "id": "e37a45117ab3",
+      "priority": 1,
+      "group": "dd36fd018f6d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "air",
+          "definition": "undefined\nvzduch"
+        },
+        {
+          "word": "smells",
+          "definition": "undefined"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "rain.",
+          "definition": "déšť\nundefined"
+        }
+      ],
+      "chips": [
+        "Vzduch",
+        "voní",
+        "po",
+        "dešti",
+        "do",
+        "den",
+        "pod"
+      ],
+      "solutions": [
+        [
+          "Vzduch",
+          "voní",
+          "po",
+          "dešti"
+        ]
+      ],
+      "formattedSolution": "Vzduch voní po dešti.",
+      "id": "35a7d83cbfe2",
+      "priority": 2,
+      "group": "dd36fd018f6d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Vzduch",
+          "definition": "air\nundefined"
+        },
+        {
+          "word": "voní",
+          "definition": "undefined"
+        },
+        {
+          "word": "po",
+          "definition": "undefined"
+        },
+        {
+          "word": "dešti.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "air",
+        "smells",
+        "of",
+        "rain",
+        "am",
+        "is",
+        "are",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "air",
+          "smells",
+          "of",
+          "rain"
+        ]
+      ],
+      "formattedSolution": "The air smells of rain.",
+      "id": "6e8fa63425c6",
+      "priority": 2,
+      "group": "dd36fd018f6d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dnes nevidíme oblaků.",
+      "meaningInSourceLanguage": "Today I do not see clouds.",
+      "id": "8ccddd97bfad",
+      "priority": 0,
+      "group": "a740a3bde053"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dnes nevidíme oblaků.",
+      "meaning": "Today I do not see clouds.",
+      "audio": "d6b785901f06fb0996a60c88e5b23334c20a1739cb4b2f48dcc8cfb93af418a7",
+      "id": "2dbad39053e0",
+      "priority": 1,
+      "group": "a740a3bde053"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Today",
+          "definition": "dnes\nundefined"
+        },
+        {
+          "word": "I",
+          "definition": "já"
+        },
+        {
+          "word": "do",
+          "definition": "undefined"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "see",
+          "definition": "undefined"
+        },
+        {
+          "word": "clouds.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Dnes",
+        "nevidíme",
+        "oblaků",
+        "nese",
+        "není"
+      ],
+      "solutions": [
+        [
+          "Dnes",
+          "nevidíme",
+          "oblaků"
+        ]
+      ],
+      "formattedSolution": "Dnes nevidíme oblaků.",
+      "id": "05c7d70d1b75",
+      "priority": 2,
+      "group": "a740a3bde053"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dnes",
+          "definition": "today\nundefined"
+        },
+        {
+          "word": "nevidíme",
+          "definition": "undefined"
+        },
+        {
+          "word": "oblaků.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Today",
+        "I",
+        "do",
+        "not",
+        "see",
+        "clouds",
+        "To",
+        "so",
+        "No",
+        "Go",
+        "God"
+      ],
+      "solutions": [
+        [
+          "Today",
+          "I",
+          "do",
+          "not",
+          "see",
+          "clouds"
+        ]
+      ],
+      "formattedSolution": "Today I do not see clouds.",
+      "id": "5a55b9af3e92",
+      "priority": 2,
+      "group": "a740a3bde053"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Chladný vítr fouká ze severu.",
+      "meaningInSourceLanguage": "A cold wind is blowing from the north.",
+      "id": "9555c3242d60",
+      "priority": 0,
+      "group": "4c291c2b7d3a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Chladný vítr fouká ze severu.",
+      "meaning": "A cold wind is blowing from the north.",
+      "audio": "04e7bc0b5a02f2dce0f3155e068ac6711433fc64f5f1a504c505962db05056fb",
+      "id": "242836a43234",
+      "priority": 1,
+      "group": "4c291c2b7d3a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "cold",
+          "definition": "chladno\nundefined"
+        },
+        {
+          "word": "wind",
+          "definition": "undefined\nvítr"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "blowing",
+          "definition": "undefined"
+        },
+        {
+          "word": "from",
+          "definition": "undefined\nz (původ)"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "north.",
+          "definition": "sever\nundefined"
+        }
+      ],
+      "chips": [
+        "Chladný",
+        "vítr",
+        "fouká",
+        "ze",
+        "severu",
+        "ve",
+        "se",
+        "tu",
+        "zde"
+      ],
+      "solutions": [
+        [
+          "Chladný",
+          "vítr",
+          "fouká",
+          "ze",
+          "severu"
+        ]
+      ],
+      "formattedSolution": "Chladný vítr fouká ze severu.",
+      "id": "769d5e77d467",
+      "priority": 2,
+      "group": "4c291c2b7d3a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Chladný",
+          "definition": "undefined"
+        },
+        {
+          "word": "vítr",
+          "definition": "undefined\nwind"
+        },
+        {
+          "word": "fouká",
+          "definition": "undefined"
+        },
+        {
+          "word": "ze",
+          "definition": "undefined"
+        },
+        {
+          "word": "severu.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "cold",
+        "wind",
+        "is",
+        "blowing",
+        "from",
+        "the",
+        "north",
+        "on",
+        "in",
+        "or",
+        "not",
+        "To",
+        "for",
+        "so"
+      ],
+      "solutions": [
+        [
+          "A",
+          "cold",
+          "wind",
+          "is",
+          "blowing",
+          "from",
+          "the",
+          "north"
+        ]
+      ],
+      "formattedSolution": "A cold wind is blowing from the north.",
+      "id": "1fdbf369b3cf",
+      "priority": 2,
+      "group": "4c291c2b7d3a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "počasí",
+      "meaningInSourceLanguage": "weather",
+      "id": "6d50c3d666db",
+      "priority": 0,
+      "group": "cb2d63fe0a6a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "počasí"
+      ],
+      "phrase": [
+        {
+          "word": "weather",
+          "definition": "počasí\nundefined"
+        }
+      ],
+      "id": "fbbd2c8a9570",
+      "priority": 1,
+      "group": "cb2d63fe0a6a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "počasí",
+      "meaning": "weather",
+      "audio": "0b48064f7795dbe26466f5243d5f748c9b9ed6f8332ed235f3923802118acf10",
+      "id": "ed9d64d99c23",
+      "priority": 1,
+      "group": "cb2d63fe0a6a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "déšť",
+      "meaningInSourceLanguage": "rain",
+      "id": "d706815590bd",
+      "priority": 0,
+      "group": "a6062d894736"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "déšť"
+      ],
+      "phrase": [
+        {
+          "word": "rain",
+          "definition": "déšť\nundefined"
+        }
+      ],
+      "id": "ae4b455f4895",
+      "priority": 1,
+      "group": "a6062d894736"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "déšť",
+      "meaning": "rain",
+      "audio": "5385583a4f605a058b515f18d7052bd48918d71af8360c701061ca01f0f70574",
+      "id": "37cf046b44ae",
+      "priority": 1,
+      "group": "a6062d894736"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "padat",
+      "meaningInSourceLanguage": "to fall",
+      "id": "97faa973c05e",
+      "priority": 0,
+      "group": "6390e92a3451"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "padat"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "fall",
+          "definition": "undefined"
+        }
+      ],
+      "id": "383b71291bed",
+      "priority": 1,
+      "group": "6390e92a3451"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "padat",
+      "meaning": "to fall",
+      "audio": "21e1c3c86797ca508511b2d4a3fd9ebbbbe2fffaf910d116394bd018dc2c571d",
+      "id": "e415ed7dd467",
+      "priority": 1,
+      "group": "6390e92a3451"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "sníh",
+      "meaningInSourceLanguage": "snow",
+      "id": "36f920eb0ecd",
+      "priority": 0,
+      "group": "6c7dff03c1b1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "sníh"
+      ],
+      "phrase": [
+        {
+          "word": "snow",
+          "definition": "sníh\nundefined"
+        }
+      ],
+      "id": "e83fc7c0c54a",
+      "priority": 1,
+      "group": "6c7dff03c1b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sníh",
+      "meaning": "snow",
+      "audio": "31067122e275b99ab990ab7d611c4073e7229e9161fa61ff00a63761d9190b64",
+      "id": "2c20e6405fad",
+      "priority": 1,
+      "group": "6c7dff03c1b1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "měnit se",
+      "meaningInSourceLanguage": "to change",
+      "id": "c8ccead46d73",
+      "priority": 0,
+      "group": "d239a440d97a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "měnit se"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "change",
+          "definition": "undefined"
+        }
+      ],
+      "id": "09321272b508",
+      "priority": 1,
+      "group": "d239a440d97a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "měnit se",
+      "meaning": "to change",
+      "audio": "c4b841c0d4fd64b583c4da3a717cc864522d6e11acdb2ad8756dad0efb247ef3",
+      "id": "5ad34f9d50f0",
+      "priority": 1,
+      "group": "d239a440d97a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "slunce",
+      "meaningInSourceLanguage": "sun",
+      "id": "0b064cc0df9e",
+      "priority": 0,
+      "group": "a69029321892"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "slunce"
+      ],
+      "phrase": [
+        {
+          "word": "sun",
+          "definition": "slunce\nundefined"
+        }
+      ],
+      "id": "146b65b79eb6",
+      "priority": 1,
+      "group": "a69029321892"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "slunce",
+      "meaning": "sun",
+      "audio": "aacbbd977a753cb92504ac92b78d4958815246e9cae92f6a507450b59c17d5a8",
+      "id": "d9675977a70f",
+      "priority": 1,
+      "group": "a69029321892"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "svítit",
+      "meaningInSourceLanguage": "to shine",
+      "id": "9cf0e14a16fc",
+      "priority": 0,
+      "group": "7d15e952fde7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "svítit"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "shine",
+          "definition": "undefined"
+        }
+      ],
+      "id": "812d8de7efb9",
+      "priority": 1,
+      "group": "7d15e952fde7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "svítit",
+      "meaning": "to shine",
+      "audio": "99fb0956547e58e4dde27d56e88ec5acb40dbc4f636be08f7c484634d9cb859c",
+      "id": "c79dfd718b60",
+      "priority": 1,
+      "group": "7d15e952fde7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "vzduch",
+      "meaningInSourceLanguage": "air",
+      "id": "2e2c1881babc",
+      "priority": 0,
+      "group": "1b10c54ceda1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "vzduch"
+      ],
+      "phrase": [
+        {
+          "word": "air",
+          "definition": "undefined\nvzduch"
+        }
+      ],
+      "id": "fda9846571e3",
+      "priority": 1,
+      "group": "1b10c54ceda1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vzduch",
+      "meaning": "air",
+      "audio": "fc4a2f9caddd21d052eb4515a4e404e2c359d5e02a83a33113a1b57ba4d4e3bf",
+      "id": "54e19968b7e6",
+      "priority": 1,
+      "group": "1b10c54ceda1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "vítr",
+      "meaningInSourceLanguage": "wind",
+      "id": "2413906babd6",
+      "priority": 0,
+      "group": "873faa2e8b27"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "vítr"
+      ],
+      "phrase": [
+        {
+          "word": "wind",
+          "definition": "undefined\nvítr"
+        }
+      ],
+      "id": "8979a4d72ff9",
+      "priority": 1,
+      "group": "873faa2e8b27"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vítr",
+      "meaning": "wind",
+      "audio": "cb4051f1c8b5c0769d40564cfe3c2c5e4a882be41f940b76dc807e7bb3fe0e2f",
+      "id": "e33f3945347b",
+      "priority": 1,
+      "group": "873faa2e8b27"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "teplo",
+      "meaningInSourceLanguage": "warm",
+      "id": "70d2620f685c",
+      "priority": 0,
+      "group": "d6bfd66d4b17"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "teplo"
+      ],
+      "phrase": [
+        {
+          "word": "warm",
+          "definition": "teplo\nundefined"
+        }
+      ],
+      "id": "e9f5442e1906",
+      "priority": 1,
+      "group": "d6bfd66d4b17"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "teplo",
+      "meaning": "warm",
+      "audio": "5c582a5497ded016d4487eeb76e5f26ff32a2e88b0be65f96652a89db5b39dc4",
+      "id": "8e391573fd45",
+      "priority": 1,
+      "group": "d6bfd66d4b17"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "chladno",
+      "meaningInSourceLanguage": "cold",
+      "id": "f455ec88fb87",
+      "priority": 0,
+      "group": "7dc4cd83e740"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "chladno"
+      ],
+      "phrase": [
+        {
+          "word": "cold",
+          "definition": "chladno\nundefined"
+        }
+      ],
+      "id": "9aeacbe1551c",
+      "priority": 1,
+      "group": "7dc4cd83e740"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chladno",
+      "meaning": "cold",
+      "audio": "04a2fb5c851038782cd81da609f16122eee8f979fa393915624eb30b5fdc1a2f",
+      "id": "4d6a86fde92c",
+      "priority": 1,
+      "group": "7dc4cd83e740"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "mráz",
+      "meaningInSourceLanguage": "frost",
+      "id": "8507ff059394",
+      "priority": 0,
+      "group": "4966a9b09675"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "mráz"
+      ],
+      "phrase": [
+        {
+          "word": "frost",
+          "definition": "mráz\nundefined"
+        }
+      ],
+      "id": "b28ae8e15aaa",
+      "priority": 1,
+      "group": "4966a9b09675"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mráz",
+      "meaning": "frost",
+      "audio": "ac233d5ec7a802d5ccae7ab71c75401696aca75f38430b0472d12a6e7a569fb4",
+      "id": "deda38cdbbc1",
+      "priority": 1,
+      "group": "4966a9b09675"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "oblak",
+      "meaningInSourceLanguage": "cloud",
+      "id": "71707e037663",
+      "priority": 0,
+      "group": "c2185f9cb846"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "oblak"
+      ],
+      "phrase": [
+        {
+          "word": "cloud",
+          "definition": "oblak\nundefined"
+        }
+      ],
+      "id": "2fbec56f4c87",
+      "priority": 1,
+      "group": "c2185f9cb846"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oblak",
+      "meaning": "cloud",
+      "audio": "7eb6725e742ac57b6fd4e164b2184575ece5764c52c4536e788fec7087f5d416",
+      "id": "362256110197",
+      "priority": 1,
+      "group": "c2185f9cb846"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "hřát (hřeje)",
+      "meaningInSourceLanguage": "to heat",
+      "id": "701624a8862a",
+      "priority": 0,
+      "group": "541eae017032"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "hřát (hřeje)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "heat",
+          "definition": "undefined"
+        }
+      ],
+      "id": "4a0cfaaf05b7",
+      "priority": 1,
+      "group": "541eae017032"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hřát (hřeje)",
+      "meaning": "to heat",
+      "audio": "451db6d85b368aa3120f55bee942968de2e4f2b5c978c020bad14fce977c7815",
+      "id": "434c4e2fe7e3",
+      "priority": 1,
+      "group": "541eae017032"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "oblačno",
+      "meaningInSourceLanguage": "cloudy",
+      "id": "8ed5f4739950",
+      "priority": 0,
+      "group": "65b871874e90"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "oblačno"
+      ],
+      "phrase": [
+        {
+          "word": "cloudy",
+          "definition": "oblačno\nundefined"
+        }
+      ],
+      "id": "5c6be5f8ac17",
+      "priority": 1,
+      "group": "65b871874e90"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oblačno",
+      "meaning": "cloudy",
+      "audio": "5d6bb4549835000952f6299e0094cd095a116d9e1bb18da0fb5e9a4866885d8e",
+      "id": "cf7714b7ca3e",
+      "priority": 1,
+      "group": "65b871874e90"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "vonět (voní)",
+      "meaningInSourceLanguage": "to smell",
+      "id": "f4c6eff45ff4",
+      "priority": 0,
+      "group": "1e10a871d5f0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "vonět (voní)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "smell",
+          "definition": "undefined"
+        }
+      ],
+      "id": "0ff927a70b9c",
+      "priority": 1,
+      "group": "1e10a871d5f0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vonět (voní)",
+      "meaning": "to smell",
+      "audio": "f5a0a2b2b93ef43067f5f009744470448b26df469a9a952b0afc36e27ec61fd0",
+      "id": "da1a6be3a981",
+      "priority": 1,
+      "group": "1e10a871d5f0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "vidět (vidí)",
+      "meaningInSourceLanguage": "to see",
+      "id": "4f67641fd976",
+      "priority": 0,
+      "group": "04b57d8ddec8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "vidět (vidí)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "see",
+          "definition": "undefined"
+        }
+      ],
+      "id": "57a68aabd904",
+      "priority": 1,
+      "group": "04b57d8ddec8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vidět (vidí)",
+      "meaning": "to see",
+      "audio": "3d583904e7fe48f65457c4aadfd676e08bbbae0e95bdb6968f59aa9075477545",
+      "id": "ce416d983c33",
+      "priority": 1,
+      "group": "04b57d8ddec8"
+    }
+  ]
+}

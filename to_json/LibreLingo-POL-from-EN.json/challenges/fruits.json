@@ -1,0 +1,2662 @@
+{
+  "id": "27a92ea694cb",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jabłko jest czerwone.",
+      "meaningInSourceLanguage": "The apple is red.",
+      "id": "04c6b3d9f606",
+      "priority": 0,
+      "group": "a6c6511cce0e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Jabłko jest czerwone.",
+      "meaning": "The apple is red.",
+      "audio": "8a0889da2f8618c6299d3b9077f07357a25125dabba16f03b8e61c6508de8167",
+      "id": "f72b2b97e956",
+      "priority": 1,
+      "group": "a6c6511cce0e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "apple",
+          "definition": "jabłko\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "red.",
+          "definition": "czerwony\nundefined"
+        }
+      ],
+      "chips": [
+        "Jabłko",
+        "jest",
+        "czerwone",
+        "zero",
+        "Jego"
+      ],
+      "solutions": [
+        [
+          "Jabłko",
+          "jest",
+          "czerwone"
+        ]
+      ],
+      "formattedSolution": "Jabłko jest czerwone.",
+      "id": "215aabc9f9e7",
+      "priority": 2,
+      "group": "a6c6511cce0e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jabłko",
+          "definition": "apple\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "czerwone.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "apple",
+        "is",
+        "red",
+        "We",
+        "are",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "apple",
+          "is",
+          "red"
+        ]
+      ],
+      "formattedSolution": "The apple is red.",
+      "id": "833cb2f4df2a",
+      "priority": 2,
+      "group": "a6c6511cce0e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Gruszka jest smaczna.",
+      "meaningInSourceLanguage": "The pear is tasty.",
+      "id": "7d517c3d05a3",
+      "priority": 0,
+      "group": "a84fc78b0c0c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Gruszka jest smaczna.",
+      "meaning": "The pear is tasty.",
+      "audio": "d13a3e02711070410880fbc75293ac20c3ccad846de7a572e37d2f058044ad5a",
+      "id": "5f14e216a711",
+      "priority": 1,
+      "group": "a84fc78b0c0c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "pear",
+          "definition": "gruszka\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "tasty.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Gruszka",
+        "jest",
+        "smaczna",
+        "masz",
+        "jesz"
+      ],
+      "solutions": [
+        [
+          "Gruszka",
+          "jest",
+          "smaczna"
+        ]
+      ],
+      "formattedSolution": "Gruszka jest smaczna.",
+      "id": "35a5c2a8ed15",
+      "priority": 2,
+      "group": "a84fc78b0c0c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Gruszka",
+          "definition": "pear\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "smaczna.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "pear",
+        "is",
+        "tasty",
+        "as",
+        "at",
+        "eat"
+      ],
+      "solutions": [
+        [
+          "The",
+          "pear",
+          "is",
+          "tasty"
+        ]
+      ],
+      "formattedSolution": "The pear is tasty.",
+      "id": "9d52416ae7ab",
+      "priority": 2,
+      "group": "a84fc78b0c0c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Banan jest żółty.",
+      "meaningInSourceLanguage": "The banana is yellow.",
+      "id": "bb489d1d33e5",
+      "priority": 0,
+      "group": "cde35f8bfe31"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Banan jest żółty.",
+      "meaning": "The banana is yellow.",
+      "audio": "64bab063f9812755aff04c6f68f942be594f71020ebd9dd42e221d7680bef4af",
+      "id": "7b87a9534b79",
+      "priority": 1,
+      "group": "cde35f8bfe31"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "banana",
+          "definition": "banan\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "yellow.",
+          "definition": "undefined\nżółty"
+        }
+      ],
+      "chips": [
+        "Banan",
+        "jest",
+        "żółty",
+        "żółta",
+        "żółte"
+      ],
+      "solutions": [
+        [
+          "Banan",
+          "jest",
+          "żółty"
+        ]
+      ],
+      "formattedSolution": "Banan jest żółty.",
+      "id": "6f765adc0f0f",
+      "priority": 2,
+      "group": "cde35f8bfe31"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Banan",
+          "definition": "banana\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "żółty.",
+          "definition": "undefined\nyellow"
+        }
+      ],
+      "chips": [
+        "The",
+        "banana",
+        "is",
+        "yellow",
+        "be",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "banana",
+          "is",
+          "yellow"
+        ]
+      ],
+      "formattedSolution": "The banana is yellow.",
+      "id": "389b10810c95",
+      "priority": 2,
+      "group": "cde35f8bfe31"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pomarańcze są słodkie.",
+      "meaningInSourceLanguage": "The oranges are sweet.",
+      "id": "e13568f4a37a",
+      "priority": 0,
+      "group": "d67d56e9ccd0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Pomarańcze są słodkie.",
+      "meaning": "The oranges are sweet.",
+      "audio": "6ab7ea28115b5cca533840b9ffa1f31d7aa85c22fecdabb2510ecee7c354f77d",
+      "id": "c7bc313b1981",
+      "priority": 1,
+      "group": "d67d56e9ccd0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "oranges",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+        },
+        {
+          "word": "sweet.",
+          "definition": "słodki\nundefined"
+        }
+      ],
+      "chips": [
+        "Pomarańcze",
+        "są",
+        "słodkie",
+        "sok",
+        "sobie"
+      ],
+      "solutions": [
+        [
+          "Pomarańcze",
+          "są",
+          "słodkie"
+        ]
+      ],
+      "formattedSolution": "Pomarańcze są słodkie.",
+      "id": "213b9b119d3a",
+      "priority": 2,
+      "group": "d67d56e9ccd0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pomarańcze",
+          "definition": "undefined"
+        },
+        {
+          "word": "są",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "słodkie.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "oranges",
+        "are",
+        "sweet",
+        "age",
+        "Are",
+        "see"
+      ],
+      "solutions": [
+        [
+          "The",
+          "oranges",
+          "are",
+          "sweet"
+        ]
+      ],
+      "formattedSolution": "The oranges are sweet.",
+      "id": "34e98bbfde07",
+      "priority": 2,
+      "group": "d67d56e9ccd0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wiśnia jest kwaśna.",
+      "meaningInSourceLanguage": "The cherry is sour.",
+      "id": "5df8be12f873",
+      "priority": 0,
+      "group": "e6814ef6675a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wiśnia jest kwaśna.",
+      "meaning": "The cherry is sour.",
+      "audio": "f7a94db3758a83440aa9d06fb1098b80111d63f15e72e3168b71dba25beb417c",
+      "id": "f7a319c3f7df",
+      "priority": 1,
+      "group": "e6814ef6675a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "cherry",
+          "definition": "undefined\nwiśnia"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "sour.",
+          "definition": "kwaśny\nundefined"
+        }
+      ],
+      "chips": [
+        "Wiśnia",
+        "jest",
+        "kwaśna",
+        "wina",
+        "ważna"
+      ],
+      "solutions": [
+        [
+          "Wiśnia",
+          "jest",
+          "kwaśna"
+        ]
+      ],
+      "formattedSolution": "Wiśnia jest kwaśna.",
+      "id": "e1328a7d6add",
+      "priority": 2,
+      "group": "e6814ef6675a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wiśnia",
+          "definition": "cherry\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "kwaśna.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "cherry",
+        "is",
+        "sour",
+        "her",
+        "She",
+        "They"
+      ],
+      "solutions": [
+        [
+          "The",
+          "cherry",
+          "is",
+          "sour"
+        ]
+      ],
+      "formattedSolution": "The cherry is sour.",
+      "id": "ec8b15a2fdd7",
+      "priority": 2,
+      "group": "e6814ef6675a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Truskawka jest mała i smaczna.",
+      "meaningInSourceLanguage": "The strawberry is small and tasty.",
+      "id": "dd37fb0b8770",
+      "priority": 0,
+      "group": "12de0d1375c4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Truskawka jest mała i smaczna.",
+      "meaning": "The strawberry is small and tasty.",
+      "audio": "d25f841b14ea25001c7bc62e955f2e6dd22b691167c1033d757bff483cb1dcb6",
+      "id": "3701cf8541cf",
+      "priority": 1,
+      "group": "12de0d1375c4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "strawberry",
+          "definition": "truskawka\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "small",
+          "definition": "mały\nundefined"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "tasty.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Truskawka",
+        "jest",
+        "mała",
+        "i",
+        "smaczna",
+        "kawa",
+        "masz",
+        "ma",
+        "masła"
+      ],
+      "solutions": [
+        [
+          "Truskawka",
+          "jest",
+          "mała",
+          "i",
+          "smaczna"
+        ]
+      ],
+      "formattedSolution": "Truskawka jest mała i smaczna.",
+      "id": "e4589f544686",
+      "priority": 2,
+      "group": "12de0d1375c4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Truskawka",
+          "definition": "strawberry\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "mała",
+          "definition": "undefined"
+        },
+        {
+          "word": "i",
+          "definition": "undefined"
+        },
+        {
+          "word": "smaczna.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "strawberry",
+        "is",
+        "small",
+        "and",
+        "tasty",
+        "as",
+        "are",
+        "at",
+        "an",
+        "air"
+      ],
+      "solutions": [
+        [
+          "The",
+          "strawberry",
+          "is",
+          "small",
+          "and",
+          "tasty"
+        ]
+      ],
+      "formattedSolution": "The strawberry is small and tasty.",
+      "id": "617a75545814",
+      "priority": 2,
+      "group": "12de0d1375c4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Winogrona rosną na winnicy.",
+      "meaningInSourceLanguage": "Grapes grow on a vineyard.",
+      "id": "5c53cdf680df",
+      "priority": 0,
+      "group": "e95f7200e5c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Winogrona rosną na winnicy.",
+      "meaning": "Grapes grow on a vineyard.",
+      "audio": "ecb8acdd301f9c2fc9cc5730ad5c9b8869691779edae0399c8e3d01ff876ccde",
+      "id": "5ac68e41bb35",
+      "priority": 1,
+      "group": "e95f7200e5c5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Grapes",
+          "definition": "undefined\nwinogrona"
+        },
+        {
+          "word": "grow",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "na\nundefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "vineyard.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Winogrona",
+        "rosną",
+        "na",
+        "winnicy",
+        "wina",
+        "wino",
+        "okna"
+      ],
+      "solutions": [
+        [
+          "Winogrona",
+          "rosną",
+          "na",
+          "winnicy"
+        ]
+      ],
+      "formattedSolution": "Winogrona rosną na winnicy.",
+      "id": "7a512133f004",
+      "priority": 2,
+      "group": "e95f7200e5c5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Winogrona",
+          "definition": "grapes\nundefined"
+        },
+        {
+          "word": "rosną",
+          "definition": "undefined"
+        },
+        {
+          "word": "na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "winnicy.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Grapes",
+        "grow",
+        "on",
+        "a",
+        "vineyard",
+        "are",
+        "an",
+        "or",
+        "ran"
+      ],
+      "solutions": [
+        [
+          "Grapes",
+          "grow",
+          "on",
+          "a",
+          "vineyard"
+        ]
+      ],
+      "formattedSolution": "Grapes grow on a vineyard.",
+      "id": "b9972111c032",
+      "priority": 2,
+      "group": "e95f7200e5c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Śliwka jest ciemna.",
+      "meaningInSourceLanguage": "The plum is dark.",
+      "id": "0d5c7b141fdb",
+      "priority": 0,
+      "group": "74879b48333a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Śliwka jest ciemna.",
+      "meaning": "The plum is dark.",
+      "audio": "d6236349e807aaaeaf1b9cf6468ce7e23a8e9f9530de34a927107d59dbd3bafb",
+      "id": "22e5160b13fb",
+      "priority": 1,
+      "group": "74879b48333a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "plum",
+          "definition": "undefined\nśliwka"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "dark.",
+          "definition": "ciemny\nundefined"
+        }
+      ],
+      "chips": [
+        "Śliwka",
+        "jest",
+        "ciemna",
+        "biega",
+        "wina"
+      ],
+      "solutions": [
+        [
+          "Śliwka",
+          "jest",
+          "ciemna"
+        ]
+      ],
+      "formattedSolution": "Śliwka jest ciemna.",
+      "id": "4b2a0d21dae2",
+      "priority": 2,
+      "group": "74879b48333a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Śliwka",
+          "definition": "plum\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "ciemna.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "plum",
+        "is",
+        "dark",
+        "am",
+        "are",
+        "da"
+      ],
+      "solutions": [
+        [
+          "The",
+          "plum",
+          "is",
+          "dark"
+        ]
+      ],
+      "formattedSolution": "The plum is dark.",
+      "id": "a35f30c54b9f",
+      "priority": 2,
+      "group": "74879b48333a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Cytryna jest kwaśna i żółta.",
+      "meaningInSourceLanguage": "The lemon is sour and yellow.",
+      "id": "21424cd587f0",
+      "priority": 0,
+      "group": "832f6261372b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Cytryna jest kwaśna i żółta.",
+      "meaning": "The lemon is sour and yellow.",
+      "audio": "86ae1383b28075db385b364fe420a4d236ad0898fcff6c2ca97f357448ea9bf3",
+      "id": "3a17db6b1c4b",
+      "priority": 1,
+      "group": "832f6261372b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "lemon",
+          "definition": "cytryna\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "sour",
+          "definition": "kwaśny\nundefined"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "yellow.",
+          "definition": "undefined\nżółty"
+        }
+      ],
+      "chips": [
+        "Cytryna",
+        "jest",
+        "kwaśna",
+        "i",
+        "żółta",
+        "na",
+        "wina",
+        "Cena",
+        "Ona"
+      ],
+      "solutions": [
+        [
+          "Cytryna",
+          "jest",
+          "kwaśna",
+          "i",
+          "żółta"
+        ]
+      ],
+      "formattedSolution": "Cytryna jest kwaśna i żółta.",
+      "id": "b941cd2d2f40",
+      "priority": 2,
+      "group": "832f6261372b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Cytryna",
+          "definition": "lemon\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "kwaśna",
+          "definition": "undefined"
+        },
+        {
+          "word": "i",
+          "definition": "undefined"
+        },
+        {
+          "word": "żółta.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "lemon",
+        "is",
+        "sour",
+        "and",
+        "yellow",
+        "on",
+        "you",
+        "To",
+        "so",
+        "son"
+      ],
+      "solutions": [
+        [
+          "The",
+          "lemon",
+          "is",
+          "sour",
+          "and",
+          "yellow"
+        ]
+      ],
+      "formattedSolution": "The lemon is sour and yellow.",
+      "id": "9d72dee43a8d",
+      "priority": 2,
+      "group": "832f6261372b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Melon jest duży i słodki.",
+      "meaningInSourceLanguage": "The melon is big and sweet.",
+      "id": "38c3b6d35326",
+      "priority": 0,
+      "group": "cefa628a9503"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Melon jest duży i słodki.",
+      "meaning": "The melon is big and sweet.",
+      "audio": "012487bb9802468fa160665d38a3af47f210daed649ed02b840fa4bb891f762b",
+      "id": "456fc526d1aa",
+      "priority": 1,
+      "group": "cefa628a9503"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "melon",
+          "definition": "melon\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "big",
+          "definition": "undefined"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "sweet.",
+          "definition": "słodki\nundefined"
+        }
+      ],
+      "chips": [
+        "Melon",
+        "jest",
+        "duży",
+        "i",
+        "słodki",
+        "do",
+        "je",
+        "że",
+        "sok"
+      ],
+      "solutions": [
+        [
+          "Melon",
+          "jest",
+          "duży",
+          "i",
+          "słodki"
+        ]
+      ],
+      "formattedSolution": "Melon jest duży i słodki.",
+      "id": "1e38ea7a8c5e",
+      "priority": 2,
+      "group": "cefa628a9503"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Melon",
+          "definition": "melon\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "duży",
+          "definition": "undefined"
+        },
+        {
+          "word": "i",
+          "definition": "undefined"
+        },
+        {
+          "word": "słodki.",
+          "definition": "sweet\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "melon",
+        "is",
+        "big",
+        "and",
+        "sweet",
+        "me",
+        "in",
+        "see",
+        "be",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "melon",
+          "is",
+          "big",
+          "and",
+          "sweet"
+        ]
+      ],
+      "formattedSolution": "The melon is big and sweet.",
+      "id": "ae0cf2f88c9f",
+      "priority": 2,
+      "group": "cefa628a9503"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "On gotuje śliwowicę ze śliwek.",
+      "meaningInSourceLanguage": "He is preparing plum brandy from plums.",
+      "id": "4efffac85eae",
+      "priority": 0,
+      "group": "a7c611de9498"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "On gotuje śliwowicę ze śliwek.",
+      "meaning": "He is preparing plum brandy from plums.",
+      "audio": "39a8308a36a79bcb40c708870a1e032976249e1db8352f748a85094dc6727a9a",
+      "id": "1be41c4b6df9",
+      "priority": 1,
+      "group": "a7c611de9498"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "preparing",
+          "definition": "undefined"
+        },
+        {
+          "word": "plum",
+          "definition": "undefined\nśliwka"
+        },
+        {
+          "word": "brandy",
+          "definition": "undefined"
+        },
+        {
+          "word": "from",
+          "definition": "undefined\nz/ze (pochodzenie)"
+        },
+        {
+          "word": "plums.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "On",
+        "gotuje",
+        "śliwowicę",
+        "ze",
+        "śliwek",
+        "we",
+        "je",
+        "wie",
+        "nie"
+      ],
+      "solutions": [
+        [
+          "On",
+          "gotuje",
+          "śliwowicę",
+          "ze",
+          "śliwek"
+        ]
+      ],
+      "formattedSolution": "On gotuje śliwowicę ze śliwek.",
+      "id": "01e007080ac4",
+      "priority": 2,
+      "group": "a7c611de9498"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "gotuje",
+          "definition": "undefined"
+        },
+        {
+          "word": "śliwowicę",
+          "definition": "undefined"
+        },
+        {
+          "word": "ze",
+          "definition": "undefined"
+        },
+        {
+          "word": "śliwek.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "preparing",
+        "plum",
+        "brandy",
+        "from",
+        "plums",
+        "am",
+        "run",
+        "pen",
+        "pan",
+        "plan",
+        "ran"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "preparing",
+          "plum",
+          "brandy",
+          "from",
+          "plums"
+        ]
+      ],
+      "formattedSolution": "He is preparing plum brandy from plums.",
+      "id": "5acf52738c11",
+      "priority": 2,
+      "group": "a7c611de9498"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ona pije sok z pomarańczy.",
+      "meaningInSourceLanguage": "She is drinking orange juice.",
+      "id": "d28903a861b2",
+      "priority": 0,
+      "group": "337f844a9a98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ona pije sok z pomarańczy.",
+      "meaning": "She is drinking orange juice.",
+      "audio": "57d2fc0eaea0b19770e4852fee99251b3b2c7ccf22e7bc9d4701129a936606e6",
+      "id": "9829a12f0ceb",
+      "priority": 1,
+      "group": "337f844a9a98"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "ona\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "drinking",
+          "definition": "undefined"
+        },
+        {
+          "word": "orange",
+          "definition": "pomarańcza\npomarańczowy\nundefined"
+        },
+        {
+          "word": "juice.",
+          "definition": "sok\nundefined"
+        }
+      ],
+      "chips": [
+        "Ona",
+        "pije",
+        "sok",
+        "z",
+        "pomarańczy",
+        "po",
+        "na",
+        "za",
+        "ze"
+      ],
+      "solutions": [
+        [
+          "Ona",
+          "pije",
+          "sok",
+          "z",
+          "pomarańczy"
+        ]
+      ],
+      "formattedSolution": "Ona pije sok z pomarańczy.",
+      "id": "89fa92b2fb59",
+      "priority": 2,
+      "group": "337f844a9a98"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ona",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "pije",
+          "definition": "undefined"
+        },
+        {
+          "word": "sok",
+          "definition": "juice\nundefined"
+        },
+        {
+          "word": "z",
+          "definition": "undefined"
+        },
+        {
+          "word": "pomarańczy.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "is",
+        "drinking",
+        "orange",
+        "juice",
+        "nine",
+        "in",
+        "wine",
+        "ripe"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is",
+          "drinking",
+          "orange",
+          "juice"
+        ]
+      ],
+      "formattedSolution": "She is drinking orange juice.",
+      "id": "131f477129f3",
+      "priority": 2,
+      "group": "337f844a9a98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My kupujemy winogrona.",
+      "meaningInSourceLanguage": "We are buying grapes.",
+      "id": "d497cdae87c3",
+      "priority": 0,
+      "group": "35b0cd82c379"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "My kupujemy winogrona.",
+      "meaning": "We are buying grapes.",
+      "audio": "ef00388ad71da8610352921d9d2fd8cf3fa6c9addcff777f0a594809490801d4",
+      "id": "cc7524627a58",
+      "priority": 1,
+      "group": "35b0cd82c379"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "my\nundefined"
+        },
+        {
+          "word": "are",
+          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+        },
+        {
+          "word": "buying",
+          "definition": "undefined"
+        },
+        {
+          "word": "grapes.",
+          "definition": "undefined\nwinogrona"
+        }
+      ],
+      "chips": [
+        "My",
+        "kupujemy",
+        "winogrona",
+        "jemy",
+        "pijemy"
+      ],
+      "solutions": [
+        [
+          "My",
+          "kupujemy",
+          "winogrona"
+        ]
+      ],
+      "formattedSolution": "My kupujemy winogrona.",
+      "id": "c69fdf86bed6",
+      "priority": 2,
+      "group": "35b0cd82c379"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined\nwe"
+        },
+        {
+          "word": "kupujemy",
+          "definition": "undefined"
+        },
+        {
+          "word": "winogrona.",
+          "definition": "grapes\nundefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "buying",
+        "grapes",
+        "Are",
+        "be",
+        "age"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "buying",
+          "grapes"
+        ]
+      ],
+      "formattedSolution": "We are buying grapes.",
+      "id": "16262bf4314f",
+      "priority": 2,
+      "group": "35b0cd82c379"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Truskawki są w misce.",
+      "meaningInSourceLanguage": "The strawberries are in the bowl.",
+      "id": "8a5d0cb99d06",
+      "priority": 0,
+      "group": "a0caaa2692cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Truskawki są w misce.",
+      "meaning": "The strawberries are in the bowl.",
+      "audio": "657848e158bf2004dad55d25d0a198f7d7b0f3c697f2e3b346bc7ebb3f7c88c9",
+      "id": "b200456b1152",
+      "priority": 1,
+      "group": "a0caaa2692cc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "strawberries",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "bowl.",
+          "definition": "miska\nundefined"
+        }
+      ],
+      "chips": [
+        "Truskawki",
+        "są",
+        "w",
+        "misce",
+        "i",
+        "mi",
+        "we"
+      ],
+      "solutions": [
+        [
+          "Truskawki",
+          "są",
+          "w",
+          "misce"
+        ]
+      ],
+      "formattedSolution": "Truskawki są w misce.",
+      "id": "a27bc15c784b",
+      "priority": 2,
+      "group": "a0caaa2692cc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Truskawki",
+          "definition": "undefined"
+        },
+        {
+          "word": "są",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "w",
+          "definition": "undefined"
+        },
+        {
+          "word": "misce.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "strawberries",
+        "are",
+        "in",
+        "the",
+        "bowl",
+        "be",
+        "She",
+        "Are",
+        "see",
+        "age"
+      ],
+      "solutions": [
+        [
+          "The",
+          "strawberries",
+          "are",
+          "in",
+          "the",
+          "bowl"
+        ]
+      ],
+      "formattedSolution": "The strawberries are in the bowl.",
+      "id": "d4511731ef16",
+      "priority": 2,
+      "group": "a0caaa2692cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Śliwka jest już dojrzała.",
+      "meaningInSourceLanguage": "The plum is already ripe.",
+      "id": "2db42ad2f168",
+      "priority": 0,
+      "group": "2f1b82d171de"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Śliwka jest już dojrzała.",
+      "meaning": "The plum is already ripe.",
+      "audio": "76a07f53c6fe7236b0f925f89abb72abee44d681025da1ba28dcf87c20e7c4a3",
+      "id": "f513598e1b25",
+      "priority": 1,
+      "group": "2f1b82d171de"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "plum",
+          "definition": "undefined\nśliwka"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "already",
+          "definition": "undefined"
+        },
+        {
+          "word": "ripe.",
+          "definition": "dojrzały\nundefined"
+        }
+      ],
+      "chips": [
+        "Śliwka",
+        "jest",
+        "już",
+        "dojrzała",
+        "dla",
+        "jem",
+        "je"
+      ],
+      "solutions": [
+        [
+          "Śliwka",
+          "jest",
+          "już",
+          "dojrzała"
+        ]
+      ],
+      "formattedSolution": "Śliwka jest już dojrzała.",
+      "id": "303226ab9b21",
+      "priority": 2,
+      "group": "2f1b82d171de"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Śliwka",
+          "definition": "plum\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "już",
+          "definition": "undefined"
+        },
+        {
+          "word": "dojrzała.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "plum",
+        "is",
+        "already",
+        "ripe",
+        "are",
+        "wise",
+        "She",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "plum",
+          "is",
+          "already",
+          "ripe"
+        ]
+      ],
+      "formattedSolution": "The plum is already ripe.",
+      "id": "ca9d9e980637",
+      "priority": 2,
+      "group": "2f1b82d171de"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Gruszki leżą na stole.",
+      "meaningInSourceLanguage": "The pears are lying on the table.",
+      "id": "3f4e3fe5eba8",
+      "priority": 0,
+      "group": "26ec8ca902ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Gruszki leżą na stole.",
+      "meaning": "The pears are lying on the table.",
+      "audio": "357af5bff552eb66e97bbd80995fa681112738c0bb221d0140165b295216ca1e",
+      "id": "12f3c25de62a",
+      "priority": 1,
+      "group": "26ec8ca902ba"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "pears",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+        },
+        {
+          "word": "lying",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "na\nundefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "table.",
+          "definition": "stół\nundefined"
+        }
+      ],
+      "chips": [
+        "Gruszki",
+        "leżą",
+        "na",
+        "stole",
+        "są",
+        "ze",
+        "sok"
+      ],
+      "solutions": [
+        [
+          "Gruszki",
+          "leżą",
+          "na",
+          "stole"
+        ]
+      ],
+      "formattedSolution": "Gruszki leżą na stole.",
+      "id": "a90d7a524724",
+      "priority": 2,
+      "group": "26ec8ca902ba"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Gruszki",
+          "definition": "undefined"
+        },
+        {
+          "word": "leżą",
+          "definition": "undefined"
+        },
+        {
+          "word": "na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "stole.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "pears",
+        "are",
+        "lying",
+        "on",
+        "the",
+        "table",
+        "be",
+        "age",
+        "She",
+        "We",
+        "Are",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "pears",
+          "are",
+          "lying",
+          "on",
+          "the",
+          "table"
+        ]
+      ],
+      "formattedSolution": "The pears are lying on the table.",
+      "id": "25b881e0056c",
+      "priority": 2,
+      "group": "26ec8ca902ba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Cytrynę dodaje się do herbaty.",
+      "meaningInSourceLanguage": "Lemon is added to tea.",
+      "id": "0dcc71bb5506",
+      "priority": 0,
+      "group": "8d96a2dfeab0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Cytrynę dodaje się do herbaty.",
+      "meaning": "Lemon is added to tea.",
+      "audio": "6de309d08a6793e5aaf92558af26fd659cc69a5fb9237b44171f40f8aec1d7f5",
+      "id": "8bd37628eec3",
+      "priority": 1,
+      "group": "8d96a2dfeab0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Lemon",
+          "definition": "cytryna\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "added",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "tea.",
+          "definition": "herbata\nundefined"
+        }
+      ],
+      "chips": [
+        "Cytrynę",
+        "dodaje",
+        "się",
+        "do",
+        "herbaty",
+        "ty",
+        "da",
+        "dobry",
+        "dom"
+      ],
+      "solutions": [
+        [
+          "Cytrynę",
+          "dodaje",
+          "się",
+          "do",
+          "herbaty"
+        ]
+      ],
+      "formattedSolution": "Cytrynę dodaje się do herbaty.",
+      "id": "c2170728f769",
+      "priority": 2,
+      "group": "8d96a2dfeab0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Cytrynę",
+          "definition": "undefined"
+        },
+        {
+          "word": "dodaje",
+          "definition": "undefined"
+        },
+        {
+          "word": "się",
+          "definition": "undefined"
+        },
+        {
+          "word": "do",
+          "definition": "undefined"
+        },
+        {
+          "word": "herbaty.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Lemon",
+        "is",
+        "added",
+        "to",
+        "tea",
+        "ten",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "Lemon",
+          "is",
+          "added",
+          "to",
+          "tea"
+        ]
+      ],
+      "formattedSolution": "Lemon is added to tea.",
+      "id": "49431ff59ac4",
+      "priority": 2,
+      "group": "8d96a2dfeab0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Banan jest w torbie.",
+      "meaningInSourceLanguage": "The banana is in the bag.",
+      "id": "755263f32e14",
+      "priority": 0,
+      "group": "b1557536494a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Banan jest w torbie.",
+      "meaning": "The banana is in the bag.",
+      "audio": "2fe60ce0bee02d359a312b5d2a0882da11cfb282143d13d69557790454ec2631",
+      "id": "643f417b947e",
+      "priority": 1,
+      "group": "b1557536494a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "banana",
+          "definition": "banan\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "bag.",
+          "definition": "torba\nundefined"
+        }
+      ],
+      "chips": [
+        "Banan",
+        "jest",
+        "w",
+        "torbie",
+        "je",
+        "we",
+        "nie"
+      ],
+      "solutions": [
+        [
+          "Banan",
+          "jest",
+          "w",
+          "torbie"
+        ]
+      ],
+      "formattedSolution": "Banan jest w torbie.",
+      "id": "a3d7b8c37dd8",
+      "priority": 2,
+      "group": "b1557536494a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Banan",
+          "definition": "banana\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "w",
+          "definition": "undefined"
+        },
+        {
+          "word": "torbie.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "banana",
+        "is",
+        "in",
+        "the",
+        "bag",
+        "an",
+        "be",
+        "big",
+        "as",
+        "am"
+      ],
+      "solutions": [
+        [
+          "The",
+          "banana",
+          "is",
+          "in",
+          "the",
+          "bag"
+        ]
+      ],
+      "formattedSolution": "The banana is in the bag.",
+      "id": "b1afe9f6e0d7",
+      "priority": 2,
+      "group": "b1557536494a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wiśnia rośnie na drzewie.",
+      "meaningInSourceLanguage": "The cherry grows on a tree.",
+      "id": "015748c3d305",
+      "priority": 0,
+      "group": "31e3c24b2707"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wiśnia rośnie na drzewie.",
+      "meaning": "The cherry grows on a tree.",
+      "audio": "e598a6120020b722fab67543aae3af695edf9d115ee3983000c29d61e14feef8",
+      "id": "614e988de592",
+      "priority": 1,
+      "group": "31e3c24b2707"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "cherry",
+          "definition": "undefined\nwiśnia"
+        },
+        {
+          "word": "grows",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "na\nundefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "tree.",
+          "definition": "drzewo\nundefined"
+        }
+      ],
+      "chips": [
+        "Wiśnia",
+        "rośnie",
+        "na",
+        "drzewie",
+        "nie",
+        "danie",
+        "mnie"
+      ],
+      "solutions": [
+        [
+          "Wiśnia",
+          "rośnie",
+          "na",
+          "drzewie"
+        ]
+      ],
+      "formattedSolution": "Wiśnia rośnie na drzewie.",
+      "id": "e75535319b9f",
+      "priority": 2,
+      "group": "31e3c24b2707"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wiśnia",
+          "definition": "cherry\nundefined"
+        },
+        {
+          "word": "rośnie",
+          "definition": "undefined"
+        },
+        {
+          "word": "na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "drzewie.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "cherry",
+        "grows",
+        "on",
+        "a",
+        "tree",
+        "are",
+        "the",
+        "or",
+        "She",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "cherry",
+          "grows",
+          "on",
+          "a",
+          "tree"
+        ]
+      ],
+      "formattedSolution": "The cherry grows on a tree.",
+      "id": "735c8e48aa90",
+      "priority": 2,
+      "group": "31e3c24b2707"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Melon jest bardzo smaczny.",
+      "meaningInSourceLanguage": "The melon is very tasty.",
+      "id": "b4fc2b900ba7",
+      "priority": 0,
+      "group": "981c5631fa08"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Melon jest bardzo smaczny.",
+      "meaning": "The melon is very tasty.",
+      "audio": "317e08596c72468b5f197a1295548566bcc858bb638272d9ebe92838c817f487",
+      "id": "0087da182e6a",
+      "priority": 1,
+      "group": "981c5631fa08"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "melon",
+          "definition": "melon\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "very",
+          "definition": "undefined"
+        },
+        {
+          "word": "tasty.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Melon",
+        "jest",
+        "bardzo",
+        "smaczny",
+        "masz",
+        "jesz",
+        "rano"
+      ],
+      "solutions": [
+        [
+          "Melon",
+          "jest",
+          "bardzo",
+          "smaczny"
+        ]
+      ],
+      "formattedSolution": "Melon jest bardzo smaczny.",
+      "id": "e7fa6771b581",
+      "priority": 2,
+      "group": "981c5631fa08"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Melon",
+          "definition": "melon\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "bardzo",
+          "definition": "undefined"
+        },
+        {
+          "word": "smaczny.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "melon",
+        "is",
+        "very",
+        "tasty",
+        "me",
+        "my",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "melon",
+          "is",
+          "very",
+          "tasty"
+        ]
+      ],
+      "formattedSolution": "The melon is very tasty.",
+      "id": "7b9da6b4a279",
+      "priority": 2,
+      "group": "981c5631fa08"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "jabłko",
+      "meaningInSourceLanguage": "apple",
+      "id": "47dbf24ba2c0",
+      "priority": 0,
+      "group": "dc2955f67d8c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "jabłko"
+      ],
+      "phrase": [
+        {
+          "word": "apple",
+          "definition": "jabłko\nundefined"
+        }
+      ],
+      "id": "a7ba40351349",
+      "priority": 1,
+      "group": "dc2955f67d8c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jabłko",
+      "meaning": "apple",
+      "audio": "e003c97cbf9f49ec80b31d01a61f242211e4d13405c8aa4587128c30317aa54b",
+      "id": "e2facc4f5320",
+      "priority": 1,
+      "group": "dc2955f67d8c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "gruszka",
+      "meaningInSourceLanguage": "pear",
+      "id": "9393a4e74719",
+      "priority": 0,
+      "group": "ba0d4c0b0545"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "gruszka"
+      ],
+      "phrase": [
+        {
+          "word": "pear",
+          "definition": "gruszka\nundefined"
+        }
+      ],
+      "id": "20c4b8f79e40",
+      "priority": 1,
+      "group": "ba0d4c0b0545"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gruszka",
+      "meaning": "pear",
+      "audio": "4325429ace2762e4e3118f38876d56822014904fa9a62173f1d1d54b36861738",
+      "id": "650396ef573e",
+      "priority": 1,
+      "group": "ba0d4c0b0545"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "banan",
+      "meaningInSourceLanguage": "banana",
+      "id": "6e159666ec36",
+      "priority": 0,
+      "group": "ee58db1cd936"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "banan"
+      ],
+      "phrase": [
+        {
+          "word": "banana",
+          "definition": "banan\nundefined"
+        }
+      ],
+      "id": "8fb3a3081385",
+      "priority": 1,
+      "group": "ee58db1cd936"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "banan",
+      "meaning": "banana",
+      "audio": "2831f4b3d2f8f00942a869ab974d6d3c5292933877e460d063588288871fb5fc",
+      "id": "b70859ea83e0",
+      "priority": 1,
+      "group": "ee58db1cd936"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pomarańcza",
+      "meaningInSourceLanguage": "orange",
+      "id": "b5b15965b705",
+      "priority": 0,
+      "group": "b6ece94fb51f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pomarańcza"
+      ],
+      "phrase": [
+        {
+          "word": "orange",
+          "definition": "pomarańcza\npomarańczowy\nundefined"
+        }
+      ],
+      "id": "eef29ef73130",
+      "priority": 1,
+      "group": "b6ece94fb51f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pomarańcza",
+      "meaning": "orange",
+      "audio": "8bfa08bda7ff2382c6953d5b37372c2c2d894d658c775d858f70f9d5091b82df",
+      "id": "c4934db514a5",
+      "priority": 1,
+      "group": "b6ece94fb51f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "wiśnia",
+      "meaningInSourceLanguage": "cherry",
+      "id": "b7159b29e0fc",
+      "priority": 0,
+      "group": "7bc29abe8f1e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "wiśnia"
+      ],
+      "phrase": [
+        {
+          "word": "cherry",
+          "definition": "undefined\nwiśnia"
+        }
+      ],
+      "id": "103b2bfe7ec9",
+      "priority": 1,
+      "group": "7bc29abe8f1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wiśnia",
+      "meaning": "cherry",
+      "audio": "c0a060db9e8882d36e3db2b29e5d48111b4cfa44327b4ab5eea6de76e6dd0f1e",
+      "id": "499631e4a9b1",
+      "priority": 1,
+      "group": "7bc29abe8f1e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "truskawka",
+      "meaningInSourceLanguage": "strawberry",
+      "id": "9c33d2a915d2",
+      "priority": 0,
+      "group": "51df05cd3aba"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "truskawka"
+      ],
+      "phrase": [
+        {
+          "word": "strawberry",
+          "definition": "truskawka\nundefined"
+        }
+      ],
+      "id": "e1c7b4885b27",
+      "priority": 1,
+      "group": "51df05cd3aba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "truskawka",
+      "meaning": "strawberry",
+      "audio": "bbe1d0fbf7ca2b111cbccad704a1aa12a3bdf3be42ef52911da08bfdbfbe1de8",
+      "id": "d5421b7ef5f4",
+      "priority": 1,
+      "group": "51df05cd3aba"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "dojrzały",
+      "meaningInSourceLanguage": "ripe",
+      "id": "b6143d73908a",
+      "priority": 0,
+      "group": "6c7b0c144e67"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "dojrzały"
+      ],
+      "phrase": [
+        {
+          "word": "ripe",
+          "definition": "dojrzały\nundefined"
+        }
+      ],
+      "id": "87b389462eea",
+      "priority": 1,
+      "group": "6c7b0c144e67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dojrzały",
+      "meaning": "ripe",
+      "audio": "6a82cf452793fa2f1f5782f5e70a40ae1049947de27f43e327cdc3c21b508abb",
+      "id": "4fca94f1c782",
+      "priority": 1,
+      "group": "6c7b0c144e67"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "winogrona",
+      "meaningInSourceLanguage": "grapes",
+      "id": "8ffed1edf802",
+      "priority": 0,
+      "group": "e59e8574aa1f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "winogrona"
+      ],
+      "phrase": [
+        {
+          "word": "grapes",
+          "definition": "undefined\nwinogrona"
+        }
+      ],
+      "id": "b726c1c7f8e5",
+      "priority": 1,
+      "group": "e59e8574aa1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "winogrona",
+      "meaning": "grapes",
+      "audio": "3294bcb0165a271fa8c64be7e333f0ed375a991c183188f73136778b8286e85c",
+      "id": "43fe09ae963f",
+      "priority": 1,
+      "group": "e59e8574aa1f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "śliwka",
+      "meaningInSourceLanguage": "plum",
+      "id": "c5a6b119853b",
+      "priority": 0,
+      "group": "32acd30b6cbf"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "śliwka"
+      ],
+      "phrase": [
+        {
+          "word": "plum",
+          "definition": "undefined\nśliwka"
+        }
+      ],
+      "id": "96526f2db001",
+      "priority": 1,
+      "group": "32acd30b6cbf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "śliwka",
+      "meaning": "plum",
+      "audio": "80903879f69b2ce75742495499d30a583465e1423b8e26e6df2c276c79c84fc6",
+      "id": "7f543f47fc22",
+      "priority": 1,
+      "group": "32acd30b6cbf"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cytryna",
+      "meaningInSourceLanguage": "lemon",
+      "id": "5aefeefbe35b",
+      "priority": 0,
+      "group": "c8ca778b5088"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cytryna"
+      ],
+      "phrase": [
+        {
+          "word": "lemon",
+          "definition": "cytryna\nundefined"
+        }
+      ],
+      "id": "d93b0d56ad23",
+      "priority": 1,
+      "group": "c8ca778b5088"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cytryna",
+      "meaning": "lemon",
+      "audio": "4fcc62a0bda31c430e2a8d1b573bd2aa58c2024f4cc1669ba8fa000e0746f9f3",
+      "id": "b6295c539f52",
+      "priority": 1,
+      "group": "c8ca778b5088"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "kwaśny",
+      "meaningInSourceLanguage": "sour",
+      "id": "07c4bc978c1d",
+      "priority": 0,
+      "group": "71097367e408"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "kwaśny"
+      ],
+      "phrase": [
+        {
+          "word": "sour",
+          "definition": "kwaśny\nundefined"
+        }
+      ],
+      "id": "d30976f2d3de",
+      "priority": 1,
+      "group": "71097367e408"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kwaśny",
+      "meaning": "sour",
+      "audio": "d312c3da06f3873377016cdb76e89c93136bb2af7c8484222da4273742573188",
+      "id": "d52810e3e7d3",
+      "priority": 1,
+      "group": "71097367e408"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "słodki",
+      "meaningInSourceLanguage": "sweet",
+      "id": "0624d09027dd",
+      "priority": 0,
+      "group": "4d0768aac433"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "słodki"
+      ],
+      "phrase": [
+        {
+          "word": "sweet",
+          "definition": "słodki\nundefined"
+        }
+      ],
+      "id": "33bb91e6f64f",
+      "priority": 1,
+      "group": "4d0768aac433"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "słodki",
+      "meaning": "sweet",
+      "audio": "325d9675b755a193097e82f018e44a13d0f35eb7d2eb104f0697e7da7a6be7f6",
+      "id": "b2aa65d3b7af",
+      "priority": 1,
+      "group": "4d0768aac433"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "melon",
+      "meaningInSourceLanguage": "melon",
+      "id": "4b107f050c9d",
+      "priority": 0,
+      "group": "7c9b7a889a7e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "melon"
+      ],
+      "phrase": [
+        {
+          "word": "melon",
+          "definition": "melon\nundefined"
+        }
+      ],
+      "id": "de7415c49593",
+      "priority": 1,
+      "group": "7c9b7a889a7e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "melon",
+      "meaning": "melon",
+      "audio": "a3963e480bf03301cbe59653fca80fbd5c68a9827e8cfce6b682453280680bdc",
+      "id": "7d3c0015ac0b",
+      "priority": 1,
+      "group": "7c9b7a889a7e"
+    }
+  ]
+}

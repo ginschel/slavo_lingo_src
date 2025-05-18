@@ -1,0 +1,2462 @@
+{
+  "id": "a3ab90692df4",
+  "levels": 6,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Můj pes je černý.",
+      "meaningInSourceLanguage": "My dog is black.",
+      "id": "a6a4aad6f0ef",
+      "priority": 0,
+      "group": "d3c308c857ab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Můj pes je černý.",
+      "meaning": "My dog is black.",
+      "audio": "ab1007e5b3321f746ffda2080d385efeb16483dc21e4037cd5faac6c07941da5",
+      "id": "c5637297c712",
+      "priority": 1,
+      "group": "d3c308c857ab"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined"
+        },
+        {
+          "word": "dog",
+          "definition": "pes\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "black.",
+          "definition": "undefined\nčerný"
+        }
+      ],
+      "chips": [
+        "Můj",
+        "pes",
+        "je",
+        "černý",
+        "Ten",
+        "den",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Můj",
+          "pes",
+          "je",
+          "černý"
+        ]
+      ],
+      "formattedSolution": "Můj pes je černý.",
+      "id": "f764d162ea4d",
+      "priority": 2,
+      "group": "d3c308c857ab"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Můj",
+          "definition": "undefined"
+        },
+        {
+          "word": "pes",
+          "definition": "dog\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "černý.",
+          "definition": "black\nundefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "dog",
+        "is",
+        "black",
+        "da",
+        "by",
+        "as"
+      ],
+      "solutions": [
+        [
+          "My",
+          "dog",
+          "is",
+          "black"
+        ]
+      ],
+      "formattedSolution": "My dog is black.",
+      "id": "33faee58a398",
+      "priority": 2,
+      "group": "d3c308c857ab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Myš je bílá.",
+      "meaningInSourceLanguage": "The mouse is white.",
+      "id": "5d9878df2d73",
+      "priority": 0,
+      "group": "9ee41fc4ba9c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Myš je bílá.",
+      "meaning": "The mouse is white.",
+      "audio": "0b7e4f27c44f4417838eda4a08891f3576ab9a544a534e504083135824e1c0ef",
+      "id": "f44c42607ea1",
+      "priority": 1,
+      "group": "9ee41fc4ba9c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "mouse",
+          "definition": "myš\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "white.",
+          "definition": "bílý\nundefined"
+        }
+      ],
+      "chips": [
+        "Myš",
+        "je",
+        "bílá",
+        "My",
+        "jí"
+      ],
+      "solutions": [
+        [
+          "Myš",
+          "je",
+          "bílá"
+        ]
+      ],
+      "formattedSolution": "Myš je bílá.",
+      "id": "9fea7b12639e",
+      "priority": 2,
+      "group": "9ee41fc4ba9c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Myš",
+          "definition": "mouse\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "bílá.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "mouse",
+        "is",
+        "white",
+        "wise",
+        "This",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "mouse",
+          "is",
+          "white"
+        ]
+      ],
+      "formattedSolution": "The mouse is white.",
+      "id": "331817a431fb",
+      "priority": 2,
+      "group": "9ee41fc4ba9c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tráva je zelená.",
+      "meaningInSourceLanguage": "The grass is green.",
+      "id": "0fd187c891ed",
+      "priority": 0,
+      "group": "4231990f772c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tráva je zelená.",
+      "meaning": "The grass is green.",
+      "audio": "ac4326be86fb8f60f1def33715640a4ea3565317ca6f37bfe0d4c3c728edac2e",
+      "id": "f47bfc6d1ce7",
+      "priority": 1,
+      "group": "4231990f772c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "grass",
+          "definition": "tráva\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "green.",
+          "definition": "undefined\nzelený"
+        }
+      ],
+      "chips": [
+        "Tráva",
+        "je",
+        "zelená",
+        "Ten",
+        "ve"
+      ],
+      "solutions": [
+        [
+          "Tráva",
+          "je",
+          "zelená"
+        ]
+      ],
+      "formattedSolution": "Tráva je zelená.",
+      "id": "9bd2f0de4ec4",
+      "priority": 2,
+      "group": "4231990f772c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Tráva",
+          "definition": "grass\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "zelená.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "grass",
+        "is",
+        "green",
+        "are",
+        "goes",
+        "grey"
+      ],
+      "solutions": [
+        [
+          "The",
+          "grass",
+          "is",
+          "green"
+        ]
+      ],
+      "formattedSolution": "The grass is green.",
+      "id": "270679f6c363",
+      "priority": 2,
+      "group": "4231990f772c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Nebe je modré.",
+      "meaningInSourceLanguage": "The sky is blue.",
+      "id": "cc293db48c10",
+      "priority": 0,
+      "group": "2989a32d8e8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Nebe je modré.",
+      "meaning": "The sky is blue.",
+      "audio": "6b8eea983480ee3f879460bbc69cce5fc53a26e62e0db26c62d33bd876f6bc70",
+      "id": "55fd6aa72724",
+      "priority": 1,
+      "group": "2989a32d8e8b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "sky",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "blue.",
+          "definition": "modrý\nundefined"
+        }
+      ],
+      "chips": [
+        "Nebe",
+        "je",
+        "modré",
+        "moje",
+        "Ne"
+      ],
+      "solutions": [
+        [
+          "Nebe",
+          "je",
+          "modré"
+        ]
+      ],
+      "formattedSolution": "Nebe je modré.",
+      "id": "5d25a88f9423",
+      "priority": 2,
+      "group": "2989a32d8e8b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Nebe",
+          "definition": "undefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "modré.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "sky",
+        "is",
+        "blue",
+        "be",
+        "She",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "sky",
+          "is",
+          "blue"
+        ]
+      ],
+      "formattedSolution": "The sky is blue.",
+      "id": "105bba5e2443",
+      "priority": 2,
+      "group": "2989a32d8e8b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Květy jsou červené.",
+      "meaningInSourceLanguage": "The flowers are red.",
+      "id": "ac468c69f85c",
+      "priority": 0,
+      "group": "b83482bb989c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Květy jsou červené.",
+      "meaning": "The flowers are red.",
+      "audio": "5c4132e32e06a9bc7dce1419a3d1892be453d5d7bc00e9871b0daeb20613ddf3",
+      "id": "7d9d3cbc1798",
+      "priority": 1,
+      "group": "b83482bb989c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "flowers",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "jsi\njsme\njsou\njste\nundefined"
+        },
+        {
+          "word": "red.",
+          "definition": "undefined\nčervený"
+        }
+      ],
+      "chips": [
+        "Květy",
+        "jsou",
+        "červené",
+        "Květ",
+        "svou"
+      ],
+      "solutions": [
+        [
+          "Květy",
+          "jsou",
+          "červené"
+        ]
+      ],
+      "formattedSolution": "Květy jsou červené.",
+      "id": "4be649519b42",
+      "priority": 2,
+      "group": "b83482bb989c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Květy",
+          "definition": "undefined"
+        },
+        {
+          "word": "jsou",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "červené.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "flowers",
+        "are",
+        "red",
+        "Are",
+        "She",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "flowers",
+          "are",
+          "red"
+        ]
+      ],
+      "formattedSolution": "The flowers are red.",
+      "id": "983798eaf09c",
+      "priority": 2,
+      "group": "b83482bb989c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Slunce je žluté.",
+      "meaningInSourceLanguage": "The sun is yellow.",
+      "id": "dfad809cf952",
+      "priority": 0,
+      "group": "ee3606b10fab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Slunce je žluté.",
+      "meaning": "The sun is yellow.",
+      "audio": "ba3a8a9145505e6b716c1163632e920addd6b90a81784ecae5439b8d6511780f",
+      "id": "60f67a13ee75",
+      "priority": 1,
+      "group": "ee3606b10fab"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "sun",
+          "definition": "slunce\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "yellow.",
+          "definition": "undefined\nžlutý"
+        }
+      ],
+      "chips": [
+        "Slunce",
+        "je",
+        "žluté",
+        "že",
+        "žlutý"
+      ],
+      "solutions": [
+        [
+          "Slunce",
+          "je",
+          "žluté"
+        ]
+      ],
+      "formattedSolution": "Slunce je žluté.",
+      "id": "7bb2e36b7df8",
+      "priority": 2,
+      "group": "ee3606b10fab"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Slunce",
+          "definition": "sun\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "žluté.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "sun",
+        "is",
+        "yellow",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "sun",
+          "is",
+          "yellow"
+        ]
+      ],
+      "formattedSolution": "The sun is yellow.",
+      "id": "8b554edc0df2",
+      "priority": 2,
+      "group": "ee3606b10fab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Oblaky jsou šedé.",
+      "meaningInSourceLanguage": "The clouds are grey.",
+      "id": "9d627cc96b2d",
+      "priority": 0,
+      "group": "c3c40710d9f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Oblaky jsou šedé.",
+      "meaning": "The clouds are grey.",
+      "audio": "54a86d2142ff4f36e3091b8c0c17ce50376cd4df45743c9cb778d77204f06e9c",
+      "id": "46331f53f522",
+      "priority": 1,
+      "group": "c3c40710d9f2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "clouds",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "jsi\njsme\njsou\njste\nundefined"
+        },
+        {
+          "word": "grey.",
+          "definition": "undefined\nšedý"
+        }
+      ],
+      "chips": [
+        "Oblaky",
+        "jsou",
+        "šedé",
+        "také",
+        "jedou"
+      ],
+      "solutions": [
+        [
+          "Oblaky",
+          "jsou",
+          "šedé"
+        ]
+      ],
+      "formattedSolution": "Oblaky jsou šedé.",
+      "id": "1431a37e8612",
+      "priority": 2,
+      "group": "c3c40710d9f2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Oblaky",
+          "definition": "undefined"
+        },
+        {
+          "word": "jsou",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "šedé.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "clouds",
+        "are",
+        "grey",
+        "Are",
+        "She",
+        "They"
+      ],
+      "solutions": [
+        [
+          "The",
+          "clouds",
+          "are",
+          "grey"
+        ]
+      ],
+      "formattedSolution": "The clouds are grey.",
+      "id": "52e48ee6e7c3",
+      "priority": 2,
+      "group": "c3c40710d9f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "On nosí kaštanový kabát.",
+      "meaningInSourceLanguage": "He wears a brown coat.",
+      "id": "d8231070bd8e",
+      "priority": 0,
+      "group": "b4e7d56efd5a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "On nosí kaštanový kabát.",
+      "meaning": "He wears a brown coat.",
+      "audio": "35171c197652199c73fb3ac4ebc1cc2685a432f0e91a9bf4eb53a35e06f3a35d",
+      "id": "b9fbc5f0658f",
+      "priority": 1,
+      "group": "b4e7d56efd5a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "wears",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "brown",
+          "definition": "kaštanový\nundefined"
+        },
+        {
+          "word": "coat.",
+          "definition": "kabát\nundefined"
+        }
+      ],
+      "chips": [
+        "On",
+        "nosí",
+        "kaštanový",
+        "kabát",
+        "nová",
+        "kost",
+        "Ono"
+      ],
+      "solutions": [
+        [
+          "On",
+          "nosí",
+          "kaštanový",
+          "kabát"
+        ]
+      ],
+      "formattedSolution": "On nosí kaštanový kabát.",
+      "id": "c97e0828ac0c",
+      "priority": 2,
+      "group": "b4e7d56efd5a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "nosí",
+          "definition": "undefined"
+        },
+        {
+          "word": "kaštanový",
+          "definition": "brown\nundefined"
+        },
+        {
+          "word": "kabát.",
+          "definition": "coat\nundefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "wears",
+        "a",
+        "brown",
+        "coat",
+        "at",
+        "an",
+        "as",
+        "am"
+      ],
+      "solutions": [
+        [
+          "He",
+          "wears",
+          "a",
+          "brown",
+          "coat"
+        ]
+      ],
+      "formattedSolution": "He wears a brown coat.",
+      "id": "0c4786bdfeae",
+      "priority": 2,
+      "group": "b4e7d56efd5a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "List je oranžový.",
+      "meaningInSourceLanguage": "The leaf is orange.",
+      "id": "39adb9abe667",
+      "priority": 0,
+      "group": "66fddcff8bd5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "List je oranžový.",
+      "meaning": "The leaf is orange.",
+      "audio": "b6fe8b2942e0b9ef2c2af75266f43b75fd4696233d0ea035e648905180d2c2fc",
+      "id": "e8651fdd09ec",
+      "priority": 1,
+      "group": "66fddcff8bd5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "leaf",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "orange.",
+          "definition": "oranžový\npomeranč\nundefined"
+        }
+      ],
+      "chips": [
+        "List",
+        "je",
+        "oranžový",
+        "se",
+        "žije"
+      ],
+      "solutions": [
+        [
+          "List",
+          "je",
+          "oranžový"
+        ]
+      ],
+      "formattedSolution": "List je oranžový.",
+      "id": "2cf7f909f608",
+      "priority": 2,
+      "group": "66fddcff8bd5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "List",
+          "definition": "undefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "oranžový.",
+          "definition": "orange\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "leaf",
+        "is",
+        "orange",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "leaf",
+          "is",
+          "orange"
+        ]
+      ],
+      "formattedSolution": "The leaf is orange.",
+      "id": "392d12590667",
+      "priority": 2,
+      "group": "66fddcff8bd5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "To je Rudé moře.",
+      "meaningInSourceLanguage": "This is the Red Sea.",
+      "id": "366468b75b78",
+      "priority": 0,
+      "group": "8e3bc04c1d1c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "To je Rudé moře.",
+      "meaning": "This is the Red Sea.",
+      "audio": "7834d967382a9256b2c64fae7ddbbb3a48b44af05be0a13b2011a69421cc07e9",
+      "id": "9b0749baccfc",
+      "priority": 1,
+      "group": "8e3bc04c1d1c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "ta\nto\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "Red",
+          "definition": "undefined\nčervený"
+        },
+        {
+          "word": "Sea.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "To",
+        "je",
+        "Rudé",
+        "moře",
+        "do",
+        "moje",
+        "se"
+      ],
+      "solutions": [
+        [
+          "To",
+          "je",
+          "Rudé",
+          "moře"
+        ]
+      ],
+      "formattedSolution": "To je Rudé moře.",
+      "id": "8cc9322bdb42",
+      "priority": 2,
+      "group": "8e3bc04c1d1c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "To",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "Rudé",
+          "definition": "undefined"
+        },
+        {
+          "word": "moře.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "the",
+        "Red",
+        "Sea",
+        "his",
+        "She",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "the",
+          "Red",
+          "Sea"
+        ]
+      ],
+      "formattedSolution": "This is the Red Sea.",
+      "id": "dd0faf9a0579",
+      "priority": 2,
+      "group": "8e3bc04c1d1c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Moje oči jsou modré.",
+      "meaningInSourceLanguage": "My eyes are blue.",
+      "id": "784236d032c8",
+      "priority": 0,
+      "group": "725f3460dd78"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Moje oči jsou modré.",
+      "meaning": "My eyes are blue.",
+      "audio": "360edc624f46aaa51dfdec5a6d19edaf2ee9fa5669cbfc4d6c6176ec852f504e",
+      "id": "e4c324326b89",
+      "priority": 1,
+      "group": "725f3460dd78"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined"
+        },
+        {
+          "word": "eyes",
+          "definition": "oči\nundefined"
+        },
+        {
+          "word": "are",
+          "definition": "jsi\njsme\njsou\njste\nundefined"
+        },
+        {
+          "word": "blue.",
+          "definition": "modrý\nundefined"
+        }
+      ],
+      "chips": [
+        "Moje",
+        "oči",
+        "jsou",
+        "modré",
+        "moje",
+        "od",
+        "mojí"
+      ],
+      "solutions": [
+        [
+          "Moje",
+          "oči",
+          "jsou",
+          "modré"
+        ]
+      ],
+      "formattedSolution": "Moje oči jsou modré.",
+      "id": "a0071d0afeb1",
+      "priority": 2,
+      "group": "725f3460dd78"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Moje",
+          "definition": "undefined"
+        },
+        {
+          "word": "oči",
+          "definition": "eyes\nundefined"
+        },
+        {
+          "word": "jsou",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "modré.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "eyes",
+        "are",
+        "blue",
+        "be",
+        "We",
+        "Are"
+      ],
+      "solutions": [
+        [
+          "My",
+          "eyes",
+          "are",
+          "blue"
+        ]
+      ],
+      "formattedSolution": "My eyes are blue.",
+      "id": "d755280256e6",
+      "priority": 2,
+      "group": "725f3460dd78"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ona má zelenou trávu.",
+      "meaningInSourceLanguage": "She has green grass.",
+      "id": "0b7d5d57ec9e",
+      "priority": 0,
+      "group": "7e161a4ca116"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ona má zelenou trávu.",
+      "meaning": "She has green grass.",
+      "audio": "d9e98a6f2074c0bd398b215b00baa357c9b9b5253dc0430156be3901c5343313",
+      "id": "b818335567b1",
+      "priority": 1,
+      "group": "7e161a4ca116"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "ona\nundefined"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "green",
+          "definition": "undefined\nzelený"
+        },
+        {
+          "word": "grass.",
+          "definition": "tráva\nundefined"
+        }
+      ],
+      "chips": [
+        "Ona",
+        "má",
+        "zelenou",
+        "trávu",
+        "zná",
+        "On",
+        "ráno"
+      ],
+      "solutions": [
+        [
+          "Ona",
+          "má",
+          "zelenou",
+          "trávu"
+        ]
+      ],
+      "formattedSolution": "Ona má zelenou trávu.",
+      "id": "a41c69416dae",
+      "priority": 2,
+      "group": "7e161a4ca116"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ona",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "má",
+          "definition": "undefined"
+        },
+        {
+          "word": "zelenou",
+          "definition": "undefined"
+        },
+        {
+          "word": "trávu.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "has",
+        "green",
+        "grass",
+        "ran",
+        "are",
+        "goes"
+      ],
+      "solutions": [
+        [
+          "She",
+          "has",
+          "green",
+          "grass"
+        ]
+      ],
+      "formattedSolution": "She has green grass.",
+      "id": "059d1ee5e99f",
+      "priority": 2,
+      "group": "7e161a4ca116"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Já miluji červenou barvu.",
+      "meaningInSourceLanguage": "I like the red color.",
+      "id": "6d9c9db27332",
+      "priority": 0,
+      "group": "c9cda1cceb0a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Já miluji červenou barvu.",
+      "meaning": "I like the red color.",
+      "audio": "4cc2a0d718cbfc2430d35b3866fdc917e1d23870ed3d5134e6b016b9b2de34ed",
+      "id": "7a6d5fb04f6f",
+      "priority": 1,
+      "group": "c9cda1cceb0a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "já"
+        },
+        {
+          "word": "like",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "red",
+          "definition": "undefined\nčervený"
+        },
+        {
+          "word": "color.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Já",
+        "miluji",
+        "červenou",
+        "barvu",
+        "kávu",
+        "mu",
+        "svou"
+      ],
+      "solutions": [
+        [
+          "Já",
+          "miluji",
+          "červenou",
+          "barvu"
+        ]
+      ],
+      "formattedSolution": "Já miluji červenou barvu.",
+      "id": "a7c21af63dd9",
+      "priority": 2,
+      "group": "c9cda1cceb0a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Já",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "miluji",
+          "definition": "undefined"
+        },
+        {
+          "word": "červenou",
+          "definition": "undefined"
+        },
+        {
+          "word": "barvu.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "like",
+        "the",
+        "red",
+        "color",
+        "We",
+        "He",
+        "me",
+        "be"
+      ],
+      "solutions": [
+        [
+          "I",
+          "like",
+          "the",
+          "red",
+          "color"
+        ]
+      ],
+      "formattedSolution": "I like the red color.",
+      "id": "44568875a3b5",
+      "priority": 2,
+      "group": "c9cda1cceb0a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jeho auto je černé.",
+      "meaningInSourceLanguage": "His car is black.",
+      "id": "7c085f62c029",
+      "priority": 0,
+      "group": "7a3206a94d22"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Jeho auto je černé.",
+      "meaning": "His car is black.",
+      "audio": "89448103fe0b5592ecb4efa6005fa645844e07bd6ce77932a3297650319eedf7",
+      "id": "efe5e07492ae",
+      "priority": 1,
+      "group": "7a3206a94d22"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "His",
+          "definition": "undefined"
+        },
+        {
+          "word": "car",
+          "definition": "auto\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "black.",
+          "definition": "undefined\nčerný"
+        }
+      ],
+      "chips": [
+        "Jeho",
+        "auto",
+        "je",
+        "černé",
+        "jeho",
+        "Je",
+        "Čeho"
+      ],
+      "solutions": [
+        [
+          "Jeho",
+          "auto",
+          "je",
+          "černé"
+        ]
+      ],
+      "formattedSolution": "Jeho auto je černé.",
+      "id": "5ef0286ad342",
+      "priority": 2,
+      "group": "7a3206a94d22"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jeho",
+          "definition": "undefined"
+        },
+        {
+          "word": "auto",
+          "definition": "car\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "černé.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "His",
+        "car",
+        "is",
+        "black",
+        "as",
+        "his",
+        "has"
+      ],
+      "solutions": [
+        [
+          "His",
+          "car",
+          "is",
+          "black"
+        ]
+      ],
+      "formattedSolution": "His car is black.",
+      "id": "e86acf42d6c1",
+      "priority": 2,
+      "group": "7a3206a94d22"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dívka nese bílou sukni.",
+      "meaningInSourceLanguage": "The girl is wearing a white dress.",
+      "id": "7563505880c9",
+      "priority": 0,
+      "group": "715511700360"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dívka nese bílou sukni.",
+      "meaning": "The girl is wearing a white dress.",
+      "audio": "c9de3d695d7332b61d19f42cfa65abd7a2b8dd180088a465f8afbee74255ebbf",
+      "id": "b9b71c2f1e4d",
+      "priority": 1,
+      "group": "715511700360"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "girl",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "wearing",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "white",
+          "definition": "bílý\nundefined"
+        },
+        {
+          "word": "dress.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Dívka",
+        "nese",
+        "bílou",
+        "sukni",
+        "svou",
+        "vína",
+        "víno"
+      ],
+      "solutions": [
+        [
+          "Dívka",
+          "nese",
+          "bílou",
+          "sukni"
+        ]
+      ],
+      "formattedSolution": "Dívka nese bílou sukni.",
+      "id": "9adf7e5f2841",
+      "priority": 2,
+      "group": "715511700360"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dívka",
+          "definition": "undefined"
+        },
+        {
+          "word": "nese",
+          "definition": "undefined"
+        },
+        {
+          "word": "bílou",
+          "definition": "undefined"
+        },
+        {
+          "word": "sukni.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "girl",
+        "is",
+        "wearing",
+        "a",
+        "white",
+        "dress",
+        "are",
+        "wise",
+        "it",
+        "his",
+        "in",
+        "air"
+      ],
+      "solutions": [
+        [
+          "The",
+          "girl",
+          "is",
+          "wearing",
+          "a",
+          "white",
+          "dress"
+        ]
+      ],
+      "formattedSolution": "The girl is wearing a white dress.",
+      "id": "ffc07ebe6dd6",
+      "priority": 2,
+      "group": "715511700360"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Je li to šedý vlas?",
+      "meaningInSourceLanguage": "Is that grey hair?",
+      "id": "85ee0fe7cf7c",
+      "priority": 0,
+      "group": "24a4f1c957d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Je li to šedý vlas?",
+      "meaning": "Is that grey hair?",
+      "audio": "441efa0b24d721b0cb5bfcc7bc2578d8c398d0e2e07016b80f42c0592ac4dfbf",
+      "id": "90806758a3c9",
+      "priority": 1,
+      "group": "24a4f1c957d9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "that",
+          "definition": "ten\nundefined"
+        },
+        {
+          "word": "grey",
+          "definition": "undefined\nšedý"
+        },
+        {
+          "word": "hair?",
+          "definition": "undefined\nvlasy"
+        }
+      ],
+      "chips": [
+        "Je",
+        "li",
+        "to",
+        "šedý",
+        "vlas",
+        "ve",
+        "je",
+        "se",
+        "ti"
+      ],
+      "solutions": [
+        [
+          "Je",
+          "li",
+          "to",
+          "šedý",
+          "vlas"
+        ]
+      ],
+      "formattedSolution": "Je li to šedý vlas?",
+      "id": "881ef40305a9",
+      "priority": 2,
+      "group": "24a4f1c957d9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "li",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "šedý",
+          "definition": "grey\nundefined"
+        },
+        {
+          "word": "vlas?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Is",
+        "that",
+        "grey",
+        "hair",
+        "has",
+        "hat",
+        "her"
+      ],
+      "solutions": [
+        [
+          "Is",
+          "that",
+          "grey",
+          "hair"
+        ]
+      ],
+      "formattedSolution": "Is that grey hair?",
+      "id": "672a7c238f8a",
+      "priority": 2,
+      "group": "24a4f1c957d9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "On má oranžovou tašku.",
+      "meaningInSourceLanguage": "He has an orange bag.",
+      "id": "dac29e72f149",
+      "priority": 0,
+      "group": "2f5f728f88f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "On má oranžovou tašku.",
+      "meaning": "He has an orange bag.",
+      "audio": "892d2fd303fb740bee7ebbc3b006b41b0a8325b65b94899c0a28d186f6fba0cc",
+      "id": "e5f44cac5ec3",
+      "priority": 1,
+      "group": "2f5f728f88f9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "an",
+          "definition": "undefined"
+        },
+        {
+          "word": "orange",
+          "definition": "oranžový\npomeranč\nundefined"
+        },
+        {
+          "word": "bag.",
+          "definition": "taška\nundefined"
+        }
+      ],
+      "chips": [
+        "On",
+        "má",
+        "oranžovou",
+        "tašku",
+        "tu",
+        "on",
+        "mu"
+      ],
+      "solutions": [
+        [
+          "On",
+          "má",
+          "oranžovou",
+          "tašku"
+        ]
+      ],
+      "formattedSolution": "On má oranžovou tašku.",
+      "id": "c0291957eca3",
+      "priority": 2,
+      "group": "2f5f728f88f9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "má",
+          "definition": "undefined"
+        },
+        {
+          "word": "oranžovou",
+          "definition": "undefined"
+        },
+        {
+          "word": "tašku.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "has",
+        "an",
+        "orange",
+        "bag",
+        "ran",
+        "as",
+        "am",
+        "a"
+      ],
+      "solutions": [
+        [
+          "He",
+          "has",
+          "an",
+          "orange",
+          "bag"
+        ]
+      ],
+      "formattedSolution": "He has an orange bag.",
+      "id": "a7b2d0ec93e8",
+      "priority": 2,
+      "group": "2f5f728f88f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kaštanový kůň stojí ve stáji.",
+      "meaningInSourceLanguage": "The brown horse stands in the stable.",
+      "id": "e5db5debe775",
+      "priority": 0,
+      "group": "a4a26a86f27a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Kaštanový kůň stojí ve stáji.",
+      "meaning": "The brown horse stands in the stable.",
+      "audio": "fad733386390f2b9fa5e80b6ba59ad8191813aae3cff9535fbce259ef0866f1a",
+      "id": "aba99af9d10a",
+      "priority": 1,
+      "group": "a4a26a86f27a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "brown",
+          "definition": "kaštanový\nundefined"
+        },
+        {
+          "word": "horse",
+          "definition": "kůň\nundefined"
+        },
+        {
+          "word": "stands",
+          "definition": "undefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "stable.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Kaštanový",
+        "kůň",
+        "stojí",
+        "ve",
+        "stáji",
+        "sto",
+        "stý",
+        "ti",
+        "tom"
+      ],
+      "solutions": [
+        [
+          "Kaštanový",
+          "kůň",
+          "stojí",
+          "ve",
+          "stáji"
+        ]
+      ],
+      "formattedSolution": "Kaštanový kůň stojí ve stáji.",
+      "id": "8d665cd60380",
+      "priority": 2,
+      "group": "a4a26a86f27a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kaštanový",
+          "definition": "brown\nundefined"
+        },
+        {
+          "word": "kůň",
+          "definition": "horse\nundefined"
+        },
+        {
+          "word": "stojí",
+          "definition": "undefined"
+        },
+        {
+          "word": "ve",
+          "definition": "undefined"
+        },
+        {
+          "word": "stáji.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "brown",
+        "horse",
+        "stands",
+        "in",
+        "the",
+        "stable",
+        "are",
+        "son",
+        "be",
+        "shoe",
+        "ran",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "brown",
+          "horse",
+          "stands",
+          "in",
+          "the",
+          "stable"
+        ]
+      ],
+      "formattedSolution": "The brown horse stands in the stable.",
+      "id": "29152ffb8de2",
+      "priority": 2,
+      "group": "a4a26a86f27a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Žluté slunce hřeje zemi.",
+      "meaningInSourceLanguage": "The yellow sun warms the earth.",
+      "id": "5a6cdfef8016",
+      "priority": 0,
+      "group": "1ab7ecde1247"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Žluté slunce hřeje zemi.",
+      "meaning": "The yellow sun warms the earth.",
+      "audio": "a11779f3340bb185ad88f99c2c417fbd7c334383bc9e39912b28755986e077e3",
+      "id": "372666f41eeb",
+      "priority": 1,
+      "group": "1ab7ecde1247"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "yellow",
+          "definition": "undefined\nžlutý"
+        },
+        {
+          "word": "sun",
+          "definition": "slunce\nundefined"
+        },
+        {
+          "word": "warms",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "earth.",
+          "definition": "undefined\nzemě"
+        }
+      ],
+      "chips": [
+        "Žluté",
+        "slunce",
+        "hřeje",
+        "zemi",
+        "řece",
+        "žluté",
+        "ruce"
+      ],
+      "solutions": [
+        [
+          "Žluté",
+          "slunce",
+          "hřeje",
+          "zemi"
+        ]
+      ],
+      "formattedSolution": "Žluté slunce hřeje zemi.",
+      "id": "b6fc12f2109d",
+      "priority": 2,
+      "group": "1ab7ecde1247"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Žluté",
+          "definition": "undefined"
+        },
+        {
+          "word": "slunce",
+          "definition": "sun\nundefined"
+        },
+        {
+          "word": "hřeje",
+          "definition": "undefined"
+        },
+        {
+          "word": "zemi.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "yellow",
+        "sun",
+        "warms",
+        "the",
+        "earth",
+        "are",
+        "ear",
+        "her",
+        "eat",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "yellow",
+          "sun",
+          "warms",
+          "the",
+          "earth"
+        ]
+      ],
+      "formattedSolution": "The yellow sun warms the earth.",
+      "id": "8718bdf0e30f",
+      "priority": 2,
+      "group": "1ab7ecde1247"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Červená růže roste zde.",
+      "meaningInSourceLanguage": "A red rose grows here.",
+      "id": "ae6f4e6e6d94",
+      "priority": 0,
+      "group": "a7e1ff1d2f7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Červená růže roste zde.",
+      "meaning": "A red rose grows here.",
+      "audio": "5f1cd7027fa12105e2940e6b40276b5ed38efdd886f5d62ca09c9859c8605fe0",
+      "id": "c0a177988e11",
+      "priority": 1,
+      "group": "a7e1ff1d2f7c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "red",
+          "definition": "undefined\nčervený"
+        },
+        {
+          "word": "rose",
+          "definition": "růže\nundefined"
+        },
+        {
+          "word": "grows",
+          "definition": "undefined"
+        },
+        {
+          "word": "here.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Červená",
+        "růže",
+        "roste",
+        "zde",
+        "Jste",
+        "se",
+        "Může"
+      ],
+      "solutions": [
+        [
+          "Červená",
+          "růže",
+          "roste",
+          "zde"
+        ]
+      ],
+      "formattedSolution": "Červená růže roste zde.",
+      "id": "fee5e025de9d",
+      "priority": 2,
+      "group": "a7e1ff1d2f7c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Červená",
+          "definition": "undefined"
+        },
+        {
+          "word": "růže",
+          "definition": "rose\nundefined"
+        },
+        {
+          "word": "roste",
+          "definition": "undefined"
+        },
+        {
+          "word": "zde.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "red",
+        "rose",
+        "grows",
+        "here",
+        "are",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "A",
+          "red",
+          "rose",
+          "grows",
+          "here"
+        ]
+      ],
+      "formattedSolution": "A red rose grows here.",
+      "id": "82d64bbcfde4",
+      "priority": 2,
+      "group": "a7e1ff1d2f7c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "černý",
+      "meaningInSourceLanguage": "black",
+      "id": "5d41a3018d59",
+      "priority": 0,
+      "group": "1e4b7c2ff49d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "černý"
+      ],
+      "phrase": [
+        {
+          "word": "black",
+          "definition": "undefined\nčerný"
+        }
+      ],
+      "id": "8ed5e3c3a42c",
+      "priority": 1,
+      "group": "1e4b7c2ff49d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "černý",
+      "meaning": "black",
+      "audio": "fbac886aff2daefec0d32ce50d62fc58298b3aa481a1135689d73e33e3778d3d",
+      "id": "08f415928184",
+      "priority": 1,
+      "group": "1e4b7c2ff49d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "bílý",
+      "meaningInSourceLanguage": "white",
+      "id": "3f3d748e5528",
+      "priority": 0,
+      "group": "a02515629d33"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "bílý"
+      ],
+      "phrase": [
+        {
+          "word": "white",
+          "definition": "bílý\nundefined"
+        }
+      ],
+      "id": "c3ddc582adf6",
+      "priority": 1,
+      "group": "a02515629d33"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bílý",
+      "meaning": "white",
+      "audio": "66fe0ee2852e370754ec42cfe0705db113e72faff61ba6c6dc37bcbdadff2eb0",
+      "id": "4cb6b1dd9a93",
+      "priority": 1,
+      "group": "a02515629d33"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "zelený",
+      "meaningInSourceLanguage": "green",
+      "id": "e965e6fe3cb3",
+      "priority": 0,
+      "group": "3e3a0d58ef1f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "zelený"
+      ],
+      "phrase": [
+        {
+          "word": "green",
+          "definition": "undefined\nzelený"
+        }
+      ],
+      "id": "5d8612589ab0",
+      "priority": 1,
+      "group": "3e3a0d58ef1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "zelený",
+      "meaning": "green",
+      "audio": "129295901cf66856076759437b170c2a5520943404b057aba4230780e377cf10",
+      "id": "65856b8af50c",
+      "priority": 1,
+      "group": "3e3a0d58ef1f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "modrý",
+      "meaningInSourceLanguage": "blue",
+      "id": "33a85277b5f3",
+      "priority": 0,
+      "group": "511873e80a25"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "modrý"
+      ],
+      "phrase": [
+        {
+          "word": "blue",
+          "definition": "modrý\nundefined"
+        }
+      ],
+      "id": "5eea3f9ee780",
+      "priority": 1,
+      "group": "511873e80a25"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "modrý",
+      "meaning": "blue",
+      "audio": "7a8310c4617f19c6875573f9eb4a1fd908f67d0862964677fe755e050aa1afff",
+      "id": "402969b2bdf8",
+      "priority": 1,
+      "group": "511873e80a25"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "červený",
+      "meaningInSourceLanguage": "red",
+      "id": "659d9fd98411",
+      "priority": 0,
+      "group": "4b7cfa5b69aa"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "červený"
+      ],
+      "phrase": [
+        {
+          "word": "red",
+          "definition": "undefined\nčervený"
+        }
+      ],
+      "id": "daadce80cadb",
+      "priority": 1,
+      "group": "4b7cfa5b69aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "červený",
+      "meaning": "red",
+      "audio": "ced590987493bdb8de9df78b86e28ca89669ef45b823bdb2d422134124bca885",
+      "id": "16f63804b3d4",
+      "priority": 1,
+      "group": "4b7cfa5b69aa"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "žlutý",
+      "meaningInSourceLanguage": "yellow",
+      "id": "4e266ff4de6e",
+      "priority": 0,
+      "group": "14b7d53fd94a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "žlutý"
+      ],
+      "phrase": [
+        {
+          "word": "yellow",
+          "definition": "undefined\nžlutý"
+        }
+      ],
+      "id": "bdc4f26b59bd",
+      "priority": 1,
+      "group": "14b7d53fd94a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "žlutý",
+      "meaning": "yellow",
+      "audio": "bb864b300b85b40d67fdb395f83ffc2440a7f6b72c5a3c732c64d5b8cb8ace5b",
+      "id": "97198eed4578",
+      "priority": 1,
+      "group": "14b7d53fd94a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "šedý",
+      "meaningInSourceLanguage": "grey",
+      "id": "fa7321929bc2",
+      "priority": 0,
+      "group": "6679264c9b2e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "šedý"
+      ],
+      "phrase": [
+        {
+          "word": "grey",
+          "definition": "undefined\nšedý"
+        }
+      ],
+      "id": "2832fdc13ddb",
+      "priority": 1,
+      "group": "6679264c9b2e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "šedý",
+      "meaning": "grey",
+      "audio": "a49dd03574d95e90258632ea5092356efc692dbb93b57e5c2e83b5ca1ab2567d",
+      "id": "3fa75746730a",
+      "priority": 1,
+      "group": "6679264c9b2e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "kaštanový",
+      "meaningInSourceLanguage": "brown",
+      "id": "037f2ceef115",
+      "priority": 0,
+      "group": "3967f95ed18e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "kaštanový"
+      ],
+      "phrase": [
+        {
+          "word": "brown",
+          "definition": "kaštanový\nundefined"
+        }
+      ],
+      "id": "63b1aebf4152",
+      "priority": 1,
+      "group": "3967f95ed18e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kaštanový",
+      "meaning": "brown",
+      "audio": "566850cd43ba7d8eb2a9788a2617019281e1bc7a8960464e817638f5f97bb0ec",
+      "id": "c3c8bd90400f",
+      "priority": 1,
+      "group": "3967f95ed18e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "oranžový",
+      "meaningInSourceLanguage": "orange",
+      "id": "d69f25793343",
+      "priority": 0,
+      "group": "44fb66fd0427"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "oranžový"
+      ],
+      "phrase": [
+        {
+          "word": "orange",
+          "definition": "oranžový\npomeranč\nundefined"
+        }
+      ],
+      "id": "0d1456b815b3",
+      "priority": 1,
+      "group": "44fb66fd0427"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oranžový",
+      "meaning": "orange",
+      "audio": "38108b17c9095a5692790a95983118c209def20bc9734e5f64d9e49c463fc59e",
+      "id": "62c8c3dae9a2",
+      "priority": 1,
+      "group": "44fb66fd0427"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "červený",
+      "meaningInSourceLanguage": "red",
+      "id": "659d9fd98411",
+      "priority": 0,
+      "group": "4b7cfa5b69aa"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "červený"
+      ],
+      "phrase": [
+        {
+          "word": "red",
+          "definition": "undefined\nčervený"
+        }
+      ],
+      "id": "daadce80cadb",
+      "priority": 1,
+      "group": "4b7cfa5b69aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "červený",
+      "meaning": "red",
+      "audio": "ced590987493bdb8de9df78b86e28ca89669ef45b823bdb2d422134124bca885",
+      "id": "16f63804b3d4",
+      "priority": 1,
+      "group": "4b7cfa5b69aa"
+    }
+  ]
+}

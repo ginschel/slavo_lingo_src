@@ -1,0 +1,2560 @@
+{
+  "id": "76a6c8df6b2b",
+  "levels": 6,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он есть славянином.",
+      "meaningInSourceLanguage": "He is a Slav.",
+      "id": "bd9b2d42ce75",
+      "priority": 0,
+      "group": "f3b97a552d31"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он есть славянином.",
+      "meaning": "He is a Slav.",
+      "audio": "3ab425bee57b37b91dc159dc5310b3d9df0713faf2ff7cfa3784266cabca5e8d",
+      "id": "cebb2d22bf08",
+      "priority": 1,
+      "group": "f3b97a552d31"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "Slav.",
+          "definition": "славянин"
+        }
+      ],
+      "chips": [
+        "Он",
+        "есть",
+        "славянином",
+        "Они",
+        "со"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "есть",
+          "славянином"
+        ]
+      ],
+      "formattedSolution": "Он есть славянином.",
+      "id": "38ec485f0651",
+      "priority": 2,
+      "group": "f3b97a552d31"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "славянином.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "a",
+        "Slav",
+        "as",
+        "am",
+        "at"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "a",
+          "Slav"
+        ]
+      ],
+      "formattedSolution": "He is a Slav.",
+      "id": "7f8eca2d2090",
+      "priority": 2,
+      "group": "f3b97a552d31"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она говорит на славянском языке.",
+      "meaningInSourceLanguage": "She speaks the Slavic language.",
+      "id": "2d6a3ee57dc9",
+      "priority": 0,
+      "group": "f9de03431e32"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она говорит на славянском языке.",
+      "meaning": "She speaks the Slavic language.",
+      "audio": "ede11c2de98fd79a3ae7f0db1f4d77656799592ec5864f910d0728916ed66ae9",
+      "id": "9d645c3eb449",
+      "priority": 1,
+      "group": "f9de03431e32"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "speaks",
+          "definition": "undefined\nговорит"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "Slavic",
+          "definition": "undefined"
+        },
+        {
+          "word": "language.",
+          "definition": "undefined\nязык"
+        }
+      ],
+      "chips": [
+        "Она",
+        "говорит",
+        "на",
+        "славянском",
+        "языке",
+        "но",
+        "Оно",
+        "сна",
+        "она"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "говорит",
+          "на",
+          "славянском",
+          "языке"
+        ]
+      ],
+      "formattedSolution": "Она говорит на славянском языке.",
+      "id": "635b24e927ef",
+      "priority": 2,
+      "group": "f9de03431e32"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "говорит",
+          "definition": "speaks\nundefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "славянском",
+          "definition": "undefined"
+        },
+        {
+          "word": "языке.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "speaks",
+        "the",
+        "Slavic",
+        "language",
+        "she",
+        "lake",
+        "age",
+        "are"
+      ],
+      "solutions": [
+        [
+          "She",
+          "speaks",
+          "the",
+          "Slavic",
+          "language"
+        ]
+      ],
+      "formattedSolution": "She speaks the Slavic language.",
+      "id": "9ececc70caa0",
+      "priority": 2,
+      "group": "f9de03431e32"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Это есть мой язык.",
+      "meaningInSourceLanguage": "This is my language.",
+      "id": "0f2361533107",
+      "priority": 0,
+      "group": "6d5d6591c6af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Это есть мой язык.",
+      "meaning": "This is my language.",
+      "audio": "79ffec6ea8b8686dfb0da4e558441338961f3347fdf2952e1602e1e29b777361",
+      "id": "8337bf1737a9",
+      "priority": 1,
+      "group": "6d5d6591c6af"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "my",
+          "definition": "undefined"
+        },
+        {
+          "word": "language.",
+          "definition": "undefined\nязык"
+        }
+      ],
+      "chips": [
+        "Это",
+        "есть",
+        "мой",
+        "язык",
+        "то",
+        "сто",
+        "Эта"
+      ],
+      "solutions": [
+        [
+          "Это",
+          "есть",
+          "мой",
+          "язык"
+        ]
+      ],
+      "formattedSolution": "Это есть мой язык.",
+      "id": "65aa1c2e7a87",
+      "priority": 2,
+      "group": "6d5d6591c6af"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Это",
+          "definition": "undefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "мой",
+          "definition": "undefined"
+        },
+        {
+          "word": "язык.",
+          "definition": "language\nundefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "my",
+        "language",
+        "his",
+        "in",
+        "us"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "my",
+          "language"
+        ]
+      ],
+      "formattedSolution": "This is my language.",
+      "id": "6d374e9389b2",
+      "priority": 2,
+      "group": "6d5d6591c6af"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Государством есть Польша.",
+      "meaningInSourceLanguage": "The country is Poland.",
+      "id": "33d09eeab398",
+      "priority": 0,
+      "group": "a7a92ff8797f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Государством есть Польша.",
+      "meaning": "The country is Poland.",
+      "audio": "c27b60675e7a139935eb551beb2b919f0d5725acaddfd533405e36c629a85dc0",
+      "id": "37a0a2fb3a6a",
+      "priority": 1,
+      "group": "a7a92ff8797f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "country",
+          "definition": "undefined\nдержава/государство"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "Poland.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Государством",
+        "есть",
+        "Польша",
+        "суть",
+        "Есть"
+      ],
+      "solutions": [
+        [
+          "Государством",
+          "есть",
+          "Польша"
+        ]
+      ],
+      "formattedSolution": "Государством есть Польша.",
+      "id": "c44a6b094bab",
+      "priority": 2,
+      "group": "a7a92ff8797f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Государством",
+          "definition": "undefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "Польша.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "country",
+        "is",
+        "Poland",
+        "on",
+        "To",
+        "our"
+      ],
+      "solutions": [
+        [
+          "The",
+          "country",
+          "is",
+          "Poland"
+        ]
+      ],
+      "formattedSolution": "The country is Poland.",
+      "id": "30dc15af879b",
+      "priority": 2,
+      "group": "a7a92ff8797f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я есмь поляком.",
+      "meaningInSourceLanguage": "I am a Pole.",
+      "id": "5e8ac28a985e",
+      "priority": 0,
+      "group": "eac5d8b01bfe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я есмь поляком.",
+      "meaning": "I am a Pole.",
+      "audio": "7edb07efab53a6b913debd0c581f9004eb297d3198f2ce927270e6f441e3d6c0",
+      "id": "70e61c5a010b",
+      "priority": 1,
+      "group": "eac5d8b01bfe"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "am",
+          "definition": "undefined\nя есмь"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "Pole.",
+          "definition": "поляк"
+        }
+      ],
+      "chips": [
+        "Я",
+        "есмь",
+        "поляком",
+        "ем",
+        "дом"
+      ],
+      "solutions": [
+        [
+          "Я",
+          "есмь",
+          "поляком"
+        ]
+      ],
+      "formattedSolution": "Я есмь поляком.",
+      "id": "b76998bb7621",
+      "priority": 2,
+      "group": "eac5d8b01bfe"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Я",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "есмь",
+          "definition": "undefined"
+        },
+        {
+          "word": "поляком.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "a",
+        "Pole",
+        "at",
+        "an",
+        "A"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "a",
+          "Pole"
+        ]
+      ],
+      "formattedSolution": "I am a Pole.",
+      "id": "5eaf1121343b",
+      "priority": 2,
+      "group": "eac5d8b01bfe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она есть хорваткою.",
+      "meaningInSourceLanguage": "She is a Croat.",
+      "id": "c3b780488de4",
+      "priority": 0,
+      "group": "5c3ae5aeeb47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она есть хорваткою.",
+      "meaning": "She is a Croat.",
+      "audio": "af9d5090ac2e89ddf7fa1d9988393ec15b603030f470e897de99f6e702d7d661",
+      "id": "f866d631ba8d",
+      "priority": 1,
+      "group": "5c3ae5aeeb47"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "Croat.",
+          "definition": "хорватка"
+        }
+      ],
+      "chips": [
+        "Она",
+        "есть",
+        "хорваткою",
+        "ест",
+        "сна"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "есть",
+          "хорваткою"
+        ]
+      ],
+      "formattedSolution": "Она есть хорваткою.",
+      "id": "d77e4019a17d",
+      "priority": 2,
+      "group": "5c3ae5aeeb47"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "хорваткою.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "is",
+        "a",
+        "Croat",
+        "at",
+        "as",
+        "am"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is",
+          "a",
+          "Croat"
+        ]
+      ],
+      "formattedSolution": "She is a Croat.",
+      "id": "d54623b4f2d2",
+      "priority": 2,
+      "group": "5c3ae5aeeb47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он есть русским.",
+      "meaningInSourceLanguage": "He is a Russian.",
+      "id": "80d7480f7181",
+      "priority": 0,
+      "group": "e34b9d08dfdd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он есть русским.",
+      "meaning": "He is a Russian.",
+      "audio": "ddfecbd47a331d10eeb6e09b22aa2af772948c7210b8fd58a7f825e21d74b64e",
+      "id": "bf93be476b55",
+      "priority": 1,
+      "group": "e34b9d08dfdd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "Russian.",
+          "definition": "русский"
+        }
+      ],
+      "chips": [
+        "Он",
+        "есть",
+        "русским",
+        "еси",
+        "ест"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "есть",
+          "русским"
+        ]
+      ],
+      "formattedSolution": "Он есть русским.",
+      "id": "17f54523e617",
+      "priority": 2,
+      "group": "e34b9d08dfdd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "русским.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "a",
+        "Russian",
+        "in",
+        "an",
+        "us"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "a",
+          "Russian"
+        ]
+      ],
+      "formattedSolution": "He is a Russian.",
+      "id": "e7475bdba412",
+      "priority": 2,
+      "group": "e34b9d08dfdd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Говоришь ли на немецком языке?",
+      "meaningInSourceLanguage": "Do you speak the German language?",
+      "id": "3edad98b18e2",
+      "priority": 0,
+      "group": "bc13111e60c7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Говоришь ли на немецком языке?",
+      "meaning": "Do you speak the German language?",
+      "audio": "2df1e82bce69617da56ff10f6a8481f64287ca134aa7ee75413a381bbe634922",
+      "id": "fdde2a395216",
+      "priority": 1,
+      "group": "bc13111e60c7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Do",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nвы\nты"
+        },
+        {
+          "word": "speak",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "German",
+          "definition": "немец"
+        },
+        {
+          "word": "language?",
+          "definition": "undefined\nязык"
+        }
+      ],
+      "chips": [
+        "Говоришь",
+        "ли",
+        "на",
+        "немецком",
+        "языке",
+        "не",
+        "но",
+        "во",
+        "то"
+      ],
+      "solutions": [
+        [
+          "Говоришь",
+          "ли",
+          "на",
+          "немецком",
+          "языке"
+        ]
+      ],
+      "formattedSolution": "Говоришь ли на немецком языке?",
+      "id": "113a1a60ccaf",
+      "priority": 2,
+      "group": "bc13111e60c7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Говоришь",
+          "definition": "undefined"
+        },
+        {
+          "word": "ли",
+          "definition": "undefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "немецком",
+          "definition": "undefined"
+        },
+        {
+          "word": "языке?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Do",
+        "you",
+        "speak",
+        "the",
+        "German",
+        "language",
+        "man",
+        "tea",
+        "an",
+        "pan",
+        "ran"
+      ],
+      "solutions": [
+        [
+          "Do",
+          "you",
+          "speak",
+          "the",
+          "German",
+          "language"
+        ]
+      ],
+      "formattedSolution": "Do you speak the German language?",
+      "id": "e79e2c019dad",
+      "priority": 2,
+      "group": "bc13111e60c7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Англичанин говорит на английском языке.",
+      "meaningInSourceLanguage": "An Englishman speaks the English language.",
+      "id": "34aa1fae61a6",
+      "priority": 0,
+      "group": "a12463601ade"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Англичанин говорит на английском языке.",
+      "meaning": "An Englishman speaks the English language.",
+      "audio": "f4a4fda019df338297882aa24b1d81eacc800e1b1464cdf625f265528b3cb043",
+      "id": "c1f956594d9a",
+      "priority": 1,
+      "group": "a12463601ade"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "An",
+          "definition": "undefined"
+        },
+        {
+          "word": "Englishman",
+          "definition": "англичанин"
+        },
+        {
+          "word": "speaks",
+          "definition": "undefined\nговорит"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "English",
+          "definition": "undefined"
+        },
+        {
+          "word": "language.",
+          "definition": "undefined\nязык"
+        }
+      ],
+      "chips": [
+        "Англичанин",
+        "говорит",
+        "на",
+        "английском",
+        "языке",
+        "Англии",
+        "ночи",
+        "нами",
+        "Они"
+      ],
+      "solutions": [
+        [
+          "Англичанин",
+          "говорит",
+          "на",
+          "английском",
+          "языке"
+        ]
+      ],
+      "formattedSolution": "Англичанин говорит на английском языке.",
+      "id": "85a001b3d891",
+      "priority": 2,
+      "group": "a12463601ade"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Англичанин",
+          "definition": "Englishman\nundefined"
+        },
+        {
+          "word": "говорит",
+          "definition": "speaks\nundefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "английском",
+          "definition": "undefined"
+        },
+        {
+          "word": "языке.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "An",
+        "Englishman",
+        "speaks",
+        "the",
+        "English",
+        "language",
+        "an",
+        "man",
+        "line",
+        "pan",
+        "plan"
+      ],
+      "solutions": [
+        [
+          "An",
+          "Englishman",
+          "speaks",
+          "the",
+          "English",
+          "language"
+        ]
+      ],
+      "formattedSolution": "An Englishman speaks the English language.",
+      "id": "3afda53f75a6",
+      "priority": 2,
+      "group": "a12463601ade"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мы любим свой народ.",
+      "meaningInSourceLanguage": "We love our nation.",
+      "id": "bc585e617e5e",
+      "priority": 0,
+      "group": "2e36c3dc5cb9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мы любим свой народ.",
+      "meaning": "We love our nation.",
+      "audio": "a2a34c3e366e71f882202dd537697bbbb315c3d08525b418d19abd47ac4cb61d",
+      "id": "eeea2bbb6b07",
+      "priority": 1,
+      "group": "2e36c3dc5cb9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nмы"
+        },
+        {
+          "word": "love",
+          "definition": "undefined\nлюбовь"
+        },
+        {
+          "word": "our",
+          "definition": "undefined"
+        },
+        {
+          "word": "nation.",
+          "definition": "undefined\nнарод"
+        }
+      ],
+      "chips": [
+        "Мы",
+        "любим",
+        "свой",
+        "народ",
+        "со",
+        "но",
+        "Мои"
+      ],
+      "solutions": [
+        [
+          "Мы",
+          "любим",
+          "свой",
+          "народ"
+        ]
+      ],
+      "formattedSolution": "Мы любим свой народ.",
+      "id": "93a286cc66ab",
+      "priority": 2,
+      "group": "2e36c3dc5cb9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мы",
+          "definition": "undefined\nwe"
+        },
+        {
+          "word": "любим",
+          "definition": "undefined"
+        },
+        {
+          "word": "свой",
+          "definition": "undefined"
+        },
+        {
+          "word": "народ.",
+          "definition": "nation\nundefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "love",
+        "our",
+        "nation",
+        "on",
+        "or",
+        "of"
+      ],
+      "solutions": [
+        [
+          "We",
+          "love",
+          "our",
+          "nation"
+        ]
+      ],
+      "formattedSolution": "We love our nation.",
+      "id": "e5054e329a2a",
+      "priority": 2,
+      "group": "2e36c3dc5cb9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Это есть имя моего государства.",
+      "meaningInSourceLanguage": "This is the name of my country.",
+      "id": "2ecf78950c43",
+      "priority": 0,
+      "group": "e00902f27933"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Это есть имя моего государства.",
+      "meaning": "This is the name of my country.",
+      "audio": "de0cf142099f1695daf808475fde5ab131c7f615de8b91e46bec886fde4eae9d",
+      "id": "aa99c131cbbf",
+      "priority": 1,
+      "group": "e00902f27933"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "name",
+          "definition": "undefined\nимя"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "my",
+          "definition": "undefined"
+        },
+        {
+          "word": "country.",
+          "definition": "undefined\nдержава/государство"
+        }
+      ],
+      "chips": [
+        "Это",
+        "есть",
+        "имя",
+        "моего",
+        "государства",
+        "сто",
+        "ест",
+        "Эта",
+        "Кто"
+      ],
+      "solutions": [
+        [
+          "Это",
+          "есть",
+          "имя",
+          "моего",
+          "государства"
+        ]
+      ],
+      "formattedSolution": "Это есть имя моего государства.",
+      "id": "2375e1c1c215",
+      "priority": 2,
+      "group": "e00902f27933"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Это",
+          "definition": "undefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "имя",
+          "definition": "name\nundefined"
+        },
+        {
+          "word": "моего",
+          "definition": "undefined"
+        },
+        {
+          "word": "государства.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "the",
+        "name",
+        "of",
+        "my",
+        "country",
+        "me",
+        "it",
+        "in",
+        "on",
+        "us",
+        "or"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "the",
+          "name",
+          "of",
+          "my",
+          "country"
+        ]
+      ],
+      "formattedSolution": "This is the name of my country.",
+      "id": "67e82fe9b8c4",
+      "priority": 2,
+      "group": "e00902f27933"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он знает три языка.",
+      "meaningInSourceLanguage": "He knows three languages.",
+      "id": "34a584f822b9",
+      "priority": 0,
+      "group": "e0aadf289714"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он знает три языка.",
+      "meaning": "He knows three languages.",
+      "audio": "622d5ef32558d8eaa8bbc2aad7227d2adb3b84b64f6a89e053823a38a0d9534d",
+      "id": "a7c102ee2e85",
+      "priority": 1,
+      "group": "e0aadf289714"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "knows",
+          "definition": "undefined"
+        },
+        {
+          "word": "three",
+          "definition": "undefined\nтри"
+        },
+        {
+          "word": "languages.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Он",
+        "знает",
+        "три",
+        "языка",
+        "Она",
+        "за",
+        "Они"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "знает",
+          "три",
+          "языка"
+        ]
+      ],
+      "formattedSolution": "Он знает три языка.",
+      "id": "0ff69cf890cd",
+      "priority": 2,
+      "group": "e0aadf289714"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "знает",
+          "definition": "undefined"
+        },
+        {
+          "word": "три",
+          "definition": "three\nundefined"
+        },
+        {
+          "word": "языка.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "knows",
+        "three",
+        "languages",
+        "new",
+        "goes",
+        "are"
+      ],
+      "solutions": [
+        [
+          "He",
+          "knows",
+          "three",
+          "languages"
+        ]
+      ],
+      "formattedSolution": "He knows three languages.",
+      "id": "d1343192f641",
+      "priority": 2,
+      "group": "e0aadf289714"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Хорват говорит на хорватском языке.",
+      "meaningInSourceLanguage": "A Croat speaks the Croatian language.",
+      "id": "fbc9145b18da",
+      "priority": 0,
+      "group": "2f29e03649f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Хорват говорит на хорватском языке.",
+      "meaning": "A Croat speaks the Croatian language.",
+      "audio": "aafea44f3fe3615bfeeca4318e68533f3da320defcb60b1466bc9b0a86058063",
+      "id": "a2f06943a277",
+      "priority": 1,
+      "group": "2f29e03649f3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "Croat",
+          "definition": "хорватка"
+        },
+        {
+          "word": "speaks",
+          "definition": "undefined\nговорит"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "Croatian",
+          "definition": "undefined"
+        },
+        {
+          "word": "language.",
+          "definition": "undefined\nязык"
+        }
+      ],
+      "chips": [
+        "Хорват",
+        "говорит",
+        "на",
+        "хорватском",
+        "языке",
+        "новая",
+        "Гора",
+        "брат",
+        "Повар"
+      ],
+      "solutions": [
+        [
+          "Хорват",
+          "говорит",
+          "на",
+          "хорватском",
+          "языке"
+        ]
+      ],
+      "formattedSolution": "Хорват говорит на хорватском языке.",
+      "id": "01958b7a55e3",
+      "priority": 2,
+      "group": "2f29e03649f3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Хорват",
+          "definition": "undefined"
+        },
+        {
+          "word": "говорит",
+          "definition": "speaks\nundefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "хорватском",
+          "definition": "undefined"
+        },
+        {
+          "word": "языке.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "Croat",
+        "speaks",
+        "the",
+        "Croatian",
+        "language",
+        "ran",
+        "tea",
+        "at",
+        "an",
+        "eat"
+      ],
+      "solutions": [
+        [
+          "A",
+          "Croat",
+          "speaks",
+          "the",
+          "Croatian",
+          "language"
+        ]
+      ],
+      "formattedSolution": "A Croat speaks the Croatian language.",
+      "id": "024f3152a343",
+      "priority": 2,
+      "group": "2f29e03649f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Немец живёт в Германии.",
+      "meaningInSourceLanguage": "A German lives in Germany.",
+      "id": "5cc84d7e7ca8",
+      "priority": 0,
+      "group": "7f66d6cc058c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Немец живёт в Германии.",
+      "meaning": "A German lives in Germany.",
+      "audio": "3aa40b302adbcb54c2240075c4e91190c2bdc78fa1df070e15118e1406fb5e3d",
+      "id": "6c3499a68b5c",
+      "priority": 1,
+      "group": "7f66d6cc058c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "German",
+          "definition": "немец"
+        },
+        {
+          "word": "lives",
+          "definition": "undefined\nживёт"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "Germany.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Немец",
+        "живёт",
+        "в",
+        "Германии",
+        "ем",
+        "Нет",
+        "кем"
+      ],
+      "solutions": [
+        [
+          "Немец",
+          "живёт",
+          "в",
+          "Германии"
+        ]
+      ],
+      "formattedSolution": "Немец живёт в Германии.",
+      "id": "83a91b0ac3ad",
+      "priority": 2,
+      "group": "7f66d6cc058c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Немец",
+          "definition": "German\nundefined"
+        },
+        {
+          "word": "живёт",
+          "definition": "lives\nundefined"
+        },
+        {
+          "word": "в",
+          "definition": "undefined"
+        },
+        {
+          "word": "Германии.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "German",
+        "lives",
+        "in",
+        "Germany",
+        "man",
+        "an",
+        "ran",
+        "pen"
+      ],
+      "solutions": [
+        [
+          "A",
+          "German",
+          "lives",
+          "in",
+          "Germany"
+        ]
+      ],
+      "formattedSolution": "A German lives in Germany.",
+      "id": "56cee96a1419",
+      "priority": 2,
+      "group": "7f66d6cc058c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она знает русский и славянский.",
+      "meaningInSourceLanguage": "She knows Russian and Slavic.",
+      "id": "90447f7e2258",
+      "priority": 0,
+      "group": "e5889a6299b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она знает русский и славянский.",
+      "meaning": "She knows Russian and Slavic.",
+      "audio": "fd242da4d89c91f3d9ae50dafb50b54eb324e394559d16afa81951b04627f05c",
+      "id": "a9e497162f6c",
+      "priority": 1,
+      "group": "e5889a6299b7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "knows",
+          "definition": "undefined"
+        },
+        {
+          "word": "Russian",
+          "definition": "русский"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "Slavic.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Она",
+        "знает",
+        "русский",
+        "и",
+        "славянский",
+        "Они",
+        "сна",
+        "нас",
+        "Он"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "знает",
+          "русский",
+          "и",
+          "славянский"
+        ]
+      ],
+      "formattedSolution": "Она знает русский и славянский.",
+      "id": "799e2cb06860",
+      "priority": 2,
+      "group": "e5889a6299b7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "знает",
+          "definition": "undefined"
+        },
+        {
+          "word": "русский",
+          "definition": "Russian\nundefined"
+        },
+        {
+          "word": "и",
+          "definition": "undefined"
+        },
+        {
+          "word": "славянский.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "knows",
+        "Russian",
+        "and",
+        "Slavic",
+        "an",
+        "in",
+        "man",
+        "Slav"
+      ],
+      "solutions": [
+        [
+          "She",
+          "knows",
+          "Russian",
+          "and",
+          "Slavic"
+        ]
+      ],
+      "formattedSolution": "She knows Russian and Slavic.",
+      "id": "f9f4ad97d0da",
+      "priority": 2,
+      "group": "e5889a6299b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Это есть народ с богатою культурою.",
+      "meaningInSourceLanguage": "This is a nation with a rich culture.",
+      "id": "032a45a8a5a9",
+      "priority": 0,
+      "group": "f2918cfcbb4c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Это есть народ с богатою культурою.",
+      "meaning": "This is a nation with a rich culture.",
+      "audio": "21a899f2a077253650590cd971a171844c19995112c7045d56557b2c7b2c0109",
+      "id": "6fc196691d02",
+      "priority": 1,
+      "group": "f2918cfcbb4c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "nation",
+          "definition": "undefined\nнарод"
+        },
+        {
+          "word": "with",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "rich",
+          "definition": "undefined"
+        },
+        {
+          "word": "culture.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Это",
+        "есть",
+        "народ",
+        "с",
+        "богатою",
+        "культурою",
+        "сто",
+        "то",
+        "Кто",
+        "это",
+        "Что"
+      ],
+      "solutions": [
+        [
+          "Это",
+          "есть",
+          "народ",
+          "с",
+          "богатою",
+          "культурою"
+        ]
+      ],
+      "formattedSolution": "Это есть народ с богатою культурою.",
+      "id": "fcfe92ff6e50",
+      "priority": 2,
+      "group": "f2918cfcbb4c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Это",
+          "definition": "undefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "народ",
+          "definition": "nation\nundefined"
+        },
+        {
+          "word": "с",
+          "definition": "undefined"
+        },
+        {
+          "word": "богатою",
+          "definition": "undefined"
+        },
+        {
+          "word": "культурою.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "a",
+        "nation",
+        "with",
+        "a",
+        "rich",
+        "culture",
+        "it",
+        "in",
+        "at",
+        "air",
+        "his",
+        "as",
+        "an"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "a",
+          "nation",
+          "with",
+          "a",
+          "rich",
+          "culture"
+        ]
+      ],
+      "formattedSolution": "This is a nation with a rich culture.",
+      "id": "528c7aa1e1a8",
+      "priority": 2,
+      "group": "f2918cfcbb4c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ты еси англичанином?",
+      "meaningInSourceLanguage": "Are you an Englishman?",
+      "id": "4097227002af",
+      "priority": 0,
+      "group": "9475cd14a078"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ты еси англичанином?",
+      "meaning": "Are you an Englishman?",
+      "audio": "e53645393f090cccbec6fceb1d971e82f48c92f2881246f91374e62bc3d49eb2",
+      "id": "d7d8b964b545",
+      "priority": 1,
+      "group": "9475cd14a078"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nвы\nты"
+        },
+        {
+          "word": "an",
+          "definition": "undefined"
+        },
+        {
+          "word": "Englishman?",
+          "definition": "англичанин"
+        }
+      ],
+      "chips": [
+        "Ты",
+        "еси",
+        "англичанином",
+        "ли",
+        "Та"
+      ],
+      "solutions": [
+        [
+          "Ты",
+          "еси",
+          "англичанином"
+        ]
+      ],
+      "formattedSolution": "Ты еси англичанином?",
+      "id": "d92c76a85853",
+      "priority": 2,
+      "group": "9475cd14a078"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ты",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "еси",
+          "definition": "undefined"
+        },
+        {
+          "word": "англичанином?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Are",
+        "you",
+        "an",
+        "Englishman",
+        "man",
+        "son",
+        "in"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "you",
+          "an",
+          "Englishman"
+        ]
+      ],
+      "formattedSolution": "Are you an Englishman?",
+      "id": "01bf4dc60811",
+      "priority": 2,
+      "group": "9475cd14a078"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он говорит каждый язык добро.",
+      "meaningInSourceLanguage": "He speaks every language well.",
+      "id": "e8709ae70ff1",
+      "priority": 0,
+      "group": "8d621226601f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он говорит каждый язык добро.",
+      "meaning": "He speaks every language well.",
+      "audio": "d6ce61d4131a5ef13aa338a938b2f94ed1c0998deaf660e71649aafb40809af6",
+      "id": "df3f6d1f0d6d",
+      "priority": 1,
+      "group": "8d621226601f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "speaks",
+          "definition": "undefined\nговорит"
+        },
+        {
+          "word": "every",
+          "definition": "undefined"
+        },
+        {
+          "word": "language",
+          "definition": "undefined\nязык"
+        },
+        {
+          "word": "well.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Он",
+        "говорит",
+        "каждый",
+        "язык",
+        "добро",
+        "до",
+        "дом",
+        "добры",
+        "воды"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "говорит",
+          "каждый",
+          "язык",
+          "добро"
+        ]
+      ],
+      "formattedSolution": "Он говорит каждый язык добро.",
+      "id": "672889d54866",
+      "priority": 2,
+      "group": "8d621226601f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "говорит",
+          "definition": "speaks\nundefined"
+        },
+        {
+          "word": "каждый",
+          "definition": "undefined"
+        },
+        {
+          "word": "язык",
+          "definition": "language\nundefined"
+        },
+        {
+          "word": "добро.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "speaks",
+        "every",
+        "language",
+        "well",
+        "weak",
+        "very",
+        "We",
+        "me"
+      ],
+      "solutions": [
+        [
+          "He",
+          "speaks",
+          "every",
+          "language",
+          "well"
+        ]
+      ],
+      "formattedSolution": "He speaks every language well.",
+      "id": "6342c33b7502",
+      "priority": 2,
+      "group": "8d621226601f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мы учимся русского языка.",
+      "meaningInSourceLanguage": "We are learning the Russian language.",
+      "id": "f9be9631a3a6",
+      "priority": 0,
+      "group": "617864c16b93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мы учимся русского языка.",
+      "meaning": "We are learning the Russian language.",
+      "audio": "6e9effbb5d87e67490dbf2fa06fc3f839f20af83ceedd086a365f8de5c16d10d",
+      "id": "ad4eb85040b3",
+      "priority": 1,
+      "group": "617864c16b93"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nмы"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+        },
+        {
+          "word": "learning",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "Russian",
+          "definition": "русский"
+        },
+        {
+          "word": "language.",
+          "definition": "undefined\nязык"
+        }
+      ],
+      "chips": [
+        "Мы",
+        "учимся",
+        "русского",
+        "языка",
+        "язык",
+        "со",
+        "языку"
+      ],
+      "solutions": [
+        [
+          "Мы",
+          "учимся",
+          "русского",
+          "языка"
+        ]
+      ],
+      "formattedSolution": "Мы учимся русского языка.",
+      "id": "ae9fd4902caf",
+      "priority": 2,
+      "group": "617864c16b93"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мы",
+          "definition": "undefined\nwe"
+        },
+        {
+          "word": "учимся",
+          "definition": "undefined"
+        },
+        {
+          "word": "русского",
+          "definition": "undefined"
+        },
+        {
+          "word": "языка.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "learning",
+        "the",
+        "Russian",
+        "language",
+        "an",
+        "age",
+        "line",
+        "Are",
+        "He"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "learning",
+          "the",
+          "Russian",
+          "language"
+        ]
+      ],
+      "formattedSolution": "We are learning the Russian language.",
+      "id": "a5702b66105a",
+      "priority": 2,
+      "group": "617864c16b93"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она знает много народов.",
+      "meaningInSourceLanguage": "She knows many nations.",
+      "id": "68605b8c6981",
+      "priority": 0,
+      "group": "9055b94cbd92"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она знает много народов.",
+      "meaning": "She knows many nations.",
+      "audio": "254ab55f864c74efddef44174303aaf1d40e534238781932529a0717131433f9",
+      "id": "c5fd2c7f6416",
+      "priority": 1,
+      "group": "9055b94cbd92"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "knows",
+          "definition": "undefined"
+        },
+        {
+          "word": "many",
+          "definition": "undefined"
+        },
+        {
+          "word": "nations.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Она",
+        "знает",
+        "много",
+        "народов",
+        "над",
+        "знаю",
+        "знают"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "знает",
+          "много",
+          "народов"
+        ]
+      ],
+      "formattedSolution": "Она знает много народов.",
+      "id": "e3c32afb8897",
+      "priority": 2,
+      "group": "9055b94cbd92"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "знает",
+          "definition": "undefined"
+        },
+        {
+          "word": "много",
+          "definition": "undefined"
+        },
+        {
+          "word": "народов.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "knows",
+        "many",
+        "nations",
+        "man",
+        "an",
+        "now"
+      ],
+      "solutions": [
+        [
+          "She",
+          "knows",
+          "many",
+          "nations"
+        ]
+      ],
+      "formattedSolution": "She knows many nations.",
+      "id": "f1ec21f985ef",
+      "priority": 2,
+      "group": "9055b94cbd92"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "славянин",
+      "meaningInSourceLanguage": "Slav",
+      "id": "3ae145d1dd26",
+      "priority": 0,
+      "group": "33ecb3fe8a14"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "славянин"
+      ],
+      "phrase": [
+        {
+          "word": "Slav",
+          "definition": "славянин"
+        }
+      ],
+      "id": "0274970e8867",
+      "priority": 1,
+      "group": "33ecb3fe8a14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "славянин",
+      "meaning": "Slav",
+      "audio": "78e2b38f96eea9172b03a1a1983bd192af5d99a664b8af09e4597c43aef7eb46",
+      "id": "6cd2a516612d",
+      "priority": 1,
+      "group": "33ecb3fe8a14"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "язык",
+      "meaningInSourceLanguage": "language",
+      "id": "6e64a18222ac",
+      "priority": 0,
+      "group": "07ea8ee5bf34"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "язык"
+      ],
+      "phrase": [
+        {
+          "word": "language",
+          "definition": "undefined\nязык"
+        }
+      ],
+      "id": "874f51db1353",
+      "priority": 1,
+      "group": "07ea8ee5bf34"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "язык",
+      "meaning": "language",
+      "audio": "362c362bd17e207aaceb7967ad64cfbead07b3bf0bf4e338206d243c16154089",
+      "id": "5b509dd50d1f",
+      "priority": 1,
+      "group": "07ea8ee5bf34"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "держава/государство",
+      "meaningInSourceLanguage": "country",
+      "id": "91c2f1779168",
+      "priority": 0,
+      "group": "b0849a54341c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "держава/государство"
+      ],
+      "phrase": [
+        {
+          "word": "country",
+          "definition": "undefined\nдержава/государство"
+        }
+      ],
+      "id": "b434cea47872",
+      "priority": 1,
+      "group": "b0849a54341c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "держава/государство",
+      "meaning": "country",
+      "audio": "ea543a8a8dc697c56f4709d9df8e689c1e325211d5d0f3412b47d649656d58fa",
+      "id": "365ea3566770",
+      "priority": 1,
+      "group": "b0849a54341c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "народ",
+      "meaningInSourceLanguage": "nation",
+      "id": "870edecce21e",
+      "priority": 0,
+      "group": "257440e15b6a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "народ"
+      ],
+      "phrase": [
+        {
+          "word": "nation",
+          "definition": "undefined\nнарод"
+        }
+      ],
+      "id": "ca31b5008f86",
+      "priority": 1,
+      "group": "257440e15b6a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "народ",
+      "meaning": "nation",
+      "audio": "da6aeabfa5df33dde35cfbd90afe251d073554f7a474f7acf23cc5b2d12aef5f",
+      "id": "a6cfe90345d3",
+      "priority": 1,
+      "group": "257440e15b6a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "имя",
+      "meaningInSourceLanguage": "name",
+      "id": "e06eda698160",
+      "priority": 0,
+      "group": "e7f10fc4d1e0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "имя"
+      ],
+      "phrase": [
+        {
+          "word": "name",
+          "definition": "undefined\nимя"
+        }
+      ],
+      "id": "9b37d20fa6cf",
+      "priority": 1,
+      "group": "e7f10fc4d1e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "имя",
+      "meaning": "name",
+      "audio": "65d2404dbce81598e903f32ad69d54fcfc324e26bcf988f288a6bfd553ea6c4c",
+      "id": "83fa5ff9e019",
+      "priority": 1,
+      "group": "e7f10fc4d1e0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "хорватка",
+      "meaningInSourceLanguage": "Croat",
+      "id": "95ca8f851e93",
+      "priority": 0,
+      "group": "957ad2df6096"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "хорватка"
+      ],
+      "phrase": [
+        {
+          "word": "Croat",
+          "definition": "хорватка"
+        }
+      ],
+      "id": "90faf5f36d66",
+      "priority": 1,
+      "group": "957ad2df6096"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "хорватка",
+      "meaning": "Croat",
+      "audio": "f4bfd282ca22e22bb0ab9c77ba530cedf46c05538df8f760c3f3bf46f329a81f",
+      "id": "00ed022e1e6e",
+      "priority": 1,
+      "group": "957ad2df6096"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "русский",
+      "meaningInSourceLanguage": "Russian",
+      "id": "d594f40b0e45",
+      "priority": 0,
+      "group": "f8c6ab241b93"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "русский"
+      ],
+      "phrase": [
+        {
+          "word": "Russian",
+          "definition": "русский"
+        }
+      ],
+      "id": "6adceafe4ad7",
+      "priority": 1,
+      "group": "f8c6ab241b93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "русский",
+      "meaning": "Russian",
+      "audio": "4c0d2de8bb17a4be79a01b86ea31dbe7d01f1d6c63715b31187855d94f37ae4f",
+      "id": "6990a979b500",
+      "priority": 1,
+      "group": "f8c6ab241b93"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "поляк",
+      "meaningInSourceLanguage": "Pole",
+      "id": "98b36b6f6bab",
+      "priority": 0,
+      "group": "b415a6d178f0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "поляк"
+      ],
+      "phrase": [
+        {
+          "word": "Pole",
+          "definition": "поляк"
+        }
+      ],
+      "id": "1006ed066799",
+      "priority": 1,
+      "group": "b415a6d178f0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "поляк",
+      "meaning": "Pole",
+      "audio": "60f39fed696861f028ffd8918d15450abe0410e787ab98332037c79613e80395",
+      "id": "f58d7bfdd9e5",
+      "priority": 1,
+      "group": "b415a6d178f0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "немец",
+      "meaningInSourceLanguage": "German",
+      "id": "9e0d3496372c",
+      "priority": 0,
+      "group": "c58b7c2974c2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "немец"
+      ],
+      "phrase": [
+        {
+          "word": "German",
+          "definition": "немец"
+        }
+      ],
+      "id": "9866074d0fe6",
+      "priority": 1,
+      "group": "c58b7c2974c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "немец",
+      "meaning": "German",
+      "audio": "e52454df2931d250021634085f172b7e038c1d2ef37a11725a76417da961efe3",
+      "id": "a2bbff6ea5c9",
+      "priority": 1,
+      "group": "c58b7c2974c2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "англичанин",
+      "meaningInSourceLanguage": "Englishman",
+      "id": "36eb78853ee6",
+      "priority": 0,
+      "group": "7cb8b46f3189"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "англичанин"
+      ],
+      "phrase": [
+        {
+          "word": "Englishman",
+          "definition": "англичанин"
+        }
+      ],
+      "id": "f400c1b0b597",
+      "priority": 1,
+      "group": "7cb8b46f3189"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "англичанин",
+      "meaning": "Englishman",
+      "audio": "2d0d5bea6841ba4b304c80b4e38af93653229cc99d3ac942b43818065b406315",
+      "id": "98a6082dc013",
+      "priority": 1,
+      "group": "7cb8b46f3189"
+    }
+  ]
+}

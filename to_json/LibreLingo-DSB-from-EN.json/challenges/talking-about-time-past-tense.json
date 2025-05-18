@@ -1,0 +1,3323 @@
+{
+  "id": "2fdd76f3de18",
+  "levels": 8,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Gaž wjele jo casa?",
+      "meaningInSourceLanguage": "What time is it?",
+      "id": "f92513728624",
+      "priority": 0,
+      "group": "5bd0ba747695"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Gaž wjele jo casa?",
+      "meaning": "What time is it?",
+      "audio": "1c4b3d47250d4e4fc42854564f562b59ef39ba90aba000871176755ea37d9b5d",
+      "id": "462c8cdca965",
+      "priority": 1,
+      "group": "5bd0ba747695"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "What",
+          "definition": "což\nundefined"
+        },
+        {
+          "word": "time",
+          "definition": "cas\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jo\nundefined"
+        },
+        {
+          "word": "it?",
+          "definition": "undefined\nwóno"
+        }
+      ],
+      "chips": [
+        "Gaž",
+        "wjele",
+        "jo",
+        "casa",
+        "až",
+        "was",
+        "cas"
+      ],
+      "solutions": [
+        [
+          "Gaž",
+          "wjele",
+          "jo",
+          "casa"
+        ]
+      ],
+      "formattedSolution": "Gaž wjele jo casa?",
+      "id": "cea7bc5c0bfa",
+      "priority": 2,
+      "group": "5bd0ba747695"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Gaž",
+          "definition": "undefined"
+        },
+        {
+          "word": "wjele",
+          "definition": "undefined"
+        },
+        {
+          "word": "jo",
+          "definition": "is\nundefined\nyes"
+        },
+        {
+          "word": "casa?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "What",
+        "time",
+        "is",
+        "it",
+        "his",
+        "in",
+        "at"
+      ],
+      "solutions": [
+        [
+          "What",
+          "time",
+          "is",
+          "it"
+        ]
+      ],
+      "formattedSolution": "What time is it?",
+      "id": "258f6e0e8d4a",
+      "priority": 2,
+      "group": "5bd0ba747695"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wón jo měł jadnu goźinu.",
+      "meaningInSourceLanguage": "He had one hour.",
+      "id": "1ff111054edf",
+      "priority": 0,
+      "group": "a42b8d8bc223"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wón jo měł jadnu goźinu.",
+      "meaning": "He had one hour.",
+      "audio": "d836b9d57789d102e0ff9b3b1cf5490b7bc7ccabacabc95d3f865bd46efac928",
+      "id": "7c37e52e8fbd",
+      "priority": 1,
+      "group": "a42b8d8bc223"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nwón"
+        },
+        {
+          "word": "had",
+          "definition": "undefined"
+        },
+        {
+          "word": "one",
+          "definition": "jaden\njadna\njadno\nundefined"
+        },
+        {
+          "word": "hour.",
+          "definition": "goźina\ngóźina\nundefined"
+        }
+      ],
+      "chips": [
+        "Wón",
+        "jo",
+        "měł",
+        "jadnu",
+        "goźinu",
+        "jen",
+        "do",
+        "jě",
+        "źu"
+      ],
+      "solutions": [
+        [
+          "Wón",
+          "jo",
+          "měł",
+          "jadnu",
+          "goźinu"
+        ]
+      ],
+      "formattedSolution": "Wón jo měł jadnu goźinu.",
+      "id": "bf5621cd7d7c",
+      "priority": 2,
+      "group": "a42b8d8bc223"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wón",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "jo",
+          "definition": "is\nundefined\nyes"
+        },
+        {
+          "word": "měł",
+          "definition": "undefined"
+        },
+        {
+          "word": "jadnu",
+          "definition": "undefined"
+        },
+        {
+          "word": "goźinu.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "had",
+        "one",
+        "hour",
+        "he",
+        "her",
+        "our"
+      ],
+      "solutions": [
+        [
+          "He",
+          "had",
+          "one",
+          "hour"
+        ]
+      ],
+      "formattedSolution": "He had one hour.",
+      "id": "93c26b76b721",
+      "priority": 2,
+      "group": "a42b8d8bc223"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Zajtša jo za pózdźi.",
+      "meaningInSourceLanguage": "Tomorrow is too late.",
+      "id": "c9a87ccdfdfe",
+      "priority": 0,
+      "group": "2d2f35ef94f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Zajtša jo za pózdźi.",
+      "meaning": "Tomorrow is too late.",
+      "audio": "d73fa22fc609467c263a637a556270eda2b087774380830893f065315c0608af",
+      "id": "46e2d1de7259",
+      "priority": 1,
+      "group": "2d2f35ef94f3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Tomorrow",
+          "definition": "undefined\nzajtša"
+        },
+        {
+          "word": "is",
+          "definition": "jo\nundefined"
+        },
+        {
+          "word": "too",
+          "definition": "undefined"
+        },
+        {
+          "word": "late.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Zajtša",
+        "jo",
+        "za",
+        "pózdźi",
+        "da",
+        "Ja",
+        "Ta"
+      ],
+      "solutions": [
+        [
+          "Zajtša",
+          "jo",
+          "za",
+          "pózdźi"
+        ]
+      ],
+      "formattedSolution": "Zajtša jo za pózdźi.",
+      "id": "7fa407eab53b",
+      "priority": 2,
+      "group": "2d2f35ef94f3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Zajtša",
+          "definition": "tomorrow\nundefined"
+        },
+        {
+          "word": "jo",
+          "definition": "is\nundefined\nyes"
+        },
+        {
+          "word": "za",
+          "definition": "for\nundefined"
+        },
+        {
+          "word": "pózdźi.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Tomorrow",
+        "is",
+        "too",
+        "late",
+        "To",
+        "lot",
+        "or"
+      ],
+      "solutions": [
+        [
+          "Tomorrow",
+          "is",
+          "too",
+          "late"
+        ]
+      ],
+      "formattedSolution": "Tomorrow is too late.",
+      "id": "08b8e3c6aa25",
+      "priority": 2,
+      "group": "2d2f35ef94f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Cera běšo póńźele.",
+      "meaningInSourceLanguage": "Yesterday was Monday.",
+      "id": "b9be1339a538",
+      "priority": 0,
+      "group": "9004cccc8083"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Cera běšo póńźele.",
+      "meaning": "Yesterday was Monday.",
+      "audio": "7a46867c6604dfe8c582fc23abcf6fc3a1217fd48ebf8158f9159a8d220a997a",
+      "id": "eb51d43d966f",
+      "priority": 1,
+      "group": "9004cccc8083"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Yesterday",
+          "definition": "cera\nundefined"
+        },
+        {
+          "word": "was",
+          "definition": "běšo\nundefined"
+        },
+        {
+          "word": "Monday.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Cera",
+        "běšo",
+        "póńźele",
+        "źeš",
+        "šere"
+      ],
+      "solutions": [
+        [
+          "Cera",
+          "běšo",
+          "póńźele"
+        ]
+      ],
+      "formattedSolution": "Cera běšo póńźele.",
+      "id": "f7b72dd02d68",
+      "priority": 2,
+      "group": "9004cccc8083"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Cera",
+          "definition": "undefined\nyesterday"
+        },
+        {
+          "word": "běšo",
+          "definition": "undefined\nwas"
+        },
+        {
+          "word": "póńźele.",
+          "definition": "Monday\nundefined"
+        }
+      ],
+      "chips": [
+        "Yesterday",
+        "was",
+        "Monday",
+        "day",
+        "today"
+      ],
+      "solutions": [
+        [
+          "Yesterday",
+          "was",
+          "Monday"
+        ]
+      ],
+      "formattedSolution": "Yesterday was Monday.",
+      "id": "53162a84018c",
+      "priority": 2,
+      "group": "9004cccc8083"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Cera wóna běšo we domje wó wosymej goźinje.",
+      "meaningInSourceLanguage": "Yesterday she was at home at the eighth hour.",
+      "id": "4a43aeeaaf77",
+      "priority": 0,
+      "group": "732533dc5003"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Cera wóna běšo we domje wó wosymej goźinje.",
+      "meaning": "Yesterday she was at home at the eighth hour.",
+      "audio": "db4847f056a2436b20c30fc44cf736b2cb645b1f2a4d9d7f1a08173aa18c67f2",
+      "id": "61666e01ca2b",
+      "priority": 1,
+      "group": "732533dc5003"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Yesterday",
+          "definition": "cera\nundefined"
+        },
+        {
+          "word": "she",
+          "definition": "undefined\nwóna"
+        },
+        {
+          "word": "was",
+          "definition": "běšo\nundefined"
+        },
+        {
+          "word": "at",
+          "definition": "undefined"
+        },
+        {
+          "word": "home",
+          "definition": "undefined"
+        },
+        {
+          "word": "at",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "eighth",
+          "definition": "undefined\nwosymy"
+        },
+        {
+          "word": "hour.",
+          "definition": "goźina\ngóźina\nundefined"
+        }
+      ],
+      "chips": [
+        "Cera",
+        "wóna",
+        "běšo",
+        "we",
+        "domje",
+        "wó",
+        "wosymej",
+        "goźinje",
+        "se",
+        "źe",
+        "nje",
+        "Wone",
+        "wěm",
+        "do",
+        "wina"
+      ],
+      "solutions": [
+        [
+          "Cera",
+          "wóna",
+          "běšo",
+          "we",
+          "domje",
+          "wó",
+          "wosymej",
+          "goźinje"
+        ]
+      ],
+      "formattedSolution": "Cera wóna běšo we domje wó wosymej goźinje.",
+      "id": "4a177a38b311",
+      "priority": 2,
+      "group": "732533dc5003"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Cera",
+          "definition": "undefined\nyesterday"
+        },
+        {
+          "word": "wóna",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "běšo",
+          "definition": "undefined\nwas"
+        },
+        {
+          "word": "we",
+          "definition": "undefined"
+        },
+        {
+          "word": "domje",
+          "definition": "undefined"
+        },
+        {
+          "word": "wó",
+          "definition": "undefined"
+        },
+        {
+          "word": "wosymej",
+          "definition": "undefined"
+        },
+        {
+          "word": "goźinje.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Yesterday",
+        "she",
+        "was",
+        "at",
+        "home",
+        "at",
+        "the",
+        "eighth",
+        "hour",
+        "eat",
+        "hat",
+        "her",
+        "has",
+        "hot",
+        "am",
+        "She",
+        "me"
+      ],
+      "solutions": [
+        [
+          "Yesterday",
+          "she",
+          "was",
+          "at",
+          "home",
+          "at",
+          "the",
+          "eighth",
+          "hour"
+        ]
+      ],
+      "formattedSolution": "Yesterday she was at home at the eighth hour.",
+      "id": "cc55d3493e8f",
+      "priority": 2,
+      "group": "732533dc5003"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ranim nje běšo wjele śopło.",
+      "meaningInSourceLanguage": "In the morning it was not very warm.",
+      "id": "b7bc0060dafc",
+      "priority": 0,
+      "group": "bcd411872465"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ranim nje běšo wjele śopło.",
+      "meaning": "In the morning it was not very warm.",
+      "audio": "c7d32f98243128a162085e86e216d2c1ea044ef71da32aaa872da499a1f796eb",
+      "id": "c5dd155a201a",
+      "priority": 1,
+      "group": "bcd411872465"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "In",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "morning",
+          "definition": "ranjo\nundefined"
+        },
+        {
+          "word": "it",
+          "definition": "undefined\nwóno"
+        },
+        {
+          "word": "was",
+          "definition": "běšo\nundefined"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "very",
+          "definition": "undefined"
+        },
+        {
+          "word": "warm.",
+          "definition": "undefined\nśopło"
+        }
+      ],
+      "chips": [
+        "Ranim",
+        "nje",
+        "běšo",
+        "wjele",
+        "śopło",
+        "jo",
+        "Nje",
+        "ale",
+        "Mje"
+      ],
+      "solutions": [
+        [
+          "Ranim",
+          "nje",
+          "běšo",
+          "wjele",
+          "śopło"
+        ]
+      ],
+      "formattedSolution": "Ranim nje běšo wjele śopło.",
+      "id": "9a8d6596e146",
+      "priority": 2,
+      "group": "bcd411872465"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ranim",
+          "definition": "in the morning\nundefined"
+        },
+        {
+          "word": "nje",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "běšo",
+          "definition": "undefined\nwas"
+        },
+        {
+          "word": "wjele",
+          "definition": "undefined"
+        },
+        {
+          "word": "śopło.",
+          "definition": "undefined\nwarm"
+        }
+      ],
+      "chips": [
+        "In",
+        "the",
+        "morning",
+        "it",
+        "was",
+        "not",
+        "very",
+        "warm",
+        "or",
+        "in",
+        "at",
+        "an",
+        "on",
+        "am",
+        "is"
+      ],
+      "solutions": [
+        [
+          "In",
+          "the",
+          "morning",
+          "it",
+          "was",
+          "not",
+          "very",
+          "warm"
+        ]
+      ],
+      "formattedSolution": "In the morning it was not very warm.",
+      "id": "34c9d0e77cae",
+      "priority": 2,
+      "group": "bcd411872465"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wó tśeśim casu dwójcasć běšo zymne.",
+      "meaningInSourceLanguage": "At twenty past the third hour it was cold.",
+      "id": "730b568e07af",
+      "priority": 0,
+      "group": "5e7099598eb0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wó tśeśim casu dwójcasć běšo zymne.",
+      "meaning": "At twenty past the third hour it was cold.",
+      "audio": "77447c9e3267c11f61048af83ca96253de58284132aca1bbfc64611bd8b52917",
+      "id": "b480f6dc1101",
+      "priority": 1,
+      "group": "5e7099598eb0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "At",
+          "definition": "undefined"
+        },
+        {
+          "word": "twenty",
+          "definition": "dwójcasć\nundefined"
+        },
+        {
+          "word": "past",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "third",
+          "definition": "tśeśi\nundefined"
+        },
+        {
+          "word": "hour",
+          "definition": "goźina\ngóźina\nundefined"
+        },
+        {
+          "word": "it",
+          "definition": "undefined\nwóno"
+        },
+        {
+          "word": "was",
+          "definition": "běšo\nundefined"
+        },
+        {
+          "word": "cold.",
+          "definition": "undefined\nzymno"
+        }
+      ],
+      "chips": [
+        "Wó",
+        "tśeśim",
+        "casu",
+        "dwójcasć",
+        "běšo",
+        "zymne",
+        "cas",
+        "se",
+        "tam",
+        "was",
+        "casa"
+      ],
+      "solutions": [
+        [
+          "Wó",
+          "tśeśim",
+          "casu",
+          "dwójcasć",
+          "běšo",
+          "zymne"
+        ]
+      ],
+      "formattedSolution": "Wó tśeśim casu dwójcasć běšo zymne.",
+      "id": "550b053ee914",
+      "priority": 2,
+      "group": "5e7099598eb0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wó",
+          "definition": "undefined"
+        },
+        {
+          "word": "tśeśim",
+          "definition": "undefined"
+        },
+        {
+          "word": "casu",
+          "definition": "undefined"
+        },
+        {
+          "word": "dwójcasć",
+          "definition": "twenty\nundefined"
+        },
+        {
+          "word": "běšo",
+          "definition": "undefined\nwas"
+        },
+        {
+          "word": "zymne.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "At",
+        "twenty",
+        "past",
+        "the",
+        "third",
+        "hour",
+        "it",
+        "was",
+        "cold",
+        "at",
+        "hot",
+        "hat",
+        "eat",
+        "wet",
+        "pot",
+        "cat",
+        "is"
+      ],
+      "solutions": [
+        [
+          "At",
+          "twenty",
+          "past",
+          "the",
+          "third",
+          "hour",
+          "it",
+          "was",
+          "cold"
+        ]
+      ],
+      "formattedSolution": "At twenty past the third hour it was cold.",
+      "id": "2d10fdb89ad1",
+      "priority": 2,
+      "group": "5e7099598eb0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pśełnoc jo śicha.",
+      "meaningInSourceLanguage": "Midnight is quiet.",
+      "id": "06d4cb19a440",
+      "priority": 0,
+      "group": "1de48902f0b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Pśełnoc jo śicha.",
+      "meaning": "Midnight is quiet.",
+      "audio": "e5c13df51d8075a6a7c086e9bafa132c8fe3b6e41ab1077e20b33c14571d92d4",
+      "id": "0cdff76c0d6a",
+      "priority": 1,
+      "group": "1de48902f0b1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Midnight",
+          "definition": "pśełnoc\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jo\nundefined"
+        },
+        {
+          "word": "quiet.",
+          "definition": "undefined\nśichy"
+        }
+      ],
+      "chips": [
+        "Pśełnoc",
+        "jo",
+        "śicha",
+        "noc",
+        "śi"
+      ],
+      "solutions": [
+        [
+          "Pśełnoc",
+          "jo",
+          "śicha"
+        ]
+      ],
+      "formattedSolution": "Pśełnoc jo śicha.",
+      "id": "282f7cad0d5f",
+      "priority": 2,
+      "group": "1de48902f0b1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pśełnoc",
+          "definition": "midnight\nundefined"
+        },
+        {
+          "word": "jo",
+          "definition": "is\nundefined\nyes"
+        },
+        {
+          "word": "śicha.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Midnight",
+        "is",
+        "quiet",
+        "it",
+        "night"
+      ],
+      "solutions": [
+        [
+          "Midnight",
+          "is",
+          "quiet"
+        ]
+      ],
+      "formattedSolution": "Midnight is quiet.",
+      "id": "621b61d26df9",
+      "priority": 2,
+      "group": "1de48902f0b1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wón šedł do doma.",
+      "meaningInSourceLanguage": "He went home.",
+      "id": "e1309946f8b4",
+      "priority": 0,
+      "group": "09b0d5fef08d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wón šedł do doma.",
+      "meaning": "He went home.",
+      "audio": "e1d5ca259253490d89204a67c3cdb2112f394e6c7cbd751196231cdff6948e49",
+      "id": "7797692d5324",
+      "priority": 1,
+      "group": "09b0d5fef08d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nwón"
+        },
+        {
+          "word": "went",
+          "definition": "undefined"
+        },
+        {
+          "word": "home.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Wón",
+        "šedł",
+        "do",
+        "doma",
+        "dom",
+        "da",
+        "som"
+      ],
+      "solutions": [
+        [
+          "Wón",
+          "šedł",
+          "do",
+          "doma"
+        ]
+      ],
+      "formattedSolution": "Wón šedł do doma.",
+      "id": "8e0f51095c05",
+      "priority": 2,
+      "group": "09b0d5fef08d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wón",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "šedł",
+          "definition": "undefined\nwent/walked"
+        },
+        {
+          "word": "do",
+          "definition": "undefined"
+        },
+        {
+          "word": "doma.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "went",
+        "home",
+        "me",
+        "he"
+      ],
+      "solutions": [
+        [
+          "He",
+          "went",
+          "home"
+        ]
+      ],
+      "formattedSolution": "He went home.",
+      "id": "cad08e1f7f08",
+      "priority": 2,
+      "group": "09b0d5fef08d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wy sćo šeźeli do kina?",
+      "meaningInSourceLanguage": "Have you gone to the cinema?",
+      "id": "c7beef95af9b",
+      "priority": 0,
+      "group": "0f784fad73f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wy sćo šeźeli do kina?",
+      "meaning": "Have you gone to the cinema?",
+      "audio": "a1b6bf0b5b877f607772771568a018ebe3d665c30641a155f7a64dfd672c536e",
+      "id": "7dd5ff078d22",
+      "priority": 1,
+      "group": "0f784fad73f2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Have",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "ty\nundefined\nwy"
+        },
+        {
+          "word": "gone",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "cinema?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Wy",
+        "sćo",
+        "šeźeli",
+        "do",
+        "kina",
+        "źo",
+        "To",
+        "jo",
+        "sy"
+      ],
+      "solutions": [
+        [
+          "Wy",
+          "sćo",
+          "šeźeli",
+          "do",
+          "kina"
+        ]
+      ],
+      "formattedSolution": "Wy sćo šeźeli do kina?",
+      "id": "f00061f763b2",
+      "priority": 2,
+      "group": "0f784fad73f2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wy",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "sćo",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "šeźeli",
+          "definition": "undefined"
+        },
+        {
+          "word": "do",
+          "definition": "undefined"
+        },
+        {
+          "word": "kina?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Have",
+        "you",
+        "gone",
+        "to",
+        "the",
+        "cinema",
+        "He",
+        "bone",
+        "One",
+        "She",
+        "We"
+      ],
+      "solutions": [
+        [
+          "Have",
+          "you",
+          "gone",
+          "to",
+          "the",
+          "cinema"
+        ]
+      ],
+      "formattedSolution": "Have you gone to the cinema?",
+      "id": "dc925c1dc991",
+      "priority": 2,
+      "group": "0f784fad73f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wóni nic nje cynili.",
+      "meaningInSourceLanguage": "They did nothing.",
+      "id": "81080ac4cf1b",
+      "priority": 0,
+      "group": "116239cac4be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wóni nic nje cynili.",
+      "meaning": "They did nothing.",
+      "audio": "292a6ff7cd46ed8b60bbeac609fa092042f6a4fba2b46c4c83362059db6cb913",
+      "id": "c735b8705f47",
+      "priority": 1,
+      "group": "116239cac4be"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "undefined\nwone\nwóni"
+        },
+        {
+          "word": "did",
+          "definition": "undefined"
+        },
+        {
+          "word": "nothing.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Wóni",
+        "nic",
+        "nje",
+        "cynili",
+        "cyni",
+        "Wón",
+        "noc"
+      ],
+      "solutions": [
+        [
+          "Wóni",
+          "nic",
+          "nje",
+          "cynili"
+        ]
+      ],
+      "formattedSolution": "Wóni nic nje cynili.",
+      "id": "c4385f458870",
+      "priority": 2,
+      "group": "116239cac4be"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wóni",
+          "definition": "they\nundefined"
+        },
+        {
+          "word": "nic",
+          "definition": "undefined"
+        },
+        {
+          "word": "nje",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "cynili.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "They",
+        "did",
+        "nothing",
+        "thin",
+        "This"
+      ],
+      "solutions": [
+        [
+          "They",
+          "did",
+          "nothing"
+        ]
+      ],
+      "formattedSolution": "They did nothing.",
+      "id": "e17e0a116b4e",
+      "priority": 2,
+      "group": "116239cac4be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Minuta jo mała jadnotka casa.",
+      "meaningInSourceLanguage": "A minute is a small unit of time.",
+      "id": "249370ac9c44",
+      "priority": 0,
+      "group": "d4ee6f95ad5c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Minuta jo mała jadnotka casa.",
+      "meaning": "A minute is a small unit of time.",
+      "audio": "cf8079ee9eb33305fdc85a97bf0c3dabff027b5afdb44cd14a098d30d656ec17",
+      "id": "ce2ef18a0ca1",
+      "priority": 1,
+      "group": "d4ee6f95ad5c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "minute",
+          "definition": "minuta\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jo\nundefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "small",
+          "definition": "mały\nundefined"
+        },
+        {
+          "word": "unit",
+          "definition": "undefined"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "time.",
+          "definition": "cas\nundefined"
+        }
+      ],
+      "chips": [
+        "Minuta",
+        "jo",
+        "mała",
+        "jadnotka",
+        "casa",
+        "caja",
+        "jano",
+        "nowa",
+        "Pada"
+      ],
+      "solutions": [
+        [
+          "Minuta",
+          "jo",
+          "mała",
+          "jadnotka",
+          "casa"
+        ]
+      ],
+      "formattedSolution": "Minuta jo mała jadnotka casa.",
+      "id": "6781ced0a01a",
+      "priority": 2,
+      "group": "d4ee6f95ad5c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Minuta",
+          "definition": "minute\nundefined"
+        },
+        {
+          "word": "jo",
+          "definition": "is\nundefined\nyes"
+        },
+        {
+          "word": "mała",
+          "definition": "undefined"
+        },
+        {
+          "word": "jadnotka",
+          "definition": "undefined"
+        },
+        {
+          "word": "casa.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "minute",
+        "is",
+        "a",
+        "small",
+        "unit",
+        "of",
+        "time",
+        "it",
+        "me",
+        "in",
+        "at",
+        "an",
+        "am",
+        "my"
+      ],
+      "solutions": [
+        [
+          "A",
+          "minute",
+          "is",
+          "a",
+          "small",
+          "unit",
+          "of",
+          "time"
+        ]
+      ],
+      "formattedSolution": "A minute is a small unit of time.",
+      "id": "3f7b9a7ce887",
+      "priority": 2,
+      "group": "d4ee6f95ad5c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sekunda jo krotka.",
+      "meaningInSourceLanguage": "A second is short.",
+      "id": "c374d35b7995",
+      "priority": 0,
+      "group": "2cc5d7e695da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sekunda jo krotka.",
+      "meaning": "A second is short.",
+      "audio": "bada4ffa26f25eb92a0dae01b8c01e489fd3507726ebd168884a3bf43606d704",
+      "id": "3eaed6f57caf",
+      "priority": 1,
+      "group": "2cc5d7e695da"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "second",
+          "definition": "drugi\nsekunda\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jo\nundefined"
+        },
+        {
+          "word": "short.",
+          "definition": "niski\nundefined"
+        }
+      ],
+      "chips": [
+        "Sekunda",
+        "jo",
+        "krotka",
+        "soka",
+        "boka"
+      ],
+      "solutions": [
+        [
+          "Sekunda",
+          "jo",
+          "krotka"
+        ]
+      ],
+      "formattedSolution": "Sekunda jo krotka.",
+      "id": "2237388dc06d",
+      "priority": 2,
+      "group": "2cc5d7e695da"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Sekunda",
+          "definition": "second\nundefined"
+        },
+        {
+          "word": "jo",
+          "definition": "is\nundefined\nyes"
+        },
+        {
+          "word": "krotka.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "second",
+        "is",
+        "short",
+        "so",
+        "son",
+        "on"
+      ],
+      "solutions": [
+        [
+          "A",
+          "second",
+          "is",
+          "short"
+        ]
+      ],
+      "formattedSolution": "A second is short.",
+      "id": "b30dcf3f903b",
+      "priority": 2,
+      "group": "2cc5d7e695da"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Źinsaj ty nje sy měł casa za to.",
+      "meaningInSourceLanguage": "Today you did not have an hour for that.",
+      "id": "ff2f1a20f7cc",
+      "priority": 0,
+      "group": "663fcb2f2039"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Źinsaj ty nje sy měł casa za to.",
+      "meaning": "Today you did not have an hour for that.",
+      "audio": "3f1e0dc0f4419fd9ed60567a32a76511a9900ff110d4da6cbacf0787a1309426",
+      "id": "942101dca066",
+      "priority": 1,
+      "group": "663fcb2f2039"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Today",
+          "definition": "undefined\nźinsaj"
+        },
+        {
+          "word": "you",
+          "definition": "ty\nundefined\nwy"
+        },
+        {
+          "word": "did",
+          "definition": "undefined"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "have",
+          "definition": "undefined"
+        },
+        {
+          "word": "an",
+          "definition": "undefined"
+        },
+        {
+          "word": "hour",
+          "definition": "goźina\ngóźina\nundefined"
+        },
+        {
+          "word": "for",
+          "definition": "undefined\nza"
+        },
+        {
+          "word": "that.",
+          "definition": "ten (muski rod)\nundefined"
+        }
+      ],
+      "chips": [
+        "Źinsaj",
+        "ty",
+        "nje",
+        "sy",
+        "měł",
+        "casa",
+        "za",
+        "to",
+        "se",
+        "ma",
+        "Ja",
+        "Ta",
+        "su",
+        "Na",
+        "da"
+      ],
+      "solutions": [
+        [
+          "Źinsaj",
+          "ty",
+          "nje",
+          "sy",
+          "měł",
+          "casa",
+          "za",
+          "to"
+        ]
+      ],
+      "formattedSolution": "Źinsaj ty nje sy měł casa za to.",
+      "id": "03ac2a9bd978",
+      "priority": 2,
+      "group": "663fcb2f2039"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Źinsaj",
+          "definition": "today\nundefined"
+        },
+        {
+          "word": "ty",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "nje",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "sy",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "měł",
+          "definition": "undefined"
+        },
+        {
+          "word": "casa",
+          "definition": "undefined"
+        },
+        {
+          "word": "za",
+          "definition": "for\nundefined"
+        },
+        {
+          "word": "to.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Today",
+        "you",
+        "did",
+        "not",
+        "have",
+        "an",
+        "hour",
+        "for",
+        "that",
+        "hot",
+        "hat",
+        "dot",
+        "or",
+        "had",
+        "You",
+        "day",
+        "To"
+      ],
+      "solutions": [
+        [
+          "Today",
+          "you",
+          "did",
+          "not",
+          "have",
+          "an",
+          "hour",
+          "for",
+          "that"
+        ]
+      ],
+      "formattedSolution": "Today you did not have an hour for that.",
+      "id": "e694926722dc",
+      "priority": 2,
+      "group": "663fcb2f2039"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wiźimy se wjacorim wó źewjetej goźinje.",
+      "meaningInSourceLanguage": "We will see each other in the evening at the ninth hour.",
+      "id": "c2dc259620b9",
+      "priority": 0,
+      "group": "5b069dc16a5a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wiźimy se wjacorim wó źewjetej goźinje.",
+      "meaning": "We will see each other in the evening at the ninth hour.",
+      "audio": "e89473b83eb015074a0bf2f69239431d641976d5e37c9833e41820bc01349790",
+      "id": "bd2cc80f521e",
+      "priority": 1,
+      "group": "5b069dc16a5a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "my\nundefined"
+        },
+        {
+          "word": "will",
+          "definition": "undefined"
+        },
+        {
+          "word": "see",
+          "definition": "undefined"
+        },
+        {
+          "word": "each",
+          "definition": "undefined"
+        },
+        {
+          "word": "other",
+          "definition": "undefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "evening",
+          "definition": "undefined\nwjacor"
+        },
+        {
+          "word": "at",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "ninth",
+          "definition": "undefined\nźewjety"
+        },
+        {
+          "word": "hour.",
+          "definition": "goźina\ngóźina\nundefined"
+        }
+      ],
+      "chips": [
+        "Wiźimy",
+        "se",
+        "wjacorim",
+        "wó",
+        "źewjetej",
+        "goźinje",
+        "źe",
+        "źiwe",
+        "we",
+        "nje",
+        "wiźim"
+      ],
+      "solutions": [
+        [
+          "Wiźimy",
+          "se",
+          "wjacorim",
+          "wó",
+          "źewjetej",
+          "goźinje"
+        ]
+      ],
+      "formattedSolution": "Wiźimy se wjacorim wó źewjetej goźinje.",
+      "id": "2b8ab5984874",
+      "priority": 2,
+      "group": "5b069dc16a5a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wiźimy",
+          "definition": "undefined"
+        },
+        {
+          "word": "se",
+          "definition": "undefined"
+        },
+        {
+          "word": "wjacorim",
+          "definition": "undefined"
+        },
+        {
+          "word": "wó",
+          "definition": "undefined"
+        },
+        {
+          "word": "źewjetej",
+          "definition": "undefined"
+        },
+        {
+          "word": "goźinje.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "will",
+        "see",
+        "each",
+        "other",
+        "in",
+        "the",
+        "evening",
+        "at",
+        "the",
+        "ninth",
+        "hour",
+        "it",
+        "her",
+        "ten",
+        "we",
+        "She",
+        "He",
+        "me",
+        "The",
+        "be",
+        "are",
+        "tea"
+      ],
+      "solutions": [
+        [
+          "We",
+          "will",
+          "see",
+          "each",
+          "other",
+          "in",
+          "the",
+          "evening",
+          "at",
+          "the",
+          "ninth",
+          "hour"
+        ]
+      ],
+      "formattedSolution": "We will see each other in the evening at the ninth hour.",
+      "id": "61c7fc9ed55e",
+      "priority": 2,
+      "group": "5b069dc16a5a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Cera wó prědnym casu běšo lěpše.",
+      "meaningInSourceLanguage": "Yesterday at the first hour it was better.",
+      "id": "a898a153555d",
+      "priority": 0,
+      "group": "92dbaf3391cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Cera wó prědnym casu běšo lěpše.",
+      "meaning": "Yesterday at the first hour it was better.",
+      "audio": "a3d12d5be79041b55e94fad9255961cc2f29440739696f8f4cb0639bc092128c",
+      "id": "665aaed0017f",
+      "priority": 1,
+      "group": "92dbaf3391cc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Yesterday",
+          "definition": "cera\nundefined"
+        },
+        {
+          "word": "at",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "first",
+          "definition": "prědny\nundefined"
+        },
+        {
+          "word": "hour",
+          "definition": "goźina\ngóźina\nundefined"
+        },
+        {
+          "word": "it",
+          "definition": "undefined\nwóno"
+        },
+        {
+          "word": "was",
+          "definition": "běšo\nundefined"
+        },
+        {
+          "word": "better.",
+          "definition": "lěpšy\nundefined"
+        }
+      ],
+      "chips": [
+        "Cera",
+        "wó",
+        "prědnym",
+        "casu",
+        "běšo",
+        "lěpše",
+        "lě",
+        "wěm",
+        "jěš",
+        "lěsa",
+        "lěs"
+      ],
+      "solutions": [
+        [
+          "Cera",
+          "wó",
+          "prědnym",
+          "casu",
+          "běšo",
+          "lěpše"
+        ]
+      ],
+      "formattedSolution": "Cera wó prědnym casu běšo lěpše.",
+      "id": "83e7f9afdeb7",
+      "priority": 2,
+      "group": "92dbaf3391cc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Cera",
+          "definition": "undefined\nyesterday"
+        },
+        {
+          "word": "wó",
+          "definition": "undefined"
+        },
+        {
+          "word": "prědnym",
+          "definition": "undefined"
+        },
+        {
+          "word": "casu",
+          "definition": "undefined"
+        },
+        {
+          "word": "běšo",
+          "definition": "undefined\nwas"
+        },
+        {
+          "word": "lěpše.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Yesterday",
+        "at",
+        "the",
+        "first",
+        "hour",
+        "it",
+        "was",
+        "better",
+        "eat",
+        "her",
+        "wet",
+        "hat",
+        "ear",
+        "fat",
+        "is"
+      ],
+      "solutions": [
+        [
+          "Yesterday",
+          "at",
+          "the",
+          "first",
+          "hour",
+          "it",
+          "was",
+          "better"
+        ]
+      ],
+      "formattedSolution": "Yesterday at the first hour it was better.",
+      "id": "5bfdf3c6bc1c",
+      "priority": 2,
+      "group": "92dbaf3391cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Gaž wjele minut trajo film?",
+      "meaningInSourceLanguage": "How many minutes does the film last?",
+      "id": "76d5c1f800db",
+      "priority": 0,
+      "group": "9954f73b0fc0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Gaž wjele minut trajo film?",
+      "meaning": "How many minutes does the film last?",
+      "audio": "f917a78e1a14043f3f3ce6537780e7f7dc50c7f8a5f0de9e3978d7fca9d1cd69",
+      "id": "6b464a44aa59",
+      "priority": 1,
+      "group": "9954f73b0fc0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "How",
+          "definition": "undefined"
+        },
+        {
+          "word": "many",
+          "definition": "undefined"
+        },
+        {
+          "word": "minutes",
+          "definition": "undefined"
+        },
+        {
+          "word": "does",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "film",
+          "definition": "undefined"
+        },
+        {
+          "word": "last?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Gaž",
+        "wjele",
+        "minut",
+        "trajo",
+        "film",
+        "nje",
+        "Gram",
+        "maju",
+        "mam"
+      ],
+      "solutions": [
+        [
+          "Gaž",
+          "wjele",
+          "minut",
+          "trajo",
+          "film"
+        ]
+      ],
+      "formattedSolution": "Gaž wjele minut trajo film?",
+      "id": "59bc08925ea6",
+      "priority": 2,
+      "group": "9954f73b0fc0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Gaž",
+          "definition": "undefined"
+        },
+        {
+          "word": "wjele",
+          "definition": "undefined"
+        },
+        {
+          "word": "minut",
+          "definition": "undefined"
+        },
+        {
+          "word": "trajo",
+          "definition": "undefined"
+        },
+        {
+          "word": "film?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "How",
+        "many",
+        "minutes",
+        "does",
+        "the",
+        "film",
+        "last",
+        "man",
+        "lies",
+        "is",
+        "are",
+        "not",
+        "me"
+      ],
+      "solutions": [
+        [
+          "How",
+          "many",
+          "minutes",
+          "does",
+          "the",
+          "film",
+          "last"
+        ]
+      ],
+      "formattedSolution": "How many minutes does the film last?",
+      "id": "d48345f764c4",
+      "priority": 2,
+      "group": "9954f73b0fc0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja som był we domje ranim.",
+      "meaningInSourceLanguage": "I was at home in the morning.",
+      "id": "f8a6abe090b8",
+      "priority": 0,
+      "group": "484eff4ad07c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ja som był we domje ranim.",
+      "meaning": "I was at home in the morning.",
+      "audio": "5e9cf57cfb9b47dd4378da55f6fbd66afd4aca74c31c1a1340d6ee426daeaebb",
+      "id": "37bab15be7b1",
+      "priority": 1,
+      "group": "484eff4ad07c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "ja"
+        },
+        {
+          "word": "was",
+          "definition": "běšo\nundefined"
+        },
+        {
+          "word": "at",
+          "definition": "undefined"
+        },
+        {
+          "word": "home",
+          "definition": "undefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "morning.",
+          "definition": "ranjo\nundefined"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "som",
+        "był",
+        "we",
+        "domje",
+        "ranim",
+        "dom",
+        "sam",
+        "Som",
+        "se",
+        "ja"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "som",
+          "był",
+          "we",
+          "domje",
+          "ranim"
+        ]
+      ],
+      "formattedSolution": "Ja som był we domje ranim.",
+      "id": "d1e526e8a12c",
+      "priority": 2,
+      "group": "484eff4ad07c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "som",
+          "definition": "am\nundefined"
+        },
+        {
+          "word": "był",
+          "definition": "undefined"
+        },
+        {
+          "word": "we",
+          "definition": "undefined"
+        },
+        {
+          "word": "domje",
+          "definition": "undefined"
+        },
+        {
+          "word": "ranim.",
+          "definition": "in the morning\nundefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "was",
+        "at",
+        "home",
+        "in",
+        "the",
+        "morning",
+        "me",
+        "an",
+        "on",
+        "am",
+        "is",
+        "a"
+      ],
+      "solutions": [
+        [
+          "I",
+          "was",
+          "at",
+          "home",
+          "in",
+          "the",
+          "morning"
+        ]
+      ],
+      "formattedSolution": "I was at home in the morning.",
+      "id": "4978d1256c16",
+      "priority": 2,
+      "group": "484eff4ad07c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wón spi do pśełnocy.",
+      "meaningInSourceLanguage": "He sleeps until midnight.",
+      "id": "9d286201ae6f",
+      "priority": 0,
+      "group": "8f909d9f14c8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wón spi do pśełnocy.",
+      "meaning": "He sleeps until midnight.",
+      "audio": "f88a36fac02807bd6a4db8a15069d96d361df0a3e1a110fa4585a5d11d250f31",
+      "id": "e9a1e1f33f92",
+      "priority": 1,
+      "group": "8f909d9f14c8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nwón"
+        },
+        {
+          "word": "sleeps",
+          "definition": "undefined"
+        },
+        {
+          "word": "until",
+          "definition": "undefined"
+        },
+        {
+          "word": "midnight.",
+          "definition": "pśełnoc\nundefined"
+        }
+      ],
+      "chips": [
+        "Wón",
+        "spi",
+        "do",
+        "pśełnocy",
+        "noc",
+        "pó",
+        "som"
+      ],
+      "solutions": [
+        [
+          "Wón",
+          "spi",
+          "do",
+          "pśełnocy"
+        ]
+      ],
+      "formattedSolution": "Wón spi do pśełnocy.",
+      "id": "c3ff24a5afe9",
+      "priority": 2,
+      "group": "8f909d9f14c8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wón",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "spi",
+          "definition": "undefined"
+        },
+        {
+          "word": "do",
+          "definition": "undefined"
+        },
+        {
+          "word": "pśełnocy.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "sleeps",
+        "until",
+        "midnight",
+        "unit",
+        "is",
+        "me"
+      ],
+      "solutions": [
+        [
+          "He",
+          "sleeps",
+          "until",
+          "midnight"
+        ]
+      ],
+      "formattedSolution": "He sleeps until midnight.",
+      "id": "36424ff4bd86",
+      "priority": 2,
+      "group": "8f909d9f14c8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Gaž wjele sekund ma minuta?",
+      "meaningInSourceLanguage": "How many seconds are in a minute?",
+      "id": "49dc18980544",
+      "priority": 0,
+      "group": "4707ef06794b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Gaž wjele sekund ma minuta?",
+      "meaning": "How many seconds are in a minute?",
+      "audio": "ec9effc5b85c78cee791e7976e5e97f071806f028ebb45f9bebc4506c6da576b",
+      "id": "b448b69db363",
+      "priority": 1,
+      "group": "4707ef06794b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "How",
+          "definition": "undefined"
+        },
+        {
+          "word": "many",
+          "definition": "undefined"
+        },
+        {
+          "word": "seconds",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "smy\nsu\nsy\nsćo\nundefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "minute?",
+          "definition": "minuta\nundefined"
+        }
+      ],
+      "chips": [
+        "Gaž",
+        "wjele",
+        "sekund",
+        "ma",
+        "minuta",
+        "muž",
+        "sna",
+        "jen",
+        "Ja"
+      ],
+      "solutions": [
+        [
+          "Gaž",
+          "wjele",
+          "sekund",
+          "ma",
+          "minuta"
+        ]
+      ],
+      "formattedSolution": "Gaž wjele sekund ma minuta?",
+      "id": "a35fe94ad151",
+      "priority": 2,
+      "group": "4707ef06794b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Gaž",
+          "definition": "undefined"
+        },
+        {
+          "word": "wjele",
+          "definition": "undefined"
+        },
+        {
+          "word": "sekund",
+          "definition": "undefined"
+        },
+        {
+          "word": "ma",
+          "definition": "undefined"
+        },
+        {
+          "word": "minuta?",
+          "definition": "minute\nundefined"
+        }
+      ],
+      "chips": [
+        "How",
+        "many",
+        "seconds",
+        "are",
+        "in",
+        "a",
+        "minute",
+        "an",
+        "man",
+        "on",
+        "me",
+        "son",
+        "can"
+      ],
+      "solutions": [
+        [
+          "How",
+          "many",
+          "seconds",
+          "are",
+          "in",
+          "a",
+          "minute"
+        ]
+      ],
+      "formattedSolution": "How many seconds are in a minute?",
+      "id": "8e14bd0a3c1b",
+      "priority": 2,
+      "group": "4707ef06794b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wjacorim my šedli we restauraciju.",
+      "meaningInSourceLanguage": "In the evening we went to the restaurant.",
+      "id": "e20e772600a1",
+      "priority": 0,
+      "group": "d987a18d2c59"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wjacorim my šedli we restauraciju.",
+      "meaning": "In the evening we went to the restaurant.",
+      "audio": "e473accd8f815284b0758ba324e3642610e479967b221173cff4c690aa9b4c54",
+      "id": "de637af8958d",
+      "priority": 1,
+      "group": "d987a18d2c59"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "In",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "evening",
+          "definition": "undefined\nwjacor"
+        },
+        {
+          "word": "we",
+          "definition": "my\nundefined"
+        },
+        {
+          "word": "went",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "restaurant.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Wjacorim",
+        "my",
+        "šedli",
+        "we",
+        "restauraciju",
+        "wari",
+        "We",
+        "jo",
+        "śi"
+      ],
+      "solutions": [
+        [
+          "Wjacorim",
+          "my",
+          "šedli",
+          "we",
+          "restauraciju"
+        ]
+      ],
+      "formattedSolution": "Wjacorim my šedli we restauraciju.",
+      "id": "06f4116046f7",
+      "priority": 2,
+      "group": "d987a18d2c59"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wjacorim",
+          "definition": "undefined"
+        },
+        {
+          "word": "my",
+          "definition": "undefined\nwe"
+        },
+        {
+          "word": "šedli",
+          "definition": "undefined\nwent/walked"
+        },
+        {
+          "word": "we",
+          "definition": "undefined"
+        },
+        {
+          "word": "restauraciju.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "In",
+        "the",
+        "evening",
+        "we",
+        "went",
+        "to",
+        "the",
+        "restaurant",
+        "ten",
+        "We",
+        "He",
+        "me",
+        "then",
+        "be",
+        "tea"
+      ],
+      "solutions": [
+        [
+          "In",
+          "the",
+          "evening",
+          "we",
+          "went",
+          "to",
+          "the",
+          "restaurant"
+        ]
+      ],
+      "formattedSolution": "In the evening we went to the restaurant.",
+      "id": "8706a0cdeb62",
+      "priority": 2,
+      "group": "d987a18d2c59"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cas",
+      "meaningInSourceLanguage": "time",
+      "id": "68cbff0558dd",
+      "priority": 0,
+      "group": "17ddddc0297b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cas"
+      ],
+      "phrase": [
+        {
+          "word": "time",
+          "definition": "cas\nundefined"
+        }
+      ],
+      "id": "797e6e4f4942",
+      "priority": 1,
+      "group": "17ddddc0297b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cas",
+      "meaning": "time",
+      "audio": "47c775f63e99f13de9c50af3efd44bcb5bda6bdcc33974c8af52c518f54ac11a",
+      "id": "a1862c78215a",
+      "priority": 1,
+      "group": "17ddddc0297b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "minuta",
+      "meaningInSourceLanguage": "minute",
+      "id": "185368fe8e5e",
+      "priority": 0,
+      "group": "ea571e41e02c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "minuta"
+      ],
+      "phrase": [
+        {
+          "word": "minute",
+          "definition": "minuta\nundefined"
+        }
+      ],
+      "id": "6ddf4b2d1bd2",
+      "priority": 1,
+      "group": "ea571e41e02c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "minuta",
+      "meaning": "minute",
+      "audio": "6b5adeb8b41f80bbef16e337c7073e9a346f350514f6d8b5c2d4fed7556e0854",
+      "id": "958580f6d071",
+      "priority": 1,
+      "group": "ea571e41e02c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "sekunda",
+      "meaningInSourceLanguage": "second",
+      "id": "8cc7d12ddde5",
+      "priority": 0,
+      "group": "2855482b0310"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "sekunda"
+      ],
+      "phrase": [
+        {
+          "word": "second",
+          "definition": "drugi\nsekunda\nundefined"
+        }
+      ],
+      "id": "9e0e36fec8ab",
+      "priority": 1,
+      "group": "2855482b0310"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sekunda",
+      "meaning": "second",
+      "audio": "1d2fda72102086528d08c745c56e66f64d257f133a02d915aa3a55585778f1a2",
+      "id": "f87dac31c323",
+      "priority": 1,
+      "group": "2855482b0310"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "goźina",
+      "meaningInSourceLanguage": "hour",
+      "id": "8550d7ac9375",
+      "priority": 0,
+      "group": "6354af72c2d4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "goźina"
+      ],
+      "phrase": [
+        {
+          "word": "hour",
+          "definition": "goźina\ngóźina\nundefined"
+        }
+      ],
+      "id": "20ada22066eb",
+      "priority": 1,
+      "group": "6354af72c2d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "goźina",
+      "meaning": "hour",
+      "audio": "f48ccbb76ecf254809cef1ca6bac92653249b87c11b184cfe0078011c7b6cc65",
+      "id": "c7aa680f6575",
+      "priority": 1,
+      "group": "6354af72c2d4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "źinsaj",
+      "meaningInSourceLanguage": "today",
+      "id": "9f7365172990",
+      "priority": 0,
+      "group": "e39c21f05cd3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "źinsaj"
+      ],
+      "phrase": [
+        {
+          "word": "today",
+          "definition": "undefined\nźinsaj"
+        }
+      ],
+      "id": "1636d6a1ee0d",
+      "priority": 1,
+      "group": "e39c21f05cd3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "źinsaj",
+      "meaning": "today",
+      "audio": "53ac442207ed80fff35258f355a15847b95e4e57f48e930a8e335028681810be",
+      "id": "8a305ebf25e3",
+      "priority": 1,
+      "group": "e39c21f05cd3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "běšo",
+      "meaningInSourceLanguage": "was",
+      "id": "1d49ef9b8a29",
+      "priority": 0,
+      "group": "f2b9a10643d3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "běšo"
+      ],
+      "phrase": [
+        {
+          "word": "was",
+          "definition": "běšo\nundefined"
+        }
+      ],
+      "id": "620d4d209355",
+      "priority": 1,
+      "group": "f2b9a10643d3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "běšo",
+      "meaning": "was",
+      "audio": "5834c0f84807edec861008954c5254b0c3abc387c54fa252f4e7bd9342597ffe",
+      "id": "21233ea1195c",
+      "priority": 1,
+      "group": "f2b9a10643d3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "běšo",
+      "meaningInSourceLanguage": "was",
+      "id": "1d49ef9b8a29",
+      "priority": 0,
+      "group": "f2b9a10643d3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "běšo"
+      ],
+      "phrase": [
+        {
+          "word": "was",
+          "definition": "běšo\nundefined"
+        }
+      ],
+      "id": "620d4d209355",
+      "priority": 1,
+      "group": "f2b9a10643d3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "běšo",
+      "meaning": "was",
+      "audio": "5834c0f84807edec861008954c5254b0c3abc387c54fa252f4e7bd9342597ffe",
+      "id": "21233ea1195c",
+      "priority": 1,
+      "group": "f2b9a10643d3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "běšo",
+      "meaningInSourceLanguage": "was",
+      "id": "1d49ef9b8a29",
+      "priority": 0,
+      "group": "f2b9a10643d3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "běšo"
+      ],
+      "phrase": [
+        {
+          "word": "was",
+          "definition": "běšo\nundefined"
+        }
+      ],
+      "id": "620d4d209355",
+      "priority": 1,
+      "group": "f2b9a10643d3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "běšo",
+      "meaning": "was",
+      "audio": "5834c0f84807edec861008954c5254b0c3abc387c54fa252f4e7bd9342597ffe",
+      "id": "21233ea1195c",
+      "priority": 1,
+      "group": "f2b9a10643d3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "běchu",
+      "meaningInSourceLanguage": "were",
+      "id": "fbca895fe1fc",
+      "priority": 0,
+      "group": "2915c7f5c7d1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "běchu"
+      ],
+      "phrase": [
+        {
+          "word": "were",
+          "definition": "běchu\nundefined"
+        }
+      ],
+      "id": "ecf7f8cc9542",
+      "priority": 1,
+      "group": "2915c7f5c7d1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "běchu",
+      "meaning": "were",
+      "audio": "0812c880716bd5d7b10bdcf3a1aa5c715e659ceebeed87aeeb61910b12652535",
+      "id": "a83a56e40c7b",
+      "priority": 1,
+      "group": "2915c7f5c7d1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "šedł",
+      "meaningInSourceLanguage": "went/walked",
+      "id": "c3525783342e",
+      "priority": 0,
+      "group": "95baeaf72164"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "šedł"
+      ],
+      "phrase": [
+        {
+          "word": "went/walked",
+          "definition": "undefined\nšedli\nšedł\nšedło\nšeźeła"
+        }
+      ],
+      "id": "cc19f809fe03",
+      "priority": 1,
+      "group": "95baeaf72164"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "šedł",
+      "meaning": "went/walked",
+      "audio": "9128df2942ed2982cc5659d1d582899c012c7d767ff2d5d6f16bcf1d654e7ced",
+      "id": "2d1ab53ad60c",
+      "priority": 1,
+      "group": "95baeaf72164"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "šeźeła",
+      "meaningInSourceLanguage": "went/walked",
+      "id": "c44d0239e77b",
+      "priority": 0,
+      "group": "5aa4ab8a2c56"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "šeźeła"
+      ],
+      "phrase": [
+        {
+          "word": "went/walked",
+          "definition": "undefined\nšedli\nšedł\nšedło\nšeźeła"
+        }
+      ],
+      "id": "f3aeba88e2c4",
+      "priority": 1,
+      "group": "5aa4ab8a2c56"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "šeźeła",
+      "meaning": "went/walked",
+      "audio": "51f0f3d306cecf0950290a981a5fecf0867310d0909bd65c2ea7af560d42f52f",
+      "id": "044ef504e69c",
+      "priority": 1,
+      "group": "5aa4ab8a2c56"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "šedło",
+      "meaningInSourceLanguage": "went/walked",
+      "id": "89be81c318c8",
+      "priority": 0,
+      "group": "86a2d7b4b872"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "šedło"
+      ],
+      "phrase": [
+        {
+          "word": "went/walked",
+          "definition": "undefined\nšedli\nšedł\nšedło\nšeźeła"
+        }
+      ],
+      "id": "e2d714220773",
+      "priority": 1,
+      "group": "86a2d7b4b872"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "šedło",
+      "meaning": "went/walked",
+      "audio": "d9e0c5d767245ee41464fd7e5c8b3cdbc68ec4aa31b0ad83ff3e2bb2c5a518df",
+      "id": "a91b7de0f3e6",
+      "priority": 1,
+      "group": "86a2d7b4b872"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "šedli",
+      "meaningInSourceLanguage": "went/walked",
+      "id": "eaa4ff052779",
+      "priority": 0,
+      "group": "4fb7085d654e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "šedli"
+      ],
+      "phrase": [
+        {
+          "word": "went/walked",
+          "definition": "undefined\nšedli\nšedł\nšedło\nšeźeła"
+        }
+      ],
+      "id": "f060010781a0",
+      "priority": 1,
+      "group": "4fb7085d654e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "šedli",
+      "meaning": "went/walked",
+      "audio": "117074aaa2a14d4446b9a7e60224e43faefba18b560a8e742e50f42284275436",
+      "id": "e19f7cbd8d1a",
+      "priority": 1,
+      "group": "4fb7085d654e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cera",
+      "meaningInSourceLanguage": "yesterday",
+      "id": "eb3b7f34afcc",
+      "priority": 0,
+      "group": "2cf64c3f2d18"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cera"
+      ],
+      "phrase": [
+        {
+          "word": "yesterday",
+          "definition": "cera\nundefined"
+        }
+      ],
+      "id": "627fea7b9618",
+      "priority": 1,
+      "group": "2cf64c3f2d18"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cera",
+      "meaning": "yesterday",
+      "audio": "b76d79e8f4eef8192e2940e9cafaa2c829ce071eb8f4b9dfcef5d2120ecf5a52",
+      "id": "612d5d2c92c1",
+      "priority": 1,
+      "group": "2cf64c3f2d18"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "zajtša",
+      "meaningInSourceLanguage": "tomorrow",
+      "id": "12cdb6bbc928",
+      "priority": 0,
+      "group": "c81e3c0b48b0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "zajtša"
+      ],
+      "phrase": [
+        {
+          "word": "tomorrow",
+          "definition": "undefined\nzajtša"
+        }
+      ],
+      "id": "95334b3ea4c5",
+      "priority": 1,
+      "group": "c81e3c0b48b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "zajtša",
+      "meaning": "tomorrow",
+      "audio": "573b135dfab254428987f1de7c7672e93ff4c37441d8dbf89805248ef904499e",
+      "id": "6894f41373b8",
+      "priority": 1,
+      "group": "c81e3c0b48b0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "wjacor",
+      "meaningInSourceLanguage": "evening",
+      "id": "2d51936875f8",
+      "priority": 0,
+      "group": "aa5320e6ebbe"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "wjacor"
+      ],
+      "phrase": [
+        {
+          "word": "evening",
+          "definition": "undefined\nwjacor"
+        }
+      ],
+      "id": "e87d1c73eba3",
+      "priority": 1,
+      "group": "aa5320e6ebbe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wjacor",
+      "meaning": "evening",
+      "audio": "145b734ecacb85970c29ec92939be096cab6910f6c442f28354acce7302928a8",
+      "id": "fd51a6eb66d8",
+      "priority": 1,
+      "group": "aa5320e6ebbe"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pśełnoc",
+      "meaningInSourceLanguage": "midnight",
+      "id": "564b517d93b0",
+      "priority": 0,
+      "group": "53d928347b6c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pśełnoc"
+      ],
+      "phrase": [
+        {
+          "word": "midnight",
+          "definition": "pśełnoc\nundefined"
+        }
+      ],
+      "id": "fa650d671fd7",
+      "priority": 1,
+      "group": "53d928347b6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pśełnoc",
+      "meaning": "midnight",
+      "audio": "1950463ae786a1c0bf6531267d7f67d29976b991e79fe24dc6a8c0ef64173e7c",
+      "id": "953db97729c3",
+      "priority": 1,
+      "group": "53d928347b6c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "gaž wjele",
+      "meaningInSourceLanguage": "how much",
+      "id": "0bcfae795702",
+      "priority": 0,
+      "group": "5870e7b78b08"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "gaž wjele"
+      ],
+      "phrase": [
+        {
+          "word": "how",
+          "definition": "undefined"
+        },
+        {
+          "word": "much",
+          "definition": "undefined"
+        }
+      ],
+      "id": "7de08e90ddbb",
+      "priority": 1,
+      "group": "5870e7b78b08"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gaž wjele",
+      "meaning": "how much",
+      "audio": "9e9854d8c2c3bc6b9b429b8d2cf029bc1b8a254abdcf7d353bb2a07b6673f621",
+      "id": "0449fdb24b16",
+      "priority": 1,
+      "group": "5870e7b78b08"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "spaś (spi)",
+      "meaningInSourceLanguage": "to sleep",
+      "id": "fc995e48e552",
+      "priority": 0,
+      "group": "87446fa0471c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "spaś (spi)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "sleep",
+          "definition": "undefined"
+        }
+      ],
+      "id": "26b6ff066394",
+      "priority": 1,
+      "group": "87446fa0471c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spaś (spi)",
+      "meaning": "to sleep",
+      "audio": "2ad268d408214daeee6a93c12439f150ba4a740bd7867a95e640841176f2a3eb",
+      "id": "ee3e86990d4f",
+      "priority": 1,
+      "group": "87446fa0471c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "trajś",
+      "meaningInSourceLanguage": "to last",
+      "id": "1aea059aca66",
+      "priority": 0,
+      "group": "bcbd61b87590"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "trajś"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "last",
+          "definition": "undefined"
+        }
+      ],
+      "id": "d242d22785ba",
+      "priority": 1,
+      "group": "bcbd61b87590"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trajś",
+      "meaning": "to last",
+      "audio": "a53d2bb938ef8fbfdec6b3ff1e1ef3dad0dcfd9fc935d710f98cfdfb1278107e",
+      "id": "7ddadf4a75b9",
+      "priority": 1,
+      "group": "bcbd61b87590"
+    }
+  ]
+}

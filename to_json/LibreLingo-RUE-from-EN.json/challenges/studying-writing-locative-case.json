@@ -1,0 +1,2806 @@
+{
+  "id": "62f74c5e3db9",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Тото моя школа.",
+      "meaningInSourceLanguage": "This is my school.",
+      "id": "83b322a1086a",
+      "priority": 0,
+      "group": "8f5f41ed4296"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Тото моя школа.",
+      "meaning": "This is my school.",
+      "audio": "8641cfb5dcfa6cae732b2f94365406b4eb83b31b9cbf66ea7484ad0472a07467",
+      "id": "87f40e6ae7e1",
+      "priority": 1,
+      "group": "8f5f41ed4296"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nтота\nтото"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "my",
+          "definition": "undefined"
+        },
+        {
+          "word": "school.",
+          "definition": "undefined\nшкола"
+        }
+      ],
+      "chips": [
+        "Тото",
+        "моя",
+        "школа",
+        "Тота",
+        "мой"
+      ],
+      "solutions": [
+        [
+          "Тото",
+          "моя",
+          "школа"
+        ]
+      ],
+      "formattedSolution": "Тото моя школа.",
+      "id": "cfef59a87d5c",
+      "priority": 2,
+      "group": "8f5f41ed4296"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Тото",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "моя",
+          "definition": "undefined"
+        },
+        {
+          "word": "школа.",
+          "definition": "school\nundefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "my",
+        "school",
+        "his",
+        "Is",
+        "this"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "my",
+          "school"
+        ]
+      ],
+      "formattedSolution": "This is my school.",
+      "id": "5d150042769a",
+      "priority": 2,
+      "group": "8f5f41ed4296"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она є учительков.",
+      "meaningInSourceLanguage": "She is a teacher.",
+      "id": "66456f730d09",
+      "priority": 0,
+      "group": "de3e822e7043"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она є учительков.",
+      "meaning": "She is a teacher.",
+      "audio": "6e9c3890392390f4e6f7d3d1f1246ea6dc945c23088c12ca41814ba561729b43",
+      "id": "4414d16512fc",
+      "priority": 1,
+      "group": "de3e822e7043"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "teacher.",
+          "definition": "undefined\nучитель"
+        }
+      ],
+      "chips": [
+        "Она",
+        "є",
+        "учительков",
+        "не",
+        "Они"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "є",
+          "учительков"
+        ]
+      ],
+      "formattedSolution": "Она є учительков.",
+      "id": "5be4c6bb2c17",
+      "priority": 2,
+      "group": "de3e822e7043"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "учительков.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "is",
+        "a",
+        "teacher",
+        "the",
+        "as",
+        "am"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is",
+          "a",
+          "teacher"
+        ]
+      ],
+      "formattedSolution": "She is a teacher.",
+      "id": "6a6787304024",
+      "priority": 2,
+      "group": "de3e822e7043"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он є учеником.",
+      "meaningInSourceLanguage": "He is a student.",
+      "id": "dceed5e632ef",
+      "priority": 0,
+      "group": "c10687eaf0c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он є учеником.",
+      "meaning": "He is a student.",
+      "audio": "8cc50b3881f4909088506141edf0b5b5dbc96122ffd915e4cbb4ee2d21331c7d",
+      "id": "ad9767b81075",
+      "priority": 1,
+      "group": "c10687eaf0c1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "student.",
+          "definition": "undefined\nученик"
+        }
+      ],
+      "chips": [
+        "Он",
+        "є",
+        "учеником",
+        "єм",
+        "Они"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "є",
+          "учеником"
+        ]
+      ],
+      "formattedSolution": "Он є учеником.",
+      "id": "331020481d64",
+      "priority": 2,
+      "group": "c10687eaf0c1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "учеником.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "a",
+        "student",
+        "We",
+        "me",
+        "it"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "a",
+          "student"
+        ]
+      ],
+      "formattedSolution": "He is a student.",
+      "id": "365f023f90a2",
+      "priority": 2,
+      "group": "c10687eaf0c1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Кнїга є на столї.",
+      "meaningInSourceLanguage": "The book is on the table.",
+      "id": "a5ae665ad5c2",
+      "priority": 0,
+      "group": "d828703d4a42"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Кнїга є на столї.",
+      "meaning": "The book is on the table.",
+      "audio": "56aa9250d9bd071a538618d684f1ed0832851990a3954295f2ddcef5b7609ec8",
+      "id": "caae5bb8a3cc",
+      "priority": 1,
+      "group": "d828703d4a42"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "book",
+          "definition": "undefined\nкнїга"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "table.",
+          "definition": "undefined\nстол"
+        }
+      ],
+      "chips": [
+        "Кнїга",
+        "є",
+        "на",
+        "столї",
+        "но",
+        "сна",
+        "єї"
+      ],
+      "solutions": [
+        [
+          "Кнїга",
+          "є",
+          "на",
+          "столї"
+        ]
+      ],
+      "formattedSolution": "Кнїга є на столї.",
+      "id": "673a4371b0d0",
+      "priority": 2,
+      "group": "d828703d4a42"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Кнїга",
+          "definition": "book\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "столї.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "book",
+        "is",
+        "on",
+        "the",
+        "table",
+        "be",
+        "She",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "book",
+          "is",
+          "on",
+          "the",
+          "table"
+        ]
+      ],
+      "formattedSolution": "The book is on the table.",
+      "id": "c356feffb632",
+      "priority": 2,
+      "group": "d828703d4a42"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я маю заданя.",
+      "meaningInSourceLanguage": "I have an assignment.",
+      "id": "aa9b61c2b852",
+      "priority": 0,
+      "group": "62108e981e59"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я маю заданя.",
+      "meaning": "I have an assignment.",
+      "audio": "2c43d87ead56bcb86ab068d006a7583a5fb731e11a72ac61af10c0090d58da10",
+      "id": "5dea6b53bcf0",
+      "priority": 1,
+      "group": "62108e981e59"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "have",
+          "definition": "undefined"
+        },
+        {
+          "word": "an",
+          "definition": "undefined"
+        },
+        {
+          "word": "assignment.",
+          "definition": "undefined\nзаданя"
+        }
+      ],
+      "chips": [
+        "Я",
+        "маю",
+        "заданя",
+        "за",
+        "а"
+      ],
+      "solutions": [
+        [
+          "Я",
+          "маю",
+          "заданя"
+        ]
+      ],
+      "formattedSolution": "Я маю заданя.",
+      "id": "81434fe672a0",
+      "priority": 2,
+      "group": "62108e981e59"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Я",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "маю",
+          "definition": "undefined"
+        },
+        {
+          "word": "заданя.",
+          "definition": "assignment\nundefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "have",
+        "an",
+        "assignment",
+        "am",
+        "a",
+        "at"
+      ],
+      "solutions": [
+        [
+          "I",
+          "have",
+          "an",
+          "assignment"
+        ]
+      ],
+      "formattedSolution": "I have an assignment.",
+      "id": "de9ae24b017e",
+      "priority": 2,
+      "group": "62108e981e59"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Туш є єщi мокрый.",
+      "meaningInSourceLanguage": "The ink is still wet.",
+      "id": "9b80d9fd6f3a",
+      "priority": 0,
+      "group": "4a35671ede00"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Туш є єщi мокрый.",
+      "meaning": "The ink is still wet.",
+      "audio": "448f8a781b6d3cf9504f7bf2dd3770e3912a8ccc3dcdc1f3592dc462dce8fe5d",
+      "id": "3622bd1e00b2",
+      "priority": 1,
+      "group": "4a35671ede00"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "ink",
+          "definition": "undefined\nтуш"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "still",
+          "definition": "undefined"
+        },
+        {
+          "word": "wet.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Туш",
+        "є",
+        "єщi",
+        "мокрый",
+        "єм",
+        "мой",
+        "моє"
+      ],
+      "solutions": [
+        [
+          "Туш",
+          "є",
+          "єщi",
+          "мокрый"
+        ]
+      ],
+      "formattedSolution": "Туш є єщi мокрый.",
+      "id": "66293499a4d3",
+      "priority": 2,
+      "group": "4a35671ede00"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Туш",
+          "definition": "ink\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "єщi",
+          "definition": "undefined"
+        },
+        {
+          "word": "мокрый.",
+          "definition": "blue\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "ink",
+        "is",
+        "still",
+        "wet",
+        "it",
+        "in",
+        "sit",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "ink",
+          "is",
+          "still",
+          "wet"
+        ]
+      ],
+      "formattedSolution": "The ink is still wet.",
+      "id": "dc24227b1d0b",
+      "priority": 2,
+      "group": "4a35671ede00"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Папір є бiлый.",
+      "meaningInSourceLanguage": "The paper is white.",
+      "id": "811c7ecce889",
+      "priority": 0,
+      "group": "399a539bc5c8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Папір є бiлый.",
+      "meaning": "The paper is white.",
+      "audio": "d8207820e664ec0cda0e1b6614e7bee2dd5ae2e6045ec060bc04e2d3078b09af",
+      "id": "08050e13f8b8",
+      "priority": 1,
+      "group": "399a539bc5c8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "paper",
+          "definition": "undefined\nпапір"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "white.",
+          "definition": "undefined\nбїлый"
+        }
+      ],
+      "chips": [
+        "Папір",
+        "є",
+        "бiлый",
+        "а",
+        "бє"
+      ],
+      "solutions": [
+        [
+          "Папір",
+          "є",
+          "бiлый"
+        ]
+      ],
+      "formattedSolution": "Папір є бiлый.",
+      "id": "9c879bcf9157",
+      "priority": 2,
+      "group": "399a539bc5c8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Папір",
+          "definition": "paper\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "бiлый.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "paper",
+        "is",
+        "white",
+        "wise",
+        "She",
+        "the"
+      ],
+      "solutions": [
+        [
+          "The",
+          "paper",
+          "is",
+          "white"
+        ]
+      ],
+      "formattedSolution": "The paper is white.",
+      "id": "459bad3b72d0",
+      "priority": 2,
+      "group": "399a539bc5c8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Тотот предмет є математика.",
+      "meaningInSourceLanguage": "This subject is mathematics.",
+      "id": "0a6c892abc60",
+      "priority": 0,
+      "group": "f2d0ecc851ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Тотот предмет є математика.",
+      "meaning": "This subject is mathematics.",
+      "audio": "fbba89c600592adf16530088e92bc5e3cd2a9d22f8203dfdbd1dd231eb742c55",
+      "id": "dbdc9b2631e2",
+      "priority": 1,
+      "group": "f2d0ecc851ba"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nтота\nтото"
+        },
+        {
+          "word": "subject",
+          "definition": "undefined\nпредмет"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "mathematics.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Тотот",
+        "предмет",
+        "є",
+        "математика",
+        "тот",
+        "потом",
+        "том"
+      ],
+      "solutions": [
+        [
+          "Тотот",
+          "предмет",
+          "є",
+          "математика"
+        ]
+      ],
+      "formattedSolution": "Тотот предмет є математика.",
+      "id": "d0d697211057",
+      "priority": 2,
+      "group": "f2d0ecc851ba"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Тотот",
+          "definition": "that\nundefined"
+        },
+        {
+          "word": "предмет",
+          "definition": "subject\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "математика.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "subject",
+        "is",
+        "mathematics",
+        "this",
+        "his",
+        "eats"
+      ],
+      "solutions": [
+        [
+          "This",
+          "subject",
+          "is",
+          "mathematics"
+        ]
+      ],
+      "formattedSolution": "This subject is mathematics.",
+      "id": "55aa00994500",
+      "priority": 2,
+      "group": "f2d0ecc851ba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Тота метода є добра.",
+      "meaningInSourceLanguage": "This method is good.",
+      "id": "5ad366aef9b2",
+      "priority": 0,
+      "group": "7833889af1fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Тота метода є добра.",
+      "meaning": "This method is good.",
+      "audio": "bba73281caf1abda3d4a9ac7f1c1c024a8af002e41a074cb6d312923ffeb2425",
+      "id": "c97541c26e91",
+      "priority": 1,
+      "group": "7833889af1fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nтота\nтото"
+        },
+        {
+          "word": "method",
+          "definition": "undefined\nметода"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "good.",
+          "definition": "undefined\nдобрый"
+        }
+      ],
+      "chips": [
+        "Тота",
+        "метода",
+        "є",
+        "добра",
+        "Гора",
+        "Вода",
+        "Тото"
+      ],
+      "solutions": [
+        [
+          "Тота",
+          "метода",
+          "є",
+          "добра"
+        ]
+      ],
+      "formattedSolution": "Тота метода є добра.",
+      "id": "b23be3013649",
+      "priority": 2,
+      "group": "7833889af1fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Тота",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "метода",
+          "definition": "method\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "добра.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "method",
+        "is",
+        "good",
+        "this",
+        "his",
+        "Who"
+      ],
+      "solutions": [
+        [
+          "This",
+          "method",
+          "is",
+          "good"
+        ]
+      ],
+      "formattedSolution": "This method is good.",
+      "id": "2ef23b8adae5",
+      "priority": 2,
+      "group": "7833889af1fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ученик має кнїгу.",
+      "meaningInSourceLanguage": "The student has a book.",
+      "id": "a4b558914b45",
+      "priority": 0,
+      "group": "4402a59ccdc7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ученик має кнїгу.",
+      "meaning": "The student has a book.",
+      "audio": "22ebf16fc02bac7e81ecba23123df15543536e6a6f9c44739003ed0827a69e1c",
+      "id": "9eca9b5de0b0",
+      "priority": 1,
+      "group": "4402a59ccdc7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "student",
+          "definition": "undefined\nученик"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "book.",
+          "definition": "undefined\nкнїга"
+        }
+      ],
+      "chips": [
+        "Ученик",
+        "має",
+        "кнїгу",
+        "Они",
+        "знає"
+      ],
+      "solutions": [
+        [
+          "Ученик",
+          "має",
+          "кнїгу"
+        ]
+      ],
+      "formattedSolution": "Ученик має кнїгу.",
+      "id": "0629cc0ebc5e",
+      "priority": 2,
+      "group": "4402a59ccdc7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ученик",
+          "definition": "student\nundefined"
+        },
+        {
+          "word": "має",
+          "definition": "undefined"
+        },
+        {
+          "word": "кнїгу.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "student",
+        "has",
+        "a",
+        "book",
+        "the",
+        "at",
+        "an",
+        "eat"
+      ],
+      "solutions": [
+        [
+          "The",
+          "student",
+          "has",
+          "a",
+          "book"
+        ]
+      ],
+      "formattedSolution": "The student has a book.",
+      "id": "5cf6776d22bd",
+      "priority": 2,
+      "group": "4402a59ccdc7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Тото є мой стол.",
+      "meaningInSourceLanguage": "This is my desk.",
+      "id": "bedcaf186fcb",
+      "priority": 0,
+      "group": "47213981f14e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Тото є мой стол.",
+      "meaning": "This is my desk.",
+      "audio": "3fe2b23ca982cbf9602294cb789a4a7f3d5f4a4e15c950a2cfdd3e84295dc020",
+      "id": "42474b04b575",
+      "priority": 1,
+      "group": "47213981f14e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nтота\nтото"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "my",
+          "definition": "undefined"
+        },
+        {
+          "word": "desk.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Тото",
+        "є",
+        "мой",
+        "стол",
+        "то",
+        "моє",
+        "о"
+      ],
+      "solutions": [
+        [
+          "Тото",
+          "є",
+          "мой",
+          "стол"
+        ]
+      ],
+      "formattedSolution": "Тото є мой стол.",
+      "id": "5a921ee33d1e",
+      "priority": 2,
+      "group": "47213981f14e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Тото",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "мой",
+          "definition": "undefined"
+        },
+        {
+          "word": "стол.",
+          "definition": "table\nundefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "my",
+        "desk",
+        "his",
+        "Is",
+        "us"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "my",
+          "desk"
+        ]
+      ],
+      "formattedSolution": "This is my desk.",
+      "id": "3ee77de96936",
+      "priority": 2,
+      "group": "47213981f14e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мой записник є повный записов з пером",
+      "meaningInSourceLanguage": "My notebook is full of notes with a pen",
+      "id": "aa1538bd0cae",
+      "priority": 0,
+      "group": "e4005496f357"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мой записник є повный записов з пером",
+      "meaning": "My notebook is full of notes with a pen",
+      "audio": "f1b5d2afb97f48834fe82a9f34ba5032b6338c5f515fac60cab93d2d78722927",
+      "id": "fce317f0f791",
+      "priority": 1,
+      "group": "e4005496f357"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined"
+        },
+        {
+          "word": "notebook",
+          "definition": "undefined\nзаписник"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "full",
+          "definition": "undefined"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "notes",
+          "definition": "undefined"
+        },
+        {
+          "word": "with",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "pen",
+          "definition": "undefined\nперо"
+        }
+      ],
+      "chips": [
+        "Мой",
+        "записник",
+        "є",
+        "повный",
+        "записов",
+        "з",
+        "пером",
+        "по",
+        "зо",
+        "под",
+        "о",
+        "псов",
+        "за"
+      ],
+      "solutions": [
+        [
+          "Мой",
+          "записник",
+          "є",
+          "повный",
+          "записов",
+          "з",
+          "пером"
+        ]
+      ],
+      "formattedSolution": "Мой записник є повный записов з пером",
+      "id": "c6622d832d4a",
+      "priority": 2,
+      "group": "e4005496f357"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мой",
+          "definition": "undefined"
+        },
+        {
+          "word": "записник",
+          "definition": "notebook\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "повный",
+          "definition": "undefined"
+        },
+        {
+          "word": "записов",
+          "definition": "undefined"
+        },
+        {
+          "word": "з",
+          "definition": "undefined"
+        },
+        {
+          "word": "пером",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "notebook",
+        "is",
+        "full",
+        "of",
+        "notes",
+        "with",
+        "a",
+        "pen",
+        "it",
+        "not",
+        "at",
+        "on",
+        "We",
+        "He",
+        "me",
+        "in"
+      ],
+      "solutions": [
+        [
+          "My",
+          "notebook",
+          "is",
+          "full",
+          "of",
+          "notes",
+          "with",
+          "a",
+          "pen"
+        ]
+      ],
+      "formattedSolution": "My notebook is full of notes with a pen",
+      "id": "d23ac593be65",
+      "priority": 2,
+      "group": "e4005496f357"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Пишу на папірї пером.",
+      "meaningInSourceLanguage": "I am writing on paper with a pen.",
+      "id": "bb6bcc7d6b04",
+      "priority": 0,
+      "group": "48ff30bc7a40"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Пишу на папірї пером.",
+      "meaning": "I am writing on paper with a pen.",
+      "audio": "3cf4a65f9d3e2da0fa89bcc1d97415fd23e29f17d54051ebf84f7fd5a0185fe2",
+      "id": "74fbfcb5e745",
+      "priority": 1,
+      "group": "48ff30bc7a40"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "am",
+          "definition": "undefined\nєм"
+        },
+        {
+          "word": "writing",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "paper",
+          "definition": "undefined\nпапір"
+        },
+        {
+          "word": "with",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "pen.",
+          "definition": "undefined\nперо"
+        }
+      ],
+      "chips": [
+        "Пишу",
+        "на",
+        "папірї",
+        "пером",
+        "парк",
+        "пишу",
+        "по"
+      ],
+      "solutions": [
+        [
+          "Пишу",
+          "на",
+          "папірї",
+          "пером"
+        ]
+      ],
+      "formattedSolution": "Пишу на папірї пером.",
+      "id": "9d18b2da2674",
+      "priority": 2,
+      "group": "48ff30bc7a40"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Пишу",
+          "definition": "undefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "папірї",
+          "definition": "undefined"
+        },
+        {
+          "word": "пером.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "writing",
+        "on",
+        "paper",
+        "with",
+        "a",
+        "pen",
+        "an",
+        "in",
+        "at",
+        "it",
+        "pan",
+        "On",
+        "or"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "writing",
+          "on",
+          "paper",
+          "with",
+          "a",
+          "pen"
+        ]
+      ],
+      "formattedSolution": "I am writing on paper with a pen.",
+      "id": "5c4a4b7eaee8",
+      "priority": 2,
+      "group": "48ff30bc7a40"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Школа є в центрї.",
+      "meaningInSourceLanguage": "The school is in the center.",
+      "id": "7177af55ec65",
+      "priority": 0,
+      "group": "9da5412c6600"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Школа є в центрї.",
+      "meaning": "The school is in the center.",
+      "audio": "4e295ef32b2cf863cca5b5661ed2a0806de47fd07cd2a3e92f77c380a7ab89e7",
+      "id": "e830675cd3d2",
+      "priority": 1,
+      "group": "9da5412c6600"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "school",
+          "definition": "undefined\nшкола"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "center.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Школа",
+        "є",
+        "в",
+        "центрї",
+        "о",
+        "а",
+        "Я"
+      ],
+      "solutions": [
+        [
+          "Школа",
+          "є",
+          "в",
+          "центрї"
+        ]
+      ],
+      "formattedSolution": "Школа є в центрї.",
+      "id": "fc2c115065c2",
+      "priority": 2,
+      "group": "9da5412c6600"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Школа",
+          "definition": "school\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "в",
+          "definition": "undefined"
+        },
+        {
+          "word": "центрї.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "school",
+        "is",
+        "in",
+        "the",
+        "center",
+        "She",
+        "We",
+        "He",
+        "me",
+        "it"
+      ],
+      "solutions": [
+        [
+          "The",
+          "school",
+          "is",
+          "in",
+          "the",
+          "center"
+        ]
+      ],
+      "formattedSolution": "The school is in the center.",
+      "id": "c5f0d8b48094",
+      "priority": 2,
+      "group": "9da5412c6600"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мы пишеме заданя.",
+      "meaningInSourceLanguage": "We are writing the assignment.",
+      "id": "66e7951bf578",
+      "priority": 0,
+      "group": "d7f1d5d77429"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мы пишеме заданя.",
+      "meaning": "We are writing the assignment.",
+      "audio": "7367741d0322171fdff6464e53d708eddceaafcd5ee0bb962d69614e6cc888fb",
+      "id": "677bc437658c",
+      "priority": 1,
+      "group": "d7f1d5d77429"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nмы"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nсме\nсуть\nсьте\nєс"
+        },
+        {
+          "word": "writing",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "assignment.",
+          "definition": "undefined\nзаданя"
+        }
+      ],
+      "chips": [
+        "Мы",
+        "пишеме",
+        "заданя",
+        "не",
+        "за"
+      ],
+      "solutions": [
+        [
+          "Мы",
+          "пишеме",
+          "заданя"
+        ]
+      ],
+      "formattedSolution": "Мы пишеме заданя.",
+      "id": "96510819c7f3",
+      "priority": 2,
+      "group": "d7f1d5d77429"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мы",
+          "definition": "undefined\nwe"
+        },
+        {
+          "word": "пишеме",
+          "definition": "undefined"
+        },
+        {
+          "word": "заданя.",
+          "definition": "assignment\nundefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "writing",
+        "the",
+        "assignment",
+        "age",
+        "Are",
+        "me",
+        "wine"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "writing",
+          "the",
+          "assignment"
+        ]
+      ],
+      "formattedSolution": "We are writing the assignment.",
+      "id": "b8648d2c9087",
+      "priority": 2,
+      "group": "d7f1d5d77429"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Учитель говорити з студентами.",
+      "meaningInSourceLanguage": "The teacher is talking with students.",
+      "id": "7b370d77bf90",
+      "priority": 0,
+      "group": "abcb352153b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Учитель говорити з студентами.",
+      "meaning": "The teacher is talking with students.",
+      "audio": "1f710be4a3bef388ae3e2063c8b0199f9771eaef4ce98fe180e3caec28d6d17b",
+      "id": "7c5b65baee89",
+      "priority": 1,
+      "group": "abcb352153b1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "teacher",
+          "definition": "undefined\nучитель"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "talking",
+          "definition": "undefined"
+        },
+        {
+          "word": "with",
+          "definition": "undefined"
+        },
+        {
+          "word": "students.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Учитель",
+        "говорити",
+        "з",
+        "студентами",
+        "Пити",
+        "учите",
+        "учить"
+      ],
+      "solutions": [
+        [
+          "Учитель",
+          "говорити",
+          "з",
+          "студентами"
+        ]
+      ],
+      "formattedSolution": "Учитель говорити з студентами.",
+      "id": "633ac8dcc8c2",
+      "priority": 2,
+      "group": "abcb352153b1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Учитель",
+          "definition": "male teacher\nteacher\nundefined"
+        },
+        {
+          "word": "говорити",
+          "definition": "speaks\nundefined"
+        },
+        {
+          "word": "з",
+          "definition": "undefined"
+        },
+        {
+          "word": "студентами.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "teacher",
+        "is",
+        "talking",
+        "with",
+        "students",
+        "the",
+        "then",
+        "lies",
+        "time",
+        "ten"
+      ],
+      "solutions": [
+        [
+          "The",
+          "teacher",
+          "is",
+          "talking",
+          "with",
+          "students"
+        ]
+      ],
+      "formattedSolution": "The teacher is talking with students.",
+      "id": "3e49b3723ba4",
+      "priority": 2,
+      "group": "abcb352153b1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она має много задань.",
+      "meaningInSourceLanguage": "She has many assignments.",
+      "id": "df8824a7977c",
+      "priority": 0,
+      "group": "7c4d02c2d699"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она має много задань.",
+      "meaning": "She has many assignments.",
+      "audio": "b33b32006ade2d40ba2d9a716d21e1e76b08e79fdaca9c9a2db01c6fb6a5053d",
+      "id": "6659780ad3b3",
+      "priority": 1,
+      "group": "7c4d02c2d699"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "many",
+          "definition": "undefined"
+        },
+        {
+          "word": "assignments.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Она",
+        "має",
+        "много",
+        "задань",
+        "знає",
+        "над",
+        "Оно"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "має",
+          "много",
+          "задань"
+        ]
+      ],
+      "formattedSolution": "Она має много задань.",
+      "id": "8a8a5b80cd44",
+      "priority": 2,
+      "group": "7c4d02c2d699"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "має",
+          "definition": "undefined"
+        },
+        {
+          "word": "много",
+          "definition": "undefined"
+        },
+        {
+          "word": "задань.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "has",
+        "many",
+        "assignments",
+        "man",
+        "an",
+        "men"
+      ],
+      "solutions": [
+        [
+          "She",
+          "has",
+          "many",
+          "assignments"
+        ]
+      ],
+      "formattedSolution": "She has many assignments.",
+      "id": "da494be491fb",
+      "priority": 2,
+      "group": "7c4d02c2d699"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я барже пишу з тым пером.",
+      "meaningInSourceLanguage": "I am writing quickly with this pen.",
+      "id": "765dddf11d22",
+      "priority": 0,
+      "group": "0cc7803d7135"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я барже пишу з тым пером.",
+      "meaning": "I am writing quickly with this pen.",
+      "audio": "ed183d92050694aaa9d0e315492598b5efcabd8e264b428d93cdba838fb0b3e2",
+      "id": "e5a3e26a2ab3",
+      "priority": 1,
+      "group": "0cc7803d7135"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "am",
+          "definition": "undefined\nєм"
+        },
+        {
+          "word": "writing",
+          "definition": "undefined"
+        },
+        {
+          "word": "quickly",
+          "definition": "undefined"
+        },
+        {
+          "word": "with",
+          "definition": "undefined"
+        },
+        {
+          "word": "this",
+          "definition": "undefined\nтота\nтото"
+        },
+        {
+          "word": "pen.",
+          "definition": "undefined\nперо"
+        }
+      ],
+      "chips": [
+        "Я",
+        "барже",
+        "пишу",
+        "з",
+        "тым",
+        "пером",
+        "по",
+        "о",
+        "а",
+        "у",
+        "єм"
+      ],
+      "solutions": [
+        [
+          "Я",
+          "барже",
+          "пишу",
+          "з",
+          "тым",
+          "пером"
+        ]
+      ],
+      "formattedSolution": "Я барже пишу з тым пером.",
+      "id": "b7cee83f7a95",
+      "priority": 2,
+      "group": "0cc7803d7135"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Я",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "барже",
+          "definition": "fast\nundefined"
+        },
+        {
+          "word": "пишу",
+          "definition": "undefined"
+        },
+        {
+          "word": "з",
+          "definition": "undefined"
+        },
+        {
+          "word": "тым",
+          "definition": "undefined"
+        },
+        {
+          "word": "пером.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "writing",
+        "quickly",
+        "with",
+        "this",
+        "pen",
+        "it",
+        "in",
+        "is",
+        "his",
+        "him",
+        "sit"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "writing",
+          "quickly",
+          "with",
+          "this",
+          "pen"
+        ]
+      ],
+      "formattedSolution": "I am writing quickly with this pen.",
+      "id": "91722e61c59d",
+      "priority": 2,
+      "group": "0cc7803d7135"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Предмет є складный.",
+      "meaningInSourceLanguage": "The subject is complex.",
+      "id": "8a7d5a601f7f",
+      "priority": 0,
+      "group": "037522e9118c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Предмет є складный.",
+      "meaning": "The subject is complex.",
+      "audio": "a34d573af5b806af5ef3dd6b8ff2f84bdec29a10e318237e106f5263933ce073",
+      "id": "216efd373c7f",
+      "priority": 1,
+      "group": "037522e9118c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "subject",
+          "definition": "undefined\nпредмет"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "complex.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Предмет",
+        "є",
+        "складный",
+        "де",
+        "єм"
+      ],
+      "solutions": [
+        [
+          "Предмет",
+          "є",
+          "складный"
+        ]
+      ],
+      "formattedSolution": "Предмет є складный.",
+      "id": "8e4627262ff7",
+      "priority": 2,
+      "group": "037522e9118c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Предмет",
+          "definition": "subject\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "складный.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "subject",
+        "is",
+        "complex",
+        "me",
+        "be",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "subject",
+          "is",
+          "complex"
+        ]
+      ],
+      "formattedSolution": "The subject is complex.",
+      "id": "12141234a816",
+      "priority": 2,
+      "group": "037522e9118c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Кнїга є нова.",
+      "meaningInSourceLanguage": "The book is new.",
+      "id": "6a8df6c6477f",
+      "priority": 0,
+      "group": "4314cd5c5a34"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Кнїга є нова.",
+      "meaning": "The book is new.",
+      "audio": "e5e613f7da467e1e41760ccf421ea61ea08552779b723f504a5d490846208c8a",
+      "id": "3efbd56158fa",
+      "priority": 1,
+      "group": "4314cd5c5a34"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "book",
+          "definition": "undefined\nкнїга"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "new.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Кнїга",
+        "є",
+        "нова",
+        "но",
+        "а"
+      ],
+      "solutions": [
+        [
+          "Кнїга",
+          "є",
+          "нова"
+        ]
+      ],
+      "formattedSolution": "Кнїга є нова.",
+      "id": "dcc6ecd67002",
+      "priority": 2,
+      "group": "4314cd5c5a34"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Кнїга",
+          "definition": "book\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "нова.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "book",
+        "is",
+        "new",
+        "be",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "book",
+          "is",
+          "new"
+        ]
+      ],
+      "formattedSolution": "The book is new.",
+      "id": "2d53e819ee20",
+      "priority": 2,
+      "group": "4314cd5c5a34"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он є моїм учителем.",
+      "meaningInSourceLanguage": "He is my teacher.",
+      "id": "c92096791030",
+      "priority": 0,
+      "group": "ec37c1e1092f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он є моїм учителем.",
+      "meaning": "He is my teacher.",
+      "audio": "b725478f5b2d48fff5e003dcbc064ab0d768033fffae56e9a27a54d9d0f8aa0e",
+      "id": "016b3283665f",
+      "priority": 1,
+      "group": "ec37c1e1092f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "my",
+          "definition": "undefined"
+        },
+        {
+          "word": "teacher.",
+          "definition": "undefined\nучитель"
+        }
+      ],
+      "chips": [
+        "Он",
+        "є",
+        "моїм",
+        "учителем",
+        "єм",
+        "їм",
+        "он"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "є",
+          "моїм",
+          "учителем"
+        ]
+      ],
+      "formattedSolution": "Он є моїм учителем.",
+      "id": "e0015cb97b82",
+      "priority": 2,
+      "group": "ec37c1e1092f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "моїм",
+          "definition": "undefined"
+        },
+        {
+          "word": "учителем.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "my",
+        "teacher",
+        "me",
+        "he",
+        "We"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "my",
+          "teacher"
+        ]
+      ],
+      "formattedSolution": "He is my teacher.",
+      "id": "db0130cce234",
+      "priority": 2,
+      "group": "ec37c1e1092f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "школа",
+      "meaningInSourceLanguage": "school",
+      "id": "896905e692f5",
+      "priority": 0,
+      "group": "cb7006301997"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "школа"
+      ],
+      "phrase": [
+        {
+          "word": "school",
+          "definition": "undefined\nшкола"
+        }
+      ],
+      "id": "79af903530b7",
+      "priority": 1,
+      "group": "cb7006301997"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "школа",
+      "meaning": "school",
+      "audio": "95b7f914efa2cc62f6b2750f0e4f4f9c2fb1a962ace0cb540a35d0e7c2465873",
+      "id": "b2acdb8bc502",
+      "priority": 1,
+      "group": "cb7006301997"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "учителька",
+      "meaningInSourceLanguage": "female teacher",
+      "id": "94bd9de346c0",
+      "priority": 0,
+      "group": "40a099274676"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "учителька"
+      ],
+      "phrase": [
+        {
+          "word": "female",
+          "definition": "undefined"
+        },
+        {
+          "word": "teacher",
+          "definition": "undefined\nучитель"
+        }
+      ],
+      "id": "5619dcb09f96",
+      "priority": 1,
+      "group": "40a099274676"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "учителька",
+      "meaning": "female teacher",
+      "audio": "4f9263de2fec8ee3f5efc0e1330f9f1e0c9d3d1e1da9fb730f425c010292410b",
+      "id": "5d9d1f7dafe0",
+      "priority": 1,
+      "group": "40a099274676"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "учитель",
+      "meaningInSourceLanguage": "male teacher",
+      "id": "7f04d82bf45b",
+      "priority": 0,
+      "group": "a1ba00026668"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "учитель"
+      ],
+      "phrase": [
+        {
+          "word": "male",
+          "definition": "undefined"
+        },
+        {
+          "word": "teacher",
+          "definition": "undefined\nучитель"
+        }
+      ],
+      "id": "112aed766e2d",
+      "priority": 1,
+      "group": "a1ba00026668"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "учитель",
+      "meaning": "male teacher",
+      "audio": "8cb3c8d3c1b508441e1287dafd553d16aea3d5065bb8dae83e9f98180c337266",
+      "id": "eea4215aff4c",
+      "priority": 1,
+      "group": "a1ba00026668"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "запис",
+      "meaningInSourceLanguage": "note",
+      "id": "638682176ded",
+      "priority": 0,
+      "group": "920f60ccc0ad"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "запис"
+      ],
+      "phrase": [
+        {
+          "word": "note",
+          "definition": "undefined\nзапис"
+        }
+      ],
+      "id": "51235ddb6455",
+      "priority": 1,
+      "group": "920f60ccc0ad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "запис",
+      "meaning": "note",
+      "audio": "41d0b7006323f6dc69268f3ea6e0f249b529c5630779ff1f230d47a8f0340d74",
+      "id": "a5a6a5a94113",
+      "priority": 1,
+      "group": "920f60ccc0ad"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ученик",
+      "meaningInSourceLanguage": "student",
+      "id": "1e2f498697a8",
+      "priority": 0,
+      "group": "ee274d141524"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ученик"
+      ],
+      "phrase": [
+        {
+          "word": "student",
+          "definition": "undefined\nученик"
+        }
+      ],
+      "id": "dd4b0d7af192",
+      "priority": 1,
+      "group": "ee274d141524"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ученик",
+      "meaning": "student",
+      "audio": "f5e57a34955dca9a9269da76d0d25ec10a154fc36f0e4a64d33fb268e72d7e40",
+      "id": "e084afffc08a",
+      "priority": 1,
+      "group": "ee274d141524"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "кнїга",
+      "meaningInSourceLanguage": "book",
+      "id": "67be127293af",
+      "priority": 0,
+      "group": "17cd8793e72c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "кнїга"
+      ],
+      "phrase": [
+        {
+          "word": "book",
+          "definition": "undefined\nкнїга"
+        }
+      ],
+      "id": "ac0773021707",
+      "priority": 1,
+      "group": "17cd8793e72c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "кнїга",
+      "meaning": "book",
+      "audio": "5618c1d4d1561fccd7c850ba8866e8f55da5048211c2261bcf7639347f3e7a83",
+      "id": "688562e6baf5",
+      "priority": 1,
+      "group": "17cd8793e72c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "заданя",
+      "meaningInSourceLanguage": "assignment",
+      "id": "283940111b89",
+      "priority": 0,
+      "group": "42700785f0ae"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "заданя"
+      ],
+      "phrase": [
+        {
+          "word": "assignment",
+          "definition": "undefined\nзаданя"
+        }
+      ],
+      "id": "9dbe2cda5b6e",
+      "priority": 1,
+      "group": "42700785f0ae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "заданя",
+      "meaning": "assignment",
+      "audio": "13f47d9c81ada6f17c2be61c324120bc84840d270aee2dea646118843659d3da",
+      "id": "d8794db9c1ad",
+      "priority": 1,
+      "group": "42700785f0ae"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "стол",
+      "meaningInSourceLanguage": "table",
+      "id": "d8c7d540a4c6",
+      "priority": 0,
+      "group": "e38f39c2ce0d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "стол"
+      ],
+      "phrase": [
+        {
+          "word": "table",
+          "definition": "undefined\nстол"
+        }
+      ],
+      "id": "e391b8adf258",
+      "priority": 1,
+      "group": "e38f39c2ce0d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "стол",
+      "meaning": "table",
+      "audio": "53d3102ce2c620a0b1399a386ca96836dddc74c4505a456e1647817907b5be4a",
+      "id": "63c693c84412",
+      "priority": 1,
+      "group": "e38f39c2ce0d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "туш",
+      "meaningInSourceLanguage": "ink",
+      "id": "058d569105da",
+      "priority": 0,
+      "group": "6ea9830d10a4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "туш"
+      ],
+      "phrase": [
+        {
+          "word": "ink",
+          "definition": "undefined\nтуш"
+        }
+      ],
+      "id": "db01184bd31a",
+      "priority": 1,
+      "group": "6ea9830d10a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "туш",
+      "meaning": "ink",
+      "audio": "e6eaa43d636f723b93235e4d778f127fb81d76d111e5a4d82b784f4c7fc51544",
+      "id": "c581cb4960d6",
+      "priority": 1,
+      "group": "6ea9830d10a4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "папір",
+      "meaningInSourceLanguage": "paper",
+      "id": "9f0816a44bde",
+      "priority": 0,
+      "group": "58eb22d5722d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "папір"
+      ],
+      "phrase": [
+        {
+          "word": "paper",
+          "definition": "undefined\nпапір"
+        }
+      ],
+      "id": "a33de278cbf0",
+      "priority": 1,
+      "group": "58eb22d5722d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "папір",
+      "meaning": "paper",
+      "audio": "e60cd54db2a34c9b1903a72b86258c6c8950475fe75c3ed15b9cc28ad07d8e56",
+      "id": "ac1f52d9fddf",
+      "priority": 1,
+      "group": "58eb22d5722d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "предмет",
+      "meaningInSourceLanguage": "subject",
+      "id": "69b2b96bb906",
+      "priority": 0,
+      "group": "9ad65a2d8005"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "предмет"
+      ],
+      "phrase": [
+        {
+          "word": "subject",
+          "definition": "undefined\nпредмет"
+        }
+      ],
+      "id": "e9a29049cb1d",
+      "priority": 1,
+      "group": "9ad65a2d8005"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "предмет",
+      "meaning": "subject",
+      "audio": "87fb47ec4846b508e0be6a3d939c49d952798e1756ee9c1dc5cbe5156f71d39b",
+      "id": "ff92a75a9926",
+      "priority": 1,
+      "group": "9ad65a2d8005"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "метода",
+      "meaningInSourceLanguage": "method",
+      "id": "97b5a88a26af",
+      "priority": 0,
+      "group": "cd5fdaad7773"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "метода"
+      ],
+      "phrase": [
+        {
+          "word": "method",
+          "definition": "undefined\nметода"
+        }
+      ],
+      "id": "22c73c6f8cad",
+      "priority": 1,
+      "group": "cd5fdaad7773"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "метода",
+      "meaning": "method",
+      "audio": "2d6414ae1971e08cca8a9e1b560b4dff0bbc270cf657a8ca27ac799491214f6f",
+      "id": "dd4480aea9d7",
+      "priority": 1,
+      "group": "cd5fdaad7773"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "перо",
+      "meaningInSourceLanguage": "pen",
+      "id": "1fe2f6b678e2",
+      "priority": 0,
+      "group": "bb52f038233f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "перо"
+      ],
+      "phrase": [
+        {
+          "word": "pen",
+          "definition": "undefined\nперо"
+        }
+      ],
+      "id": "58922dda20bd",
+      "priority": 1,
+      "group": "bb52f038233f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "перо",
+      "meaning": "pen",
+      "audio": "681737b50f6236214af5bd1f1f805b9a8d9c657e0f81849e132e8356600eb221",
+      "id": "964008bae927",
+      "priority": 1,
+      "group": "bb52f038233f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "записник",
+      "meaningInSourceLanguage": "notebook",
+      "id": "6f45104a5651",
+      "priority": 0,
+      "group": "0b108419632d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "записник"
+      ],
+      "phrase": [
+        {
+          "word": "notebook",
+          "definition": "undefined\nзаписник"
+        }
+      ],
+      "id": "0ea65e41167a",
+      "priority": 1,
+      "group": "0b108419632d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "записник",
+      "meaning": "notebook",
+      "audio": "505650a2459af3e69e5e7612cf351301df794d93c0ac08dc89fe19b4cf955971",
+      "id": "569837d5b136",
+      "priority": 1,
+      "group": "0b108419632d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "на",
+      "meaningInSourceLanguage": "on",
+      "id": "a4edbd402192",
+      "priority": 0,
+      "group": "75355a1f34d3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "на"
+      ],
+      "phrase": [
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        }
+      ],
+      "id": "e0dd9bbecabf",
+      "priority": 1,
+      "group": "75355a1f34d3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "на",
+      "meaning": "on",
+      "audio": "f40a3c27f015935cbf6a04b93c993adab7255afa563758778d4623c71c8eac79",
+      "id": "b5a7073c7506",
+      "priority": 1,
+      "group": "75355a1f34d3"
+    }
+  ]
+}

@@ -1,0 +1,2455 @@
+{
+  "id": "a3ab90692df4",
+  "levels": 6,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mój pies jest czarny.",
+      "meaningInSourceLanguage": "My dog is black.",
+      "id": "4a0a04edd330",
+      "priority": 0,
+      "group": "ef7d006debf2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Mój pies jest czarny.",
+      "meaning": "My dog is black.",
+      "audio": "2d3c6fc43fd9328887843b30e7bfd320119d304ec5f56a58830bcb13bfd65821",
+      "id": "d98847a846c6",
+      "priority": 1,
+      "group": "ef7d006debf2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined"
+        },
+        {
+          "word": "dog",
+          "definition": "pies\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "black.",
+          "definition": "czarny\nundefined"
+        }
+      ],
+      "chips": [
+        "Mój",
+        "pies",
+        "jest",
+        "czarny",
+        "jej",
+        "ze",
+        "jem"
+      ],
+      "solutions": [
+        [
+          "Mój",
+          "pies",
+          "jest",
+          "czarny"
+        ]
+      ],
+      "formattedSolution": "Mój pies jest czarny.",
+      "id": "1c653c47c3e8",
+      "priority": 2,
+      "group": "ef7d006debf2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Mój",
+          "definition": "undefined"
+        },
+        {
+          "word": "pies",
+          "definition": "dog\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "czarny.",
+          "definition": "black\nundefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "dog",
+        "is",
+        "black",
+        "da",
+        "by",
+        "as"
+      ],
+      "solutions": [
+        [
+          "My",
+          "dog",
+          "is",
+          "black"
+        ]
+      ],
+      "formattedSolution": "My dog is black.",
+      "id": "0e961c885863",
+      "priority": 2,
+      "group": "ef7d006debf2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mysz jest biała.",
+      "meaningInSourceLanguage": "The mouse is white.",
+      "id": "af82c17ab489",
+      "priority": 0,
+      "group": "722147aeed60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Mysz jest biała.",
+      "meaning": "The mouse is white.",
+      "audio": "67286d006cab5b18545a1c72aac3daa5750f76dd451a853c3eec99ee6365c2eb",
+      "id": "997def9bfe71",
+      "priority": 1,
+      "group": "722147aeed60"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "mouse",
+          "definition": "mysz\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "white.",
+          "definition": "biały\nundefined"
+        }
+      ],
+      "chips": [
+        "Mysz",
+        "jest",
+        "biała",
+        "jesz",
+        "masz"
+      ],
+      "solutions": [
+        [
+          "Mysz",
+          "jest",
+          "biała"
+        ]
+      ],
+      "formattedSolution": "Mysz jest biała.",
+      "id": "fe6f3d8130cb",
+      "priority": 2,
+      "group": "722147aeed60"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Mysz",
+          "definition": "mouse\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "biała.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "mouse",
+        "is",
+        "white",
+        "wise",
+        "This",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "mouse",
+          "is",
+          "white"
+        ]
+      ],
+      "formattedSolution": "The mouse is white.",
+      "id": "17c4ef64db6c",
+      "priority": 2,
+      "group": "722147aeed60"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Trawa jest zielona.",
+      "meaningInSourceLanguage": "The grass is green.",
+      "id": "1fb187198cb5",
+      "priority": 0,
+      "group": "22c24f509bc3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Trawa jest zielona.",
+      "meaning": "The grass is green.",
+      "audio": "ca181ddac983886e2eb9f532c66b387225023ecb4ca749e1de0c02c86897a892",
+      "id": "a1a61c2531b9",
+      "priority": 1,
+      "group": "22c24f509bc3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "grass",
+          "definition": "trawa\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "green.",
+          "definition": "undefined\nzielony"
+        }
+      ],
+      "chips": [
+        "Trawa",
+        "jest",
+        "zielona",
+        "Cena",
+        "jedna"
+      ],
+      "solutions": [
+        [
+          "Trawa",
+          "jest",
+          "zielona"
+        ]
+      ],
+      "formattedSolution": "Trawa jest zielona.",
+      "id": "0eb098dbdf5a",
+      "priority": 2,
+      "group": "22c24f509bc3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Trawa",
+          "definition": "grass\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "zielona.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "grass",
+        "is",
+        "green",
+        "are",
+        "goes",
+        "grey"
+      ],
+      "solutions": [
+        [
+          "The",
+          "grass",
+          "is",
+          "green"
+        ]
+      ],
+      "formattedSolution": "The grass is green.",
+      "id": "12de7e2090e8",
+      "priority": 2,
+      "group": "22c24f509bc3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Niebo jest niebieskie.",
+      "meaningInSourceLanguage": "The sky is blue.",
+      "id": "9ed929ebac1d",
+      "priority": 0,
+      "group": "f92463ed9db0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Niebo jest niebieskie.",
+      "meaning": "The sky is blue.",
+      "audio": "a2e1ce56d5a4a4eeec5248b0e99be6ec2bfc9b54a6866ee211254a0011742926",
+      "id": "3e1dbebd73ba",
+      "priority": 1,
+      "group": "f92463ed9db0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "sky",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "blue.",
+          "definition": "niebieski\nundefined"
+        }
+      ],
+      "chips": [
+        "Niebo",
+        "jest",
+        "niebieskie",
+        "niesie",
+        "niebie"
+      ],
+      "solutions": [
+        [
+          "Niebo",
+          "jest",
+          "niebieskie"
+        ]
+      ],
+      "formattedSolution": "Niebo jest niebieskie.",
+      "id": "fa604326fd4f",
+      "priority": 2,
+      "group": "f92463ed9db0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Niebo",
+          "definition": "undefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "niebieskie.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "sky",
+        "is",
+        "blue",
+        "be",
+        "She",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "sky",
+          "is",
+          "blue"
+        ]
+      ],
+      "formattedSolution": "The sky is blue.",
+      "id": "f036065eda7c",
+      "priority": 2,
+      "group": "f92463ed9db0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kwiaty są czerwone.",
+      "meaningInSourceLanguage": "The flowers are red.",
+      "id": "164c486caa77",
+      "priority": 0,
+      "group": "a663c70aa068"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Kwiaty są czerwone.",
+      "meaning": "The flowers are red.",
+      "audio": "378d343430f9574922a6370757ec3e6c88b6b7780d8aa32045492b77f4b3d94d",
+      "id": "0e7c472a5d61",
+      "priority": 1,
+      "group": "a663c70aa068"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "flowers",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+        },
+        {
+          "word": "red.",
+          "definition": "czerwony\nundefined"
+        }
+      ],
+      "chips": [
+        "Kwiaty",
+        "są",
+        "czerwone",
+        "Kwiat",
+        "we"
+      ],
+      "solutions": [
+        [
+          "Kwiaty",
+          "są",
+          "czerwone"
+        ]
+      ],
+      "formattedSolution": "Kwiaty są czerwone.",
+      "id": "1aa54dbc0159",
+      "priority": 2,
+      "group": "a663c70aa068"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kwiaty",
+          "definition": "undefined"
+        },
+        {
+          "word": "są",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "czerwone.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "flowers",
+        "are",
+        "red",
+        "Are",
+        "She",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "flowers",
+          "are",
+          "red"
+        ]
+      ],
+      "formattedSolution": "The flowers are red.",
+      "id": "cd652abad954",
+      "priority": 2,
+      "group": "a663c70aa068"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Słońce jest żółte.",
+      "meaningInSourceLanguage": "The sun is yellow.",
+      "id": "09a415b7d5d0",
+      "priority": 0,
+      "group": "89c83b7e5b82"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Słońce jest żółte.",
+      "meaning": "The sun is yellow.",
+      "audio": "154db8ae78214ab758b76b506b2d705c1e9dde002a579de407b67285b3211dca",
+      "id": "f5b6ebca5796",
+      "priority": 1,
+      "group": "89c83b7e5b82"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "sun",
+          "definition": "słońce\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "yellow.",
+          "definition": "undefined\nżółty"
+        }
+      ],
+      "chips": [
+        "Słońce",
+        "jest",
+        "żółte",
+        "Żółte",
+        "je"
+      ],
+      "solutions": [
+        [
+          "Słońce",
+          "jest",
+          "żółte"
+        ]
+      ],
+      "formattedSolution": "Słońce jest żółte.",
+      "id": "246daa41e7ad",
+      "priority": 2,
+      "group": "89c83b7e5b82"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Słońce",
+          "definition": "sun\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "żółte.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "sun",
+        "is",
+        "yellow",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "sun",
+          "is",
+          "yellow"
+        ]
+      ],
+      "formattedSolution": "The sun is yellow.",
+      "id": "30235ed68f6e",
+      "priority": 2,
+      "group": "89c83b7e5b82"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Chmury są szare.",
+      "meaningInSourceLanguage": "The clouds are grey.",
+      "id": "6bf8207a284d",
+      "priority": 0,
+      "group": "3fac73a81115"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Chmury są szare.",
+      "meaning": "The clouds are grey.",
+      "audio": "ac1687598453ccb5aa158364123eb588f2ba38030d06fd376efdc98221998e69",
+      "id": "31337f542a93",
+      "priority": 1,
+      "group": "3fac73a81115"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "clouds",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+        },
+        {
+          "word": "grey.",
+          "definition": "szary\nundefined"
+        }
+      ],
+      "chips": [
+        "Chmury",
+        "są",
+        "szare",
+        "stare",
+        "ser"
+      ],
+      "solutions": [
+        [
+          "Chmury",
+          "są",
+          "szare"
+        ]
+      ],
+      "formattedSolution": "Chmury są szare.",
+      "id": "9e17bfabbe12",
+      "priority": 2,
+      "group": "3fac73a81115"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Chmury",
+          "definition": "undefined"
+        },
+        {
+          "word": "są",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "szare.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "clouds",
+        "are",
+        "grey",
+        "Are",
+        "She",
+        "They"
+      ],
+      "solutions": [
+        [
+          "The",
+          "clouds",
+          "are",
+          "grey"
+        ]
+      ],
+      "formattedSolution": "The clouds are grey.",
+      "id": "e190e7f9bc34",
+      "priority": 2,
+      "group": "3fac73a81115"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "On nosi kasztanowy płaszcz.",
+      "meaningInSourceLanguage": "He wears a brown coat.",
+      "id": "cd3d03ce2379",
+      "priority": 0,
+      "group": "dc15f32785db"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "On nosi kasztanowy płaszcz.",
+      "meaning": "He wears a brown coat.",
+      "audio": "324e8e8e7cd181df9d79d0446803782ed68a63e08452455e3c2e0b3668222e4b",
+      "id": "0193867bd3b0",
+      "priority": 1,
+      "group": "dc15f32785db"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "wears",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "brown",
+          "definition": "kasztanowy\nundefined"
+        },
+        {
+          "word": "coat.",
+          "definition": "płaszcz\nundefined"
+        }
+      ],
+      "chips": [
+        "On",
+        "nosi",
+        "kasztanowy",
+        "płaszcz",
+        "masz",
+        "Dasz",
+        "nas"
+      ],
+      "solutions": [
+        [
+          "On",
+          "nosi",
+          "kasztanowy",
+          "płaszcz"
+        ]
+      ],
+      "formattedSolution": "On nosi kasztanowy płaszcz.",
+      "id": "a8cb6ef58228",
+      "priority": 2,
+      "group": "dc15f32785db"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "nosi",
+          "definition": "undefined"
+        },
+        {
+          "word": "kasztanowy",
+          "definition": "brown\nundefined"
+        },
+        {
+          "word": "płaszcz.",
+          "definition": "coat\nundefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "wears",
+        "a",
+        "brown",
+        "coat",
+        "at",
+        "an",
+        "as",
+        "am"
+      ],
+      "solutions": [
+        [
+          "He",
+          "wears",
+          "a",
+          "brown",
+          "coat"
+        ]
+      ],
+      "formattedSolution": "He wears a brown coat.",
+      "id": "769b29cbb024",
+      "priority": 2,
+      "group": "dc15f32785db"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Liść jest pomarańczowy.",
+      "meaningInSourceLanguage": "The leaf is orange.",
+      "id": "c2d5d965a456",
+      "priority": 0,
+      "group": "a1b896f11abf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Liść jest pomarańczowy.",
+      "meaning": "The leaf is orange.",
+      "audio": "f853e46b77c2ea06a8f33553578a0303ef708000ea7e3cd3ad46029d329fb9fd",
+      "id": "7977f0871aff",
+      "priority": 1,
+      "group": "a1b896f11abf"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "leaf",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "orange.",
+          "definition": "pomarańcza\npomarańczowy\nundefined"
+        }
+      ],
+      "chips": [
+        "Liść",
+        "jest",
+        "pomarańczowy",
+        "masz",
+        "jesz"
+      ],
+      "solutions": [
+        [
+          "Liść",
+          "jest",
+          "pomarańczowy"
+        ]
+      ],
+      "formattedSolution": "Liść jest pomarańczowy.",
+      "id": "32dcce0618b6",
+      "priority": 2,
+      "group": "a1b896f11abf"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Liść",
+          "definition": "undefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "pomarańczowy.",
+          "definition": "orange\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "leaf",
+        "is",
+        "orange",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "leaf",
+          "is",
+          "orange"
+        ]
+      ],
+      "formattedSolution": "The leaf is orange.",
+      "id": "026ab7a7d0d8",
+      "priority": 2,
+      "group": "a1b896f11abf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "To jest Morze Czerwone.",
+      "meaningInSourceLanguage": "This is the Red Sea.",
+      "id": "f11132f77e44",
+      "priority": 0,
+      "group": "89bcf2a0ae14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "To jest Morze Czerwone.",
+      "meaning": "This is the Red Sea.",
+      "audio": "7b6ed35fc75f380ccad4baab1c853a78f37c56767397d6b3a95cde2208c24e94",
+      "id": "760d754b92ed",
+      "priority": 1,
+      "group": "89bcf2a0ae14"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "Red",
+          "definition": "czerwony\nundefined"
+        },
+        {
+          "word": "Sea.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "To",
+        "jest",
+        "Morze",
+        "Czerwone",
+        "ze",
+        "zero",
+        "Może"
+      ],
+      "solutions": [
+        [
+          "To",
+          "jest",
+          "Morze",
+          "Czerwone"
+        ]
+      ],
+      "formattedSolution": "To jest Morze Czerwone.",
+      "id": "f4d39388f158",
+      "priority": 2,
+      "group": "89bcf2a0ae14"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "To",
+          "definition": "undefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "Morze",
+          "definition": "undefined"
+        },
+        {
+          "word": "Czerwone.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "the",
+        "Red",
+        "Sea",
+        "his",
+        "She",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "the",
+          "Red",
+          "Sea"
+        ]
+      ],
+      "formattedSolution": "This is the Red Sea.",
+      "id": "42189348fe8b",
+      "priority": 2,
+      "group": "89bcf2a0ae14"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Moje oczy są niebieskie.",
+      "meaningInSourceLanguage": "My eyes are blue.",
+      "id": "15bf2a67568b",
+      "priority": 0,
+      "group": "34c6f9785a85"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Moje oczy są niebieskie.",
+      "meaning": "My eyes are blue.",
+      "audio": "b614b03fa53778a98c161217d0f0ea755fd8485a98afd1a0f1e49a4c5864b77a",
+      "id": "d6aca84715ca",
+      "priority": 1,
+      "group": "34c6f9785a85"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined"
+        },
+        {
+          "word": "eyes",
+          "definition": "oczy\nundefined"
+        },
+        {
+          "word": "are",
+          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+        },
+        {
+          "word": "blue.",
+          "definition": "niebieski\nundefined"
+        }
+      ],
+      "chips": [
+        "Moje",
+        "oczy",
+        "są",
+        "niebieskie",
+        "nie",
+        "ze",
+        "je"
+      ],
+      "solutions": [
+        [
+          "Moje",
+          "oczy",
+          "są",
+          "niebieskie"
+        ]
+      ],
+      "formattedSolution": "Moje oczy są niebieskie.",
+      "id": "4bc55574de2a",
+      "priority": 2,
+      "group": "34c6f9785a85"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Moje",
+          "definition": "undefined"
+        },
+        {
+          "word": "oczy",
+          "definition": "eyes\nundefined"
+        },
+        {
+          "word": "są",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "niebieskie.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "eyes",
+        "are",
+        "blue",
+        "be",
+        "We",
+        "Are"
+      ],
+      "solutions": [
+        [
+          "My",
+          "eyes",
+          "are",
+          "blue"
+        ]
+      ],
+      "formattedSolution": "My eyes are blue.",
+      "id": "5fcdc3260e53",
+      "priority": 2,
+      "group": "34c6f9785a85"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ona ma zieloną trawę.",
+      "meaningInSourceLanguage": "She has green grass.",
+      "id": "43328cbb645d",
+      "priority": 0,
+      "group": "75b178f903e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ona ma zieloną trawę.",
+      "meaning": "She has green grass.",
+      "audio": "215b5c70c8e4bf66058199272eddddb81eb26874e2d196e0fa4cc9af5147c31b",
+      "id": "24c1640195cb",
+      "priority": 1,
+      "group": "75b178f903e0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "ona\nundefined"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "green",
+          "definition": "undefined\nzielony"
+        },
+        {
+          "word": "grass.",
+          "definition": "trawa\nundefined"
+        }
+      ],
+      "chips": [
+        "Ona",
+        "ma",
+        "zieloną",
+        "trawę",
+        "na",
+        "zna",
+        "ona"
+      ],
+      "solutions": [
+        [
+          "Ona",
+          "ma",
+          "zieloną",
+          "trawę"
+        ]
+      ],
+      "formattedSolution": "Ona ma zieloną trawę.",
+      "id": "6775b56feef3",
+      "priority": 2,
+      "group": "75b178f903e0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ona",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "ma",
+          "definition": "undefined"
+        },
+        {
+          "word": "zieloną",
+          "definition": "undefined"
+        },
+        {
+          "word": "trawę.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "has",
+        "green",
+        "grass",
+        "ran",
+        "are",
+        "goes"
+      ],
+      "solutions": [
+        [
+          "She",
+          "has",
+          "green",
+          "grass"
+        ]
+      ],
+      "formattedSolution": "She has green grass.",
+      "id": "5ff052efd53a",
+      "priority": 2,
+      "group": "75b178f903e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja lubię czerwony kolor.",
+      "meaningInSourceLanguage": "I like the red color.",
+      "id": "d581be437caa",
+      "priority": 0,
+      "group": "540e510bbc67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ja lubię czerwony kolor.",
+      "meaning": "I like the red color.",
+      "audio": "c468fcd4cccb1c4d2396a0245d3f8a6f440d7d63929a5a4e49f94fb570abfe5d",
+      "id": "91e2aaea49e3",
+      "priority": 1,
+      "group": "540e510bbc67"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "ja"
+        },
+        {
+          "word": "like",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "red",
+          "definition": "czerwony\nundefined"
+        },
+        {
+          "word": "color.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "lubię",
+        "czerwony",
+        "kolor",
+        "robi",
+        "lewo",
+        "zero"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "lubię",
+          "czerwony",
+          "kolor"
+        ]
+      ],
+      "formattedSolution": "Ja lubię czerwony kolor.",
+      "id": "b8e5322f03f7",
+      "priority": 2,
+      "group": "540e510bbc67"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "lubię",
+          "definition": "undefined"
+        },
+        {
+          "word": "czerwony",
+          "definition": "red\nundefined"
+        },
+        {
+          "word": "kolor.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "like",
+        "the",
+        "red",
+        "color",
+        "We",
+        "He",
+        "me",
+        "be"
+      ],
+      "solutions": [
+        [
+          "I",
+          "like",
+          "the",
+          "red",
+          "color"
+        ]
+      ],
+      "formattedSolution": "I like the red color.",
+      "id": "7b2ffd5d371a",
+      "priority": 2,
+      "group": "540e510bbc67"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jego auto jest czarne.",
+      "meaningInSourceLanguage": "His car is black.",
+      "id": "02dbe44af8df",
+      "priority": 0,
+      "group": "6bddb192f746"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Jego auto jest czarne.",
+      "meaning": "His car is black.",
+      "audio": "4b61b025d234c69a497fc779519890674dda27d418196ae83e3d0cde6925b7ef",
+      "id": "7a84afb2e78e",
+      "priority": 1,
+      "group": "6bddb192f746"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "His",
+          "definition": "undefined"
+        },
+        {
+          "word": "car",
+          "definition": "auto\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "black.",
+          "definition": "czarny\nundefined"
+        }
+      ],
+      "chips": [
+        "Jego",
+        "auto",
+        "jest",
+        "czarne",
+        "zero",
+        "jego",
+        "Jest"
+      ],
+      "solutions": [
+        [
+          "Jego",
+          "auto",
+          "jest",
+          "czarne"
+        ]
+      ],
+      "formattedSolution": "Jego auto jest czarne.",
+      "id": "d47c9af47dae",
+      "priority": 2,
+      "group": "6bddb192f746"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Jego",
+          "definition": "undefined"
+        },
+        {
+          "word": "auto",
+          "definition": "car\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "czarne.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "His",
+        "car",
+        "is",
+        "black",
+        "as",
+        "his",
+        "has"
+      ],
+      "solutions": [
+        [
+          "His",
+          "car",
+          "is",
+          "black"
+        ]
+      ],
+      "formattedSolution": "His car is black.",
+      "id": "6aa671bdd648",
+      "priority": 2,
+      "group": "6bddb192f746"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dziewczyna nosi białą sukienkę.",
+      "meaningInSourceLanguage": "The girl is wearing a white dress.",
+      "id": "0778bc1029a9",
+      "priority": 0,
+      "group": "40f9cc6b63f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dziewczyna nosi białą sukienkę.",
+      "meaning": "The girl is wearing a white dress.",
+      "audio": "94703a9f836cce91618203bac28df89730fa3571f94eda152d8d955149c06108",
+      "id": "c606a91107ea",
+      "priority": 1,
+      "group": "40f9cc6b63f6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "girl",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "wearing",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "white",
+          "definition": "biały\nundefined"
+        },
+        {
+          "word": "dress.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Dziewczyna",
+        "nosi",
+        "białą",
+        "sukienkę",
+        "nie",
+        "się",
+        "biega"
+      ],
+      "solutions": [
+        [
+          "Dziewczyna",
+          "nosi",
+          "białą",
+          "sukienkę"
+        ]
+      ],
+      "formattedSolution": "Dziewczyna nosi białą sukienkę.",
+      "id": "7bacef8aa7bd",
+      "priority": 2,
+      "group": "40f9cc6b63f6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dziewczyna",
+          "definition": "undefined"
+        },
+        {
+          "word": "nosi",
+          "definition": "undefined"
+        },
+        {
+          "word": "białą",
+          "definition": "undefined"
+        },
+        {
+          "word": "sukienkę.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "girl",
+        "is",
+        "wearing",
+        "a",
+        "white",
+        "dress",
+        "are",
+        "wise",
+        "it",
+        "his",
+        "in",
+        "air"
+      ],
+      "solutions": [
+        [
+          "The",
+          "girl",
+          "is",
+          "wearing",
+          "a",
+          "white",
+          "dress"
+        ]
+      ],
+      "formattedSolution": "The girl is wearing a white dress.",
+      "id": "024bd9f18aba",
+      "priority": 2,
+      "group": "40f9cc6b63f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Czy to siwy włos?",
+      "meaningInSourceLanguage": "Is that grey hair?",
+      "id": "18cee1a44fc2",
+      "priority": 0,
+      "group": "ffe00a9ef27a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Czy to siwy włos?",
+      "meaning": "Is that grey hair?",
+      "audio": "7b4d38a6864f13c5c682718395f25d73ddd21ac893909c407f6887b8f0742b5c",
+      "id": "d86c66af8017",
+      "priority": 1,
+      "group": "ffe00a9ef27a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "that",
+          "definition": "ten (r. męski)\nundefined"
+        },
+        {
+          "word": "grey",
+          "definition": "szary\nundefined"
+        },
+        {
+          "word": "hair?",
+          "definition": "undefined\nwłosy"
+        }
+      ],
+      "chips": [
+        "Czy",
+        "to",
+        "siwy",
+        "włos",
+        "ty",
+        "Co",
+        "sto"
+      ],
+      "solutions": [
+        [
+          "Czy",
+          "to",
+          "siwy",
+          "włos"
+        ]
+      ],
+      "formattedSolution": "Czy to siwy włos?",
+      "id": "ce9fda7edf25",
+      "priority": 2,
+      "group": "ffe00a9ef27a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Czy",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "siwy",
+          "definition": "undefined"
+        },
+        {
+          "word": "włos?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Is",
+        "that",
+        "grey",
+        "hair",
+        "has",
+        "hat",
+        "her"
+      ],
+      "solutions": [
+        [
+          "Is",
+          "that",
+          "grey",
+          "hair"
+        ]
+      ],
+      "formattedSolution": "Is that grey hair?",
+      "id": "b23ece82c9f5",
+      "priority": 2,
+      "group": "ffe00a9ef27a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "On ma pomarańczową torbę.",
+      "meaningInSourceLanguage": "He has an orange bag.",
+      "id": "fb50e27f1c9f",
+      "priority": 0,
+      "group": "83d8b2e534cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "On ma pomarańczową torbę.",
+      "meaning": "He has an orange bag.",
+      "audio": "a7860b9d15baa5195516974442efd510ea787bf6f7e5ef8f9ce41061b6831fcb",
+      "id": "f5d3c7f8a9e2",
+      "priority": 1,
+      "group": "83d8b2e534cf"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "an",
+          "definition": "undefined"
+        },
+        {
+          "word": "orange",
+          "definition": "pomarańcza\npomarańczowy\nundefined"
+        },
+        {
+          "word": "bag.",
+          "definition": "torba\nundefined"
+        }
+      ],
+      "chips": [
+        "On",
+        "ma",
+        "pomarańczową",
+        "torbę",
+        "po",
+        "on",
+        "Ja"
+      ],
+      "solutions": [
+        [
+          "On",
+          "ma",
+          "pomarańczową",
+          "torbę"
+        ]
+      ],
+      "formattedSolution": "On ma pomarańczową torbę.",
+      "id": "dce18dcb11f2",
+      "priority": 2,
+      "group": "83d8b2e534cf"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "ma",
+          "definition": "undefined"
+        },
+        {
+          "word": "pomarańczową",
+          "definition": "undefined"
+        },
+        {
+          "word": "torbę.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "has",
+        "an",
+        "orange",
+        "bag",
+        "ran",
+        "as",
+        "am",
+        "a"
+      ],
+      "solutions": [
+        [
+          "He",
+          "has",
+          "an",
+          "orange",
+          "bag"
+        ]
+      ],
+      "formattedSolution": "He has an orange bag.",
+      "id": "55250245182f",
+      "priority": 2,
+      "group": "83d8b2e534cf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kasztanowy koń stoi w stajni.",
+      "meaningInSourceLanguage": "The brown horse stands in the stable.",
+      "id": "db221e5a2cd9",
+      "priority": 0,
+      "group": "ed9577b802f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Kasztanowy koń stoi w stajni.",
+      "meaning": "The brown horse stands in the stable.",
+      "audio": "9381a8663b30d14f351e0ff499c00fb944568d3b2d46aa648fb3be1a2c0b786d",
+      "id": "7f7c37ff4fe1",
+      "priority": 1,
+      "group": "ed9577b802f3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "brown",
+          "definition": "kasztanowy\nundefined"
+        },
+        {
+          "word": "horse",
+          "definition": "koń\nundefined"
+        },
+        {
+          "word": "stands",
+          "definition": "undefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "stable.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Kasztanowy",
+        "koń",
+        "stoi",
+        "w",
+        "stajni",
+        "sto",
+        "Kto",
+        "sok",
+        "stu"
+      ],
+      "solutions": [
+        [
+          "Kasztanowy",
+          "koń",
+          "stoi",
+          "w",
+          "stajni"
+        ]
+      ],
+      "formattedSolution": "Kasztanowy koń stoi w stajni.",
+      "id": "85bd24d25041",
+      "priority": 2,
+      "group": "ed9577b802f3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kasztanowy",
+          "definition": "brown\nundefined"
+        },
+        {
+          "word": "koń",
+          "definition": "horse\nundefined"
+        },
+        {
+          "word": "stoi",
+          "definition": "undefined"
+        },
+        {
+          "word": "w",
+          "definition": "undefined"
+        },
+        {
+          "word": "stajni.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "brown",
+        "horse",
+        "stands",
+        "in",
+        "the",
+        "stable",
+        "are",
+        "son",
+        "be",
+        "shoe",
+        "ran",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "brown",
+          "horse",
+          "stands",
+          "in",
+          "the",
+          "stable"
+        ]
+      ],
+      "formattedSolution": "The brown horse stands in the stable.",
+      "id": "2e7c527c62c3",
+      "priority": 2,
+      "group": "ed9577b802f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Żółte słońce grzeje ziemię.",
+      "meaningInSourceLanguage": "The yellow sun warms the earth.",
+      "id": "f8840033ce6d",
+      "priority": 0,
+      "group": "481b9cd8f340"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Żółte słońce grzeje ziemię.",
+      "meaning": "The yellow sun warms the earth.",
+      "audio": "55ac640276b1e7e79eef8e33e5e57cac5c37f742307046cad8c09b57c53a8cd9",
+      "id": "a44644165e54",
+      "priority": 1,
+      "group": "481b9cd8f340"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "yellow",
+          "definition": "undefined\nżółty"
+        },
+        {
+          "word": "sun",
+          "definition": "słońce\nundefined"
+        },
+        {
+          "word": "warms",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "earth.",
+          "definition": "undefined\nziemia"
+        }
+      ],
+      "chips": [
+        "Żółte",
+        "słońce",
+        "grzeje",
+        "ziemię",
+        "rzece",
+        "wieje",
+        "zimie"
+      ],
+      "solutions": [
+        [
+          "Żółte",
+          "słońce",
+          "grzeje",
+          "ziemię"
+        ]
+      ],
+      "formattedSolution": "Żółte słońce grzeje ziemię.",
+      "id": "07766c35a046",
+      "priority": 2,
+      "group": "481b9cd8f340"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Żółte",
+          "definition": "undefined"
+        },
+        {
+          "word": "słońce",
+          "definition": "sun\nundefined"
+        },
+        {
+          "word": "grzeje",
+          "definition": "undefined"
+        },
+        {
+          "word": "ziemię.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "yellow",
+        "sun",
+        "warms",
+        "the",
+        "earth",
+        "are",
+        "ear",
+        "her",
+        "eat",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "yellow",
+          "sun",
+          "warms",
+          "the",
+          "earth"
+        ]
+      ],
+      "formattedSolution": "The yellow sun warms the earth.",
+      "id": "638a0860ef0e",
+      "priority": 2,
+      "group": "481b9cd8f340"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Czerwona róża rośnie tutaj.",
+      "meaningInSourceLanguage": "A red rose grows here.",
+      "id": "632a1f02da88",
+      "priority": 0,
+      "group": "16542adb080e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Czerwona róża rośnie tutaj.",
+      "meaning": "A red rose grows here.",
+      "audio": "35b7fc4fbd0adba77d950fd5999d9a95d62dbe3c95fa06a36e9bdf37ee3ebec3",
+      "id": "68ba01e4f7e4",
+      "priority": 1,
+      "group": "16542adb080e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "red",
+          "definition": "czerwony\nundefined"
+        },
+        {
+          "word": "rose",
+          "definition": "róża\nundefined"
+        },
+        {
+          "word": "grows",
+          "definition": "undefined"
+        },
+        {
+          "word": "here.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Czerwona",
+        "róża",
+        "rośnie",
+        "tutaj",
+        "równa",
+        "Cena",
+        "wina"
+      ],
+      "solutions": [
+        [
+          "Czerwona",
+          "róża",
+          "rośnie",
+          "tutaj"
+        ]
+      ],
+      "formattedSolution": "Czerwona róża rośnie tutaj.",
+      "id": "2303fd6ede82",
+      "priority": 2,
+      "group": "16542adb080e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Czerwona",
+          "definition": "undefined"
+        },
+        {
+          "word": "róża",
+          "definition": "rose\nundefined"
+        },
+        {
+          "word": "rośnie",
+          "definition": "undefined"
+        },
+        {
+          "word": "tutaj.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "red",
+        "rose",
+        "grows",
+        "here",
+        "are",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "A",
+          "red",
+          "rose",
+          "grows",
+          "here"
+        ]
+      ],
+      "formattedSolution": "A red rose grows here.",
+      "id": "cb2003aaf8f4",
+      "priority": 2,
+      "group": "16542adb080e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "czarny",
+      "meaningInSourceLanguage": "black",
+      "id": "1714516a9a07",
+      "priority": 0,
+      "group": "ea93a3a17cf3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "czarny"
+      ],
+      "phrase": [
+        {
+          "word": "black",
+          "definition": "czarny\nundefined"
+        }
+      ],
+      "id": "53206a5fcb2a",
+      "priority": 1,
+      "group": "ea93a3a17cf3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "czarny",
+      "meaning": "black",
+      "audio": "99f45f9d34f02d3fb584435c5daeee9fef515cced702b699d60acb30b6a75c58",
+      "id": "ca53f65a8036",
+      "priority": 1,
+      "group": "ea93a3a17cf3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "biały",
+      "meaningInSourceLanguage": "white",
+      "id": "f3ce8edbd9ef",
+      "priority": 0,
+      "group": "409205e16092"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "biały"
+      ],
+      "phrase": [
+        {
+          "word": "white",
+          "definition": "biały\nundefined"
+        }
+      ],
+      "id": "f82a9c3cc4c3",
+      "priority": 1,
+      "group": "409205e16092"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "biały",
+      "meaning": "white",
+      "audio": "0a9faf31e397e5f7cf32d24497a66d1e20630b258cea265ff42b95c581b556de",
+      "id": "75008b6f32ae",
+      "priority": 1,
+      "group": "409205e16092"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "zielony",
+      "meaningInSourceLanguage": "green",
+      "id": "428a51b2586c",
+      "priority": 0,
+      "group": "12b7f4269ce7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "zielony"
+      ],
+      "phrase": [
+        {
+          "word": "green",
+          "definition": "undefined\nzielony"
+        }
+      ],
+      "id": "7e3f3fc8e36f",
+      "priority": 1,
+      "group": "12b7f4269ce7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "zielony",
+      "meaning": "green",
+      "audio": "d762e4af5e8ccf9720b6714316f50d91b6b23dea364dc1d666dfc827eef38fee",
+      "id": "8e097ad9af0d",
+      "priority": 1,
+      "group": "12b7f4269ce7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "niebieski",
+      "meaningInSourceLanguage": "blue",
+      "id": "78206794a974",
+      "priority": 0,
+      "group": "5a137288a960"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "niebieski"
+      ],
+      "phrase": [
+        {
+          "word": "blue",
+          "definition": "niebieski\nundefined"
+        }
+      ],
+      "id": "d84336fc0425",
+      "priority": 1,
+      "group": "5a137288a960"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "niebieski",
+      "meaning": "blue",
+      "audio": "437ef9555ff8036b588d9d588a66124e7f1e5f7cd23447909112c1b43d638721",
+      "id": "49018c5ce22a",
+      "priority": 1,
+      "group": "5a137288a960"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "czerwony",
+      "meaningInSourceLanguage": "red",
+      "id": "f0a96dcae829",
+      "priority": 0,
+      "group": "89c7b28e90f2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "czerwony"
+      ],
+      "phrase": [
+        {
+          "word": "red",
+          "definition": "czerwony\nundefined"
+        }
+      ],
+      "id": "5abf5e117a04",
+      "priority": 1,
+      "group": "89c7b28e90f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "czerwony",
+      "meaning": "red",
+      "audio": "cebd90a438f4b450e04abc8346c329d5b4d3160dc7b542f9f97e642d0534fb34",
+      "id": "447893ca5bb2",
+      "priority": 1,
+      "group": "89c7b28e90f2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "żółty",
+      "meaningInSourceLanguage": "yellow",
+      "id": "3a18e73cdd36",
+      "priority": 0,
+      "group": "83eaf82ffdbc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "żółty"
+      ],
+      "phrase": [
+        {
+          "word": "yellow",
+          "definition": "undefined\nżółty"
+        }
+      ],
+      "id": "b19632df681d",
+      "priority": 1,
+      "group": "83eaf82ffdbc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "żółty",
+      "meaning": "yellow",
+      "audio": "fd892d651a6f0eb3976ea1561791e5a55b93b7a67b5d4040f05c2472d7d07468",
+      "id": "0d326924ff5a",
+      "priority": 1,
+      "group": "83eaf82ffdbc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "szary",
+      "meaningInSourceLanguage": "grey",
+      "id": "5af14543b55d",
+      "priority": 0,
+      "group": "ee22eca4c512"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "szary"
+      ],
+      "phrase": [
+        {
+          "word": "grey",
+          "definition": "szary\nundefined"
+        }
+      ],
+      "id": "6037247bf5ea",
+      "priority": 1,
+      "group": "ee22eca4c512"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "szary",
+      "meaning": "grey",
+      "audio": "c5812e3129ea55d80893d035fbfaa6f1e652f3e5b838b457ba3802b15e3141b9",
+      "id": "1f1a2467e6c0",
+      "priority": 1,
+      "group": "ee22eca4c512"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "kasztanowy",
+      "meaningInSourceLanguage": "brown",
+      "id": "2855b0fbc8b0",
+      "priority": 0,
+      "group": "e1734654a3f1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "kasztanowy"
+      ],
+      "phrase": [
+        {
+          "word": "brown",
+          "definition": "kasztanowy\nundefined"
+        }
+      ],
+      "id": "6761b2a2c63d",
+      "priority": 1,
+      "group": "e1734654a3f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kasztanowy",
+      "meaning": "brown",
+      "audio": "b07d2cb5527189ff1597287f2c85f931e9ff770f2ad15d27006acf6a8bc1ebe5",
+      "id": "67018072a9c7",
+      "priority": 1,
+      "group": "e1734654a3f1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pomarańczowy",
+      "meaningInSourceLanguage": "orange",
+      "id": "6b53771f1825",
+      "priority": 0,
+      "group": "a353e763e9dc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pomarańczowy"
+      ],
+      "phrase": [
+        {
+          "word": "orange",
+          "definition": "pomarańcza\npomarańczowy\nundefined"
+        }
+      ],
+      "id": "b627d26924f6",
+      "priority": 1,
+      "group": "a353e763e9dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pomarańczowy",
+      "meaning": "orange",
+      "audio": "7d7e9a48cf761d3d5bab638811d472a67d6c8bf04f1d8dd70eaf6f80e69b7f63",
+      "id": "e4a776fa6533",
+      "priority": 1,
+      "group": "a353e763e9dc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "czerwony",
+      "meaningInSourceLanguage": "red",
+      "id": "f0a96dcae829",
+      "priority": 0,
+      "group": "89c7b28e90f2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "czerwony"
+      ],
+      "phrase": [
+        {
+          "word": "red",
+          "definition": "czerwony\nundefined"
+        }
+      ],
+      "id": "5abf5e117a04",
+      "priority": 1,
+      "group": "89c7b28e90f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "czerwony",
+      "meaning": "red",
+      "audio": "cebd90a438f4b450e04abc8346c329d5b4d3160dc7b542f9f97e642d0534fb34",
+      "id": "447893ca5bb2",
+      "priority": 1,
+      "group": "89c7b28e90f2"
+    }
+  ]
+}

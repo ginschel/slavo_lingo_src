@@ -1,0 +1,2328 @@
+{
+  "id": "f0a4facc3dea",
+  "levels": 8,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "нуль годинників",
+      "meaningInSourceLanguage": "zero clocks",
+      "id": "dfc86cfd384b",
+      "priority": 0,
+      "group": "fe2aef79c7e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "нуль годинників",
+      "meaning": "zero clocks",
+      "audio": "f9b71be906a4540c56ae243f1f4e4b88dc003e9dcc183625811ca2c9aec93702",
+      "id": "d66d11248847",
+      "priority": 1,
+      "group": "fe2aef79c7e4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "zero",
+          "definition": "undefined\nнуль"
+        },
+        {
+          "word": "clocks",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "нуль",
+        "годинників",
+        "годинник",
+        "днів"
+      ],
+      "solutions": [
+        [
+          "нуль",
+          "годинників"
+        ]
+      ],
+      "formattedSolution": "нуль годинників",
+      "id": "463f950702e9",
+      "priority": 2,
+      "group": "fe2aef79c7e4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "нуль",
+          "definition": "undefined\nzero"
+        },
+        {
+          "word": "годинників",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "zero",
+        "clocks",
+        "clock",
+        "fork"
+      ],
+      "solutions": [
+        [
+          "zero",
+          "clocks"
+        ]
+      ],
+      "formattedSolution": "zero clocks",
+      "id": "426ea737d49d",
+      "priority": 2,
+      "group": "fe2aef79c7e4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "один хлопець",
+      "meaningInSourceLanguage": "one boy",
+      "id": "3a435fcfe7ed",
+      "priority": 0,
+      "group": "01d5bb6f74dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "один хлопець",
+      "meaning": "one boy",
+      "audio": "72191e119048a83ce6750b42ba81d04fbe3bcae08634bd80640602117e6bd569",
+      "id": "992dbfaf746e",
+      "priority": 1,
+      "group": "01d5bb6f74dc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "one",
+          "definition": "undefined\nодин (ч)\nодна (ж)\nодне (с)"
+        },
+        {
+          "word": "boy",
+          "definition": "undefined\nхлопець"
+        }
+      ],
+      "chips": [
+        "один",
+        "хлопець",
+        "хлопці",
+        "день"
+      ],
+      "solutions": [
+        [
+          "один",
+          "хлопець"
+        ]
+      ],
+      "formattedSolution": "один хлопець",
+      "id": "7f4c7bd907fd",
+      "priority": 2,
+      "group": "01d5bb6f74dc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "один",
+          "definition": "undefined"
+        },
+        {
+          "word": "хлопець",
+          "definition": "boy\nundefined"
+        }
+      ],
+      "chips": [
+        "one",
+        "boy",
+        "on",
+        "bone"
+      ],
+      "solutions": [
+        [
+          "one",
+          "boy"
+        ]
+      ],
+      "formattedSolution": "one boy",
+      "id": "c48296ed20a6",
+      "priority": 2,
+      "group": "01d5bb6f74dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "одна жінка",
+      "meaningInSourceLanguage": "one woman",
+      "id": "9e40a2bdc2e5",
+      "priority": 0,
+      "group": "ff13eaed5df7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "одна жінка",
+      "meaning": "one woman",
+      "audio": "78e96abc389b955df245aec34d818014a11dc5f2700d07820edf41867f85d5f3",
+      "id": "50a892367fb4",
+      "priority": 1,
+      "group": "ff13eaed5df7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "one",
+          "definition": "undefined\nодин (ч)\nодна (ж)\nодне (с)"
+        },
+        {
+          "word": "woman",
+          "definition": "undefined\nжінка"
+        }
+      ],
+      "chips": [
+        "одна",
+        "жінка",
+        "Ціна",
+        "Вона"
+      ],
+      "solutions": [
+        [
+          "одна",
+          "жінка"
+        ]
+      ],
+      "formattedSolution": "одна жінка",
+      "id": "3aab937ac539",
+      "priority": 2,
+      "group": "ff13eaed5df7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "одна",
+          "definition": "undefined"
+        },
+        {
+          "word": "жінка",
+          "definition": "undefined\nwoman"
+        }
+      ],
+      "chips": [
+        "one",
+        "woman",
+        "on",
+        "women"
+      ],
+      "solutions": [
+        [
+          "one",
+          "woman"
+        ]
+      ],
+      "formattedSolution": "one woman",
+      "id": "2eb4ccd14f2f",
+      "priority": 2,
+      "group": "ff13eaed5df7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "одне поле",
+      "meaningInSourceLanguage": "one field",
+      "id": "48d8febd41f3",
+      "priority": 0,
+      "group": "fd5c65fa57f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "одне поле",
+      "meaning": "one field",
+      "audio": "004f1bacb0ab4871e7a487265cae03f287a98802dd5c098ac2f19b045262fae0",
+      "id": "ac216c5ca7ad",
+      "priority": 1,
+      "group": "fd5c65fa57f3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "one",
+          "definition": "undefined\nодин (ч)\nодна (ж)\nодне (с)"
+        },
+        {
+          "word": "field",
+          "definition": "undefined\nполе"
+        }
+      ],
+      "chips": [
+        "одне",
+        "поле",
+        "Поле",
+        "не"
+      ],
+      "solutions": [
+        [
+          "одне",
+          "поле"
+        ]
+      ],
+      "formattedSolution": "одне поле",
+      "id": "8ef2061d871a",
+      "priority": 2,
+      "group": "fd5c65fa57f3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "одне",
+          "definition": "undefined"
+        },
+        {
+          "word": "поле",
+          "definition": "field\nundefined"
+        }
+      ],
+      "chips": [
+        "one",
+        "field",
+        "find",
+        "old"
+      ],
+      "solutions": [
+        [
+          "one",
+          "field"
+        ]
+      ],
+      "formattedSolution": "one field",
+      "id": "c04bffc2bef9",
+      "priority": 2,
+      "group": "fd5c65fa57f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "два хлопці",
+      "meaningInSourceLanguage": "two boys",
+      "id": "e7ae73461ad3",
+      "priority": 0,
+      "group": "7484f254de7d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "два хлопці",
+      "meaning": "two boys",
+      "audio": "55e766806d9597730bd328c0392faeae23154b8b7599a6542209fa3886a24378",
+      "id": "d048c245a0f7",
+      "priority": 1,
+      "group": "7484f254de7d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "two",
+          "definition": "undefined\nдва (ч/с)\nдві (ж)"
+        },
+        {
+          "word": "boys",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "два",
+        "хлопці",
+        "дві",
+        "для"
+      ],
+      "solutions": [
+        [
+          "два",
+          "хлопці"
+        ]
+      ],
+      "formattedSolution": "два хлопці",
+      "id": "14805e83700b",
+      "priority": 2,
+      "group": "7484f254de7d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "два",
+          "definition": "undefined"
+        },
+        {
+          "word": "хлопці",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "two",
+        "boys",
+        "too",
+        "boy"
+      ],
+      "solutions": [
+        [
+          "two",
+          "boys"
+        ]
+      ],
+      "formattedSolution": "two boys",
+      "id": "cfbdf74b9102",
+      "priority": 2,
+      "group": "7484f254de7d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "дві жінки",
+      "meaningInSourceLanguage": "two women",
+      "id": "f8d15c2e21e1",
+      "priority": 0,
+      "group": "d21e64c1dafe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дві жінки",
+      "meaning": "two women",
+      "audio": "23390c634b6be7453baf32c8e9a6934a7ee3f1ff9d95779249c07c84bbf90452",
+      "id": "bafef22f389b",
+      "priority": 1,
+      "group": "d21e64c1dafe"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "two",
+          "definition": "undefined\nдва (ч/с)\nдві (ж)"
+        },
+        {
+          "word": "women",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "дві",
+        "жінки",
+        "жінка",
+        "дім"
+      ],
+      "solutions": [
+        [
+          "дві",
+          "жінки"
+        ]
+      ],
+      "formattedSolution": "дві жінки",
+      "id": "f3d8edb6e505",
+      "priority": 2,
+      "group": "d21e64c1dafe"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "дві",
+          "definition": "undefined"
+        },
+        {
+          "word": "жінки",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "two",
+        "women",
+        "woman",
+        "too"
+      ],
+      "solutions": [
+        [
+          "two",
+          "women"
+        ]
+      ],
+      "formattedSolution": "two women",
+      "id": "9c7951907e50",
+      "priority": 2,
+      "group": "d21e64c1dafe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "три коти",
+      "meaningInSourceLanguage": "three cats",
+      "id": "e8a37112a11c",
+      "priority": 0,
+      "group": "e71a6e1ef3a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "три коти",
+      "meaning": "three cats",
+      "audio": "a2c5b30f80e26a7d9435737926f05d3c5a698407d1b99cbe332e35f0940e3869",
+      "id": "647cd7331766",
+      "priority": 1,
+      "group": "e71a6e1ef3a6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "three",
+          "definition": "undefined\nтри"
+        },
+        {
+          "word": "cats",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "три",
+        "коти",
+        "ти",
+        "коли"
+      ],
+      "solutions": [
+        [
+          "три",
+          "коти"
+        ]
+      ],
+      "formattedSolution": "три коти",
+      "id": "063974204b21",
+      "priority": 2,
+      "group": "e71a6e1ef3a6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "три",
+          "definition": "three\nundefined"
+        },
+        {
+          "word": "коти",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "three",
+        "cats",
+        "tree",
+        "are"
+      ],
+      "solutions": [
+        [
+          "three",
+          "cats"
+        ]
+      ],
+      "formattedSolution": "three cats",
+      "id": "2c4b2589347a",
+      "priority": 2,
+      "group": "e71a6e1ef3a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "чотири велосипеди",
+      "meaningInSourceLanguage": "four bicycles",
+      "id": "58a815981b72",
+      "priority": 0,
+      "group": "4730aa6b4ccd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "чотири велосипеди",
+      "meaning": "four bicycles",
+      "audio": "513d959ddf990269ca32c93b01ca5d387a0fba6cbe2f230293f80b5f9afafd13",
+      "id": "0f9d2f8fea58",
+      "priority": 1,
+      "group": "4730aa6b4ccd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "four",
+          "definition": "undefined\nчотири"
+        },
+        {
+          "word": "bicycles",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "чотири",
+        "велосипеди",
+        "велосипед",
+        "води"
+      ],
+      "solutions": [
+        [
+          "чотири",
+          "велосипеди"
+        ]
+      ],
+      "formattedSolution": "чотири велосипеди",
+      "id": "94cfb3d3357b",
+      "priority": 2,
+      "group": "4730aa6b4ccd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "чотири",
+          "definition": "four\nundefined"
+        },
+        {
+          "word": "велосипеди",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "four",
+        "bicycles",
+        "your",
+        "bicycle"
+      ],
+      "solutions": [
+        [
+          "four",
+          "bicycles"
+        ]
+      ],
+      "formattedSolution": "four bicycles",
+      "id": "7e5c3b6e4306",
+      "priority": 2,
+      "group": "4730aa6b4ccd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "п'ять хлопців",
+      "meaningInSourceLanguage": "five boys",
+      "id": "32b038a89786",
+      "priority": 0,
+      "group": "e5c418427171"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "п'ять хлопців",
+      "meaning": "five boys",
+      "audio": "157834d523dae257a72cb6a9a404f4efa8b4cca9c07bafafb13b2a84b6dec6a7",
+      "id": "c530039b08ca",
+      "priority": 1,
+      "group": "e5c418427171"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "five",
+          "definition": "undefined\nп\\'ять"
+        },
+        {
+          "word": "boys",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "п'ять",
+        "хлопців",
+        "хлопці",
+        "пять"
+      ],
+      "solutions": [
+        [
+          "п'ять",
+          "хлопців"
+        ]
+      ],
+      "formattedSolution": "п'ять хлопців",
+      "id": "2c2f14423cc2",
+      "priority": 2,
+      "group": "e5c418427171"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "п'ять",
+          "definition": "undefined"
+        },
+        {
+          "word": "хлопців",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "five",
+        "boys",
+        "love",
+        "Give"
+      ],
+      "solutions": [
+        [
+          "five",
+          "boys"
+        ]
+      ],
+      "formattedSolution": "five boys",
+      "id": "00b5465b0bcb",
+      "priority": 2,
+      "group": "e5c418427171"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "шість велосипедів",
+      "meaningInSourceLanguage": "six bicycles",
+      "id": "dc523f917dd0",
+      "priority": 0,
+      "group": "04f3f580bd2a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "шість велосипедів",
+      "meaning": "six bicycles",
+      "audio": "c7aab9c0b4c7e505afc1b239ce74fbdc9ab60c69ccd58670206f8dfd584b9297",
+      "id": "f707a565408a",
+      "priority": 1,
+      "group": "04f3f580bd2a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "six",
+          "definition": "undefined\nшість"
+        },
+        {
+          "word": "bicycles",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "шість",
+        "велосипедів",
+        "велосипед",
+        "місті"
+      ],
+      "solutions": [
+        [
+          "шість",
+          "велосипедів"
+        ]
+      ],
+      "formattedSolution": "шість велосипедів",
+      "id": "6a726ab26973",
+      "priority": 2,
+      "group": "04f3f580bd2a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "шість",
+          "definition": "six\nundefined"
+        },
+        {
+          "word": "велосипедів",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "six",
+        "bicycles",
+        "bicycle",
+        "is"
+      ],
+      "solutions": [
+        [
+          "six",
+          "bicycles"
+        ]
+      ],
+      "formattedSolution": "six bicycles",
+      "id": "45c49075dee8",
+      "priority": 2,
+      "group": "04f3f580bd2a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "сім рублів",
+      "meaningInSourceLanguage": "seven rubles",
+      "id": "0fc86a1eca1b",
+      "priority": 0,
+      "group": "7dc2bca9d3a7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "сім рублів",
+      "meaning": "seven rubles",
+      "audio": "d9efbcd6df376e475773608f3b4f1650d3846297c179d492872a0cc04d769f86",
+      "id": "643671600cd4",
+      "priority": 1,
+      "group": "7dc2bca9d3a7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "seven",
+          "definition": "undefined\nсім"
+        },
+        {
+          "word": "rubles",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "сім",
+        "рублів",
+        "дім",
+        "сік"
+      ],
+      "solutions": [
+        [
+          "сім",
+          "рублів"
+        ]
+      ],
+      "formattedSolution": "сім рублів",
+      "id": "8580a97197f0",
+      "priority": 2,
+      "group": "7dc2bca9d3a7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "сім",
+          "definition": "seven\nundefined"
+        },
+        {
+          "word": "рублів",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "seven",
+        "rubles",
+        "sees",
+        "lives"
+      ],
+      "solutions": [
+        [
+          "seven",
+          "rubles"
+        ]
+      ],
+      "formattedSolution": "seven rubles",
+      "id": "a6b7ebe1e647",
+      "priority": 2,
+      "group": "7dc2bca9d3a7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "вісім доларів",
+      "meaningInSourceLanguage": "eight dollars",
+      "id": "5fb020eee78a",
+      "priority": 0,
+      "group": "8331e17ba0ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "вісім доларів",
+      "meaning": "eight dollars",
+      "audio": "58703f2512d176536c392ed110fc8188fad3840209745b7cd5abd097cee34cfc",
+      "id": "0f89a3e55386",
+      "priority": 1,
+      "group": "8331e17ba0ff"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "eight",
+          "definition": "undefined\nвісім"
+        },
+        {
+          "word": "dollars",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "вісім",
+        "доларів",
+        "домів",
+        "полів"
+      ],
+      "solutions": [
+        [
+          "вісім",
+          "доларів"
+        ]
+      ],
+      "formattedSolution": "вісім доларів",
+      "id": "35b9766b9c45",
+      "priority": 2,
+      "group": "8331e17ba0ff"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "вісім",
+          "definition": "eight\nundefined"
+        },
+        {
+          "word": "доларів",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "eight",
+        "dollars",
+        "light",
+        "dollar"
+      ],
+      "solutions": [
+        [
+          "eight",
+          "dollars"
+        ]
+      ],
+      "formattedSolution": "eight dollars",
+      "id": "f65f59860714",
+      "priority": 2,
+      "group": "8331e17ba0ff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "девять комп'ютерів",
+      "meaningInSourceLanguage": "nine computers",
+      "id": "7c4e63e7f1aa",
+      "priority": 0,
+      "group": "cc2885d0fc15"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "девять комп'ютерів",
+      "meaning": "nine computers",
+      "audio": "e884077839a077d4379e87389d474c7d368ebe07415026145d591db1abf38f6a",
+      "id": "9ddaa49b6089",
+      "priority": 1,
+      "group": "cc2885d0fc15"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "nine",
+          "definition": "undefined\nдевять"
+        },
+        {
+          "word": "computers",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "девять",
+        "комп'ютерів",
+        "комп'ютер",
+        "п'ять"
+      ],
+      "solutions": [
+        [
+          "девять",
+          "комп'ютерів"
+        ]
+      ],
+      "formattedSolution": "девять комп'ютерів",
+      "id": "0f103bfa4f6f",
+      "priority": 2,
+      "group": "cc2885d0fc15"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "девять",
+          "definition": "nine\nundefined"
+        },
+        {
+          "word": "комп'ютерів",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "nine",
+        "computers",
+        "notes",
+        "computer"
+      ],
+      "solutions": [
+        [
+          "nine",
+          "computers"
+        ]
+      ],
+      "formattedSolution": "nine computers",
+      "id": "dc0ad2ddab96",
+      "priority": 2,
+      "group": "cc2885d0fc15"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "десять годинників",
+      "meaningInSourceLanguage": "ten clocks",
+      "id": "59db2098ecbc",
+      "priority": 0,
+      "group": "eb8c0096cc80"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "десять годинників",
+      "meaning": "ten clocks",
+      "audio": "879c62d7ad801c567d90450cedd44037b695ba7d0bddf2f9ce3c3957474e3f81",
+      "id": "d5b1849a96a7",
+      "priority": 1,
+      "group": "eb8c0096cc80"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "ten",
+          "definition": "undefined\nдесять"
+        },
+        {
+          "word": "clocks",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "десять",
+        "годинників",
+        "годинник",
+        "щоденник"
+      ],
+      "solutions": [
+        [
+          "десять",
+          "годинників"
+        ]
+      ],
+      "formattedSolution": "десять годинників",
+      "id": "757f032100ae",
+      "priority": 2,
+      "group": "eb8c0096cc80"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "десять",
+          "definition": "ten\nundefined"
+        },
+        {
+          "word": "годинників",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "ten",
+        "clocks",
+        "clock",
+        "Yes"
+      ],
+      "solutions": [
+        [
+          "ten",
+          "clocks"
+        ]
+      ],
+      "formattedSolution": "ten clocks",
+      "id": "0e0b6373cd7a",
+      "priority": 2,
+      "group": "eb8c0096cc80"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "дві речі",
+      "meaningInSourceLanguage": "two things",
+      "id": "d8ac7f258555",
+      "priority": 0,
+      "group": "4a406b7aa463"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дві речі",
+      "meaning": "two things",
+      "audio": "ea32a6e791672344e19c34d66287439623bc92c2ae1bf5b85ed12c998ce80684",
+      "id": "6732d617ff72",
+      "priority": 1,
+      "group": "4a406b7aa463"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "two",
+          "definition": "undefined\nдва (ч/с)\nдві (ж)"
+        },
+        {
+          "word": "things",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "дві",
+        "речі",
+        "очі",
+        "Ні"
+      ],
+      "solutions": [
+        [
+          "дві",
+          "речі"
+        ]
+      ],
+      "formattedSolution": "дві речі",
+      "id": "436be9a7410b",
+      "priority": 2,
+      "group": "4a406b7aa463"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "дві",
+          "definition": "undefined"
+        },
+        {
+          "word": "речі",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "two",
+        "things",
+        "thing",
+        "thin"
+      ],
+      "solutions": [
+        [
+          "two",
+          "things"
+        ]
+      ],
+      "formattedSolution": "two things",
+      "id": "859977f1b79f",
+      "priority": 2,
+      "group": "4a406b7aa463"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "одне сонце",
+      "meaningInSourceLanguage": "one sun",
+      "id": "fdbd5e213fa2",
+      "priority": 0,
+      "group": "d8fea62c458c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "одне сонце",
+      "meaning": "one sun",
+      "audio": "5649d95fb7306c9d472745c0c8f676f90dd0d6e911a7ba909619fad8680f48f6",
+      "id": "4570acc3b319",
+      "priority": 1,
+      "group": "d8fea62c458c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "one",
+          "definition": "undefined\nодин (ч)\nодна (ж)\nодне (с)"
+        },
+        {
+          "word": "sun",
+          "definition": "undefined\nсонце"
+        }
+      ],
+      "chips": [
+        "одне",
+        "сонце",
+        "Сонце",
+        "не"
+      ],
+      "solutions": [
+        [
+          "одне",
+          "сонце"
+        ]
+      ],
+      "formattedSolution": "одне сонце",
+      "id": "d770ee65094b",
+      "priority": 2,
+      "group": "d8fea62c458c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "одне",
+          "definition": "undefined"
+        },
+        {
+          "word": "сонце",
+          "definition": "sun\nundefined"
+        }
+      ],
+      "chips": [
+        "one",
+        "sun",
+        "son",
+        "on"
+      ],
+      "solutions": [
+        [
+          "one",
+          "sun"
+        ]
+      ],
+      "formattedSolution": "one sun",
+      "id": "226b8b5bf745",
+      "priority": 2,
+      "group": "d8fea62c458c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "один велосипед",
+      "meaningInSourceLanguage": "one bicycle",
+      "id": "aa5d56cc7ed2",
+      "priority": 0,
+      "group": "067b82020b28"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "один велосипед",
+      "meaning": "one bicycle",
+      "audio": "719a35d4befc08937031ace4b6dd5c0091f7db0e6afdecc7f53a61ccf3bc5c12",
+      "id": "47ccdc23f248",
+      "priority": 1,
+      "group": "067b82020b28"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "one",
+          "definition": "undefined\nодин (ч)\nодна (ж)\nодне (с)"
+        },
+        {
+          "word": "bicycle",
+          "definition": "undefined\nвелосипед\nколесо/велосипед"
+        }
+      ],
+      "chips": [
+        "один",
+        "велосипед",
+        "води",
+        "велике"
+      ],
+      "solutions": [
+        [
+          "один",
+          "велосипед"
+        ]
+      ],
+      "formattedSolution": "один велосипед",
+      "id": "8ade8ef4ada8",
+      "priority": 2,
+      "group": "067b82020b28"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "один",
+          "definition": "undefined"
+        },
+        {
+          "word": "велосипед",
+          "definition": "bicycle\nundefined"
+        }
+      ],
+      "chips": [
+        "one",
+        "bicycle",
+        "bone",
+        "uncle"
+      ],
+      "solutions": [
+        [
+          "one",
+          "bicycle"
+        ]
+      ],
+      "formattedSolution": "one bicycle",
+      "id": "aef07ac0cb2f",
+      "priority": 2,
+      "group": "067b82020b28"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "чотири долари",
+      "meaningInSourceLanguage": "four dollars",
+      "id": "0c95731a26ed",
+      "priority": 0,
+      "group": "339d329c9a13"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "чотири долари",
+      "meaning": "four dollars",
+      "audio": "d6dd84c9e28cdd461093307626fe7f37f9a65625efba9068976c25bf86091280",
+      "id": "2568a020da00",
+      "priority": 1,
+      "group": "339d329c9a13"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "four",
+          "definition": "undefined\nчотири"
+        },
+        {
+          "word": "dollars",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "чотири",
+        "долари",
+        "долар",
+        "добра"
+      ],
+      "solutions": [
+        [
+          "чотири",
+          "долари"
+        ]
+      ],
+      "formattedSolution": "чотири долари",
+      "id": "19a3aee5fb26",
+      "priority": 2,
+      "group": "339d329c9a13"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "чотири",
+          "definition": "four\nundefined"
+        },
+        {
+          "word": "долари",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "four",
+        "dollars",
+        "dollar",
+        "your"
+      ],
+      "solutions": [
+        [
+          "four",
+          "dollars"
+        ]
+      ],
+      "formattedSolution": "four dollars",
+      "id": "c3060b55cfd9",
+      "priority": 2,
+      "group": "339d329c9a13"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "три коти",
+      "meaningInSourceLanguage": "three cats",
+      "id": "e8a37112a11c",
+      "priority": 0,
+      "group": "e71a6e1ef3a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "три коти",
+      "meaning": "three cats",
+      "audio": "a2c5b30f80e26a7d9435737926f05d3c5a698407d1b99cbe332e35f0940e3869",
+      "id": "647cd7331766",
+      "priority": 1,
+      "group": "e71a6e1ef3a6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "three",
+          "definition": "undefined\nтри"
+        },
+        {
+          "word": "cats",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "три",
+        "коти",
+        "ти",
+        "коли"
+      ],
+      "solutions": [
+        [
+          "три",
+          "коти"
+        ]
+      ],
+      "formattedSolution": "три коти",
+      "id": "063974204b21",
+      "priority": 2,
+      "group": "e71a6e1ef3a6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "три",
+          "definition": "three\nundefined"
+        },
+        {
+          "word": "коти",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "three",
+        "cats",
+        "tree",
+        "are"
+      ],
+      "solutions": [
+        [
+          "three",
+          "cats"
+        ]
+      ],
+      "formattedSolution": "three cats",
+      "id": "2c4b2589347a",
+      "priority": 2,
+      "group": "e71a6e1ef3a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "п'ять котів",
+      "meaningInSourceLanguage": "five cats",
+      "id": "93e0f0347226",
+      "priority": 0,
+      "group": "56f1fa68be01"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "п'ять котів",
+      "meaning": "five cats",
+      "audio": "d1ec50c6dea113f6a0d24a206cad301d19c58bc8a358c7a2eddf2860e0363af4",
+      "id": "0818089b442d",
+      "priority": 1,
+      "group": "56f1fa68be01"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "five",
+          "definition": "undefined\nп\\'ять"
+        },
+        {
+          "word": "cats",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "п'ять",
+        "котів",
+        "пять",
+        "потім"
+      ],
+      "solutions": [
+        [
+          "п'ять",
+          "котів"
+        ]
+      ],
+      "formattedSolution": "п'ять котів",
+      "id": "cbbcad4b352b",
+      "priority": 2,
+      "group": "56f1fa68be01"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "п'ять",
+          "definition": "undefined"
+        },
+        {
+          "word": "котів",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "five",
+        "cats",
+        "city",
+        "have"
+      ],
+      "solutions": [
+        [
+          "five",
+          "cats"
+        ]
+      ],
+      "formattedSolution": "five cats",
+      "id": "1abcf46b6be2",
+      "priority": 2,
+      "group": "56f1fa68be01"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "нуль",
+      "meaningInSourceLanguage": "zero",
+      "id": "a1017fa5011c",
+      "priority": 0,
+      "group": "58db852a6692"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "нуль"
+      ],
+      "phrase": [
+        {
+          "word": "zero",
+          "definition": "undefined\nнуль"
+        }
+      ],
+      "id": "448ea6a02518",
+      "priority": 1,
+      "group": "58db852a6692"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "нуль",
+      "meaning": "zero",
+      "audio": "8db680446ea32062b5bed5e2f8073e7fa1ee63d6a7b6cbbe15858ac6c2137795",
+      "id": "f3a83eba561c",
+      "priority": 1,
+      "group": "58db852a6692"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "один (ч)",
+      "meaningInSourceLanguage": "one",
+      "id": "fad75e8b30dd",
+      "priority": 0,
+      "group": "4a73ca889998"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "один (ч)"
+      ],
+      "phrase": [
+        {
+          "word": "one",
+          "definition": "undefined\nодин (ч)\nодна (ж)\nодне (с)"
+        }
+      ],
+      "id": "cef2a070d285",
+      "priority": 1,
+      "group": "4a73ca889998"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "один (ч)",
+      "meaning": "one",
+      "audio": "b43bf295a1d73c220bb3b796de12dbe91cecdb0dda096fb10ccd6a7874d5613c",
+      "id": "d193311b9249",
+      "priority": 1,
+      "group": "4a73ca889998"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "одна (ж)",
+      "meaningInSourceLanguage": "one",
+      "id": "14c6cc6eddbd",
+      "priority": 0,
+      "group": "56971d8056ea"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "одна (ж)"
+      ],
+      "phrase": [
+        {
+          "word": "one",
+          "definition": "undefined\nодин (ч)\nодна (ж)\nодне (с)"
+        }
+      ],
+      "id": "87c71fb4f929",
+      "priority": 1,
+      "group": "56971d8056ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "одна (ж)",
+      "meaning": "one",
+      "audio": "b6bb880bff9e5e7d3b6f04f740892f27d6d99619e9632163f3f98fd13ec9d6a6",
+      "id": "d09766aee04c",
+      "priority": 1,
+      "group": "56971d8056ea"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "одне (с)",
+      "meaningInSourceLanguage": "one",
+      "id": "f3aea1d6693f",
+      "priority": 0,
+      "group": "6538595a8618"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "одне (с)"
+      ],
+      "phrase": [
+        {
+          "word": "one",
+          "definition": "undefined\nодин (ч)\nодна (ж)\nодне (с)"
+        }
+      ],
+      "id": "65f8e8407fb8",
+      "priority": 1,
+      "group": "6538595a8618"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "одне (с)",
+      "meaning": "one",
+      "audio": "7f81b429ff50caa06beaf56cbb6b30aa8310eaf2df25d833bd52b915c3da248a",
+      "id": "ae4c32ee92b6",
+      "priority": 1,
+      "group": "6538595a8618"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "два (ч/с)",
+      "meaningInSourceLanguage": "two",
+      "id": "890d1dd29e13",
+      "priority": 0,
+      "group": "25bc7c16fd7b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "два (ч/с)"
+      ],
+      "phrase": [
+        {
+          "word": "two",
+          "definition": "undefined\nдва (ч/с)\nдві (ж)"
+        }
+      ],
+      "id": "8f3f3d5cf7dd",
+      "priority": 1,
+      "group": "25bc7c16fd7b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "два (ч/с)",
+      "meaning": "two",
+      "audio": "d0342b431e0eef5675570791d042bb51053865ef617d81d6a68c1e6a114b6e2c",
+      "id": "40cd732afd3e",
+      "priority": 1,
+      "group": "25bc7c16fd7b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "дві (ж)",
+      "meaningInSourceLanguage": "two",
+      "id": "4961b7eb5a5b",
+      "priority": 0,
+      "group": "37ba43b1c757"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "дві (ж)"
+      ],
+      "phrase": [
+        {
+          "word": "two",
+          "definition": "undefined\nдва (ч/с)\nдві (ж)"
+        }
+      ],
+      "id": "a9e74035bfdf",
+      "priority": 1,
+      "group": "37ba43b1c757"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дві (ж)",
+      "meaning": "two",
+      "audio": "a27de5f08461a7acabf52127603584fad621150597ebd36a16dfaed76549a3c0",
+      "id": "899fe224aa7e",
+      "priority": 1,
+      "group": "37ba43b1c757"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "три",
+      "meaningInSourceLanguage": "three",
+      "id": "356109ab5181",
+      "priority": 0,
+      "group": "d8d632fa52fa"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "три"
+      ],
+      "phrase": [
+        {
+          "word": "three",
+          "definition": "undefined\nтри"
+        }
+      ],
+      "id": "8af8f0e31584",
+      "priority": 1,
+      "group": "d8d632fa52fa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "три",
+      "meaning": "three",
+      "audio": "a5279a761bd91ac631c6ff1be6294fcc65e676fb272e64ca2982504370befbbe",
+      "id": "35df03399a0c",
+      "priority": 1,
+      "group": "d8d632fa52fa"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "чотири",
+      "meaningInSourceLanguage": "four",
+      "id": "6ed6d4fb2951",
+      "priority": 0,
+      "group": "673ce983fe79"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "чотири"
+      ],
+      "phrase": [
+        {
+          "word": "four",
+          "definition": "undefined\nчотири"
+        }
+      ],
+      "id": "7cbd4cb0c6a0",
+      "priority": 1,
+      "group": "673ce983fe79"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "чотири",
+      "meaning": "four",
+      "audio": "6f29a3f79ea318cab9af8f0f37bbcc729bc909f4e7a3787af796c792550fa625",
+      "id": "0a8f3d4138a6",
+      "priority": 1,
+      "group": "673ce983fe79"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "п\\'ять",
+      "meaningInSourceLanguage": "five",
+      "id": "0468b21ccf6e",
+      "priority": 0,
+      "group": "b5b2a4006c37"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "п\\'ять"
+      ],
+      "phrase": [
+        {
+          "word": "five",
+          "definition": "undefined\nп\\'ять"
+        }
+      ],
+      "id": "4935dbc98518",
+      "priority": 1,
+      "group": "b5b2a4006c37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "п\\'ять",
+      "meaning": "five",
+      "audio": "0d18785b5653a960a4302026f820d8672ae3bf9248ab9c8ac8eef53c2cce45a3",
+      "id": "b3835221b3fc",
+      "priority": 1,
+      "group": "b5b2a4006c37"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "шість",
+      "meaningInSourceLanguage": "six",
+      "id": "8a5efef4c731",
+      "priority": 0,
+      "group": "7924d2efdaae"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "шість"
+      ],
+      "phrase": [
+        {
+          "word": "six",
+          "definition": "undefined\nшість"
+        }
+      ],
+      "id": "5c3758d5a9bd",
+      "priority": 1,
+      "group": "7924d2efdaae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "шість",
+      "meaning": "six",
+      "audio": "15206a2e15a452f55313e6c13f30df6bd801d26c6e240547638c27cd0f36550c",
+      "id": "8d5070c91610",
+      "priority": 1,
+      "group": "7924d2efdaae"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "сім",
+      "meaningInSourceLanguage": "seven",
+      "id": "fc7511d9e365",
+      "priority": 0,
+      "group": "d9299983beb3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "сім"
+      ],
+      "phrase": [
+        {
+          "word": "seven",
+          "definition": "undefined\nсім"
+        }
+      ],
+      "id": "54920417e0a8",
+      "priority": 1,
+      "group": "d9299983beb3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "сім",
+      "meaning": "seven",
+      "audio": "77000b22056c07643742de72f3f74c1aece6bb0a136e30380c250c6f0ddd70db",
+      "id": "3cc197d90306",
+      "priority": 1,
+      "group": "d9299983beb3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "вісім",
+      "meaningInSourceLanguage": "eight",
+      "id": "ad95bf8ac858",
+      "priority": 0,
+      "group": "0479e835e4aa"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "вісім"
+      ],
+      "phrase": [
+        {
+          "word": "eight",
+          "definition": "undefined\nвісім"
+        }
+      ],
+      "id": "ceae8c0a03b1",
+      "priority": 1,
+      "group": "0479e835e4aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "вісім",
+      "meaning": "eight",
+      "audio": "3fbf78d29f910bcf0d569c829c4bba6de11b7829dc082048ea66b7375b1a4c3b",
+      "id": "6763a27d4735",
+      "priority": 1,
+      "group": "0479e835e4aa"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "девять",
+      "meaningInSourceLanguage": "nine",
+      "id": "f36301f3c26b",
+      "priority": 0,
+      "group": "ecd2f146c698"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "девять"
+      ],
+      "phrase": [
+        {
+          "word": "nine",
+          "definition": "undefined\nдевять"
+        }
+      ],
+      "id": "f48d61460769",
+      "priority": 1,
+      "group": "ecd2f146c698"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "девять",
+      "meaning": "nine",
+      "audio": "b7f579a503fb78912ce28edfee1196555a9dc78f4bcfda981751d56daa0175db",
+      "id": "565044839666",
+      "priority": 1,
+      "group": "ecd2f146c698"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "десять",
+      "meaningInSourceLanguage": "ten",
+      "id": "082de324870b",
+      "priority": 0,
+      "group": "156eb58b5597"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "десять"
+      ],
+      "phrase": [
+        {
+          "word": "ten",
+          "definition": "undefined\nдесять"
+        }
+      ],
+      "id": "e9e2b4f95dfb",
+      "priority": 1,
+      "group": "156eb58b5597"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "десять",
+      "meaning": "ten",
+      "audio": "1f9ae117a88d499658f12b8024ced443e58bf83ebf46fd980246faf46187271b",
+      "id": "63dfc07e620f",
+      "priority": 1,
+      "group": "156eb58b5597"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "годинник",
+      "meaningInSourceLanguage": "clock/watch",
+      "id": "2cb5c88d50eb",
+      "priority": 0,
+      "group": "e7859c2b7b93"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "годинник"
+      ],
+      "phrase": [
+        {
+          "word": "clock/watch",
+          "definition": "undefined\nгодинник"
+        }
+      ],
+      "id": "eeabda9da820",
+      "priority": 1,
+      "group": "e7859c2b7b93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "годинник",
+      "meaning": "clock/watch",
+      "audio": "695bbba72b9f001a477fdbf8877278f7fdd7368a9ba43619781f0f38991e7837",
+      "id": "26d97ddb1cbd",
+      "priority": 1,
+      "group": "e7859c2b7b93"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "хлопець",
+      "meaningInSourceLanguage": "boy",
+      "id": "2494c30072fb",
+      "priority": 0,
+      "group": "cc82d5f54327"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "хлопець"
+      ],
+      "phrase": [
+        {
+          "word": "boy",
+          "definition": "undefined\nхлопець"
+        }
+      ],
+      "id": "39f49d49ad87",
+      "priority": 1,
+      "group": "cc82d5f54327"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "хлопець",
+      "meaning": "boy",
+      "audio": "4d563a6cd4f61adec9c6683b5cf21aa429bd41aa59cb8c4807c74b129b753c36",
+      "id": "86538826aff7",
+      "priority": 1,
+      "group": "cc82d5f54327"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "комп\\'ютер",
+      "meaningInSourceLanguage": "computer",
+      "id": "e2902818a6e4",
+      "priority": 0,
+      "group": "575be0b7254d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "комп\\'ютер"
+      ],
+      "phrase": [
+        {
+          "word": "computer",
+          "definition": "undefined\nкомп\\'ютер"
+        }
+      ],
+      "id": "2d77d2001698",
+      "priority": 1,
+      "group": "575be0b7254d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "комп\\'ютер",
+      "meaning": "computer",
+      "audio": "c367d30cb902e4b40df345e78184e8d3f65ed7b1c4b1fcddfd617195774c1e14",
+      "id": "957efe56b39b",
+      "priority": 1,
+      "group": "575be0b7254d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "велосипед",
+      "meaningInSourceLanguage": "bicycle",
+      "id": "363d115c5408",
+      "priority": 0,
+      "group": "b9b55770da72"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "велосипед"
+      ],
+      "phrase": [
+        {
+          "word": "bicycle",
+          "definition": "undefined\nвелосипед\nколесо/велосипед"
+        }
+      ],
+      "id": "7b2019044dcf",
+      "priority": 1,
+      "group": "b9b55770da72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "велосипед",
+      "meaning": "bicycle",
+      "audio": "ef48b40068a33962b12400beb4892792ddcd3c5680795f53b8d703a1f5da0caa",
+      "id": "48d81a9f3b8a",
+      "priority": 1,
+      "group": "b9b55770da72"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "рубль",
+      "meaningInSourceLanguage": "ruble",
+      "id": "18293f13aa1a",
+      "priority": 0,
+      "group": "ee3e9f9a350e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "рубль"
+      ],
+      "phrase": [
+        {
+          "word": "ruble",
+          "definition": "undefined\nрубль"
+        }
+      ],
+      "id": "7bed755f79c3",
+      "priority": 1,
+      "group": "ee3e9f9a350e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "рубль",
+      "meaning": "ruble",
+      "audio": "f88d4d307ffb78a5e466dfa44328ab18e3e4412465f3b38317f3f12f97327098",
+      "id": "cdea776b14f7",
+      "priority": 1,
+      "group": "ee3e9f9a350e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "жінка",
+      "meaningInSourceLanguage": "woman",
+      "id": "87d7380f8f1b",
+      "priority": 0,
+      "group": "067821958643"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "жінка"
+      ],
+      "phrase": [
+        {
+          "word": "woman",
+          "definition": "undefined\nжінка"
+        }
+      ],
+      "id": "34d31dbe6798",
+      "priority": 1,
+      "group": "067821958643"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "жінка",
+      "meaning": "woman",
+      "audio": "168c74482adf49f66551860e457feabea1c31fe869c26eaad7a14fe2d713657c",
+      "id": "5ff59b40fea9",
+      "priority": 1,
+      "group": "067821958643"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "поле",
+      "meaningInSourceLanguage": "field",
+      "id": "8100b41a7492",
+      "priority": 0,
+      "group": "cc768a266607"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "поле"
+      ],
+      "phrase": [
+        {
+          "word": "field",
+          "definition": "undefined\nполе"
+        }
+      ],
+      "id": "cad8727ab6ed",
+      "priority": 1,
+      "group": "cc768a266607"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "поле",
+      "meaning": "field",
+      "audio": "f035b05a5c41e6b6e338e924dbbabbb2b4c0c6056a0b84abef9eb4884c1e8505",
+      "id": "86a771b08e7f",
+      "priority": 1,
+      "group": "cc768a266607"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "кіт",
+      "meaningInSourceLanguage": "cat",
+      "id": "4b6608fd24d6",
+      "priority": 0,
+      "group": "af1b6d39645d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "кіт"
+      ],
+      "phrase": [
+        {
+          "word": "cat",
+          "definition": "undefined\nкіт"
+        }
+      ],
+      "id": "54e016858f16",
+      "priority": 1,
+      "group": "af1b6d39645d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "кіт",
+      "meaning": "cat",
+      "audio": "9e580a567ceb0f3871e4e147e76e267f07df584a502a3956b882088788de3838",
+      "id": "2b08f1093ddc",
+      "priority": 1,
+      "group": "af1b6d39645d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "долар",
+      "meaningInSourceLanguage": "dollar",
+      "id": "b11f387b4065",
+      "priority": 0,
+      "group": "12984942df8a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "долар"
+      ],
+      "phrase": [
+        {
+          "word": "dollar",
+          "definition": "undefined\nдолар"
+        }
+      ],
+      "id": "dc0d481447bd",
+      "priority": 1,
+      "group": "12984942df8a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "долар",
+      "meaning": "dollar",
+      "audio": "cb9ca165873f1c479f45949dc85b915912cc12d6e3ff7d278209f3f66d5b3581",
+      "id": "8f3abc8bb201",
+      "priority": 1,
+      "group": "12984942df8a"
+    }
+  ]
+}

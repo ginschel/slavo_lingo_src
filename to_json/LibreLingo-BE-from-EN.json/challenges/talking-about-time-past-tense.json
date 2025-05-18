@@ -1,0 +1,3246 @@
+{
+  "id": "2fdd76f3de18",
+  "levels": 8,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Колькі ёсць часу?",
+      "meaningInSourceLanguage": "What time is it?",
+      "id": "2a34e2d07f17",
+      "priority": 0,
+      "group": "bb56bc690595"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Колькі ёсць часу?",
+      "meaning": "What time is it?",
+      "audio": "46e82a5ae23bcd737e6ba5d238dea6f25f703511f8ea17e707ae11506c4ff886",
+      "id": "930474b0bb41",
+      "priority": 1,
+      "group": "bb56bc690595"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "What",
+          "definition": "undefined\nшто"
+        },
+        {
+          "word": "time",
+          "definition": "undefined\nчас"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nён/яна/яно ёсць"
+        },
+        {
+          "word": "it?",
+          "definition": "undefined\nяно"
+        }
+      ],
+      "chips": [
+        "Колькі",
+        "ёсць",
+        "часу",
+        "есць",
+        "Ёсць"
+      ],
+      "solutions": [
+        [
+          "Колькі",
+          "ёсць",
+          "часу"
+        ]
+      ],
+      "formattedSolution": "Колькі ёсць часу?",
+      "id": "61939bc92986",
+      "priority": 2,
+      "group": "bb56bc690595"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Колькі",
+          "definition": "how much\nundefined"
+        },
+        {
+          "word": "ёсць",
+          "definition": "undefined"
+        },
+        {
+          "word": "часу?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "What",
+        "time",
+        "is",
+        "it",
+        "his",
+        "in",
+        "at"
+      ],
+      "solutions": [
+        [
+          "What",
+          "time",
+          "is",
+          "it"
+        ]
+      ],
+      "formattedSolution": "What time is it?",
+      "id": "3b305052b744",
+      "priority": 2,
+      "group": "bb56bc690595"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ён меў адну гадзіну.",
+      "meaningInSourceLanguage": "He had one hour.",
+      "id": "221ebb800848",
+      "priority": 0,
+      "group": "aa32dcf2c1d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ён меў адну гадзіну.",
+      "meaning": "He had one hour.",
+      "audio": "ac5ef0262dd1dfce45d825dc63f6c49dd5210265a5f3d18d83c65be7c4820f41",
+      "id": "64424a2bd75b",
+      "priority": 1,
+      "group": "aa32dcf2c1d4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nён"
+        },
+        {
+          "word": "had",
+          "definition": "undefined"
+        },
+        {
+          "word": "one",
+          "definition": "undefined\nадзін (м)\nадна (ж)\nадно (с)"
+        },
+        {
+          "word": "hour.",
+          "definition": "undefined\nгадзіна (працягласць)\nгадзіна (як у \"у колькі гадзін\")"
+        }
+      ],
+      "chips": [
+        "Ён",
+        "меў",
+        "адну",
+        "гадзіну",
+        "сну",
+        "ад",
+        "адна"
+      ],
+      "solutions": [
+        [
+          "Ён",
+          "меў",
+          "адну",
+          "гадзіну"
+        ]
+      ],
+      "formattedSolution": "Ён меў адну гадзіну.",
+      "id": "c7728bfb8e68",
+      "priority": 2,
+      "group": "aa32dcf2c1d4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ён",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "меў",
+          "definition": "undefined"
+        },
+        {
+          "word": "адну",
+          "definition": "undefined"
+        },
+        {
+          "word": "гадзіну.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "had",
+        "one",
+        "hour",
+        "he",
+        "her",
+        "our"
+      ],
+      "solutions": [
+        [
+          "He",
+          "had",
+          "one",
+          "hour"
+        ]
+      ],
+      "formattedSolution": "He had one hour.",
+      "id": "91aab62e1ebb",
+      "priority": 2,
+      "group": "aa32dcf2c1d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Заўтра ёсць занадта позна.",
+      "meaningInSourceLanguage": "Tomorrow is too late.",
+      "id": "b98653dd3696",
+      "priority": 0,
+      "group": "ce3fed868a9f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Заўтра ёсць занадта позна.",
+      "meaning": "Tomorrow is too late.",
+      "audio": "022bd60820f678aeae3b00a0f9e63ccc181e8434b92db20d7b8ad6579987c81c",
+      "id": "1942bde4b89b",
+      "priority": 1,
+      "group": "ce3fed868a9f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Tomorrow",
+          "definition": "undefined\nзаўтра"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nён/яна/яно ёсць"
+        },
+        {
+          "word": "too",
+          "definition": "undefined"
+        },
+        {
+          "word": "late.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Заўтра",
+        "ёсць",
+        "занадта",
+        "позна",
+        "аўта",
+        "часта",
+        "Цана"
+      ],
+      "solutions": [
+        [
+          "Заўтра",
+          "ёсць",
+          "занадта",
+          "позна"
+        ]
+      ],
+      "formattedSolution": "Заўтра ёсць занадта позна.",
+      "id": "e6e343935fde",
+      "priority": 2,
+      "group": "ce3fed868a9f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Заўтра",
+          "definition": "tomorrow\nundefined"
+        },
+        {
+          "word": "ёсць",
+          "definition": "undefined"
+        },
+        {
+          "word": "занадта",
+          "definition": "undefined"
+        },
+        {
+          "word": "позна.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Tomorrow",
+        "is",
+        "too",
+        "late",
+        "To",
+        "lot",
+        "or"
+      ],
+      "solutions": [
+        [
+          "Tomorrow",
+          "is",
+          "too",
+          "late"
+        ]
+      ],
+      "formattedSolution": "Tomorrow is too late.",
+      "id": "c72aa0bdb77f",
+      "priority": 2,
+      "group": "ce3fed868a9f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Учора быў панядзелак.",
+      "meaningInSourceLanguage": "Yesterday was Monday.",
+      "id": "051aef37c41a",
+      "priority": 0,
+      "group": "4d34b5005970"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Учора быў панядзелак.",
+      "meaning": "Yesterday was Monday.",
+      "audio": "442a665f86b3639b18bc5b271df08acb828e09186f5578403a6439f89ae47a58",
+      "id": "3fa5cbe3c7bf",
+      "priority": 1,
+      "group": "4d34b5005970"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Yesterday",
+          "definition": "undefined\nучора"
+        },
+        {
+          "word": "was",
+          "definition": "undefined\nбыла\nбыло\nбыў"
+        },
+        {
+          "word": "Monday.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Учора",
+        "быў",
+        "панядзелак",
+        "пра",
+        "была"
+      ],
+      "solutions": [
+        [
+          "Учора",
+          "быў",
+          "панядзелак"
+        ]
+      ],
+      "formattedSolution": "Учора быў панядзелак.",
+      "id": "a3b53fd6a037",
+      "priority": 2,
+      "group": "4d34b5005970"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Учора",
+          "definition": "undefined\nyesterday"
+        },
+        {
+          "word": "быў",
+          "definition": "undefined\nwas"
+        },
+        {
+          "word": "панядзелак.",
+          "definition": "Monday\nundefined"
+        }
+      ],
+      "chips": [
+        "Yesterday",
+        "was",
+        "Monday",
+        "day",
+        "today"
+      ],
+      "solutions": [
+        [
+          "Yesterday",
+          "was",
+          "Monday"
+        ]
+      ],
+      "formattedSolution": "Yesterday was Monday.",
+      "id": "223fe8a26aee",
+      "priority": 2,
+      "group": "4d34b5005970"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Учора яна была дома ў восем гадзін.",
+      "meaningInSourceLanguage": "Yesterday she was at home at the eighth hour.",
+      "id": "a6a66a82ae29",
+      "priority": 0,
+      "group": "856bf7619f68"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Учора яна была дома ў восем гадзін.",
+      "meaning": "Yesterday she was at home at the eighth hour.",
+      "audio": "40ea0c57f3615614c5b01d1387309ed88da310fc270ba05c54c6f095a9a77332",
+      "id": "c25a761b9eb0",
+      "priority": 1,
+      "group": "856bf7619f68"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Yesterday",
+          "definition": "undefined\nучора"
+        },
+        {
+          "word": "she",
+          "definition": "undefined\nяна"
+        },
+        {
+          "word": "was",
+          "definition": "undefined\nбыла\nбыло\nбыў"
+        },
+        {
+          "word": "at",
+          "definition": "undefined"
+        },
+        {
+          "word": "home",
+          "definition": "undefined"
+        },
+        {
+          "word": "at",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "eighth",
+          "definition": "undefined\nвосьмы"
+        },
+        {
+          "word": "hour.",
+          "definition": "undefined\nгадзіна (працягласць)\nгадзіна (як у \"у колькі гадзін\")"
+        }
+      ],
+      "chips": [
+        "Учора",
+        "яна",
+        "была",
+        "дома",
+        "ў",
+        "восем",
+        "гадзін",
+        "дом",
+        "са",
+        "да",
+        "На",
+        "за",
+        "два"
+      ],
+      "solutions": [
+        [
+          "Учора",
+          "яна",
+          "была",
+          "дома",
+          "ў",
+          "восем",
+          "гадзін"
+        ]
+      ],
+      "formattedSolution": "Учора яна была дома ў восем гадзін.",
+      "id": "c8393cfdf66c",
+      "priority": 2,
+      "group": "856bf7619f68"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Учора",
+          "definition": "undefined\nyesterday"
+        },
+        {
+          "word": "яна",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "была",
+          "definition": "undefined\nwas"
+        },
+        {
+          "word": "дома",
+          "definition": "undefined"
+        },
+        {
+          "word": "ў",
+          "definition": "undefined"
+        },
+        {
+          "word": "восем",
+          "definition": "eight\nundefined"
+        },
+        {
+          "word": "гадзін.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Yesterday",
+        "she",
+        "was",
+        "at",
+        "home",
+        "at",
+        "the",
+        "eighth",
+        "hour",
+        "eat",
+        "hat",
+        "her",
+        "has",
+        "hot",
+        "am",
+        "She",
+        "me"
+      ],
+      "solutions": [
+        [
+          "Yesterday",
+          "she",
+          "was",
+          "at",
+          "home",
+          "at",
+          "the",
+          "eighth",
+          "hour"
+        ]
+      ],
+      "formattedSolution": "Yesterday she was at home at the eighth hour.",
+      "id": "92e717879d96",
+      "priority": 2,
+      "group": "856bf7619f68"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Раніцай не было вельмі цёпла.",
+      "meaningInSourceLanguage": "In the morning it was not very warm.",
+      "id": "3a2b1a38f975",
+      "priority": 0,
+      "group": "b793f2e22657"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Раніцай не было вельмі цёпла.",
+      "meaning": "In the morning it was not very warm.",
+      "audio": "4629f4de1e872526c84beb6f6297373354e4c587add4e24151840db3dcbfdd7b",
+      "id": "da2f921e38e5",
+      "priority": 1,
+      "group": "b793f2e22657"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "In",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "morning",
+          "definition": "undefined\nраніца"
+        },
+        {
+          "word": "it",
+          "definition": "undefined\nяно"
+        },
+        {
+          "word": "was",
+          "definition": "undefined\nбыла\nбыло\nбыў"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "very",
+          "definition": "undefined"
+        },
+        {
+          "word": "warm.",
+          "definition": "undefined\nцёпла"
+        }
+      ],
+      "chips": [
+        "Раніцай",
+        "не",
+        "было",
+        "вельмі",
+        "цёпла",
+        "была",
+        "Цела",
+        "былі",
+        "калі"
+      ],
+      "solutions": [
+        [
+          "Раніцай",
+          "не",
+          "было",
+          "вельмі",
+          "цёпла"
+        ]
+      ],
+      "formattedSolution": "Раніцай не было вельмі цёпла.",
+      "id": "6ca32153944b",
+      "priority": 2,
+      "group": "b793f2e22657"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Раніцай",
+          "definition": "in the morning\nundefined"
+        },
+        {
+          "word": "не",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "было",
+          "definition": "undefined\nwas"
+        },
+        {
+          "word": "вельмі",
+          "definition": "undefined"
+        },
+        {
+          "word": "цёпла.",
+          "definition": "undefined\nwarm"
+        }
+      ],
+      "chips": [
+        "In",
+        "the",
+        "morning",
+        "it",
+        "was",
+        "not",
+        "very",
+        "warm",
+        "or",
+        "in",
+        "at",
+        "an",
+        "on",
+        "am",
+        "is"
+      ],
+      "solutions": [
+        [
+          "In",
+          "the",
+          "morning",
+          "it",
+          "was",
+          "not",
+          "very",
+          "warm"
+        ]
+      ],
+      "formattedSolution": "In the morning it was not very warm.",
+      "id": "9030cf8ffcf9",
+      "priority": 2,
+      "group": "b793f2e22657"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "У тры гадзіны дваццаць было холадна.",
+      "meaningInSourceLanguage": "At twenty past the third hour it was cold.",
+      "id": "cd62f9dc8536",
+      "priority": 0,
+      "group": "3e1a2638ab0e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "У тры гадзіны дваццаць было холадна.",
+      "meaning": "At twenty past the third hour it was cold.",
+      "audio": "6f70a591f29e5289992117a290df87659efa63081d304e04ffb29a4e3c62c14a",
+      "id": "d26079d1c025",
+      "priority": 1,
+      "group": "3e1a2638ab0e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "At",
+          "definition": "undefined"
+        },
+        {
+          "word": "twenty",
+          "definition": "undefined\nдваццаць"
+        },
+        {
+          "word": "past",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "third",
+          "definition": "undefined\nтрэці"
+        },
+        {
+          "word": "hour",
+          "definition": "undefined\nгадзіна (працягласць)\nгадзіна (як у \"у колькі гадзін\")"
+        },
+        {
+          "word": "it",
+          "definition": "undefined\nяно"
+        },
+        {
+          "word": "was",
+          "definition": "undefined\nбыла\nбыло\nбыў"
+        },
+        {
+          "word": "cold.",
+          "definition": "undefined\nхоладна"
+        }
+      ],
+      "chips": [
+        "У",
+        "тры",
+        "гадзіны",
+        "дваццаць",
+        "было",
+        "холадна",
+        "адна",
+        "вады",
+        "два",
+        "да",
+        "ад"
+      ],
+      "solutions": [
+        [
+          "У",
+          "тры",
+          "гадзіны",
+          "дваццаць",
+          "было",
+          "холадна"
+        ]
+      ],
+      "formattedSolution": "У тры гадзіны дваццаць было холадна.",
+      "id": "f04b401d1d60",
+      "priority": 2,
+      "group": "3e1a2638ab0e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "У",
+          "definition": "at/by\nundefined"
+        },
+        {
+          "word": "тры",
+          "definition": "three\nundefined"
+        },
+        {
+          "word": "гадзіны",
+          "definition": "undefined"
+        },
+        {
+          "word": "дваццаць",
+          "definition": "twenty\nundefined"
+        },
+        {
+          "word": "было",
+          "definition": "undefined\nwas"
+        },
+        {
+          "word": "холадна.",
+          "definition": "cold\nundefined"
+        }
+      ],
+      "chips": [
+        "At",
+        "twenty",
+        "past",
+        "the",
+        "third",
+        "hour",
+        "it",
+        "was",
+        "cold",
+        "at",
+        "hot",
+        "hat",
+        "eat",
+        "wet",
+        "pot",
+        "cat",
+        "is"
+      ],
+      "solutions": [
+        [
+          "At",
+          "twenty",
+          "past",
+          "the",
+          "third",
+          "hour",
+          "it",
+          "was",
+          "cold"
+        ]
+      ],
+      "formattedSolution": "At twenty past the third hour it was cold.",
+      "id": "b1f09f5928c1",
+      "priority": 2,
+      "group": "3e1a2638ab0e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Поўнач ёсць ціхая.",
+      "meaningInSourceLanguage": "Midnight is quiet.",
+      "id": "d4d18cf6bb28",
+      "priority": 0,
+      "group": "213169d8730c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Поўнач ёсць ціхая.",
+      "meaning": "Midnight is quiet.",
+      "audio": "afc0133f1aec7876ce831782d2b1b18c9eead6aaf73c0abd813346d9a0779e23",
+      "id": "da582f2c793b",
+      "priority": 1,
+      "group": "213169d8730c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Midnight",
+          "definition": "undefined\nпоўнач"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nён/яна/яно ёсць"
+        },
+        {
+          "word": "quiet.",
+          "definition": "undefined\nціхі"
+        }
+      ],
+      "chips": [
+        "Поўнач",
+        "ёсць",
+        "ціхая",
+        "Піць",
+        "віна"
+      ],
+      "solutions": [
+        [
+          "Поўнач",
+          "ёсць",
+          "ціхая"
+        ]
+      ],
+      "formattedSolution": "Поўнач ёсць ціхая.",
+      "id": "bb99b43acf5c",
+      "priority": 2,
+      "group": "213169d8730c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Поўнач",
+          "definition": "midnight\nnorth\nundefined"
+        },
+        {
+          "word": "ёсць",
+          "definition": "undefined"
+        },
+        {
+          "word": "ціхая.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Midnight",
+        "is",
+        "quiet",
+        "it",
+        "night"
+      ],
+      "solutions": [
+        [
+          "Midnight",
+          "is",
+          "quiet"
+        ]
+      ],
+      "formattedSolution": "Midnight is quiet.",
+      "id": "e1254370b484",
+      "priority": 2,
+      "group": "213169d8730c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ён пайшоў дадому.",
+      "meaningInSourceLanguage": "He went home.",
+      "id": "6882c03aa18b",
+      "priority": 0,
+      "group": "33a70ecdf282"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ён пайшоў дадому.",
+      "meaning": "He went home.",
+      "audio": "0622120324b81b5b6bba697da06bc702d4a9dbdf33bcaaba796fd7618602baa3",
+      "id": "10d5844eb722",
+      "priority": 1,
+      "group": "33a70ecdf282"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nён"
+        },
+        {
+          "word": "went",
+          "definition": "undefined"
+        },
+        {
+          "word": "home.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ён",
+        "пайшоў",
+        "дадому",
+        "дом",
+        "пад"
+      ],
+      "solutions": [
+        [
+          "Ён",
+          "пайшоў",
+          "дадому"
+        ]
+      ],
+      "formattedSolution": "Ён пайшоў дадому.",
+      "id": "5ac1da5406e5",
+      "priority": 2,
+      "group": "33a70ecdf282"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ён",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "пайшоў",
+          "definition": "undefined"
+        },
+        {
+          "word": "дадому.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "went",
+        "home",
+        "me",
+        "he"
+      ],
+      "solutions": [
+        [
+          "He",
+          "went",
+          "home"
+        ]
+      ],
+      "formattedSolution": "He went home.",
+      "id": "2d415ff090ce",
+      "priority": 2,
+      "group": "33a70ecdf282"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Вы ішлі ў кіно?",
+      "meaningInSourceLanguage": "Have you gone to the cinema?",
+      "id": "95357db66a2f",
+      "priority": 0,
+      "group": "fe274901e278"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Вы ішлі ў кіно?",
+      "meaning": "Have you gone to the cinema?",
+      "audio": "b63b700744a61a7d557ca804f90e6fe77d2838ef670e01fd99165e92b0d84c34",
+      "id": "7601d01a2f33",
+      "priority": 1,
+      "group": "fe274901e278"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Have",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nвы\nты"
+        },
+        {
+          "word": "gone",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "cinema?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Вы",
+        "ішлі",
+        "ў",
+        "кіно",
+        "і",
+        "Ці",
+        "іх"
+      ],
+      "solutions": [
+        [
+          "Вы",
+          "ішлі",
+          "ў",
+          "кіно"
+        ]
+      ],
+      "formattedSolution": "Вы ішлі ў кіно?",
+      "id": "0a25fadd6486",
+      "priority": 2,
+      "group": "fe274901e278"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Вы",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "ішлі",
+          "definition": "undefined\nwent/walked"
+        },
+        {
+          "word": "ў",
+          "definition": "undefined"
+        },
+        {
+          "word": "кіно?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Have",
+        "you",
+        "gone",
+        "to",
+        "the",
+        "cinema",
+        "He",
+        "bone",
+        "One",
+        "She",
+        "We"
+      ],
+      "solutions": [
+        [
+          "Have",
+          "you",
+          "gone",
+          "to",
+          "the",
+          "cinema"
+        ]
+      ],
+      "formattedSolution": "Have you gone to the cinema?",
+      "id": "d9c85b862ba2",
+      "priority": 2,
+      "group": "fe274901e278"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Яны нічога не рабілі.",
+      "meaningInSourceLanguage": "They did nothing.",
+      "id": "4b9bed099278",
+      "priority": 0,
+      "group": "f4a2bed19b14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Яны нічога не рабілі.",
+      "meaning": "They did nothing.",
+      "audio": "d1306ca0d98b8b5de74f6c4b9de37185693ec2623ad7ed0c8a6e7b4f158d6017",
+      "id": "1eab425fb398",
+      "priority": 1,
+      "group": "f4a2bed19b14"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "undefined\nяны (жан. р.)\nяны (муж. р.)"
+        },
+        {
+          "word": "did",
+          "definition": "undefined"
+        },
+        {
+          "word": "nothing.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Яны",
+        "нічога",
+        "не",
+        "рабілі",
+        "Яна",
+        "Яно",
+        "На"
+      ],
+      "solutions": [
+        [
+          "Яны",
+          "нічога",
+          "не",
+          "рабілі"
+        ]
+      ],
+      "formattedSolution": "Яны нічога не рабілі.",
+      "id": "3ebb024ac9c9",
+      "priority": 2,
+      "group": "f4a2bed19b14"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Яны",
+          "definition": "undefined"
+        },
+        {
+          "word": "нічога",
+          "definition": "undefined"
+        },
+        {
+          "word": "не",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "рабілі.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "They",
+        "did",
+        "nothing",
+        "thin",
+        "This"
+      ],
+      "solutions": [
+        [
+          "They",
+          "did",
+          "nothing"
+        ]
+      ],
+      "formattedSolution": "They did nothing.",
+      "id": "f47c09235095",
+      "priority": 2,
+      "group": "f4a2bed19b14"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Хвіліна ёсць малая адзінка часу.",
+      "meaningInSourceLanguage": "A minute is a small unit of time.",
+      "id": "996a3decc7e7",
+      "priority": 0,
+      "group": "18e970bb8210"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Хвіліна ёсць малая адзінка часу.",
+      "meaning": "A minute is a small unit of time.",
+      "audio": "c270dbd59caec896101a1b5d83495a5df4830be4cabcbbad69b1c22ff236f156",
+      "id": "9ffc48e5a4be",
+      "priority": 1,
+      "group": "18e970bb8210"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "minute",
+          "definition": "undefined\nхвіліна"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nён/яна/яно ёсць"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "small",
+          "definition": "undefined\nмалы"
+        },
+        {
+          "word": "unit",
+          "definition": "undefined"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "time.",
+          "definition": "undefined\nчас"
+        }
+      ],
+      "chips": [
+        "Хвіліна",
+        "ёсць",
+        "малая",
+        "адзінка",
+        "часу",
+        "віна",
+        "масла",
+        "Цана",
+        "адна"
+      ],
+      "solutions": [
+        [
+          "Хвіліна",
+          "ёсць",
+          "малая",
+          "адзінка",
+          "часу"
+        ]
+      ],
+      "formattedSolution": "Хвіліна ёсць малая адзінка часу.",
+      "id": "9dd53a3b92c3",
+      "priority": 2,
+      "group": "18e970bb8210"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Хвіліна",
+          "definition": "minute\nundefined"
+        },
+        {
+          "word": "ёсць",
+          "definition": "undefined"
+        },
+        {
+          "word": "малая",
+          "definition": "undefined"
+        },
+        {
+          "word": "адзінка",
+          "definition": "undefined"
+        },
+        {
+          "word": "часу.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "minute",
+        "is",
+        "a",
+        "small",
+        "unit",
+        "of",
+        "time",
+        "it",
+        "me",
+        "in",
+        "at",
+        "an",
+        "am",
+        "my"
+      ],
+      "solutions": [
+        [
+          "A",
+          "minute",
+          "is",
+          "a",
+          "small",
+          "unit",
+          "of",
+          "time"
+        ]
+      ],
+      "formattedSolution": "A minute is a small unit of time.",
+      "id": "4b6cd609aac3",
+      "priority": 2,
+      "group": "18e970bb8210"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Секунда ёсць кароткая.",
+      "meaningInSourceLanguage": "A second is short.",
+      "id": "dec1d4f5a352",
+      "priority": 0,
+      "group": "96dad64d0343"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Секунда ёсць кароткая.",
+      "meaning": "A second is short.",
+      "audio": "8dced1dd49c09de8049bb1a8da03a759d4665dcc3baf2bf4ccae9c79313692a5",
+      "id": "786960f95bc6",
+      "priority": 1,
+      "group": "96dad64d0343"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "second",
+          "definition": "undefined\nдругі\nсекунда"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nён/яна/яно ёсць"
+        },
+        {
+          "word": "short.",
+          "definition": "undefined\nнізкі"
+        }
+      ],
+      "chips": [
+        "Секунда",
+        "ёсць",
+        "кароткая",
+        "акна",
+        "кубка"
+      ],
+      "solutions": [
+        [
+          "Секунда",
+          "ёсць",
+          "кароткая"
+        ]
+      ],
+      "formattedSolution": "Секунда ёсць кароткая.",
+      "id": "288011f77752",
+      "priority": 2,
+      "group": "96dad64d0343"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Секунда",
+          "definition": "second\nundefined"
+        },
+        {
+          "word": "ёсць",
+          "definition": "undefined"
+        },
+        {
+          "word": "кароткая.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "second",
+        "is",
+        "short",
+        "so",
+        "son",
+        "on"
+      ],
+      "solutions": [
+        [
+          "A",
+          "second",
+          "is",
+          "short"
+        ]
+      ],
+      "formattedSolution": "A second is short.",
+      "id": "2017c2d74655",
+      "priority": 2,
+      "group": "96dad64d0343"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сёння ты не меў/мела часу на тое.",
+      "meaningInSourceLanguage": "Today you did not have an hour for that.",
+      "id": "a24079650345",
+      "priority": 0,
+      "group": "869467f57697"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сёння ты не меў/мела часу на тое.",
+      "meaning": "Today you did not have an hour for that.",
+      "audio": "ba25d444a0d259b29f5f129392ecb3362bf8978e7ed611f47ab423301f31fb6e",
+      "id": "33bb1e134f8e",
+      "priority": 1,
+      "group": "869467f57697"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Today",
+          "definition": "undefined\nсёння"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nвы\nты"
+        },
+        {
+          "word": "did",
+          "definition": "undefined"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "have",
+          "definition": "undefined"
+        },
+        {
+          "word": "an",
+          "definition": "undefined"
+        },
+        {
+          "word": "hour",
+          "definition": "undefined\nгадзіна (працягласць)\nгадзіна (як у \"у колькі гадзін\")"
+        },
+        {
+          "word": "for",
+          "definition": "undefined\nза"
+        },
+        {
+          "word": "that.",
+          "definition": "undefined\nгэты (мужчынскі род)"
+        }
+      ],
+      "chips": [
+        "Сёння",
+        "ты",
+        "не",
+        "меў/мела",
+        "часу",
+        "на",
+        "тое",
+        "мне",
+        "На",
+        "за",
+        "Не",
+        "то",
+        "мае"
+      ],
+      "solutions": [
+        [
+          "Сёння",
+          "ты",
+          "не",
+          "меў/мела",
+          "часу",
+          "на",
+          "тое"
+        ]
+      ],
+      "formattedSolution": "Сёння ты не меў/мела часу на тое.",
+      "id": "a465184f99fd",
+      "priority": 2,
+      "group": "869467f57697"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Сёння",
+          "definition": "today\nundefined"
+        },
+        {
+          "word": "ты",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "не",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "меў/мела",
+          "definition": "undefined"
+        },
+        {
+          "word": "часу",
+          "definition": "undefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "тое.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Today",
+        "you",
+        "did",
+        "not",
+        "have",
+        "an",
+        "hour",
+        "for",
+        "that",
+        "hot",
+        "hat",
+        "dot",
+        "or",
+        "had",
+        "You",
+        "day",
+        "To"
+      ],
+      "solutions": [
+        [
+          "Today",
+          "you",
+          "did",
+          "not",
+          "have",
+          "an",
+          "hour",
+          "for",
+          "that"
+        ]
+      ],
+      "formattedSolution": "Today you did not have an hour for that.",
+      "id": "c7d3ec2980dc",
+      "priority": 2,
+      "group": "869467f57697"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Бачымся ўвечары ў дзевяць гадзін.",
+      "meaningInSourceLanguage": "We will see each other in the evening at the ninth hour.",
+      "id": "7bdcf62cf17f",
+      "priority": 0,
+      "group": "c934abe43a0a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Бачымся ўвечары ў дзевяць гадзін.",
+      "meaning": "We will see each other in the evening at the ninth hour.",
+      "audio": "8daaba2d7e31bfe70a9d87e08c69f61d9fc9e5321c2f192df0f2827bbfd1ebbd",
+      "id": "06849690fca2",
+      "priority": 1,
+      "group": "c934abe43a0a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nмы"
+        },
+        {
+          "word": "will",
+          "definition": "undefined"
+        },
+        {
+          "word": "see",
+          "definition": "undefined"
+        },
+        {
+          "word": "each",
+          "definition": "undefined"
+        },
+        {
+          "word": "other",
+          "definition": "undefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "evening",
+          "definition": "undefined\nвечар"
+        },
+        {
+          "word": "at",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "ninth",
+          "definition": "undefined\nдзевяты"
+        },
+        {
+          "word": "hour.",
+          "definition": "undefined\nгадзіна (працягласць)\nгадзіна (як у \"у колькі гадзін\")"
+        }
+      ],
+      "chips": [
+        "Бачымся",
+        "ўвечары",
+        "ў",
+        "дзевяць",
+        "гадзін",
+        "вады",
+        "дзе",
+        "вас",
+        "мая"
+      ],
+      "solutions": [
+        [
+          "Бачымся",
+          "ўвечары",
+          "ў",
+          "дзевяць",
+          "гадзін"
+        ]
+      ],
+      "formattedSolution": "Бачымся ўвечары ў дзевяць гадзін.",
+      "id": "55685ddd8829",
+      "priority": 2,
+      "group": "c934abe43a0a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Бачымся",
+          "definition": "undefined"
+        },
+        {
+          "word": "ўвечары",
+          "definition": "undefined"
+        },
+        {
+          "word": "ў",
+          "definition": "undefined"
+        },
+        {
+          "word": "дзевяць",
+          "definition": "nine\nundefined"
+        },
+        {
+          "word": "гадзін.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "will",
+        "see",
+        "each",
+        "other",
+        "in",
+        "the",
+        "evening",
+        "at",
+        "the",
+        "ninth",
+        "hour",
+        "it",
+        "her",
+        "ten",
+        "we",
+        "She",
+        "He",
+        "me",
+        "The",
+        "be",
+        "are",
+        "tea"
+      ],
+      "solutions": [
+        [
+          "We",
+          "will",
+          "see",
+          "each",
+          "other",
+          "in",
+          "the",
+          "evening",
+          "at",
+          "the",
+          "ninth",
+          "hour"
+        ]
+      ],
+      "formattedSolution": "We will see each other in the evening at the ninth hour.",
+      "id": "4334ddaec2e3",
+      "priority": 2,
+      "group": "c934abe43a0a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Учора ў адну гадзіну было лепш.",
+      "meaningInSourceLanguage": "Yesterday at the first hour it was better.",
+      "id": "6d5d4c1f3dca",
+      "priority": 0,
+      "group": "fe7ca3a05e40"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Учора ў адну гадзіну было лепш.",
+      "meaning": "Yesterday at the first hour it was better.",
+      "audio": "3c8daa9838bb1db006b57973920619e0f1f62365b32c79e52e98d787c357f86a",
+      "id": "552ca16499c1",
+      "priority": 1,
+      "group": "fe7ca3a05e40"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Yesterday",
+          "definition": "undefined\nучора"
+        },
+        {
+          "word": "at",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "first",
+          "definition": "undefined\nпершы"
+        },
+        {
+          "word": "hour",
+          "definition": "undefined\nгадзіна (працягласць)\nгадзіна (як у \"у колькі гадзін\")"
+        },
+        {
+          "word": "it",
+          "definition": "undefined\nяно"
+        },
+        {
+          "word": "was",
+          "definition": "undefined\nбыла\nбыло\nбыў"
+        },
+        {
+          "word": "better.",
+          "definition": "undefined\nлепш"
+        }
+      ],
+      "chips": [
+        "Учора",
+        "ў",
+        "адну",
+        "гадзіну",
+        "было",
+        "лепш",
+        "адна",
+        "адно",
+        "ад",
+        "еду",
+        "не"
+      ],
+      "solutions": [
+        [
+          "Учора",
+          "ў",
+          "адну",
+          "гадзіну",
+          "было",
+          "лепш"
+        ]
+      ],
+      "formattedSolution": "Учора ў адну гадзіну было лепш.",
+      "id": "37f2359b4dad",
+      "priority": 2,
+      "group": "fe7ca3a05e40"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Учора",
+          "definition": "undefined\nyesterday"
+        },
+        {
+          "word": "ў",
+          "definition": "undefined"
+        },
+        {
+          "word": "адну",
+          "definition": "undefined"
+        },
+        {
+          "word": "гадзіну",
+          "definition": "undefined"
+        },
+        {
+          "word": "было",
+          "definition": "undefined\nwas"
+        },
+        {
+          "word": "лепш.",
+          "definition": "better\nundefined"
+        }
+      ],
+      "chips": [
+        "Yesterday",
+        "at",
+        "the",
+        "first",
+        "hour",
+        "it",
+        "was",
+        "better",
+        "eat",
+        "her",
+        "wet",
+        "hat",
+        "ear",
+        "fat",
+        "is"
+      ],
+      "solutions": [
+        [
+          "Yesterday",
+          "at",
+          "the",
+          "first",
+          "hour",
+          "it",
+          "was",
+          "better"
+        ]
+      ],
+      "formattedSolution": "Yesterday at the first hour it was better.",
+      "id": "8b412d53fc59",
+      "priority": 2,
+      "group": "fe7ca3a05e40"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Колькі хвілін доўжыцца фільм?",
+      "meaningInSourceLanguage": "How many minutes does the film last?",
+      "id": "a68184977dbe",
+      "priority": 0,
+      "group": "88ab2828de21"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Колькі хвілін доўжыцца фільм?",
+      "meaning": "How many minutes does the film last?",
+      "audio": "325a859c7e5b3d2b926e488c7233392164d926c08c7975e9203db2b3f4ec5e96",
+      "id": "6eea0c363f28",
+      "priority": 1,
+      "group": "88ab2828de21"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "How",
+          "definition": "undefined"
+        },
+        {
+          "word": "many",
+          "definition": "undefined"
+        },
+        {
+          "word": "minutes",
+          "definition": "undefined"
+        },
+        {
+          "word": "does",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "film",
+          "definition": "undefined"
+        },
+        {
+          "word": "last?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Колькі",
+        "хвілін",
+        "доўжыцца",
+        "фільм",
+        "солі",
+        "полі",
+        "Кола"
+      ],
+      "solutions": [
+        [
+          "Колькі",
+          "хвілін",
+          "доўжыцца",
+          "фільм"
+        ]
+      ],
+      "formattedSolution": "Колькі хвілін доўжыцца фільм?",
+      "id": "fb79dc1c0b3a",
+      "priority": 2,
+      "group": "88ab2828de21"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Колькі",
+          "definition": "how much\nundefined"
+        },
+        {
+          "word": "хвілін",
+          "definition": "undefined"
+        },
+        {
+          "word": "доўжыцца",
+          "definition": "to last\nundefined"
+        },
+        {
+          "word": "фільм?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "How",
+        "many",
+        "minutes",
+        "does",
+        "the",
+        "film",
+        "last",
+        "man",
+        "lies",
+        "is",
+        "are",
+        "not",
+        "me"
+      ],
+      "solutions": [
+        [
+          "How",
+          "many",
+          "minutes",
+          "does",
+          "the",
+          "film",
+          "last"
+        ]
+      ],
+      "formattedSolution": "How many minutes does the film last?",
+      "id": "d3633a89604b",
+      "priority": 2,
+      "group": "88ab2828de21"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я быў дома раніцай.",
+      "meaningInSourceLanguage": "I was at home in the morning.",
+      "id": "cd37d5ae0920",
+      "priority": 0,
+      "group": "ca6ae297594f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я быў дома раніцай.",
+      "meaning": "I was at home in the morning.",
+      "audio": "0f976eabf0d22de06b594fe424843fa347502f309836961e76b801bc974801ec",
+      "id": "7738a7833aff",
+      "priority": 1,
+      "group": "ca6ae297594f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "was",
+          "definition": "undefined\nбыла\nбыло\nбыў"
+        },
+        {
+          "word": "at",
+          "definition": "undefined"
+        },
+        {
+          "word": "home",
+          "definition": "undefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "morning.",
+          "definition": "undefined\nраніца"
+        }
+      ],
+      "chips": [
+        "Я",
+        "быў",
+        "дома",
+        "раніцай",
+        "Яна",
+        "да",
+        "дом"
+      ],
+      "solutions": [
+        [
+          "Я",
+          "быў",
+          "дома",
+          "раніцай"
+        ]
+      ],
+      "formattedSolution": "Я быў дома раніцай.",
+      "id": "04199f4405f1",
+      "priority": 2,
+      "group": "ca6ae297594f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Я",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "быў",
+          "definition": "undefined\nwas"
+        },
+        {
+          "word": "дома",
+          "definition": "undefined"
+        },
+        {
+          "word": "раніцай.",
+          "definition": "in the morning\nundefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "was",
+        "at",
+        "home",
+        "in",
+        "the",
+        "morning",
+        "me",
+        "an",
+        "on",
+        "am",
+        "is",
+        "a"
+      ],
+      "solutions": [
+        [
+          "I",
+          "was",
+          "at",
+          "home",
+          "in",
+          "the",
+          "morning"
+        ]
+      ],
+      "formattedSolution": "I was at home in the morning.",
+      "id": "04a8e27246f5",
+      "priority": 2,
+      "group": "ca6ae297594f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ён спіць да поўначы.",
+      "meaningInSourceLanguage": "He sleeps until midnight.",
+      "id": "cdd870df5428",
+      "priority": 0,
+      "group": "c2da9cc2b1a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ён спіць да поўначы.",
+      "meaning": "He sleeps until midnight.",
+      "audio": "2e4420d2792c2ab3c63397b0a6c54284d2e07e78d47447b6ca92083757e2b845",
+      "id": "79d7ebacac47",
+      "priority": 1,
+      "group": "c2da9cc2b1a3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nён"
+        },
+        {
+          "word": "sleeps",
+          "definition": "undefined"
+        },
+        {
+          "word": "until",
+          "definition": "undefined"
+        },
+        {
+          "word": "midnight.",
+          "definition": "undefined\nпоўнач"
+        }
+      ],
+      "chips": [
+        "Ён",
+        "спіць",
+        "да",
+        "поўначы",
+        "па",
+        "са",
+        "Яна"
+      ],
+      "solutions": [
+        [
+          "Ён",
+          "спіць",
+          "да",
+          "поўначы"
+        ]
+      ],
+      "formattedSolution": "Ён спіць да поўначы.",
+      "id": "2a8339dc3673",
+      "priority": 2,
+      "group": "c2da9cc2b1a3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ён",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "спіць",
+          "definition": "undefined"
+        },
+        {
+          "word": "да",
+          "definition": "undefined"
+        },
+        {
+          "word": "поўначы.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "sleeps",
+        "until",
+        "midnight",
+        "unit",
+        "is",
+        "me"
+      ],
+      "solutions": [
+        [
+          "He",
+          "sleeps",
+          "until",
+          "midnight"
+        ]
+      ],
+      "formattedSolution": "He sleeps until midnight.",
+      "id": "03ad3b055590",
+      "priority": 2,
+      "group": "c2da9cc2b1a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Колькі секунд мае хвіліна?",
+      "meaningInSourceLanguage": "How many seconds are in a minute?",
+      "id": "e17020057f2f",
+      "priority": 0,
+      "group": "3831222b1267"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Колькі секунд мае хвіліна?",
+      "meaning": "How many seconds are in a minute?",
+      "audio": "e5852fee665f4a9a42eb9712a9ac4d3687d6f98f8e9a56f561c1a045adcfb439",
+      "id": "42e03f7751cb",
+      "priority": 1,
+      "group": "3831222b1267"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "How",
+          "definition": "undefined"
+        },
+        {
+          "word": "many",
+          "definition": "undefined"
+        },
+        {
+          "word": "seconds",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nвы ёсць\nмы ёсць\nты ёсць\nяны ёсць"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "minute?",
+          "definition": "undefined\nхвіліна"
+        }
+      ],
+      "chips": [
+        "Колькі",
+        "секунд",
+        "мае",
+        "хвіліна",
+        "калі",
+        "солі",
+        "віна"
+      ],
+      "solutions": [
+        [
+          "Колькі",
+          "секунд",
+          "мае",
+          "хвіліна"
+        ]
+      ],
+      "formattedSolution": "Колькі секунд мае хвіліна?",
+      "id": "c71e671c9012",
+      "priority": 2,
+      "group": "3831222b1267"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Колькі",
+          "definition": "how much\nundefined"
+        },
+        {
+          "word": "секунд",
+          "definition": "undefined"
+        },
+        {
+          "word": "мае",
+          "definition": "undefined"
+        },
+        {
+          "word": "хвіліна?",
+          "definition": "minute\nundefined"
+        }
+      ],
+      "chips": [
+        "How",
+        "many",
+        "seconds",
+        "are",
+        "in",
+        "a",
+        "minute",
+        "an",
+        "man",
+        "on",
+        "me",
+        "son",
+        "can"
+      ],
+      "solutions": [
+        [
+          "How",
+          "many",
+          "seconds",
+          "are",
+          "in",
+          "a",
+          "minute"
+        ]
+      ],
+      "formattedSolution": "How many seconds are in a minute?",
+      "id": "e3194eea708a",
+      "priority": 2,
+      "group": "3831222b1267"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Увечары мы пайшлі ў рэстаран.",
+      "meaningInSourceLanguage": "In the evening we went to the restaurant.",
+      "id": "08e2b8742bb5",
+      "priority": 0,
+      "group": "5e50be2f3308"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Увечары мы пайшлі ў рэстаран.",
+      "meaning": "In the evening we went to the restaurant.",
+      "audio": "6dccd66958d21f4fa92c111775fc71ac9b7f6a7f326f115791701302bfa80696",
+      "id": "97d936c000cd",
+      "priority": 1,
+      "group": "5e50be2f3308"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "In",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "evening",
+          "definition": "undefined\nвечар"
+        },
+        {
+          "word": "we",
+          "definition": "undefined\nмы"
+        },
+        {
+          "word": "went",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "restaurant.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Увечары",
+        "мы",
+        "пайшлі",
+        "ў",
+        "рэстаран",
+        "са",
+        "па",
+        "ты",
+        "На"
+      ],
+      "solutions": [
+        [
+          "Увечары",
+          "мы",
+          "пайшлі",
+          "ў",
+          "рэстаран"
+        ]
+      ],
+      "formattedSolution": "Увечары мы пайшлі ў рэстаран.",
+      "id": "b2fd3420bdd4",
+      "priority": 2,
+      "group": "5e50be2f3308"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Увечары",
+          "definition": "undefined"
+        },
+        {
+          "word": "мы",
+          "definition": "undefined\nwe"
+        },
+        {
+          "word": "пайшлі",
+          "definition": "undefined"
+        },
+        {
+          "word": "ў",
+          "definition": "undefined"
+        },
+        {
+          "word": "рэстаран.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "In",
+        "the",
+        "evening",
+        "we",
+        "went",
+        "to",
+        "the",
+        "restaurant",
+        "ten",
+        "We",
+        "He",
+        "me",
+        "then",
+        "be",
+        "tea"
+      ],
+      "solutions": [
+        [
+          "In",
+          "the",
+          "evening",
+          "we",
+          "went",
+          "to",
+          "the",
+          "restaurant"
+        ]
+      ],
+      "formattedSolution": "In the evening we went to the restaurant.",
+      "id": "a1b0950f4878",
+      "priority": 2,
+      "group": "5e50be2f3308"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "час",
+      "meaningInSourceLanguage": "time",
+      "id": "20d32099fac0",
+      "priority": 0,
+      "group": "196aa8b1d67f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "час"
+      ],
+      "phrase": [
+        {
+          "word": "time",
+          "definition": "undefined\nчас"
+        }
+      ],
+      "id": "85eebf828949",
+      "priority": 1,
+      "group": "196aa8b1d67f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "час",
+      "meaning": "time",
+      "audio": "cb477e1b7473b33b2c16cbc18689e519c6e834dba8617b1c542bef4eeea596f8",
+      "id": "7417ca725e60",
+      "priority": 1,
+      "group": "196aa8b1d67f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "хвіліна",
+      "meaningInSourceLanguage": "minute",
+      "id": "2d40d609d68c",
+      "priority": 0,
+      "group": "7bfa34bdc01b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "хвіліна"
+      ],
+      "phrase": [
+        {
+          "word": "minute",
+          "definition": "undefined\nхвіліна"
+        }
+      ],
+      "id": "c19a55c74b93",
+      "priority": 1,
+      "group": "7bfa34bdc01b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "хвіліна",
+      "meaning": "minute",
+      "audio": "82df33e7be0a297a6a90a39e2fef655451a14cb2027f047bb15c785d87025d01",
+      "id": "609e3e844fb9",
+      "priority": 1,
+      "group": "7bfa34bdc01b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "секунда",
+      "meaningInSourceLanguage": "second",
+      "id": "cbf0b9c2cb9b",
+      "priority": 0,
+      "group": "0c0c55c8c40c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "секунда"
+      ],
+      "phrase": [
+        {
+          "word": "second",
+          "definition": "undefined\nдругі\nсекунда"
+        }
+      ],
+      "id": "ae81f92266f1",
+      "priority": 1,
+      "group": "0c0c55c8c40c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "секунда",
+      "meaning": "second",
+      "audio": "1d2f91173a0d56f5bc9c1b2cf8257e2d8164fb735fbf1ee27a68d56dfb3c94f0",
+      "id": "45d30e12924d",
+      "priority": 1,
+      "group": "0c0c55c8c40c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "гадзіна (працягласць)",
+      "meaningInSourceLanguage": "hour",
+      "id": "4670274ba6ce",
+      "priority": 0,
+      "group": "4a0e7ed6d8d3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "гадзіна (працягласць)"
+      ],
+      "phrase": [
+        {
+          "word": "hour",
+          "definition": "undefined\nгадзіна (працягласць)\nгадзіна (як у \"у колькі гадзін\")"
+        }
+      ],
+      "id": "a86fb07eeec5",
+      "priority": 1,
+      "group": "4a0e7ed6d8d3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "гадзіна (працягласць)",
+      "meaning": "hour",
+      "audio": "bdc53b7bfa1ad82d4df1968d5bae142fdb5d2ace47329c95182b531355b01860",
+      "id": "ab1e46aafd1b",
+      "priority": 1,
+      "group": "4a0e7ed6d8d3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "сёння",
+      "meaningInSourceLanguage": "today",
+      "id": "3171146b90c1",
+      "priority": 0,
+      "group": "b0dedb13932c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "сёння"
+      ],
+      "phrase": [
+        {
+          "word": "today",
+          "definition": "undefined\nсёння"
+        }
+      ],
+      "id": "f5cbac32c331",
+      "priority": 1,
+      "group": "b0dedb13932c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "сёння",
+      "meaning": "today",
+      "audio": "f1c0687c451e17edaae27287e3537877ebf509e5882a2fec4aed67654fdb9efe",
+      "id": "ed94ba1eb45c",
+      "priority": 1,
+      "group": "b0dedb13932c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "быў",
+      "meaningInSourceLanguage": "was",
+      "id": "9d2bd4e02f74",
+      "priority": 0,
+      "group": "93d248948868"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "быў"
+      ],
+      "phrase": [
+        {
+          "word": "was",
+          "definition": "undefined\nбыла\nбыло\nбыў"
+        }
+      ],
+      "id": "7af7b4d7db9d",
+      "priority": 1,
+      "group": "93d248948868"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "быў",
+      "meaning": "was",
+      "audio": "d34d4791a5759f384d82258b7be49e3b01c6ace024451fd353a4eddd8f983795",
+      "id": "4f8dc09f6dfd",
+      "priority": 1,
+      "group": "93d248948868"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "была",
+      "meaningInSourceLanguage": "was",
+      "id": "0994bc088d58",
+      "priority": 0,
+      "group": "a3719e59634a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "была"
+      ],
+      "phrase": [
+        {
+          "word": "was",
+          "definition": "undefined\nбыла\nбыло\nбыў"
+        }
+      ],
+      "id": "4ffa4734aeb7",
+      "priority": 1,
+      "group": "a3719e59634a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "была",
+      "meaning": "was",
+      "audio": "4d7239976d6a086b54af435800ca8c223a64af2000ddfc7e03b0a9c814a3e8a1",
+      "id": "76bc117d8e51",
+      "priority": 1,
+      "group": "a3719e59634a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "было",
+      "meaningInSourceLanguage": "was",
+      "id": "07c281b715ef",
+      "priority": 0,
+      "group": "af30cc0e3b1e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "было"
+      ],
+      "phrase": [
+        {
+          "word": "was",
+          "definition": "undefined\nбыла\nбыло\nбыў"
+        }
+      ],
+      "id": "9204d75f4c4e",
+      "priority": 1,
+      "group": "af30cc0e3b1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "было",
+      "meaning": "was",
+      "audio": "b2b535193980a736dc3fd23ce588f818bb5d38c3010bc7d5020117d2c20e3763",
+      "id": "3f37c655ec05",
+      "priority": 1,
+      "group": "af30cc0e3b1e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "былі",
+      "meaningInSourceLanguage": "were",
+      "id": "9327be777fea",
+      "priority": 0,
+      "group": "878d3f6bccd8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "былі"
+      ],
+      "phrase": [
+        {
+          "word": "were",
+          "definition": "undefined\nбылі"
+        }
+      ],
+      "id": "5bb25a803ebf",
+      "priority": 1,
+      "group": "878d3f6bccd8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "былі",
+      "meaning": "were",
+      "audio": "d71680b0659bdd3244af5495130fb0adfaf4a5f07d97d13253faf42c61d3d089",
+      "id": "1150e64574ed",
+      "priority": 1,
+      "group": "878d3f6bccd8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ішоў",
+      "meaningInSourceLanguage": "went/walked",
+      "id": "5b8dca1fdd7c",
+      "priority": 0,
+      "group": "d36fa1533bc6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ішоў"
+      ],
+      "phrase": [
+        {
+          "word": "went/walked",
+          "definition": "undefined\nішла\nішло\nішлі\nішоў"
+        }
+      ],
+      "id": "79ed097a5cb0",
+      "priority": 1,
+      "group": "d36fa1533bc6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ішоў",
+      "meaning": "went/walked",
+      "audio": "1c094b8c40f2939cf6fc26579c21561b4242fdfe1a4623c4907f49c72ce7327a",
+      "id": "8539cce3c691",
+      "priority": 1,
+      "group": "d36fa1533bc6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ішла",
+      "meaningInSourceLanguage": "went/walked",
+      "id": "c76d3a704bed",
+      "priority": 0,
+      "group": "6e3cec571eb6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ішла"
+      ],
+      "phrase": [
+        {
+          "word": "went/walked",
+          "definition": "undefined\nішла\nішло\nішлі\nішоў"
+        }
+      ],
+      "id": "dcc2680845a8",
+      "priority": 1,
+      "group": "6e3cec571eb6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ішла",
+      "meaning": "went/walked",
+      "audio": "4bb1a97658cea657c0723fa14ec811e4789813bd54f610fbf74caf0fc19bf1ae",
+      "id": "d35ea4e80af5",
+      "priority": 1,
+      "group": "6e3cec571eb6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ішло",
+      "meaningInSourceLanguage": "went/walked",
+      "id": "e603e0deca40",
+      "priority": 0,
+      "group": "a9c6b65cd62e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ішло"
+      ],
+      "phrase": [
+        {
+          "word": "went/walked",
+          "definition": "undefined\nішла\nішло\nішлі\nішоў"
+        }
+      ],
+      "id": "d59648cd1ab4",
+      "priority": 1,
+      "group": "a9c6b65cd62e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ішло",
+      "meaning": "went/walked",
+      "audio": "7862d7d39c5c39334bf42606b5663c4cc11ed11f4518324bad9b1b46ae68c0ee",
+      "id": "4ba79eca5eaa",
+      "priority": 1,
+      "group": "a9c6b65cd62e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ішлі",
+      "meaningInSourceLanguage": "went/walked",
+      "id": "bca907d49720",
+      "priority": 0,
+      "group": "be3416d396e4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ішлі"
+      ],
+      "phrase": [
+        {
+          "word": "went/walked",
+          "definition": "undefined\nішла\nішло\nішлі\nішоў"
+        }
+      ],
+      "id": "c5af03554bfe",
+      "priority": 1,
+      "group": "be3416d396e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ішлі",
+      "meaning": "went/walked",
+      "audio": "ca05550f0bf0515cdad060919cf720c22188f13673189767fb867f759281d7a1",
+      "id": "7841321f5b5b",
+      "priority": 1,
+      "group": "be3416d396e4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "учора",
+      "meaningInSourceLanguage": "yesterday",
+      "id": "800520d1789e",
+      "priority": 0,
+      "group": "8751c250e382"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "учора"
+      ],
+      "phrase": [
+        {
+          "word": "yesterday",
+          "definition": "undefined\nучора"
+        }
+      ],
+      "id": "e33a901d9db6",
+      "priority": 1,
+      "group": "8751c250e382"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "учора",
+      "meaning": "yesterday",
+      "audio": "2349b1486a458708ff89425e49ae5f36ef711f14b05174957b7fd277cd45427f",
+      "id": "0bfd189af1fb",
+      "priority": 1,
+      "group": "8751c250e382"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "заўтра",
+      "meaningInSourceLanguage": "tomorrow",
+      "id": "99b0f838033e",
+      "priority": 0,
+      "group": "1cf302d599de"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "заўтра"
+      ],
+      "phrase": [
+        {
+          "word": "tomorrow",
+          "definition": "undefined\nзаўтра"
+        }
+      ],
+      "id": "ab71670e9557",
+      "priority": 1,
+      "group": "1cf302d599de"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "заўтра",
+      "meaning": "tomorrow",
+      "audio": "3e2b58ab82e5b584dfeaa5c1a2c6a4ea4979dbe28f23a7edc823cc2a331225a2",
+      "id": "d8707a1c963f",
+      "priority": 1,
+      "group": "1cf302d599de"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "вечар",
+      "meaningInSourceLanguage": "evening",
+      "id": "ca339955008a",
+      "priority": 0,
+      "group": "ff084e3d613f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "вечар"
+      ],
+      "phrase": [
+        {
+          "word": "evening",
+          "definition": "undefined\nвечар"
+        }
+      ],
+      "id": "2d5857aeb794",
+      "priority": 1,
+      "group": "ff084e3d613f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "вечар",
+      "meaning": "evening",
+      "audio": "3f8cfc1aac2293213f1f69b77a5a01b7faaa68dcf03558e161f3d0a785004690",
+      "id": "5159c81a9586",
+      "priority": 1,
+      "group": "ff084e3d613f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "поўнач",
+      "meaningInSourceLanguage": "midnight",
+      "id": "a68ff990942f",
+      "priority": 0,
+      "group": "b2463c6c1e14"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "поўнач"
+      ],
+      "phrase": [
+        {
+          "word": "midnight",
+          "definition": "undefined\nпоўнач"
+        }
+      ],
+      "id": "96c8c627fe1c",
+      "priority": 1,
+      "group": "b2463c6c1e14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "поўнач",
+      "meaning": "midnight",
+      "audio": "6ae1bd178753f9aad9d4aa9386a566fa020e6a1fdabe0e168001510321f6ca1d",
+      "id": "8e89fa650e13",
+      "priority": 1,
+      "group": "b2463c6c1e14"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "колькі",
+      "meaningInSourceLanguage": "how much",
+      "id": "73940e7c3692",
+      "priority": 0,
+      "group": "99d340d94858"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "колькі"
+      ],
+      "phrase": [
+        {
+          "word": "how",
+          "definition": "undefined"
+        },
+        {
+          "word": "much",
+          "definition": "undefined"
+        }
+      ],
+      "id": "c27eaad705a9",
+      "priority": 1,
+      "group": "99d340d94858"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "колькі",
+      "meaning": "how much",
+      "audio": "d1bcab7f60e44de2632b1d9841124be293026e85f7793042509b15a8aee4018d",
+      "id": "b09215a385bf",
+      "priority": 1,
+      "group": "99d340d94858"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "спаць (спіць)",
+      "meaningInSourceLanguage": "to sleep",
+      "id": "8420f120b45e",
+      "priority": 0,
+      "group": "39c9f922c2f3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "спаць (спіць)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "sleep",
+          "definition": "undefined"
+        }
+      ],
+      "id": "5113b4832c3c",
+      "priority": 1,
+      "group": "39c9f922c2f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "спаць (спіць)",
+      "meaning": "to sleep",
+      "audio": "6617e8cd438115d1bb62cdb1ea2ff73f14fd8800629065025624058511d68047",
+      "id": "20711d5ba714",
+      "priority": 1,
+      "group": "39c9f922c2f3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "доўжыцца",
+      "meaningInSourceLanguage": "to last",
+      "id": "877074a9f862",
+      "priority": 0,
+      "group": "ce6bc789f16c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "доўжыцца"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "last",
+          "definition": "undefined"
+        }
+      ],
+      "id": "3398cea643d3",
+      "priority": 1,
+      "group": "ce6bc789f16c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "доўжыцца",
+      "meaning": "to last",
+      "audio": "5a9fee9559d8c9ccdafcb1c415e3161b542be9dd27794cb4d0d197e9ef67b50f",
+      "id": "c6b2fac83767",
+      "priority": 1,
+      "group": "ce6bc789f16c"
+    }
+  ]
+}

@@ -1,0 +1,2563 @@
+{
+  "id": "31da25cf0788",
+  "levels": 6,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Где есть станция?",
+      "meaningInSourceLanguage": "Where is the station?",
+      "id": "a59a825109c1",
+      "priority": 0,
+      "group": "7c0d840b28b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Где есть станция?",
+      "meaning": "Where is the station?",
+      "audio": "89c62d5617e3f070cf13e666c96c8d81affc6e553d542d01944b3c31bcd1ed87",
+      "id": "55fabc9e9006",
+      "priority": 1,
+      "group": "7c0d840b28b0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Where",
+          "definition": "undefined\nгде"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "station?",
+          "definition": "undefined\nстанция"
+        }
+      ],
+      "chips": [
+        "Где",
+        "есть",
+        "станция",
+        "есте",
+        "ест"
+      ],
+      "solutions": [
+        [
+          "Где",
+          "есть",
+          "станция"
+        ]
+      ],
+      "formattedSolution": "Где есть станция?",
+      "id": "8f57f039f885",
+      "priority": 2,
+      "group": "7c0d840b28b0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Где",
+          "definition": "undefined\nwhere"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "станция?",
+          "definition": "station\nundefined"
+        }
+      ],
+      "chips": [
+        "Where",
+        "is",
+        "the",
+        "station",
+        "then",
+        "thin",
+        "She"
+      ],
+      "solutions": [
+        [
+          "Where",
+          "is",
+          "the",
+          "station"
+        ]
+      ],
+      "formattedSolution": "Where is the station?",
+      "id": "d1693d954183",
+      "priority": 2,
+      "group": "7c0d840b28b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Куда идёт дорога?",
+      "meaningInSourceLanguage": "Which way does the road go?",
+      "id": "18fba93788f9",
+      "priority": 0,
+      "group": "d1dce4c2ad8a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Куда идёт дорога?",
+      "meaning": "Which way does the road go?",
+      "audio": "7dde5228ce8167ec70e0412d9d82355737c347cc2d86f38564f3733b4c68cd26",
+      "id": "54b5cac7ec91",
+      "priority": 1,
+      "group": "d1dce4c2ad8a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Which",
+          "definition": "undefined"
+        },
+        {
+          "word": "way",
+          "definition": "undefined"
+        },
+        {
+          "word": "does",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "road",
+          "definition": "undefined\nдорога"
+        },
+        {
+          "word": "go?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Куда",
+        "идёт",
+        "дорога",
+        "два",
+        "до"
+      ],
+      "solutions": [
+        [
+          "Куда",
+          "идёт",
+          "дорога"
+        ]
+      ],
+      "formattedSolution": "Куда идёт дорога?",
+      "id": "7068ed7f76cc",
+      "priority": 2,
+      "group": "d1dce4c2ad8a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Куда",
+          "definition": "undefined\nwhich way"
+        },
+        {
+          "word": "идёт",
+          "definition": "undefined"
+        },
+        {
+          "word": "дорога?",
+          "definition": "road\nundefined"
+        }
+      ],
+      "chips": [
+        "Which",
+        "way",
+        "does",
+        "the",
+        "road",
+        "go",
+        "She",
+        "We",
+        "Who",
+        "day",
+        "To"
+      ],
+      "solutions": [
+        [
+          "Which",
+          "way",
+          "does",
+          "the",
+          "road",
+          "go"
+        ]
+      ],
+      "formattedSolution": "Which way does the road go?",
+      "id": "973bc23d0dde",
+      "priority": 2,
+      "group": "d1dce4c2ad8a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Идём направо.",
+      "meaningInSourceLanguage": "We are going to the right.",
+      "id": "3fd4675c9c53",
+      "priority": 0,
+      "group": "b74c394c999f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Идём направо.",
+      "meaning": "We are going to the right.",
+      "audio": "99de6763fcfc81f59605a988c41541154d8aac62cb9c251df8d4d795f534f0e4",
+      "id": "6e8c3396cf54",
+      "priority": 1,
+      "group": "b74c394c999f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nмы"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+        },
+        {
+          "word": "going",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "right.",
+          "definition": "undefined\nправо"
+        }
+      ],
+      "chips": [
+        "Идём",
+        "направо",
+        "пьём",
+        "пиво"
+      ],
+      "solutions": [
+        [
+          "Идём",
+          "направо"
+        ]
+      ],
+      "formattedSolution": "Идём направо.",
+      "id": "a55d511ffdf5",
+      "priority": 2,
+      "group": "b74c394c999f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Идём",
+          "definition": "undefined"
+        },
+        {
+          "word": "направо.",
+          "definition": "to the right\nundefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "going",
+        "to",
+        "the",
+        "right",
+        "She",
+        "He",
+        "me",
+        "it",
+        "in"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "going",
+          "to",
+          "the",
+          "right"
+        ]
+      ],
+      "formattedSolution": "We are going to the right.",
+      "id": "3d168edea0fc",
+      "priority": 2,
+      "group": "b74c394c999f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Потом налево.",
+      "meaningInSourceLanguage": "Then to the left.",
+      "id": "5c21fbfa0d6d",
+      "priority": 0,
+      "group": "6d074bb57436"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Потом налево.",
+      "meaning": "Then to the left.",
+      "audio": "ffee8d59e90c7914e101589bb5de40d163cb880dcb5c0a76c3b6226d73b882d7",
+      "id": "47ed47470ebd",
+      "priority": 1,
+      "group": "6d074bb57436"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Then",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "left.",
+          "definition": "undefined\nлево"
+        }
+      ],
+      "chips": [
+        "Потом",
+        "налево",
+        "лево",
+        "авто"
+      ],
+      "solutions": [
+        [
+          "Потом",
+          "налево"
+        ]
+      ],
+      "formattedSolution": "Потом налево.",
+      "id": "98517eee3c65",
+      "priority": 2,
+      "group": "6d074bb57436"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Потом",
+          "definition": "undefined"
+        },
+        {
+          "word": "налево.",
+          "definition": "to the left\nundefined"
+        }
+      ],
+      "chips": [
+        "Then",
+        "to",
+        "the",
+        "left",
+        "The",
+        "then",
+        "ten"
+      ],
+      "solutions": [
+        [
+          "Then",
+          "to",
+          "the",
+          "left"
+        ]
+      ],
+      "formattedSolution": "Then to the left.",
+      "id": "3ad30265283a",
+      "priority": 2,
+      "group": "6d074bb57436"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Иди прямо до моста.",
+      "meaningInSourceLanguage": "Go straight to the bridge.",
+      "id": "3b6eb998def9",
+      "priority": 0,
+      "group": "32463a6fb2a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Иди прямо до моста.",
+      "meaning": "Go straight to the bridge.",
+      "audio": "0e952836c93ca530b0182f39cb59731ac3d1182ae061c71b8e3fc422e3f81878",
+      "id": "d79ffeafe43a",
+      "priority": 1,
+      "group": "32463a6fb2a4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Go",
+          "definition": "undefined"
+        },
+        {
+          "word": "straight",
+          "definition": "undefined\nпрямо\nравный"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "bridge.",
+          "definition": "undefined\nмост"
+        }
+      ],
+      "chips": [
+        "Иди",
+        "прямо",
+        "до",
+        "моста",
+        "по",
+        "моя",
+        "мой"
+      ],
+      "solutions": [
+        [
+          "Иди",
+          "прямо",
+          "до",
+          "моста"
+        ]
+      ],
+      "formattedSolution": "Иди прямо до моста.",
+      "id": "c7832a9d4360",
+      "priority": 2,
+      "group": "32463a6fb2a4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Иди",
+          "definition": "undefined"
+        },
+        {
+          "word": "прямо",
+          "definition": "straight\nundefined"
+        },
+        {
+          "word": "до",
+          "definition": "undefined"
+        },
+        {
+          "word": "моста.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Go",
+        "straight",
+        "to",
+        "the",
+        "bridge",
+        "go",
+        "so",
+        "it",
+        "too"
+      ],
+      "solutions": [
+        [
+          "Go",
+          "straight",
+          "to",
+          "the",
+          "bridge"
+        ]
+      ],
+      "formattedSolution": "Go straight to the bridge.",
+      "id": "411b22e06c0b",
+      "priority": 2,
+      "group": "32463a6fb2a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Проспект есть близко площади/рынка.",
+      "meaningInSourceLanguage": "The avenue is near the square.",
+      "id": "be0e996e74f6",
+      "priority": 0,
+      "group": "4cf6ac9d0e60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Проспект есть близко площади/рынка.",
+      "meaning": "The avenue is near the square.",
+      "audio": "53a98aa5b4be016431098f25fcd73442758ab52e63491ce5c4943d3dd016eddc",
+      "id": "d7038eaae6fd",
+      "priority": 1,
+      "group": "4cf6ac9d0e60"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "avenue",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "near",
+          "definition": "undefined\nблизко"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "square.",
+          "definition": "undefined\nквадрат"
+        }
+      ],
+      "chips": [
+        "Проспект",
+        "есть",
+        "близко",
+        "площади/рынка",
+        "парк",
+        "реке",
+        "сока"
+      ],
+      "solutions": [
+        [
+          "Проспект",
+          "есть",
+          "близко",
+          "площади/рынка"
+        ]
+      ],
+      "formattedSolution": "Проспект есть близко площади/рынка.",
+      "id": "1a4d64667fa9",
+      "priority": 2,
+      "group": "4cf6ac9d0e60"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Проспект",
+          "definition": "undefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "близко",
+          "definition": "near\nundefined"
+        },
+        {
+          "word": "площади/рынка.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "avenue",
+        "is",
+        "near",
+        "the",
+        "square",
+        "are",
+        "see",
+        "She",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "avenue",
+          "is",
+          "near",
+          "the",
+          "square"
+        ]
+      ],
+      "formattedSolution": "The avenue is near the square.",
+      "id": "9c0ba7024d0d",
+      "priority": 2,
+      "group": "4cf6ac9d0e60"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Библиотека есть далека.",
+      "meaningInSourceLanguage": "The library is far away.",
+      "id": "47b7d1f01bb2",
+      "priority": 0,
+      "group": "774c3fb1dfd9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Библиотека есть далека.",
+      "meaning": "The library is far away.",
+      "audio": "c2d45a60f488bae506fd64cc951f02cd8c3bef5c36f03f6c5ca73b2c462a3fa8",
+      "id": "f3c49e8b07ce",
+      "priority": 1,
+      "group": "774c3fb1dfd9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "library",
+          "definition": "undefined\nбиблиотека"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "far",
+          "definition": "undefined\nдалеко"
+        },
+        {
+          "word": "away.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Библиотека",
+        "есть",
+        "далека",
+        "лета",
+        "есте"
+      ],
+      "solutions": [
+        [
+          "Библиотека",
+          "есть",
+          "далека"
+        ]
+      ],
+      "formattedSolution": "Библиотека есть далека.",
+      "id": "e3fe377c0759",
+      "priority": 2,
+      "group": "774c3fb1dfd9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Библиотека",
+          "definition": "library\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "далека.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "library",
+        "is",
+        "far",
+        "away",
+        "way",
+        "are",
+        "day",
+        "car"
+      ],
+      "solutions": [
+        [
+          "The",
+          "library",
+          "is",
+          "far",
+          "away"
+        ]
+      ],
+      "formattedSolution": "The library is far away.",
+      "id": "bfa0642597ba",
+      "priority": 2,
+      "group": "774c3fb1dfd9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Спрашиваю их за дорогу.",
+      "meaningInSourceLanguage": "I ask them for the way.",
+      "id": "dbdb3e8a1617",
+      "priority": 0,
+      "group": "363d9aab1327"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Спрашиваю их за дорогу.",
+      "meaning": "I ask them for the way.",
+      "audio": "44caa57ba5d2d8ed6fdd0c2d7224650adbb744064460bf650a40d0f49edf6bd3",
+      "id": "b7750f37ff1f",
+      "priority": 1,
+      "group": "363d9aab1327"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "ask",
+          "definition": "undefined"
+        },
+        {
+          "word": "them",
+          "definition": "undefined"
+        },
+        {
+          "word": "for",
+          "definition": "undefined\nза"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "way.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Спрашиваю",
+        "их",
+        "за",
+        "дорогу",
+        "Та",
+        "На",
+        "Да"
+      ],
+      "solutions": [
+        [
+          "Спрашиваю",
+          "их",
+          "за",
+          "дорогу"
+        ]
+      ],
+      "formattedSolution": "Спрашиваю их за дорогу.",
+      "id": "3f0be493a623",
+      "priority": 2,
+      "group": "363d9aab1327"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Спрашиваю",
+          "definition": "undefined"
+        },
+        {
+          "word": "их",
+          "definition": "undefined"
+        },
+        {
+          "word": "за",
+          "definition": "for\nundefined"
+        },
+        {
+          "word": "дорогу.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "ask",
+        "them",
+        "for",
+        "the",
+        "way",
+        "am",
+        "She",
+        "a",
+        "her",
+        "The"
+      ],
+      "solutions": [
+        [
+          "I",
+          "ask",
+          "them",
+          "for",
+          "the",
+          "way"
+        ]
+      ],
+      "formattedSolution": "I ask them for the way.",
+      "id": "25ad753a5980",
+      "priority": 2,
+      "group": "363d9aab1327"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Можете показать путь?",
+      "meaningInSourceLanguage": "Can you show me the way?",
+      "id": "6ee96b785113",
+      "priority": 0,
+      "group": "c534102cd94b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Можете показать путь?",
+      "meaning": "Can you show me the way?",
+      "audio": "f6a3f61792a0d738aad4bd15bd8ae5838122d45607d9233d922443a0aa6e51ac",
+      "id": "91aac0a3a592",
+      "priority": 1,
+      "group": "c534102cd94b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Can",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nвы\nты"
+        },
+        {
+          "word": "show",
+          "definition": "undefined"
+        },
+        {
+          "word": "me",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "way?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Можете",
+        "показать",
+        "путь",
+        "пять",
+        "падать"
+      ],
+      "solutions": [
+        [
+          "Можете",
+          "показать",
+          "путь"
+        ]
+      ],
+      "formattedSolution": "Можете показать путь?",
+      "id": "83b3fb58093a",
+      "priority": 2,
+      "group": "c534102cd94b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Можете",
+          "definition": "undefined"
+        },
+        {
+          "word": "показать",
+          "definition": "to show\nundefined"
+        },
+        {
+          "word": "путь?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Can",
+        "you",
+        "show",
+        "me",
+        "the",
+        "way",
+        "She",
+        "man",
+        "so",
+        "son",
+        "The"
+      ],
+      "solutions": [
+        [
+          "Can",
+          "you",
+          "show",
+          "me",
+          "the",
+          "way"
+        ]
+      ],
+      "formattedSolution": "Can you show me the way?",
+      "id": "277b4d9cc853",
+      "priority": 2,
+      "group": "c534102cd94b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Улица идёт до центра.",
+      "meaningInSourceLanguage": "The street goes to the center.",
+      "id": "3bb9253b11bd",
+      "priority": 0,
+      "group": "5636423d638d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Улица идёт до центра.",
+      "meaning": "The street goes to the center.",
+      "audio": "678c203ede77c558bb0051cfd0a29d7024f23dc86dddf2d186458c4ddb168d95",
+      "id": "0ec36ff7cf19",
+      "priority": 1,
+      "group": "5636423d638d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "street",
+          "definition": "undefined\nулица"
+        },
+        {
+          "word": "goes",
+          "definition": "undefined\nидёт (пешком)"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "center.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Улица",
+        "идёт",
+        "до",
+        "центра",
+        "два",
+        "идут",
+        "одна"
+      ],
+      "solutions": [
+        [
+          "Улица",
+          "идёт",
+          "до",
+          "центра"
+        ]
+      ],
+      "formattedSolution": "Улица идёт до центра.",
+      "id": "2985eabf4d02",
+      "priority": 2,
+      "group": "5636423d638d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Улица",
+          "definition": "street\nundefined"
+        },
+        {
+          "word": "идёт",
+          "definition": "undefined"
+        },
+        {
+          "word": "до",
+          "definition": "undefined"
+        },
+        {
+          "word": "центра.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "street",
+        "goes",
+        "to",
+        "the",
+        "center",
+        "see",
+        "She",
+        "tea",
+        "tree",
+        "then"
+      ],
+      "solutions": [
+        [
+          "The",
+          "street",
+          "goes",
+          "to",
+          "the",
+          "center"
+        ]
+      ],
+      "formattedSolution": "The street goes to the center.",
+      "id": "30ab144082f8",
+      "priority": 2,
+      "group": "5636423d638d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Где есть близкий отель?",
+      "meaningInSourceLanguage": "Where is the nearest hotel?",
+      "id": "277cd5d4629a",
+      "priority": 0,
+      "group": "14a9f1a8cd5a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Где есть близкий отель?",
+      "meaning": "Where is the nearest hotel?",
+      "audio": "fb30d5c1b3744595aee05126dc15c05c587a8553030d9f6c6343398d4fc54e3d",
+      "id": "07b0eeec3261",
+      "priority": 1,
+      "group": "14a9f1a8cd5a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Where",
+          "definition": "undefined\nгде"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "nearest",
+          "definition": "undefined"
+        },
+        {
+          "word": "hotel?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Где",
+        "есть",
+        "близкий",
+        "отель",
+        "есте",
+        "еси",
+        "ест"
+      ],
+      "solutions": [
+        [
+          "Где",
+          "есть",
+          "близкий",
+          "отель"
+        ]
+      ],
+      "formattedSolution": "Где есть близкий отель?",
+      "id": "4c36e36a6c3f",
+      "priority": 2,
+      "group": "14a9f1a8cd5a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Где",
+          "definition": "undefined\nwhere"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "близкий",
+          "definition": "undefined"
+        },
+        {
+          "word": "отель?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Where",
+        "is",
+        "the",
+        "nearest",
+        "hotel",
+        "her",
+        "here",
+        "are",
+        "She"
+      ],
+      "solutions": [
+        [
+          "Where",
+          "is",
+          "the",
+          "nearest",
+          "hotel"
+        ]
+      ],
+      "formattedSolution": "Where is the nearest hotel?",
+      "id": "ac0018aa0bd2",
+      "priority": 2,
+      "group": "14a9f1a8cd5a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Куда идёте?",
+      "meaningInSourceLanguage": "Which way are you going?",
+      "id": "a43746092045",
+      "priority": 0,
+      "group": "64e2837616b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Куда идёте?",
+      "meaning": "Which way are you going?",
+      "audio": "6059d9cd69eae9e42270f76cbaef7c6254130ae59deb3fa5beb7c9b1b607ba1b",
+      "id": "bae056e685e5",
+      "priority": 1,
+      "group": "64e2837616b1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Which",
+          "definition": "undefined"
+        },
+        {
+          "word": "way",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nвы\nты"
+        },
+        {
+          "word": "going?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Куда",
+        "идёте",
+        "идёт",
+        "идут"
+      ],
+      "solutions": [
+        [
+          "Куда",
+          "идёте"
+        ]
+      ],
+      "formattedSolution": "Куда идёте?",
+      "id": "3f2447f9a27d",
+      "priority": 2,
+      "group": "64e2837616b1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Куда",
+          "definition": "undefined\nwhich way"
+        },
+        {
+          "word": "идёте?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Which",
+        "way",
+        "are",
+        "you",
+        "going",
+        "You",
+        "his",
+        "son",
+        "in"
+      ],
+      "solutions": [
+        [
+          "Which",
+          "way",
+          "are",
+          "you",
+          "going"
+        ]
+      ],
+      "formattedSolution": "Which way are you going?",
+      "id": "7abe1165b13e",
+      "priority": 2,
+      "group": "64e2837616b1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Идите прямо и потом направо.",
+      "meaningInSourceLanguage": "Go straight and then to the right.",
+      "id": "e9ac64a3bcc4",
+      "priority": 0,
+      "group": "d37e196ad8af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Идите прямо и потом направо.",
+      "meaning": "Go straight and then to the right.",
+      "audio": "17df7b31c2aa7948b71c184d3ca6ed467cdc9b49c348f2d205f76c702840f3b2",
+      "id": "6877a88c242f",
+      "priority": 1,
+      "group": "d37e196ad8af"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Go",
+          "definition": "undefined"
+        },
+        {
+          "word": "straight",
+          "definition": "undefined\nпрямо\nравный"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "then",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "right.",
+          "definition": "undefined\nправо"
+        }
+      ],
+      "chips": [
+        "Идите",
+        "прямо",
+        "и",
+        "потом",
+        "направо",
+        "пиво",
+        "по",
+        "при",
+        "то"
+      ],
+      "solutions": [
+        [
+          "Идите",
+          "прямо",
+          "и",
+          "потом",
+          "направо"
+        ]
+      ],
+      "formattedSolution": "Идите прямо и потом направо.",
+      "id": "1f8279690365",
+      "priority": 2,
+      "group": "d37e196ad8af"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Идите",
+          "definition": "undefined"
+        },
+        {
+          "word": "прямо",
+          "definition": "straight\nundefined"
+        },
+        {
+          "word": "и",
+          "definition": "undefined"
+        },
+        {
+          "word": "потом",
+          "definition": "undefined"
+        },
+        {
+          "word": "направо.",
+          "definition": "to the right\nundefined"
+        }
+      ],
+      "chips": [
+        "Go",
+        "straight",
+        "and",
+        "then",
+        "to",
+        "the",
+        "right",
+        "She",
+        "Who",
+        "it",
+        "too",
+        "go",
+        "tea"
+      ],
+      "solutions": [
+        [
+          "Go",
+          "straight",
+          "and",
+          "then",
+          "to",
+          "the",
+          "right"
+        ]
+      ],
+      "formattedSolution": "Go straight and then to the right.",
+      "id": "54205f351d00",
+      "priority": 2,
+      "group": "d37e196ad8af"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Станция есть налево.",
+      "meaningInSourceLanguage": "The station is on the left.",
+      "id": "b3eb2c954e49",
+      "priority": 0,
+      "group": "f46cace83925"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Станция есть налево.",
+      "meaning": "The station is on the left.",
+      "audio": "88a91aa96cd1e4d3fbda99d968d92193927516afba20c7ce461dda57d0db53d6",
+      "id": "03b71a8bb349",
+      "priority": 1,
+      "group": "f46cace83925"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "station",
+          "definition": "undefined\nстанция"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "left.",
+          "definition": "undefined\nлево"
+        }
+      ],
+      "chips": [
+        "Станция",
+        "есть",
+        "налево",
+        "есте",
+        "еси"
+      ],
+      "solutions": [
+        [
+          "Станция",
+          "есть",
+          "налево"
+        ]
+      ],
+      "formattedSolution": "Станция есть налево.",
+      "id": "34f87e549e4e",
+      "priority": 2,
+      "group": "f46cace83925"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Станция",
+          "definition": "station\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "налево.",
+          "definition": "to the left\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "station",
+        "is",
+        "on",
+        "the",
+        "left",
+        "in",
+        "We",
+        "He",
+        "me",
+        "it"
+      ],
+      "solutions": [
+        [
+          "The",
+          "station",
+          "is",
+          "on",
+          "the",
+          "left"
+        ]
+      ],
+      "formattedSolution": "The station is on the left.",
+      "id": "561277ecfbb9",
+      "priority": 2,
+      "group": "f46cace83925"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Магазин есть близко библиотеки.",
+      "meaningInSourceLanguage": "The shop is near the library.",
+      "id": "d050cdec5728",
+      "priority": 0,
+      "group": "b736d1877b38"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Магазин есть близко библиотеки.",
+      "meaning": "The shop is near the library.",
+      "audio": "db24de0d266f9aa4aa27dfff0b11f8771fbc64557277f619d08e8898e5c31676",
+      "id": "cb9a8f8b6de5",
+      "priority": 1,
+      "group": "b736d1877b38"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "shop",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "near",
+          "definition": "undefined\nблизко"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "library.",
+          "definition": "undefined\nбиблиотека"
+        }
+      ],
+      "chips": [
+        "Магазин",
+        "есть",
+        "близко",
+        "библиотеки",
+        "блин",
+        "еси",
+        "Вилки"
+      ],
+      "solutions": [
+        [
+          "Магазин",
+          "есть",
+          "близко",
+          "библиотеки"
+        ]
+      ],
+      "formattedSolution": "Магазин есть близко библиотеки.",
+      "id": "d829836f7902",
+      "priority": 2,
+      "group": "b736d1877b38"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Магазин",
+          "definition": "shop/store\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "близко",
+          "definition": "near\nundefined"
+        },
+        {
+          "word": "библиотеки.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "shop",
+        "is",
+        "near",
+        "the",
+        "library",
+        "her",
+        "She",
+        "are",
+        "be",
+        "ear"
+      ],
+      "solutions": [
+        [
+          "The",
+          "shop",
+          "is",
+          "near",
+          "the",
+          "library"
+        ]
+      ],
+      "formattedSolution": "The shop is near the library.",
+      "id": "cc39912a4f2d",
+      "priority": 2,
+      "group": "b736d1877b38"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Площадь/Рынок есть далеко от отеля.",
+      "meaningInSourceLanguage": "The square is far from the hotel.",
+      "id": "68825f9cc516",
+      "priority": 0,
+      "group": "f5c67b2d698b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Площадь/Рынок есть далеко от отеля.",
+      "meaning": "The square is far from the hotel.",
+      "audio": "3f21503c56b279de212d211fea8966536cd64a1b7b3ab71272569b03ca39f2b9",
+      "id": "4a507dff14bf",
+      "priority": 1,
+      "group": "f5c67b2d698b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "square",
+          "definition": "undefined\nквадрат"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "far",
+          "definition": "undefined\nдалеко"
+        },
+        {
+          "word": "from",
+          "definition": "undefined\nиз"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "hotel.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Площадь/Рынок",
+        "есть",
+        "далеко",
+        "от",
+        "отеля",
+        "отель",
+        "ест",
+        "отец",
+        "одно"
+      ],
+      "solutions": [
+        [
+          "Площадь/Рынок",
+          "есть",
+          "далеко",
+          "от",
+          "отеля"
+        ]
+      ],
+      "formattedSolution": "Площадь/Рынок есть далеко от отеля.",
+      "id": "ed20881959f5",
+      "priority": 2,
+      "group": "f5c67b2d698b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Площадь/Рынок",
+          "definition": "square/market\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "далеко",
+          "definition": "far\nundefined"
+        },
+        {
+          "word": "от",
+          "definition": "undefined"
+        },
+        {
+          "word": "отеля.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "square",
+        "is",
+        "far",
+        "from",
+        "the",
+        "hotel",
+        "are",
+        "She",
+        "for",
+        "her",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "square",
+          "is",
+          "far",
+          "from",
+          "the",
+          "hotel"
+        ]
+      ],
+      "formattedSolution": "The square is far from the hotel.",
+      "id": "a786e94738e5",
+      "priority": 2,
+      "group": "f5c67b2d698b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Спрашиваю старую женщину.",
+      "meaningInSourceLanguage": "I ask the old woman.",
+      "id": "804d2226af61",
+      "priority": 0,
+      "group": "c6591cb4c776"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Спрашиваю старую женщину.",
+      "meaning": "I ask the old woman.",
+      "audio": "ab4dae5f2bdb61a506af225d405b7354aa0f6e898741d39ad4ae331f9f70812b",
+      "id": "3b9065ab9132",
+      "priority": 1,
+      "group": "c6591cb4c776"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "ask",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "old",
+          "definition": "undefined\nстарый"
+        },
+        {
+          "word": "woman.",
+          "definition": "undefined\nженщина"
+        }
+      ],
+      "chips": [
+        "Спрашиваю",
+        "старую",
+        "женщину",
+        "женщина",
+        "женщин"
+      ],
+      "solutions": [
+        [
+          "Спрашиваю",
+          "старую",
+          "женщину"
+        ]
+      ],
+      "formattedSolution": "Спрашиваю старую женщину.",
+      "id": "005bfd62aca1",
+      "priority": 2,
+      "group": "c6591cb4c776"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Спрашиваю",
+          "definition": "undefined"
+        },
+        {
+          "word": "старую",
+          "definition": "undefined"
+        },
+        {
+          "word": "женщину.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "ask",
+        "the",
+        "old",
+        "woman",
+        "a",
+        "an",
+        "on",
+        "oak"
+      ],
+      "solutions": [
+        [
+          "I",
+          "ask",
+          "the",
+          "old",
+          "woman"
+        ]
+      ],
+      "formattedSolution": "I ask the old woman.",
+      "id": "fb214465b5d0",
+      "priority": 2,
+      "group": "c6591cb4c776"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он показывает мне дорогу.",
+      "meaningInSourceLanguage": "He shows me the way.",
+      "id": "838e69197dc5",
+      "priority": 0,
+      "group": "af7c19e929b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он показывает мне дорогу.",
+      "meaning": "He shows me the way.",
+      "audio": "e919d91f8483c30e91d3ded0b944daa629766a523cb971a0450e8711520c98cc",
+      "id": "17343e9ca368",
+      "priority": 1,
+      "group": "af7c19e929b4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "shows",
+          "definition": "undefined"
+        },
+        {
+          "word": "me",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "way.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Он",
+        "показывает",
+        "мне",
+        "дорогу",
+        "он",
+        "Она",
+        "не"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "показывает",
+          "мне",
+          "дорогу"
+        ]
+      ],
+      "formattedSolution": "Он показывает мне дорогу.",
+      "id": "b1932cd4c1d5",
+      "priority": 2,
+      "group": "af7c19e929b4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "показывает",
+          "definition": "undefined"
+        },
+        {
+          "word": "мне",
+          "definition": "undefined"
+        },
+        {
+          "word": "дорогу.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "shows",
+        "me",
+        "the",
+        "way",
+        "he",
+        "She",
+        "We",
+        "Me"
+      ],
+      "solutions": [
+        [
+          "He",
+          "shows",
+          "me",
+          "the",
+          "way"
+        ]
+      ],
+      "formattedSolution": "He shows me the way.",
+      "id": "9608baf0e682",
+      "priority": 2,
+      "group": "af7c19e929b4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Улица есть длинная.",
+      "meaningInSourceLanguage": "The street is long.",
+      "id": "3a7c5829910d",
+      "priority": 0,
+      "group": "2729e7b61cae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Улица есть длинная.",
+      "meaning": "The street is long.",
+      "audio": "8c426d561e95239229643c237d300df1447d4d2a43da4afb67cdd867c5af0481",
+      "id": "86ee23242d70",
+      "priority": 1,
+      "group": "2729e7b61cae"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "street",
+          "definition": "undefined\nулица"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "long.",
+          "definition": "undefined\nдлинный"
+        }
+      ],
+      "chips": [
+        "Улица",
+        "есть",
+        "длинная",
+        "дитя",
+        "вина"
+      ],
+      "solutions": [
+        [
+          "Улица",
+          "есть",
+          "длинная"
+        ]
+      ],
+      "formattedSolution": "Улица есть длинная.",
+      "id": "00a8083195fe",
+      "priority": 2,
+      "group": "2729e7b61cae"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Улица",
+          "definition": "street\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "длинная.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "street",
+        "is",
+        "long",
+        "the",
+        "see",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "street",
+          "is",
+          "long"
+        ]
+      ],
+      "formattedSolution": "The street is long.",
+      "id": "396336e9e77f",
+      "priority": 2,
+      "group": "2729e7b61cae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Куда едет тот поезд?",
+      "meaningInSourceLanguage": "Where is that train going?",
+      "id": "6c231231bb63",
+      "priority": 0,
+      "group": "61bbcfda4501"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Куда едет тот поезд?",
+      "meaning": "Where is that train going?",
+      "audio": "e4568b6f10a81f8c614ccf8f3af47650d5e8a4113585ca287432a43f811b8420",
+      "id": "51389a38ccc5",
+      "priority": 1,
+      "group": "61bbcfda4501"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Where",
+          "definition": "undefined\nгде"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "that",
+          "definition": "undefined\nэтот (муж. р.)"
+        },
+        {
+          "word": "train",
+          "definition": "undefined\nпоезд"
+        },
+        {
+          "word": "going?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Куда",
+        "едет",
+        "тот",
+        "поезд",
+        "под",
+        "Тот",
+        "Нет"
+      ],
+      "solutions": [
+        [
+          "Куда",
+          "едет",
+          "тот",
+          "поезд"
+        ]
+      ],
+      "formattedSolution": "Куда едет тот поезд?",
+      "id": "5144be844659",
+      "priority": 2,
+      "group": "61bbcfda4501"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Куда",
+          "definition": "undefined\nwhich way"
+        },
+        {
+          "word": "едет",
+          "definition": "undefined"
+        },
+        {
+          "word": "тот",
+          "definition": "undefined"
+        },
+        {
+          "word": "поезд?",
+          "definition": "train\nundefined"
+        }
+      ],
+      "chips": [
+        "Where",
+        "is",
+        "that",
+        "train",
+        "going",
+        "thin",
+        "than",
+        "his",
+        "in"
+      ],
+      "solutions": [
+        [
+          "Where",
+          "is",
+          "that",
+          "train",
+          "going"
+        ]
+      ],
+      "formattedSolution": "Where is that train going?",
+      "id": "0be0fffa4fe9",
+      "priority": 2,
+      "group": "61bbcfda4501"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "где",
+      "meaningInSourceLanguage": "where",
+      "id": "e6f43c99b41c",
+      "priority": 0,
+      "group": "d83889fef62f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "где"
+      ],
+      "phrase": [
+        {
+          "word": "where",
+          "definition": "undefined\nгде"
+        }
+      ],
+      "id": "ca3f0381b788",
+      "priority": 1,
+      "group": "d83889fef62f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "где",
+      "meaning": "where",
+      "audio": "d0c5eb122e2fab7f827e3a9709b0dd103f5382ef674ff0a0f8ad8e7b9739aeff",
+      "id": "d423a58c63f4",
+      "priority": 1,
+      "group": "d83889fef62f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "куда",
+      "meaningInSourceLanguage": "which way",
+      "id": "3ef32a62a19e",
+      "priority": 0,
+      "group": "8f025f336b51"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "куда"
+      ],
+      "phrase": [
+        {
+          "word": "which",
+          "definition": "undefined"
+        },
+        {
+          "word": "way",
+          "definition": "undefined"
+        }
+      ],
+      "id": "62bc1096b2bb",
+      "priority": 1,
+      "group": "8f025f336b51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "куда",
+      "meaning": "which way",
+      "audio": "beb98e2d3726c766df70a52fee5503c18444b27744633a662593556285dde063",
+      "id": "d7c062a41763",
+      "priority": 1,
+      "group": "8f025f336b51"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "направо",
+      "meaningInSourceLanguage": "to the right",
+      "id": "14778e378093",
+      "priority": 0,
+      "group": "c8ef50ad25fe"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "направо"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "right",
+          "definition": "undefined\nправо"
+        }
+      ],
+      "id": "bf1684ba4759",
+      "priority": 1,
+      "group": "c8ef50ad25fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "направо",
+      "meaning": "to the right",
+      "audio": "f75b9fa4e84cc1e039e45d54cdc8a525c2f6c7efc9af625cb12e116fa2ee0113",
+      "id": "6658be2fc0e9",
+      "priority": 1,
+      "group": "c8ef50ad25fe"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "налево",
+      "meaningInSourceLanguage": "to the left",
+      "id": "c51deee65f64",
+      "priority": 0,
+      "group": "2f5cfcf7d7b0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "налево"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "left",
+          "definition": "undefined\nлево"
+        }
+      ],
+      "id": "dc1dd8912d79",
+      "priority": 1,
+      "group": "2f5cfcf7d7b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "налево",
+      "meaning": "to the left",
+      "audio": "d601e70299285c828b1e54260de320f7b4bc9eff323d9bf6bec0dfbde1303bc3",
+      "id": "070e04d3add0",
+      "priority": 1,
+      "group": "2f5cfcf7d7b0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "прямо",
+      "meaningInSourceLanguage": "straight",
+      "id": "3d606584eec4",
+      "priority": 0,
+      "group": "b5bd5c449296"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "прямо"
+      ],
+      "phrase": [
+        {
+          "word": "straight",
+          "definition": "undefined\nпрямо\nравный"
+        }
+      ],
+      "id": "124e6f8b45b1",
+      "priority": 1,
+      "group": "b5bd5c449296"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "прямо",
+      "meaning": "straight",
+      "audio": "a0a97a254106d4a899e707b5fa1e3a8736a26a1da21330284d14582dcb99b517",
+      "id": "e3dc0437556d",
+      "priority": 1,
+      "group": "b5bd5c449296"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "близко",
+      "meaningInSourceLanguage": "near",
+      "id": "e9b94217ab72",
+      "priority": 0,
+      "group": "6b79393b3d98"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "близко"
+      ],
+      "phrase": [
+        {
+          "word": "near",
+          "definition": "undefined\nблизко"
+        }
+      ],
+      "id": "c5750da80391",
+      "priority": 1,
+      "group": "6b79393b3d98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "близко",
+      "meaning": "near",
+      "audio": "5aafaf41e70d57598e6a46a4a41052992074927eed0b66a63afabf2a70989bb9",
+      "id": "a6f0c70dd71c",
+      "priority": 1,
+      "group": "6b79393b3d98"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "далеко",
+      "meaningInSourceLanguage": "far",
+      "id": "651af4684374",
+      "priority": 0,
+      "group": "95e7e27eb81d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "далеко"
+      ],
+      "phrase": [
+        {
+          "word": "far",
+          "definition": "undefined\nдалеко"
+        }
+      ],
+      "id": "b265a300ba60",
+      "priority": 1,
+      "group": "95e7e27eb81d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "далеко",
+      "meaning": "far",
+      "audio": "21d63567f6c49c6405bfc48a51da9158c85042994f780587df3c50974d68ea7c",
+      "id": "a0c19086d022",
+      "priority": 1,
+      "group": "95e7e27eb81d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "спрашивать",
+      "meaningInSourceLanguage": "to ask",
+      "id": "6f8c1804b604",
+      "priority": 0,
+      "group": "a3b03911bc51"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "спрашивать"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "ask",
+          "definition": "undefined"
+        }
+      ],
+      "id": "9f7d449a33d2",
+      "priority": 1,
+      "group": "a3b03911bc51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "спрашивать",
+      "meaning": "to ask",
+      "audio": "000dd3fa5b0060b9548bc8f8cc1ac991a1ef5bfb724f107915a784a90c8702d5",
+      "id": "7e67cb6cf045",
+      "priority": 1,
+      "group": "a3b03911bc51"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "показать",
+      "meaningInSourceLanguage": "to show",
+      "id": "6b59fb0684cf",
+      "priority": 0,
+      "group": "2947644a3191"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "показать"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "show",
+          "definition": "undefined"
+        }
+      ],
+      "id": "71dd45e4be89",
+      "priority": 1,
+      "group": "2947644a3191"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "показать",
+      "meaning": "to show",
+      "audio": "ea21c9154f74985b7563eee128d5281a9eb398d6744e36904d60960d953120a7",
+      "id": "1531eade03fc",
+      "priority": 1,
+      "group": "2947644a3191"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "путь/дорога",
+      "meaningInSourceLanguage": "path/way",
+      "id": "e243aa883d6f",
+      "priority": 0,
+      "group": "13da599825b7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "путь/дорога"
+      ],
+      "phrase": [
+        {
+          "word": "path/way",
+          "definition": "undefined\nпуть/дорога"
+        }
+      ],
+      "id": "edaa82dad233",
+      "priority": 1,
+      "group": "13da599825b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "путь/дорога",
+      "meaning": "path/way",
+      "audio": "b6b5f55d3d36dd21fd72fffed8c95ae7840acbcafc199cd3f542f0258526c1e3",
+      "id": "31f29324def3",
+      "priority": 1,
+      "group": "13da599825b7"
+    }
+  ]
+}

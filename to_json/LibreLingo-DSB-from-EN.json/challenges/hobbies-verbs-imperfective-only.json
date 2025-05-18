@@ -1,0 +1,2581 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja cytam knigłu.",
+      "meaningInSourceLanguage": "I am reading a book.",
+      "id": "288a207c47c3",
+      "priority": 0,
+      "group": "db98b7af17e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ja cytam knigłu.",
+      "meaning": "I am reading a book.",
+      "audio": "ed7a3965dafb565b90246ecaf466e930491bcc1767f1d22b24867b6796360573",
+      "id": "82d46d00c5c8",
+      "priority": 1,
+      "group": "db98b7af17e3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "ja"
+        },
+        {
+          "word": "am",
+          "definition": "som\nundefined"
+        },
+        {
+          "word": "reading",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "book.",
+          "definition": "knigła\nundefined"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "cytam",
+        "knigłu",
+        "cyta",
+        "tam"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "cytam",
+          "knigłu"
+        ]
+      ],
+      "formattedSolution": "Ja cytam knigłu.",
+      "id": "21afc066c215",
+      "priority": 2,
+      "group": "db98b7af17e3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "cytam",
+          "definition": "undefined"
+        },
+        {
+          "word": "knigłu.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "reading",
+        "a",
+        "book",
+        "an",
+        "at",
+        "as",
+        "in"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "reading",
+          "a",
+          "book"
+        ]
+      ],
+      "formattedSolution": "I am reading a book.",
+      "id": "a1306a297e93",
+      "priority": 2,
+      "group": "db98b7af17e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wóna pišo listy.",
+      "meaningInSourceLanguage": "She is writing letters.",
+      "id": "3fa7110f0561",
+      "priority": 0,
+      "group": "7f319790c2a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wóna pišo listy.",
+      "meaning": "She is writing letters.",
+      "audio": "88dc0a0203ce70011f82de3d36bd30289a564438739980836b85ad56f4ac271a",
+      "id": "8530f42c5496",
+      "priority": 1,
+      "group": "7f319790c2a0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nwóna"
+        },
+        {
+          "word": "is",
+          "definition": "jo\nundefined"
+        },
+        {
+          "word": "writing",
+          "definition": "undefined"
+        },
+        {
+          "word": "letters.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Wóna",
+        "pišo",
+        "listy",
+        "piwo",
+        "pijo"
+      ],
+      "solutions": [
+        [
+          "Wóna",
+          "pišo",
+          "listy"
+        ]
+      ],
+      "formattedSolution": "Wóna pišo listy.",
+      "id": "a32f0d5592e7",
+      "priority": 2,
+      "group": "7f319790c2a0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wóna",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "pišo",
+          "definition": "undefined"
+        },
+        {
+          "word": "listy.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "is",
+        "writing",
+        "letters",
+        "the",
+        "it",
+        "lies"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is",
+          "writing",
+          "letters"
+        ]
+      ],
+      "formattedSolution": "She is writing letters.",
+      "id": "f7dcb53b485d",
+      "priority": 2,
+      "group": "7f319790c2a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wón gra we football.",
+      "meaningInSourceLanguage": "He is playing football.",
+      "id": "bc4e30d71f46",
+      "priority": 0,
+      "group": "82309e2dcfe8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wón gra we football.",
+      "meaning": "He is playing football.",
+      "audio": "aed4b123f79c4d5a16fe6cd27e681ed178415e87c4511e119a8b84e472d7517c",
+      "id": "221fb3ace0b7",
+      "priority": 1,
+      "group": "82309e2dcfe8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nwón"
+        },
+        {
+          "word": "is",
+          "definition": "jo\nundefined"
+        },
+        {
+          "word": "playing",
+          "definition": "undefined"
+        },
+        {
+          "word": "football.",
+          "definition": "football\nundefined"
+        }
+      ],
+      "chips": [
+        "Wón",
+        "gra",
+        "we",
+        "football",
+        "Ja",
+        "Ta",
+        "Na"
+      ],
+      "solutions": [
+        [
+          "Wón",
+          "gra",
+          "we",
+          "football"
+        ]
+      ],
+      "formattedSolution": "Wón gra we football.",
+      "id": "7b347880e379",
+      "priority": 2,
+      "group": "82309e2dcfe8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wón",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "gra",
+          "definition": "game\nundefined"
+        },
+        {
+          "word": "we",
+          "definition": "undefined"
+        },
+        {
+          "word": "football.",
+          "definition": "football\nundefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "playing",
+        "football",
+        "it",
+        "in",
+        "an"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "playing",
+          "football"
+        ]
+      ],
+      "formattedSolution": "He is playing football.",
+      "id": "e357dc59b292",
+      "priority": 2,
+      "group": "82309e2dcfe8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My glědomy film.",
+      "meaningInSourceLanguage": "We are watching a film.",
+      "id": "becb2ce9a53d",
+      "priority": 0,
+      "group": "7f622276b7f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "My glědomy film.",
+      "meaning": "We are watching a film.",
+      "audio": "4dd9c439af64e180865171d67fbb85bd4d403fd037a4a366382535d97dd8c1ae",
+      "id": "1951de8def30",
+      "priority": 1,
+      "group": "7f622276b7f1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "my\nundefined"
+        },
+        {
+          "word": "are",
+          "definition": "smy\nsu\nsy\nsćo\nundefined"
+        },
+        {
+          "word": "watching",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "film.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "glědomy",
+        "film",
+        "dom",
+        "lě"
+      ],
+      "solutions": [
+        [
+          "My",
+          "glědomy",
+          "film"
+        ]
+      ],
+      "formattedSolution": "My glědomy film.",
+      "id": "830b636aff47",
+      "priority": 2,
+      "group": "7f622276b7f1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined\nwe"
+        },
+        {
+          "word": "glědomy",
+          "definition": "undefined"
+        },
+        {
+          "word": "film.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "watching",
+        "a",
+        "film",
+        "am",
+        "at",
+        "an",
+        "in"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "watching",
+          "a",
+          "film"
+        ]
+      ],
+      "formattedSolution": "We are watching a film.",
+      "id": "340b369ab3a4",
+      "priority": 2,
+      "group": "7f622276b7f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wóni słuchaju muziku.",
+      "meaningInSourceLanguage": "They are listening to music.",
+      "id": "1e793eaf0c3e",
+      "priority": 0,
+      "group": "f5a14835bc18"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wóni słuchaju muziku.",
+      "meaning": "They are listening to music.",
+      "audio": "91cbab4ce76d83020314e982b7785ec24d4b60568c50e01c4a2aefa2d5ac1bf6",
+      "id": "33dc1b539a9a",
+      "priority": 1,
+      "group": "f5a14835bc18"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "undefined\nwone\nwóni"
+        },
+        {
+          "word": "are",
+          "definition": "smy\nsu\nsy\nsćo\nundefined"
+        },
+        {
+          "word": "listening",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "music.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Wóni",
+        "słuchaju",
+        "muziku",
+        "maju",
+        "muzika"
+      ],
+      "solutions": [
+        [
+          "Wóni",
+          "słuchaju",
+          "muziku"
+        ]
+      ],
+      "formattedSolution": "Wóni słuchaju muziku.",
+      "id": "dd4deb0f39e4",
+      "priority": 2,
+      "group": "f5a14835bc18"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wóni",
+          "definition": "they\nundefined"
+        },
+        {
+          "word": "słuchaju",
+          "definition": "undefined"
+        },
+        {
+          "word": "muziku.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "They",
+        "are",
+        "listening",
+        "to",
+        "music",
+        "me",
+        "the",
+        "see",
+        "ten"
+      ],
+      "solutions": [
+        [
+          "They",
+          "are",
+          "listening",
+          "to",
+          "music"
+        ]
+      ],
+      "formattedSolution": "They are listening to music.",
+      "id": "ecd718ecb81f",
+      "priority": 2,
+      "group": "f5a14835bc18"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wóna sedźi a cyta.",
+      "meaningInSourceLanguage": "She is sitting and reading.",
+      "id": "ca6cad4d0f7e",
+      "priority": 0,
+      "group": "5a5ad2d023c7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wóna sedźi a cyta.",
+      "meaning": "She is sitting and reading.",
+      "audio": "8095ac55ec3ffce7403930cad912eefe4ec50b1ed58572a561499cd3f07c88e4",
+      "id": "b256f21963bc",
+      "priority": 1,
+      "group": "5a5ad2d023c7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nwóna"
+        },
+        {
+          "word": "is",
+          "definition": "jo\nundefined"
+        },
+        {
+          "word": "sitting",
+          "definition": "undefined"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "reading.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Wóna",
+        "sedźi",
+        "a",
+        "cyta",
+        "da",
+        "Wóda",
+        "sna"
+      ],
+      "solutions": [
+        [
+          "Wóna",
+          "sedźi",
+          "a",
+          "cyta"
+        ]
+      ],
+      "formattedSolution": "Wóna sedźi a cyta.",
+      "id": "d2547f830cd9",
+      "priority": 2,
+      "group": "5a5ad2d023c7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wóna",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "sedźi",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "cyta.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "is",
+        "sitting",
+        "and",
+        "reading",
+        "in",
+        "an",
+        "ink",
+        "it"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is",
+          "sitting",
+          "and",
+          "reading"
+        ]
+      ],
+      "formattedSolution": "She is sitting and reading.",
+      "id": "1a17ca3335ab",
+      "priority": 2,
+      "group": "5a5ad2d023c7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja mólojom wobraz.",
+      "meaningInSourceLanguage": "I am painting a picture.",
+      "id": "a8054b90b805",
+      "priority": 0,
+      "group": "600b84ea8f5e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ja mólojom wobraz.",
+      "meaning": "I am painting a picture.",
+      "audio": "6d13d133a7c44c759e2a14a3804c3e4cf0697f5b8e9aa135f007d0e753a16506",
+      "id": "f198606cdbf6",
+      "priority": 1,
+      "group": "600b84ea8f5e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "ja"
+        },
+        {
+          "word": "am",
+          "definition": "som\nundefined"
+        },
+        {
+          "word": "painting",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "picture.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "mólojom",
+        "wobraz",
+        "moja",
+        "jo"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "mólojom",
+          "wobraz"
+        ]
+      ],
+      "formattedSolution": "Ja mólojom wobraz.",
+      "id": "c5be610a31b3",
+      "priority": 2,
+      "group": "600b84ea8f5e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "mólojom",
+          "definition": "undefined"
+        },
+        {
+          "word": "wobraz.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "painting",
+        "a",
+        "picture",
+        "at",
+        "it",
+        "an",
+        "in"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "painting",
+          "a",
+          "picture"
+        ]
+      ],
+      "formattedSolution": "I am painting a picture.",
+      "id": "f31e418d4711",
+      "priority": 2,
+      "group": "600b84ea8f5e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wón spiwa spiwnki.",
+      "meaningInSourceLanguage": "He is singing songs.",
+      "id": "e9af87f16907",
+      "priority": 0,
+      "group": "d4e12278b41b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wón spiwa spiwnki.",
+      "meaning": "He is singing songs.",
+      "audio": "9b20d0037781abb7a19e0f6dfdf72c6cbf2d0afb9ec6a0c02eca2ea49875143c",
+      "id": "aef2f6bffddf",
+      "priority": 1,
+      "group": "d4e12278b41b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nwón"
+        },
+        {
+          "word": "is",
+          "definition": "jo\nundefined"
+        },
+        {
+          "word": "singing",
+          "definition": "undefined"
+        },
+        {
+          "word": "songs.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Wón",
+        "spiwa",
+        "spiwnki",
+        "piwa",
+        "spi"
+      ],
+      "solutions": [
+        [
+          "Wón",
+          "spiwa",
+          "spiwnki"
+        ]
+      ],
+      "formattedSolution": "Wón spiwa spiwnki.",
+      "id": "8ab6739b2adb",
+      "priority": 2,
+      "group": "d4e12278b41b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wón",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "spiwa",
+          "definition": "undefined"
+        },
+        {
+          "word": "spiwnki.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "singing",
+        "songs",
+        "in",
+        "so",
+        "son"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "singing",
+          "songs"
+        ]
+      ],
+      "formattedSolution": "He is singing songs.",
+      "id": "330a8145a0b0",
+      "priority": 2,
+      "group": "d4e12278b41b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wy wuknuśo se rěcy.",
+      "meaningInSourceLanguage": "You are learning a language.",
+      "id": "2994a697c615",
+      "priority": 0,
+      "group": "30e2eb6fcd6d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wy wuknuśo se rěcy.",
+      "meaning": "You are learning a language.",
+      "audio": "557a271fadac092ff00f1c70220f8cfb4d130d8c11df3d23712f467850c5a833",
+      "id": "110b404eeb91",
+      "priority": 1,
+      "group": "30e2eb6fcd6d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You",
+          "definition": "ty\nundefined\nwy"
+        },
+        {
+          "word": "are",
+          "definition": "smy\nsu\nsy\nsćo\nundefined"
+        },
+        {
+          "word": "learning",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "language.",
+          "definition": "rěc\nundefined"
+        }
+      ],
+      "chips": [
+        "Wy",
+        "wuknuśo",
+        "se",
+        "rěcy",
+        "sy",
+        "wy",
+        "My"
+      ],
+      "solutions": [
+        [
+          "Wy",
+          "wuknuśo",
+          "se",
+          "rěcy"
+        ]
+      ],
+      "formattedSolution": "Wy wuknuśo se rěcy.",
+      "id": "559a16e5c9ff",
+      "priority": 2,
+      "group": "30e2eb6fcd6d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wy",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "wuknuśo",
+          "definition": "undefined"
+        },
+        {
+          "word": "se",
+          "definition": "undefined"
+        },
+        {
+          "word": "rěcy.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "You",
+        "are",
+        "learning",
+        "a",
+        "language",
+        "an",
+        "age",
+        "ear",
+        "am"
+      ],
+      "solutions": [
+        [
+          "You",
+          "are",
+          "learning",
+          "a",
+          "language"
+        ]
+      ],
+      "formattedSolution": "You are learning a language.",
+      "id": "f4a64b5fe082",
+      "priority": 2,
+      "group": "30e2eb6fcd6d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja šyjom woblac.",
+      "meaningInSourceLanguage": "I am sewing clothes.",
+      "id": "b720577f5740",
+      "priority": 0,
+      "group": "7c9ecbce042a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ja šyjom woblac.",
+      "meaning": "I am sewing clothes.",
+      "audio": "a27f7276842e3c7109a22b61081172c1664d21d8737d95586a73a122b2cd0ff5",
+      "id": "80c126a992d3",
+      "priority": 1,
+      "group": "7c9ecbce042a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "ja"
+        },
+        {
+          "word": "am",
+          "definition": "som\nundefined"
+        },
+        {
+          "word": "sewing",
+          "definition": "undefined"
+        },
+        {
+          "word": "clothes.",
+          "definition": "undefined\nwoblac"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "šyjom",
+        "woblac",
+        "jo",
+        "ja"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "šyjom",
+          "woblac"
+        ]
+      ],
+      "formattedSolution": "Ja šyjom woblac.",
+      "id": "ef90bfd11d6f",
+      "priority": 2,
+      "group": "7c9ecbce042a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "šyjom",
+          "definition": "undefined"
+        },
+        {
+          "word": "woblac.",
+          "definition": "clothes\nundefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "sewing",
+        "clothes",
+        "is",
+        "We",
+        "a"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "sewing",
+          "clothes"
+        ]
+      ],
+      "formattedSolution": "I am sewing clothes.",
+      "id": "62732244ee7d",
+      "priority": 2,
+      "group": "7c9ecbce042a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ty glědaš seriju?",
+      "meaningInSourceLanguage": "Are you watching a series?",
+      "id": "8b96ac9358eb",
+      "priority": 0,
+      "group": "69e13bd78013"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ty glědaš seriju?",
+      "meaning": "Are you watching a series?",
+      "audio": "9d7158028199501653374e8cc21f6c900a6f2b4af57d3a24fc04cd5a0bd81b90",
+      "id": "39a7c4ed3236",
+      "priority": 1,
+      "group": "69e13bd78013"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "smy\nsu\nsy\nsćo\nundefined"
+        },
+        {
+          "word": "you",
+          "definition": "ty\nundefined\nwy"
+        },
+        {
+          "word": "watching",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "series?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "glědaš",
+        "seriju",
+        "Ta",
+        "su"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "glědaš",
+          "seriju"
+        ]
+      ],
+      "formattedSolution": "Ty glědaš seriju?",
+      "id": "81006f24ccf9",
+      "priority": 2,
+      "group": "69e13bd78013"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "glědaš",
+          "definition": "undefined"
+        },
+        {
+          "word": "seriju?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Are",
+        "you",
+        "watching",
+        "a",
+        "series",
+        "are",
+        "is",
+        "the",
+        "his"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "you",
+          "watching",
+          "a",
+          "series"
+        ]
+      ],
+      "formattedSolution": "Are you watching a series?",
+      "id": "11fe2dc91b63",
+      "priority": 2,
+      "group": "69e13bd78013"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My gramy w šach.",
+      "meaningInSourceLanguage": "We are playing chess.",
+      "id": "bfe41f7e921b",
+      "priority": 0,
+      "group": "25342b9cb176"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "My gramy w šach.",
+      "meaning": "We are playing chess.",
+      "audio": "ff988e7b2687faac02a2292ecd2f696e5ced5a538b3548c83cd05ce6bdc4e508",
+      "id": "ab80c076841c",
+      "priority": 1,
+      "group": "25342b9cb176"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "my\nundefined"
+        },
+        {
+          "word": "are",
+          "definition": "smy\nsu\nsy\nsćo\nundefined"
+        },
+        {
+          "word": "playing",
+          "definition": "undefined"
+        },
+        {
+          "word": "chess.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "gramy",
+        "w",
+        "šach",
+        "my",
+        "Ja",
+        "Wy"
+      ],
+      "solutions": [
+        [
+          "My",
+          "gramy",
+          "w",
+          "šach"
+        ]
+      ],
+      "formattedSolution": "My gramy w šach.",
+      "id": "8872c8b1d23f",
+      "priority": 2,
+      "group": "25342b9cb176"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined\nwe"
+        },
+        {
+          "word": "gramy",
+          "definition": "undefined"
+        },
+        {
+          "word": "w",
+          "definition": "undefined"
+        },
+        {
+          "word": "šach.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "playing",
+        "chess",
+        "age",
+        "She",
+        "Are"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "playing",
+          "chess"
+        ]
+      ],
+      "formattedSolution": "We are playing chess.",
+      "id": "c3d7eb208f8a",
+      "priority": 2,
+      "group": "25342b9cb176"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wóni słuchaju radio.",
+      "meaningInSourceLanguage": "They are listening to the radio.",
+      "id": "b0990e561053",
+      "priority": 0,
+      "group": "f69dc79ef5cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wóni słuchaju radio.",
+      "meaning": "They are listening to the radio.",
+      "audio": "a746ef9cc59598db2b886264f1aece0187691bb56c753d189df4115afc4c1785",
+      "id": "97aee99f30ab",
+      "priority": 1,
+      "group": "f69dc79ef5cc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "undefined\nwone\nwóni"
+        },
+        {
+          "word": "are",
+          "definition": "smy\nsu\nsy\nsćo\nundefined"
+        },
+        {
+          "word": "listening",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "radio.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Wóni",
+        "słuchaju",
+        "radio",
+        "Wóna",
+        "ranjo"
+      ],
+      "solutions": [
+        [
+          "Wóni",
+          "słuchaju",
+          "radio"
+        ]
+      ],
+      "formattedSolution": "Wóni słuchaju radio.",
+      "id": "97db5e3199e6",
+      "priority": 2,
+      "group": "f69dc79ef5cc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wóni",
+          "definition": "they\nundefined"
+        },
+        {
+          "word": "słuchaju",
+          "definition": "undefined"
+        },
+        {
+          "word": "radio.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "They",
+        "are",
+        "listening",
+        "to",
+        "the",
+        "radio",
+        "The",
+        "She",
+        "then",
+        "ten",
+        "they"
+      ],
+      "solutions": [
+        [
+          "They",
+          "are",
+          "listening",
+          "to",
+          "the",
+          "radio"
+        ]
+      ],
+      "formattedSolution": "They are listening to the radio.",
+      "id": "2151e47aa2d7",
+      "priority": 2,
+      "group": "f69dc79ef5cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Cytaš ty romany?",
+      "meaningInSourceLanguage": "Do you read novels?",
+      "id": "5ff202022224",
+      "priority": 0,
+      "group": "a0daf09a80d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Cytaš ty romany?",
+      "meaning": "Do you read novels?",
+      "audio": "bb312174d9ea3fb1f4ca1d0468088d24a5fdc748f92777eb53cc44174520dbb6",
+      "id": "1b99f1779ecb",
+      "priority": 1,
+      "group": "a0daf09a80d0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Do",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "ty\nundefined\nwy"
+        },
+        {
+          "word": "read",
+          "definition": "undefined"
+        },
+        {
+          "word": "novels?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Cytaš",
+        "ty",
+        "romany",
+        "My",
+        "Wy"
+      ],
+      "solutions": [
+        [
+          "Cytaš",
+          "ty",
+          "romany"
+        ]
+      ],
+      "formattedSolution": "Cytaš ty romany?",
+      "id": "06aaac207d80",
+      "priority": 2,
+      "group": "a0daf09a80d0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Cytaš",
+          "definition": "undefined"
+        },
+        {
+          "word": "ty",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "romany?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Do",
+        "you",
+        "read",
+        "novels",
+        "You",
+        "not",
+        "To"
+      ],
+      "solutions": [
+        [
+          "Do",
+          "you",
+          "read",
+          "novels"
+        ]
+      ],
+      "formattedSolution": "Do you read novels?",
+      "id": "377d537c29dc",
+      "priority": 2,
+      "group": "a0daf09a80d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wón pišo źiśownick.",
+      "meaningInSourceLanguage": "He is writing a diary.",
+      "id": "ba76b69a6c1a",
+      "priority": 0,
+      "group": "f2600caee911"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wón pišo źiśownick.",
+      "meaning": "He is writing a diary.",
+      "audio": "d376c24281e890dd470f8f24ca20adc74dd4473890acb2ff96dfaf553b51531d",
+      "id": "147c194cc320",
+      "priority": 1,
+      "group": "f2600caee911"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nwón"
+        },
+        {
+          "word": "is",
+          "definition": "jo\nundefined"
+        },
+        {
+          "word": "writing",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "diary.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Wón",
+        "pišo",
+        "źiśownick",
+        "Wóni",
+        "piwo"
+      ],
+      "solutions": [
+        [
+          "Wón",
+          "pišo",
+          "źiśownick"
+        ]
+      ],
+      "formattedSolution": "Wón pišo źiśownick.",
+      "id": "626dcbb06199",
+      "priority": 2,
+      "group": "f2600caee911"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wón",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "pišo",
+          "definition": "undefined"
+        },
+        {
+          "word": "źiśownick.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "writing",
+        "a",
+        "diary",
+        "it",
+        "in",
+        "at",
+        "an"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "writing",
+          "a",
+          "diary"
+        ]
+      ],
+      "formattedSolution": "He is writing a diary.",
+      "id": "00afcc3cbda3",
+      "priority": 2,
+      "group": "f2600caee911"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wuknomy se how.",
+      "meaningInSourceLanguage": "We are learning here.",
+      "id": "044eee5ea357",
+      "priority": 0,
+      "group": "8ba761ab4e02"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wuknomy se how.",
+      "meaning": "We are learning here.",
+      "audio": "7919ec705485a4ea6751e488bd25c32bf79313b3e97990906a8d83013ddf7d1b",
+      "id": "e4c06f26d9ee",
+      "priority": 1,
+      "group": "8ba761ab4e02"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "my\nundefined"
+        },
+        {
+          "word": "are",
+          "definition": "smy\nsu\nsy\nsćo\nundefined"
+        },
+        {
+          "word": "learning",
+          "definition": "undefined"
+        },
+        {
+          "word": "here.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Wuknomy",
+        "se",
+        "how",
+        "som",
+        "To"
+      ],
+      "solutions": [
+        [
+          "Wuknomy",
+          "se",
+          "how"
+        ]
+      ],
+      "formattedSolution": "Wuknomy se how.",
+      "id": "8a1133e501ba",
+      "priority": 2,
+      "group": "8ba761ab4e02"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wuknomy",
+          "definition": "undefined"
+        },
+        {
+          "word": "se",
+          "definition": "undefined"
+        },
+        {
+          "word": "how.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "learning",
+        "here",
+        "Are",
+        "her",
+        "Here"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "learning",
+          "here"
+        ]
+      ],
+      "formattedSolution": "We are learning here.",
+      "id": "74d6d2b8e2bd",
+      "priority": 2,
+      "group": "8ba761ab4e02"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mólojomy z pśijaśelami wobraze.",
+      "meaningInSourceLanguage": "We are painting pictures with friends.",
+      "id": "41bfab2c43aa",
+      "priority": 0,
+      "group": "2febd555d9ec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Mólojomy z pśijaśelami wobraze.",
+      "meaning": "We are painting pictures with friends.",
+      "audio": "145de74665ddde377cb68771e0187dcf21055fba13f7dc45d6288d540d7106da",
+      "id": "6ad96a8efa31",
+      "priority": 1,
+      "group": "2febd555d9ec"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "my\nundefined"
+        },
+        {
+          "word": "are",
+          "definition": "smy\nsu\nsy\nsćo\nundefined"
+        },
+        {
+          "word": "painting",
+          "definition": "undefined"
+        },
+        {
+          "word": "pictures",
+          "definition": "undefined"
+        },
+        {
+          "word": "with",
+          "definition": "undefined"
+        },
+        {
+          "word": "friends.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Mólojomy",
+        "z",
+        "pśijaśelami",
+        "wobraze",
+        "wobraz",
+        "pólami",
+        "moja"
+      ],
+      "solutions": [
+        [
+          "Mólojomy",
+          "z",
+          "pśijaśelami",
+          "wobraze"
+        ]
+      ],
+      "formattedSolution": "Mólojomy z pśijaśelami wobraze.",
+      "id": "328f8f749679",
+      "priority": 2,
+      "group": "2febd555d9ec"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Mólojomy",
+          "definition": "undefined"
+        },
+        {
+          "word": "z",
+          "definition": "undefined"
+        },
+        {
+          "word": "pśijaśelami",
+          "definition": "undefined"
+        },
+        {
+          "word": "wobraze.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "painting",
+        "pictures",
+        "with",
+        "friends",
+        "it",
+        "wine",
+        "lies",
+        "nine",
+        "is"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "painting",
+          "pictures",
+          "with",
+          "friends"
+        ]
+      ],
+      "formattedSolution": "We are painting pictures with friends.",
+      "id": "90a0e6df5c51",
+      "priority": 2,
+      "group": "2febd555d9ec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ty šyješ?",
+      "meaningInSourceLanguage": "Are you sewing?",
+      "id": "1a9e70c5c6a7",
+      "priority": 0,
+      "group": "2d112b2145d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ty šyješ?",
+      "meaning": "Are you sewing?",
+      "audio": "f27416fe504067d42b49f0f9fa3a458ac6c9c3087a1bd9727e0d224d221c9ab4",
+      "id": "3e2903c60e8d",
+      "priority": 1,
+      "group": "2d112b2145d8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "smy\nsu\nsy\nsćo\nundefined"
+        },
+        {
+          "word": "you",
+          "definition": "ty\nundefined\nwy"
+        },
+        {
+          "word": "sewing?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ty",
+        "šyješ",
+        "My",
+        "Wy"
+      ],
+      "solutions": [
+        [
+          "Ty",
+          "šyješ"
+        ]
+      ],
+      "formattedSolution": "Ty šyješ?",
+      "id": "3ccbbe19155b",
+      "priority": 2,
+      "group": "2d112b2145d8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ty",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "šyješ?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Are",
+        "you",
+        "sewing",
+        "son",
+        "see"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "you",
+          "sewing"
+        ]
+      ],
+      "formattedSolution": "Are you sewing?",
+      "id": "99c01ba4a9ef",
+      "priority": 2,
+      "group": "2d112b2145d8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja spiwyjom z grupu.",
+      "meaningInSourceLanguage": "I am singing with a group.",
+      "id": "b9d58e0d82c1",
+      "priority": 0,
+      "group": "7add6ab27b55"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ja spiwyjom z grupu.",
+      "meaning": "I am singing with a group.",
+      "audio": "d735c018e0e32af588a02b94857a6e782abfe8ccbb0c4ffe931917406b51c996",
+      "id": "a16d584806b1",
+      "priority": 1,
+      "group": "7add6ab27b55"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "ja"
+        },
+        {
+          "word": "am",
+          "definition": "som\nundefined"
+        },
+        {
+          "word": "singing",
+          "definition": "undefined"
+        },
+        {
+          "word": "with",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "group.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "spiwyjom",
+        "z",
+        "grupu",
+        "jo",
+        "su",
+        "sy"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "spiwyjom",
+          "z",
+          "grupu"
+        ]
+      ],
+      "formattedSolution": "Ja spiwyjom z grupu.",
+      "id": "e2b792a53271",
+      "priority": 2,
+      "group": "7add6ab27b55"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "spiwyjom",
+          "definition": "undefined"
+        },
+        {
+          "word": "z",
+          "definition": "undefined"
+        },
+        {
+          "word": "grupu.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "singing",
+        "with",
+        "a",
+        "group",
+        "it",
+        "in",
+        "at",
+        "an",
+        "is"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "singing",
+          "with",
+          "a",
+          "group"
+        ]
+      ],
+      "formattedSolution": "I am singing with a group.",
+      "id": "cfe1250cc5d2",
+      "priority": 2,
+      "group": "7add6ab27b55"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ja tancyrujom wjele",
+      "meaningInSourceLanguage": "I dance a lot",
+      "id": "79529d7d71de",
+      "priority": 0,
+      "group": "cfcb6cad8772"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ja tancyrujom wjele",
+      "meaning": "I dance a lot",
+      "audio": "2a3fefb83b2ec9a2b422eb966321a2199d8972f2a466ed24f7253dbb14773f4c",
+      "id": "f624a7bb207e",
+      "priority": 1,
+      "group": "cfcb6cad8772"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "ja"
+        },
+        {
+          "word": "dance",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "lot",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ja",
+        "tancyrujom",
+        "wjele",
+        "jo",
+        "nje"
+      ],
+      "solutions": [
+        [
+          "Ja",
+          "tancyrujom",
+          "wjele"
+        ]
+      ],
+      "formattedSolution": "Ja tancyrujom wjele",
+      "id": "aa48a40fb0cb",
+      "priority": 2,
+      "group": "cfcb6cad8772"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ja",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "tancyrujom",
+          "definition": "undefined"
+        },
+        {
+          "word": "wjele",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "dance",
+        "a",
+        "lot",
+        "at",
+        "an",
+        "da"
+      ],
+      "solutions": [
+        [
+          "I",
+          "dance",
+          "a",
+          "lot"
+        ]
+      ],
+      "formattedSolution": "I dance a lot",
+      "id": "6df2f78583fc",
+      "priority": 2,
+      "group": "cfcb6cad8772"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wóna gra na gitaru.",
+      "meaningInSourceLanguage": "She is playing the guitar.",
+      "id": "984aa66391b2",
+      "priority": 0,
+      "group": "1841172ff420"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wóna gra na gitaru.",
+      "meaning": "She is playing the guitar.",
+      "audio": "1d46c571a14759c0bb4abd1b73d0dac5c333c9ae91805430a2c0f5cf102db592",
+      "id": "c3f0c99b2b04",
+      "priority": 1,
+      "group": "1841172ff420"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nwóna"
+        },
+        {
+          "word": "is",
+          "definition": "jo\nundefined"
+        },
+        {
+          "word": "playing",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "guitar.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Wóna",
+        "gra",
+        "na",
+        "gitaru",
+        "zna",
+        "sna",
+        "Ja"
+      ],
+      "solutions": [
+        [
+          "Wóna",
+          "gra",
+          "na",
+          "gitaru"
+        ]
+      ],
+      "formattedSolution": "Wóna gra na gitaru.",
+      "id": "2d7e96f2aa49",
+      "priority": 2,
+      "group": "1841172ff420"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Wóna",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "gra",
+          "definition": "game\nundefined"
+        },
+        {
+          "word": "na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "gitaru.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "is",
+        "playing",
+        "the",
+        "guitar",
+        "it",
+        "in",
+        "air",
+        "are"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is",
+          "playing",
+          "the",
+          "guitar"
+        ]
+      ],
+      "formattedSolution": "She is playing the guitar.",
+      "id": "6686fcc34149",
+      "priority": 2,
+      "group": "1841172ff420"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cytaś",
+      "meaningInSourceLanguage": "to read",
+      "id": "f506b3949fd5",
+      "priority": 0,
+      "group": "2485fb701850"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cytaś"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "read",
+          "definition": "undefined"
+        }
+      ],
+      "id": "162ec8dcb852",
+      "priority": 1,
+      "group": "2485fb701850"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cytaś",
+      "meaning": "to read",
+      "audio": "060dca6b9b4adce1892f6eb6c067a7fa1d6b1ef6debd4277cd1d89c41f0cef51",
+      "id": "b52993bab9ed",
+      "priority": 1,
+      "group": "2485fb701850"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pisaś (pišo)",
+      "meaningInSourceLanguage": "to write",
+      "id": "6e5e5bdbdffb",
+      "priority": 0,
+      "group": "4e8c3cb09ba2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pisaś (pišo)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "write",
+          "definition": "undefined"
+        }
+      ],
+      "id": "8806f8d25c3c",
+      "priority": 1,
+      "group": "4e8c3cb09ba2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pisaś (pišo)",
+      "meaning": "to write",
+      "audio": "7e6e39e620945d1ed25e0915b72a91155aab94c60de15fadea7a49f058aea5b8",
+      "id": "6785f196c00d",
+      "priority": 1,
+      "group": "4e8c3cb09ba2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "graś",
+      "meaningInSourceLanguage": "to play",
+      "id": "df15dba18e09",
+      "priority": 0,
+      "group": "d81f63358be8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "graś"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "play",
+          "definition": "undefined"
+        }
+      ],
+      "id": "8a25c0d9bc65",
+      "priority": 1,
+      "group": "d81f63358be8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "graś",
+      "meaning": "to play",
+      "audio": "5de3ac6b4ce0bba9666ec0c8b2038af7866f1a61a8dfad45ca64461ff75bcf63",
+      "id": "41bd9aeb08f1",
+      "priority": 1,
+      "group": "d81f63358be8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "glědaś",
+      "meaningInSourceLanguage": "to watch",
+      "id": "dceeef693409",
+      "priority": 0,
+      "group": "d8b70ff54e5f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "glědaś"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "watch",
+          "definition": "undefined"
+        }
+      ],
+      "id": "79ba2ae38d64",
+      "priority": 1,
+      "group": "d8b70ff54e5f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "glědaś",
+      "meaning": "to watch",
+      "audio": "b506a5417d1fa9081b7761bca18db496c1a4a419c757fb91aed7d9ee0bb06185",
+      "id": "efe98924d17c",
+      "priority": 1,
+      "group": "d8b70ff54e5f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "słuchaś",
+      "meaningInSourceLanguage": "to listen",
+      "id": "96f64bebb403",
+      "priority": 0,
+      "group": "0c0ce0ef1a37"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "słuchaś"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "listen",
+          "definition": "undefined"
+        }
+      ],
+      "id": "834a3f1fff8e",
+      "priority": 1,
+      "group": "0c0ce0ef1a37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "słuchaś",
+      "meaning": "to listen",
+      "audio": "2d0e4a21dab3842463f94aac793761b547893f1f556fdc0a83b390c8859a853e",
+      "id": "d46459a38825",
+      "priority": 1,
+      "group": "0c0ce0ef1a37"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "mólowaś",
+      "meaningInSourceLanguage": "to paint",
+      "id": "194f9b25e2e9",
+      "priority": 0,
+      "group": "d07b94858074"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "mólowaś"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "paint",
+          "definition": "undefined"
+        }
+      ],
+      "id": "0fc541d43811",
+      "priority": 1,
+      "group": "d07b94858074"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mólowaś",
+      "meaning": "to paint",
+      "audio": "8533432aa8b15c7a3270ae45b61db47419e7149918831270f3f9190fb2692b84",
+      "id": "a10b9fd3a91c",
+      "priority": 1,
+      "group": "d07b94858074"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "spiwaś",
+      "meaningInSourceLanguage": "to sing",
+      "id": "beec984612f9",
+      "priority": 0,
+      "group": "4999515a879d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "spiwaś"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "sing",
+          "definition": "undefined"
+        }
+      ],
+      "id": "5af825555021",
+      "priority": 1,
+      "group": "4999515a879d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spiwaś",
+      "meaning": "to sing",
+      "audio": "c227108424cab342a8b7d33e0a37b2f20765055778cba62c82896910843d21c8",
+      "id": "fde6a5fa3078",
+      "priority": 1,
+      "group": "4999515a879d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "wuknuś se",
+      "meaningInSourceLanguage": "to learn",
+      "id": "e71a2e52b1d3",
+      "priority": 0,
+      "group": "2c53970d3816"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "wuknuś se"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "learn",
+          "definition": "undefined"
+        }
+      ],
+      "id": "b0394ee7e85d",
+      "priority": 1,
+      "group": "2c53970d3816"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wuknuś se",
+      "meaning": "to learn",
+      "audio": "e8ad1a558ae1f2660e91330f81d3383752682329ee5a58cb031dfd8a9af1f3f8",
+      "id": "d2d3eaee4b5d",
+      "priority": 1,
+      "group": "2c53970d3816"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "sedźeś (sedźi)",
+      "meaningInSourceLanguage": "to sit",
+      "id": "aebd8b9469b3",
+      "priority": 0,
+      "group": "1abae9b7e16c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "sedźeś (sedźi)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "sit",
+          "definition": "undefined"
+        }
+      ],
+      "id": "d9ebf8cc530d",
+      "priority": 1,
+      "group": "1abae9b7e16c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sedźeś (sedźi)",
+      "meaning": "to sit",
+      "audio": "59bcd2e79b9bcbe45e46b70c9a502ee54637fcf6d026fc3ddd11777465024521",
+      "id": "cfbfef5c80ff",
+      "priority": 1,
+      "group": "1abae9b7e16c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "šyś (šyjo)",
+      "meaningInSourceLanguage": "to sew",
+      "id": "7a5c29e66879",
+      "priority": 0,
+      "group": "8c6df9aa12ef"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "šyś (šyjo)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "sew",
+          "definition": "undefined"
+        }
+      ],
+      "id": "5160c5b37970",
+      "priority": 1,
+      "group": "8c6df9aa12ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "šyś (šyjo)",
+      "meaning": "to sew",
+      "audio": "0c7d0378c94327f5491fa02439d3f85273af245f64d9f7c0e35941370c4786dc",
+      "id": "bab80a391b60",
+      "priority": 1,
+      "group": "8c6df9aa12ef"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "tancyrowaś",
+      "meaningInSourceLanguage": "to dance",
+      "id": "a95312f73f7b",
+      "priority": 0,
+      "group": "a8ec27a99349"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "tancyrowaś"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "dance",
+          "definition": "undefined"
+        }
+      ],
+      "id": "9db4195ac318",
+      "priority": 1,
+      "group": "a8ec27a99349"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tancyrowaś",
+      "meaning": "to dance",
+      "audio": "f9bb0b838c13fa5f81eb58f177494b1b5801d15fc001ad571a7bd16a9fed0433",
+      "id": "99cbfe0d1d07",
+      "priority": 1,
+      "group": "a8ec27a99349"
+    }
+  ]
+}

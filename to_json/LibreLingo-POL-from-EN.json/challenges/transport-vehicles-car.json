@@ -1,0 +1,2760 @@
+{
+  "id": "e3b95a96a7dc",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Auto stoi na ulicy.",
+      "meaningInSourceLanguage": "The car is standing on the street.",
+      "id": "917062249089",
+      "priority": 0,
+      "group": "869c59585245"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Auto stoi na ulicy.",
+      "meaning": "The car is standing on the street.",
+      "audio": "235a4f92b3fcb5b0fd8fd3f9f7b09ed447d6a461b773a58d90df25b8a9b075cf",
+      "id": "027d4b2847c3",
+      "priority": 1,
+      "group": "869c59585245"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "car",
+          "definition": "auto\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "standing",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "na\nundefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "street.",
+          "definition": "ulica\nundefined"
+        }
+      ],
+      "chips": [
+        "Auto",
+        "stoi",
+        "na",
+        "ulicy",
+        "sto",
+        "Kto",
+        "ty"
+      ],
+      "solutions": [
+        [
+          "Auto",
+          "stoi",
+          "na",
+          "ulicy"
+        ]
+      ],
+      "formattedSolution": "Auto stoi na ulicy.",
+      "id": "a9d248d42c82",
+      "priority": 2,
+      "group": "869c59585245"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Auto",
+          "definition": "car\nundefined"
+        },
+        {
+          "word": "stoi",
+          "definition": "undefined"
+        },
+        {
+          "word": "na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "ulicy.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "car",
+        "is",
+        "standing",
+        "on",
+        "the",
+        "street",
+        "are",
+        "in",
+        "an",
+        "see",
+        "ten",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "car",
+          "is",
+          "standing",
+          "on",
+          "the",
+          "street"
+        ]
+      ],
+      "formattedSolution": "The car is standing on the street.",
+      "id": "f99b47c4b386",
+      "priority": 2,
+      "group": "869c59585245"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Autobus jedzie do centrum.",
+      "meaningInSourceLanguage": "The bus goes to the center.",
+      "id": "04c7a62b3bca",
+      "priority": 0,
+      "group": "342a3aad28fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Autobus jedzie do centrum.",
+      "meaning": "The bus goes to the center.",
+      "audio": "47b92c9e32465faf2889340286ec7cdf0266f58f7a1087d6aaa6b3ea247db855",
+      "id": "c6d9899709e5",
+      "priority": 1,
+      "group": "342a3aad28fe"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bus",
+          "definition": "autobus\nundefined"
+        },
+        {
+          "word": "goes",
+          "definition": "idzie\nundefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "center.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Autobus",
+        "jedzie",
+        "do",
+        "centrum",
+        "dom",
+        "tu",
+        "domu"
+      ],
+      "solutions": [
+        [
+          "Autobus",
+          "jedzie",
+          "do",
+          "centrum"
+        ]
+      ],
+      "formattedSolution": "Autobus jedzie do centrum.",
+      "id": "7bdc750ffc9a",
+      "priority": 2,
+      "group": "342a3aad28fe"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Autobus",
+          "definition": "bus\nundefined"
+        },
+        {
+          "word": "jedzie",
+          "definition": "undefined"
+        },
+        {
+          "word": "do",
+          "definition": "undefined"
+        },
+        {
+          "word": "centrum.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bus",
+        "goes",
+        "to",
+        "the",
+        "center",
+        "She",
+        "be",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bus",
+          "goes",
+          "to",
+          "the",
+          "center"
+        ]
+      ],
+      "formattedSolution": "The bus goes to the center.",
+      "id": "fc51ba885a47",
+      "priority": 2,
+      "group": "342a3aad28fe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pociąg jedzie na stację.",
+      "meaningInSourceLanguage": "The train goes to the station.",
+      "id": "0b9bd111ed34",
+      "priority": 0,
+      "group": "3a249649f67e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Pociąg jedzie na stację.",
+      "meaning": "The train goes to the station.",
+      "audio": "b8f0674a349e5b767bb5ff6772aad668213322af8f60b94a019684d01195c027",
+      "id": "e131a2b7f472",
+      "priority": 1,
+      "group": "3a249649f67e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "train",
+          "definition": "pociąg\nundefined"
+        },
+        {
+          "word": "goes",
+          "definition": "idzie\nundefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "station.",
+          "definition": "stacja\nundefined"
+        }
+      ],
+      "chips": [
+        "Pociąg",
+        "jedzie",
+        "na",
+        "stację",
+        "ci",
+        "dacie",
+        "cię"
+      ],
+      "solutions": [
+        [
+          "Pociąg",
+          "jedzie",
+          "na",
+          "stację"
+        ]
+      ],
+      "formattedSolution": "Pociąg jedzie na stację.",
+      "id": "dc556689c855",
+      "priority": 2,
+      "group": "3a249649f67e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pociąg",
+          "definition": "train\nundefined"
+        },
+        {
+          "word": "jedzie",
+          "definition": "undefined"
+        },
+        {
+          "word": "na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "stację.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "train",
+        "goes",
+        "to",
+        "the",
+        "station",
+        "then",
+        "too",
+        "ten",
+        "thin",
+        "tea"
+      ],
+      "solutions": [
+        [
+          "The",
+          "train",
+          "goes",
+          "to",
+          "the",
+          "station"
+        ]
+      ],
+      "formattedSolution": "The train goes to the station.",
+      "id": "224fde223e90",
+      "priority": 2,
+      "group": "3a249649f67e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tu jest siedzenie. Można usiąść.",
+      "meaningInSourceLanguage": "Here is a seat. One can sit.",
+      "id": "a2b83656978d",
+      "priority": 0,
+      "group": "35361703364b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tu jest siedzenie. Można usiąść.",
+      "meaning": "Here is a seat. One can sit.",
+      "audio": "56562ec49b7baf024aab5662023608b913b26ca4e57b87b3b2d3313e2e9cf5ad",
+      "id": "f78ba951adc0",
+      "priority": 1,
+      "group": "35361703364b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Here",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "seat.",
+          "definition": "undefined"
+        },
+        {
+          "word": "One",
+          "definition": "jeden (m)\njedna (ż)\njedno (n)\nundefined"
+        },
+        {
+          "word": "can",
+          "definition": "undefined"
+        },
+        {
+          "word": "sit.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Tu",
+        "jest",
+        "siedzenie",
+        "Można",
+        "usiąść",
+        "są",
+        "snu",
+        "dni",
+        "nie"
+      ],
+      "solutions": [
+        [
+          "Tu",
+          "jest",
+          "siedzenie",
+          "Można",
+          "usiąść"
+        ]
+      ],
+      "formattedSolution": "Tu jest siedzenie. Można usiąść.",
+      "id": "a0a93f3cddae",
+      "priority": 2,
+      "group": "35361703364b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Tu",
+          "definition": "undefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "siedzenie.",
+          "definition": "undefined"
+        },
+        {
+          "word": "Można",
+          "definition": "possible\nundefined"
+        },
+        {
+          "word": "usiąść.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Here",
+        "is",
+        "a",
+        "seat",
+        "One",
+        "can",
+        "sit",
+        "at",
+        "an",
+        "eat",
+        "He",
+        "it",
+        "in"
+      ],
+      "solutions": [
+        [
+          "Here",
+          "is",
+          "a",
+          "seat",
+          "One",
+          "can",
+          "sit"
+        ]
+      ],
+      "formattedSolution": "Here is a seat. One can sit.",
+      "id": "8c99f79768e2",
+      "priority": 2,
+      "group": "35361703364b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Stacja jest duża.",
+      "meaningInSourceLanguage": "The station is big.",
+      "id": "6127869c1e85",
+      "priority": 0,
+      "group": "9347dcf28247"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Stacja jest duża.",
+      "meaning": "The station is big.",
+      "audio": "6ec1eaf87765ca88e711c9f2f91aa3aedcc09db9a8b671525f8a357acbf8f2b4",
+      "id": "097b842df96b",
+      "priority": 1,
+      "group": "9347dcf28247"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "station",
+          "definition": "stacja\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "big.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Stacja",
+        "jest",
+        "duża",
+        "moja",
+        "dużo"
+      ],
+      "solutions": [
+        [
+          "Stacja",
+          "jest",
+          "duża"
+        ]
+      ],
+      "formattedSolution": "Stacja jest duża.",
+      "id": "62611411b0c9",
+      "priority": 2,
+      "group": "9347dcf28247"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Stacja",
+          "definition": "station\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "duża.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "station",
+        "is",
+        "big",
+        "in",
+        "it",
+        "his"
+      ],
+      "solutions": [
+        [
+          "The",
+          "station",
+          "is",
+          "big"
+        ]
+      ],
+      "formattedSolution": "The station is big.",
+      "id": "fb0f4b118dbb",
+      "priority": 2,
+      "group": "9347dcf28247"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Szofer/Kierowca jedzie szybko.",
+      "meaningInSourceLanguage": "The driver drives fast.",
+      "id": "2a6a28888df9",
+      "priority": 0,
+      "group": "1203588bb9d5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Szofer/Kierowca jedzie szybko.",
+      "meaning": "The driver drives fast.",
+      "audio": "46cf2637bc545f5abe0892fcbbb81b870eaeefdd178d0f22fa6545c71c433ea2",
+      "id": "2ce268d104bb",
+      "priority": 1,
+      "group": "1203588bb9d5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "driver",
+          "definition": "szofer/kierowca\nundefined"
+        },
+        {
+          "word": "drives",
+          "definition": "undefined"
+        },
+        {
+          "word": "fast.",
+          "definition": "szybko\nundefined"
+        }
+      ],
+      "chips": [
+        "Szofer/Kierowca",
+        "jedzie",
+        "szybko",
+        "dzień",
+        "torbie"
+      ],
+      "solutions": [
+        [
+          "Szofer/Kierowca",
+          "jedzie",
+          "szybko"
+        ]
+      ],
+      "formattedSolution": "Szofer/Kierowca jedzie szybko.",
+      "id": "1d48baf7cd8d",
+      "priority": 2,
+      "group": "1203588bb9d5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Szofer/Kierowca",
+          "definition": "driver\nundefined"
+        },
+        {
+          "word": "jedzie",
+          "definition": "undefined"
+        },
+        {
+          "word": "szybko.",
+          "definition": "fast\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "driver",
+        "drives",
+        "fast",
+        "river",
+        "five",
+        "are"
+      ],
+      "solutions": [
+        [
+          "The",
+          "driver",
+          "drives",
+          "fast"
+        ]
+      ],
+      "formattedSolution": "The driver drives fast.",
+      "id": "ecd3bad4d528",
+      "priority": 2,
+      "group": "1203588bb9d5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Droga idzie przez las.",
+      "meaningInSourceLanguage": "The road goes through the forest.",
+      "id": "49e196926eb2",
+      "priority": 0,
+      "group": "4ce1c397e454"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Droga idzie przez las.",
+      "meaning": "The road goes through the forest.",
+      "audio": "a3ae70878e40026073b1a1ea4c7efc8311fe6bc7e7d95c5218765eb17fd436c2",
+      "id": "3949b2885f18",
+      "priority": 1,
+      "group": "4ce1c397e454"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "road",
+          "definition": "droga\nundefined"
+        },
+        {
+          "word": "goes",
+          "definition": "idzie\nundefined"
+        },
+        {
+          "word": "through",
+          "definition": "przez\nundefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "forest.",
+          "definition": "las\nundefined"
+        }
+      ],
+      "chips": [
+        "Droga",
+        "idzie",
+        "przez",
+        "las",
+        "za",
+        "ze",
+        "przed"
+      ],
+      "solutions": [
+        [
+          "Droga",
+          "idzie",
+          "przez",
+          "las"
+        ]
+      ],
+      "formattedSolution": "Droga idzie przez las.",
+      "id": "f25365a81cbf",
+      "priority": 2,
+      "group": "4ce1c397e454"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Droga",
+          "definition": "road\nundefined"
+        },
+        {
+          "word": "idzie",
+          "definition": "goes\nundefined"
+        },
+        {
+          "word": "przez",
+          "definition": "through\nundefined"
+        },
+        {
+          "word": "las.",
+          "definition": "forest\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "road",
+        "goes",
+        "through",
+        "the",
+        "forest",
+        "does",
+        "She",
+        "rose",
+        "then",
+        "them"
+      ],
+      "solutions": [
+        [
+          "The",
+          "road",
+          "goes",
+          "through",
+          "the",
+          "forest"
+        ]
+      ],
+      "formattedSolution": "The road goes through the forest.",
+      "id": "9af52aea2b22",
+      "priority": 2,
+      "group": "4ce1c397e454"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Most łączy dwa miasta.",
+      "meaningInSourceLanguage": "The bridge connects two cities.",
+      "id": "bfcb02785474",
+      "priority": 0,
+      "group": "e9396712327c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Most łączy dwa miasta.",
+      "meaning": "The bridge connects two cities.",
+      "audio": "39c0fe432dcf65e8be111da6d5db963e42443f92ebcee63f88ca38616c530bc7",
+      "id": "a38df5fa3ebd",
+      "priority": 1,
+      "group": "e9396712327c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bridge",
+          "definition": "most\nundefined"
+        },
+        {
+          "word": "connects",
+          "definition": "undefined"
+        },
+        {
+          "word": "two",
+          "definition": "dwa (m/n)\ndwie (ż)\nundefined"
+        },
+        {
+          "word": "cities.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Most",
+        "łączy",
+        "dwa",
+        "miasta",
+        "masz",
+        "was",
+        "masy"
+      ],
+      "solutions": [
+        [
+          "Most",
+          "łączy",
+          "dwa",
+          "miasta"
+        ]
+      ],
+      "formattedSolution": "Most łączy dwa miasta.",
+      "id": "6d655cf7550d",
+      "priority": 2,
+      "group": "e9396712327c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Most",
+          "definition": "bridge\nundefined"
+        },
+        {
+          "word": "łączy",
+          "definition": "undefined"
+        },
+        {
+          "word": "dwa",
+          "definition": "undefined"
+        },
+        {
+          "word": "miasta.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bridge",
+        "connects",
+        "two",
+        "cities",
+        "the",
+        "She",
+        "are",
+        "does"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bridge",
+          "connects",
+          "two",
+          "cities"
+        ]
+      ],
+      "formattedSolution": "The bridge connects two cities.",
+      "id": "0686138f2101",
+      "priority": 2,
+      "group": "e9396712327c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Prędkość jest ważna dla bezpieczeństwa na ulicy.",
+      "meaningInSourceLanguage": "A speed limit is important for the security on the street.",
+      "id": "e06967a16392",
+      "priority": 0,
+      "group": "28340252223f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Prędkość jest ważna dla bezpieczeństwa na ulicy.",
+      "meaning": "A speed limit is important for the security on the street.",
+      "audio": "a6e7393ac531a4e1383fc148aae99ff0b3d2c753e0809b56191d2c72cceef7e2",
+      "id": "f52c1cd70596",
+      "priority": 1,
+      "group": "28340252223f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "speed",
+          "definition": "prędkość\nundefined"
+        },
+        {
+          "word": "limit",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "important",
+          "definition": "undefined"
+        },
+        {
+          "word": "for",
+          "definition": "undefined\nza"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "security",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "na\nundefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "street.",
+          "definition": "ulica\nundefined"
+        }
+      ],
+      "chips": [
+        "Prędkość",
+        "jest",
+        "ważna",
+        "dla",
+        "bezpieczeństwa",
+        "na",
+        "ulicy",
+        "wina",
+        "zna",
+        "dwa",
+        "da",
+        "Ona",
+        "za"
+      ],
+      "solutions": [
+        [
+          "Prędkość",
+          "jest",
+          "ważna",
+          "dla",
+          "bezpieczeństwa",
+          "na",
+          "ulicy"
+        ]
+      ],
+      "formattedSolution": "Prędkość jest ważna dla bezpieczeństwa na ulicy.",
+      "id": "3daae9291a87",
+      "priority": 2,
+      "group": "28340252223f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Prędkość",
+          "definition": "speed\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "ważna",
+          "definition": "undefined"
+        },
+        {
+          "word": "dla",
+          "definition": "undefined"
+        },
+        {
+          "word": "bezpieczeństwa",
+          "definition": "undefined"
+        },
+        {
+          "word": "na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "ulicy.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "speed",
+        "limit",
+        "is",
+        "important",
+        "for",
+        "the",
+        "security",
+        "on",
+        "the",
+        "street",
+        "it",
+        "me",
+        "see",
+        "or",
+        "sit",
+        "in",
+        "pot",
+        "ten",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "A",
+          "speed",
+          "limit",
+          "is",
+          "important",
+          "for",
+          "the",
+          "security",
+          "on",
+          "the",
+          "street"
+        ]
+      ],
+      "formattedSolution": "A speed limit is important for the security on the street.",
+      "id": "452acea9c512",
+      "priority": 2,
+      "group": "28340252223f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Światła drogowe pokazują czerwone.",
+      "meaningInSourceLanguage": "The traffic light shows red.",
+      "id": "a751b2a5176f",
+      "priority": 0,
+      "group": "40af0f24a3e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Światła drogowe pokazują czerwone.",
+      "meaning": "The traffic light shows red.",
+      "audio": "b1380ca6e8839e4992c1f023fa052b29369a37d9dea6a12a9b16f9a12be3cab7",
+      "id": "f9f0f2b6d6d9",
+      "priority": 1,
+      "group": "40af0f24a3e2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "traffic",
+          "definition": "undefined"
+        },
+        {
+          "word": "light",
+          "definition": "jasny\nundefined"
+        },
+        {
+          "word": "shows",
+          "definition": "undefined"
+        },
+        {
+          "word": "red.",
+          "definition": "czerwony\nundefined"
+        }
+      ],
+      "chips": [
+        "Światła",
+        "drogowe",
+        "pokazują",
+        "czerwone",
+        "dodaje",
+        "domowe",
+        "pokazuje"
+      ],
+      "solutions": [
+        [
+          "Światła",
+          "drogowe",
+          "pokazują",
+          "czerwone"
+        ]
+      ],
+      "formattedSolution": "Światła drogowe pokazują czerwone.",
+      "id": "849ac77006c7",
+      "priority": 2,
+      "group": "40af0f24a3e2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Światła",
+          "definition": "undefined"
+        },
+        {
+          "word": "drogowe",
+          "definition": "undefined"
+        },
+        {
+          "word": "pokazują",
+          "definition": "undefined"
+        },
+        {
+          "word": "czerwone.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "traffic",
+        "light",
+        "shows",
+        "red",
+        "the",
+        "She",
+        "Who",
+        "his"
+      ],
+      "solutions": [
+        [
+          "The",
+          "traffic",
+          "light",
+          "shows",
+          "red"
+        ]
+      ],
+      "formattedSolution": "The traffic light shows red.",
+      "id": "4471a495e9c3",
+      "priority": 2,
+      "group": "40af0f24a3e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Auto jest nowe i piękne.",
+      "meaningInSourceLanguage": "The car is new and beautiful.",
+      "id": "04f3a0e37d72",
+      "priority": 0,
+      "group": "bd144467866a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Auto jest nowe i piękne.",
+      "meaning": "The car is new and beautiful.",
+      "audio": "b0c405963edd1f4ca0536026a88ac183b89f24eb2e22b2729a2f3879e6c00d78",
+      "id": "d4eb17314742",
+      "priority": 1,
+      "group": "bd144467866a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "car",
+          "definition": "auto\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "new",
+          "definition": "undefined"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "beautiful.",
+          "definition": "piękny\nundefined"
+        }
+      ],
+      "chips": [
+        "Auto",
+        "jest",
+        "nowe",
+        "i",
+        "piękne",
+        "nie",
+        "je",
+        "we",
+        "ze"
+      ],
+      "solutions": [
+        [
+          "Auto",
+          "jest",
+          "nowe",
+          "i",
+          "piękne"
+        ]
+      ],
+      "formattedSolution": "Auto jest nowe i piękne.",
+      "id": "5676d068e542",
+      "priority": 2,
+      "group": "bd144467866a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Auto",
+          "definition": "car\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "nowe",
+          "definition": "undefined"
+        },
+        {
+          "word": "i",
+          "definition": "undefined"
+        },
+        {
+          "word": "piękne.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "car",
+        "is",
+        "new",
+        "and",
+        "beautiful",
+        "at",
+        "an",
+        "air",
+        "be",
+        "as"
+      ],
+      "solutions": [
+        [
+          "The",
+          "car",
+          "is",
+          "new",
+          "and",
+          "beautiful"
+        ]
+      ],
+      "formattedSolution": "The car is new and beautiful.",
+      "id": "fba75ee24146",
+      "priority": 2,
+      "group": "bd144467866a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Autobus wiezie dużo ludzi.",
+      "meaningInSourceLanguage": "The bus carries many people.",
+      "id": "1a3a1ce18bd6",
+      "priority": 0,
+      "group": "b3fb9f81f749"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Autobus wiezie dużo ludzi.",
+      "meaning": "The bus carries many people.",
+      "audio": "6f900f5606e9c824a59bf135ab6e5aa49d44a2feaec2c9003b217629bd7c4fb5",
+      "id": "64c331f755d0",
+      "priority": 1,
+      "group": "b3fb9f81f749"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bus",
+          "definition": "autobus\nundefined"
+        },
+        {
+          "word": "carries",
+          "definition": "undefined"
+        },
+        {
+          "word": "many",
+          "definition": "undefined"
+        },
+        {
+          "word": "people.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Autobus",
+        "wiezie",
+        "dużo",
+        "ludzi",
+        "lubi",
+        "ludzie",
+        "auto"
+      ],
+      "solutions": [
+        [
+          "Autobus",
+          "wiezie",
+          "dużo",
+          "ludzi"
+        ]
+      ],
+      "formattedSolution": "Autobus wiezie dużo ludzi.",
+      "id": "2512ffcdd36a",
+      "priority": 2,
+      "group": "b3fb9f81f749"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Autobus",
+          "definition": "bus\nundefined"
+        },
+        {
+          "word": "wiezie",
+          "definition": "undefined"
+        },
+        {
+          "word": "dużo",
+          "definition": "undefined"
+        },
+        {
+          "word": "ludzi.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bus",
+        "carries",
+        "many",
+        "people",
+        "are",
+        "age",
+        "She",
+        "man"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bus",
+          "carries",
+          "many",
+          "people"
+        ]
+      ],
+      "formattedSolution": "The bus carries many people.",
+      "id": "315ce26f3d76",
+      "priority": 2,
+      "group": "b3fb9f81f749"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pociąg jedzie na północ.",
+      "meaningInSourceLanguage": "The train goes to the north.",
+      "id": "b564f7d3a9a0",
+      "priority": 0,
+      "group": "ff3b4e9ab120"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Pociąg jedzie na północ.",
+      "meaning": "The train goes to the north.",
+      "audio": "89ba458cee792b69495c9fb9ddd3a430226b7f4ebe5196d5659bd14aa117d70e",
+      "id": "24e5b77f3848",
+      "priority": 1,
+      "group": "ff3b4e9ab120"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "train",
+          "definition": "pociąg\nundefined"
+        },
+        {
+          "word": "goes",
+          "definition": "idzie\nundefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "north.",
+          "definition": "północ\nundefined"
+        }
+      ],
+      "chips": [
+        "Pociąg",
+        "jedzie",
+        "na",
+        "północ",
+        "noc",
+        "nie",
+        "nic"
+      ],
+      "solutions": [
+        [
+          "Pociąg",
+          "jedzie",
+          "na",
+          "północ"
+        ]
+      ],
+      "formattedSolution": "Pociąg jedzie na północ.",
+      "id": "0c53f8c0997e",
+      "priority": 2,
+      "group": "ff3b4e9ab120"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pociąg",
+          "definition": "train\nundefined"
+        },
+        {
+          "word": "jedzie",
+          "definition": "undefined"
+        },
+        {
+          "word": "na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "północ.",
+          "definition": "midnight\nnorth\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "train",
+        "goes",
+        "to",
+        "the",
+        "north",
+        "too",
+        "then",
+        "She",
+        "are",
+        "not"
+      ],
+      "solutions": [
+        [
+          "The",
+          "train",
+          "goes",
+          "to",
+          "the",
+          "north"
+        ]
+      ],
+      "formattedSolution": "The train goes to the north.",
+      "id": "a2c0a8fa8d4d",
+      "priority": 2,
+      "group": "ff3b4e9ab120"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Koło jest rozbite/zepsute.",
+      "meaningInSourceLanguage": "The bicycle is broken.",
+      "id": "33bff9c1ebd0",
+      "priority": 0,
+      "group": "581707f8c34e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Koło jest rozbite/zepsute.",
+      "meaning": "The bicycle is broken.",
+      "audio": "53c3d027c04bf47ba660494388db52fc7db947b91508bdd9ae10fc7fcb1170c8",
+      "id": "5dd781744f81",
+      "priority": 1,
+      "group": "581707f8c34e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bicycle",
+          "definition": "koło/rower\nrower\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "broken.",
+          "definition": "rozbity/zepsuty\nundefined"
+        }
+      ],
+      "chips": [
+        "Koło",
+        "jest",
+        "rozbite/zepsute",
+        "Jest",
+        "Most"
+      ],
+      "solutions": [
+        [
+          "Koło",
+          "jest",
+          "rozbite/zepsute"
+        ]
+      ],
+      "formattedSolution": "Koło jest rozbite/zepsute.",
+      "id": "69d2a67d5b61",
+      "priority": 2,
+      "group": "581707f8c34e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Koło",
+          "definition": "circle\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "rozbite/zepsute.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bicycle",
+        "is",
+        "broken",
+        "be",
+        "wise",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bicycle",
+          "is",
+          "broken"
+        ]
+      ],
+      "formattedSolution": "The bicycle is broken.",
+      "id": "6d26c826e182",
+      "priority": 2,
+      "group": "581707f8c34e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Stacja jest otwarta.",
+      "meaningInSourceLanguage": "The station is open.",
+      "id": "f50a967f8c4e",
+      "priority": 0,
+      "group": "f60170fb40e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Stacja jest otwarta.",
+      "meaning": "The station is open.",
+      "audio": "d52189abdedbe93fbdb7f067af0d716488a869d1b33e66c3b3029117855be1a0",
+      "id": "2059636d56af",
+      "priority": 1,
+      "group": "f60170fb40e9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "station",
+          "definition": "stacja\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "open.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Stacja",
+        "jest",
+        "otwarta",
+        "Stara",
+        "stacja"
+      ],
+      "solutions": [
+        [
+          "Stacja",
+          "jest",
+          "otwarta"
+        ]
+      ],
+      "formattedSolution": "Stacja jest otwarta.",
+      "id": "16eda78f53d2",
+      "priority": 2,
+      "group": "f60170fb40e9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Stacja",
+          "definition": "station\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "otwarta.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "station",
+        "is",
+        "open",
+        "in",
+        "on",
+        "the"
+      ],
+      "solutions": [
+        [
+          "The",
+          "station",
+          "is",
+          "open"
+        ]
+      ],
+      "formattedSolution": "The station is open.",
+      "id": "37208d4be1d4",
+      "priority": 2,
+      "group": "f60170fb40e9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Szofer/Kierowca jest ostrożny.",
+      "meaningInSourceLanguage": "The driver is careful.",
+      "id": "aa99598ebd40",
+      "priority": 0,
+      "group": "58d60c89a5ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Szofer/Kierowca jest ostrożny.",
+      "meaning": "The driver is careful.",
+      "audio": "161b57335e49b10e8b624ce9d965bad1b41e96825266f0d045ff88f93508ecdc",
+      "id": "5e18c6bd30d1",
+      "priority": 1,
+      "group": "58d60c89a5ca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "driver",
+          "definition": "szofer/kierowca\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "careful.",
+          "definition": "ostrożny\nundefined"
+        }
+      ],
+      "chips": [
+        "Szofer/Kierowca",
+        "jest",
+        "ostrożny",
+        "ostry",
+        "zero"
+      ],
+      "solutions": [
+        [
+          "Szofer/Kierowca",
+          "jest",
+          "ostrożny"
+        ]
+      ],
+      "formattedSolution": "Szofer/Kierowca jest ostrożny.",
+      "id": "38a57f495eef",
+      "priority": 2,
+      "group": "58d60c89a5ca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Szofer/Kierowca",
+          "definition": "driver\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "ostrożny.",
+          "definition": "careful\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "driver",
+        "is",
+        "careful",
+        "are",
+        "wise",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "driver",
+          "is",
+          "careful"
+        ]
+      ],
+      "formattedSolution": "The driver is careful.",
+      "id": "e6f77138bef5",
+      "priority": 2,
+      "group": "58d60c89a5ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Droga jest szeroka.",
+      "meaningInSourceLanguage": "The road is wide.",
+      "id": "f4ff3ae055c7",
+      "priority": 0,
+      "group": "aa15d68ec5b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Droga jest szeroka.",
+      "meaning": "The road is wide.",
+      "audio": "cd19042b63cdc4cca2e8db553c6fb77af7f0972082bceecb67c4b6742a0592f4",
+      "id": "ec60605d0ad0",
+      "priority": 1,
+      "group": "aa15d68ec5b4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "road",
+          "definition": "droga\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "wide.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Droga",
+        "jest",
+        "szeroka",
+        "sera",
+        "droga"
+      ],
+      "solutions": [
+        [
+          "Droga",
+          "jest",
+          "szeroka"
+        ]
+      ],
+      "formattedSolution": "Droga jest szeroka.",
+      "id": "52dc05f701a4",
+      "priority": 2,
+      "group": "aa15d68ec5b4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Droga",
+          "definition": "road\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "szeroka.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "road",
+        "is",
+        "wide",
+        "wise",
+        "did",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "road",
+          "is",
+          "wide"
+        ]
+      ],
+      "formattedSolution": "The road is wide.",
+      "id": "8ccdd84e5402",
+      "priority": 2,
+      "group": "aa15d68ec5b4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Most jest wysoki.",
+      "meaningInSourceLanguage": "The bridge is high.",
+      "id": "787c0626b9f1",
+      "priority": 0,
+      "group": "03824d677cce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Most jest wysoki.",
+      "meaning": "The bridge is high.",
+      "audio": "1e69e8f0d8b1241df06411194f2a9c530e18aa151ea980888bb8d48ac8ccf10a",
+      "id": "3f5561d4fd2d",
+      "priority": 1,
+      "group": "03824d677cce"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bridge",
+          "definition": "most\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "high.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Most",
+        "jest",
+        "wysoki",
+        "Jest",
+        "jesz"
+      ],
+      "solutions": [
+        [
+          "Most",
+          "jest",
+          "wysoki"
+        ]
+      ],
+      "formattedSolution": "Most jest wysoki.",
+      "id": "ae104b7dc908",
+      "priority": 2,
+      "group": "03824d677cce"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Most",
+          "definition": "bridge\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "wysoki.",
+          "definition": "tall\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bridge",
+        "is",
+        "high",
+        "big",
+        "his",
+        "wise"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bridge",
+          "is",
+          "high"
+        ]
+      ],
+      "formattedSolution": "The bridge is high.",
+      "id": "b4c002c54c83",
+      "priority": 2,
+      "group": "03824d677cce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Prędkość jest ograniczona.",
+      "meaningInSourceLanguage": "The speed is limited.",
+      "id": "88d23a5b0b40",
+      "priority": 0,
+      "group": "41a8507fd6ad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Prędkość jest ograniczona.",
+      "meaning": "The speed is limited.",
+      "audio": "818758d95a8bb6287abfbbba5158b3d43ff0dfe0610c61f324d489e057f51ddf",
+      "id": "bbd4c9bc9ea5",
+      "priority": 1,
+      "group": "41a8507fd6ad"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "speed",
+          "definition": "prędkość\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "jest\nundefined"
+        },
+        {
+          "word": "limited.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Prędkość",
+        "jest",
+        "ograniczona",
+        "rano",
+        "radia"
+      ],
+      "solutions": [
+        [
+          "Prędkość",
+          "jest",
+          "ograniczona"
+        ]
+      ],
+      "formattedSolution": "Prędkość jest ograniczona.",
+      "id": "4f8a9fcc3590",
+      "priority": 2,
+      "group": "41a8507fd6ad"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Prędkość",
+          "definition": "speed\nundefined"
+        },
+        {
+          "word": "jest",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "ograniczona.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "speed",
+        "is",
+        "limited",
+        "me",
+        "see",
+        "lies"
+      ],
+      "solutions": [
+        [
+          "The",
+          "speed",
+          "is",
+          "limited"
+        ]
+      ],
+      "formattedSolution": "The speed is limited.",
+      "id": "6be0559a6f29",
+      "priority": 2,
+      "group": "41a8507fd6ad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Światła drogowe pokazują zielone.",
+      "meaningInSourceLanguage": "The traffic light shows green.",
+      "id": "136ad0e91400",
+      "priority": 0,
+      "group": "cd6b24c3a769"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Światła drogowe pokazują zielone.",
+      "meaning": "The traffic light shows green.",
+      "audio": "9e4a9927a1be747ba4ed6610cc1bfc50b6006fb33e1d8c66e5a30eded6d0d658",
+      "id": "5423709b31b9",
+      "priority": 1,
+      "group": "cd6b24c3a769"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "traffic",
+          "definition": "undefined"
+        },
+        {
+          "word": "light",
+          "definition": "jasny\nundefined"
+        },
+        {
+          "word": "shows",
+          "definition": "undefined"
+        },
+        {
+          "word": "green.",
+          "definition": "undefined\nzielony"
+        }
+      ],
+      "chips": [
+        "Światła",
+        "drogowe",
+        "pokazują",
+        "zielone",
+        "dodaje",
+        "domowe",
+        "zielona"
+      ],
+      "solutions": [
+        [
+          "Światła",
+          "drogowe",
+          "pokazują",
+          "zielone"
+        ]
+      ],
+      "formattedSolution": "Światła drogowe pokazują zielone.",
+      "id": "f3ae84c1cdf6",
+      "priority": 2,
+      "group": "cd6b24c3a769"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Światła",
+          "definition": "undefined"
+        },
+        {
+          "word": "drogowe",
+          "definition": "undefined"
+        },
+        {
+          "word": "pokazują",
+          "definition": "undefined"
+        },
+        {
+          "word": "zielone.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "traffic",
+        "light",
+        "shows",
+        "green",
+        "the",
+        "She",
+        "tree",
+        "trees"
+      ],
+      "solutions": [
+        [
+          "The",
+          "traffic",
+          "light",
+          "shows",
+          "green"
+        ]
+      ],
+      "formattedSolution": "The traffic light shows green.",
+      "id": "ab5eed4a27a7",
+      "priority": 2,
+      "group": "cd6b24c3a769"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "auto",
+      "meaningInSourceLanguage": "car",
+      "id": "a83954d33ce7",
+      "priority": 0,
+      "group": "bceb27ce3163"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "auto"
+      ],
+      "phrase": [
+        {
+          "word": "car",
+          "definition": "auto\nundefined"
+        }
+      ],
+      "id": "8ccb4fa80f27",
+      "priority": 1,
+      "group": "bceb27ce3163"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "auto",
+      "meaning": "car",
+      "audio": "6c59bbe96399d11442381161addcee58b30043a76121cdf1cf7b7f43d939c2d6",
+      "id": "bb388e7d9433",
+      "priority": 1,
+      "group": "bceb27ce3163"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "autobus",
+      "meaningInSourceLanguage": "bus",
+      "id": "40b850cb3801",
+      "priority": 0,
+      "group": "9c45c155a411"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "autobus"
+      ],
+      "phrase": [
+        {
+          "word": "bus",
+          "definition": "autobus\nundefined"
+        }
+      ],
+      "id": "ac10254fa8b8",
+      "priority": 1,
+      "group": "9c45c155a411"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "autobus",
+      "meaning": "bus",
+      "audio": "b2fc321bd42a5b513ae0fe3d543c932c89550cfea051082fc88308ff38e868ec",
+      "id": "622ad69afb19",
+      "priority": 1,
+      "group": "9c45c155a411"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pociąg",
+      "meaningInSourceLanguage": "train",
+      "id": "914bb6ecee15",
+      "priority": 0,
+      "group": "3180889c8aaa"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pociąg"
+      ],
+      "phrase": [
+        {
+          "word": "train",
+          "definition": "pociąg\nundefined"
+        }
+      ],
+      "id": "76ede8f999ed",
+      "priority": 1,
+      "group": "3180889c8aaa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pociąg",
+      "meaning": "train",
+      "audio": "c32e9f5ec90c7902f7efa595f9efc20df194af1d227ff35c7f7bee4810d1ba53",
+      "id": "d9d3c34eade1",
+      "priority": 1,
+      "group": "3180889c8aaa"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "koło/rower",
+      "meaningInSourceLanguage": "bicycle",
+      "id": "af1644c2569d",
+      "priority": 0,
+      "group": "18aacfcbafdb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "koło/rower"
+      ],
+      "phrase": [
+        {
+          "word": "bicycle",
+          "definition": "koło/rower\nrower\nundefined"
+        }
+      ],
+      "id": "a74ab0059ddd",
+      "priority": 1,
+      "group": "18aacfcbafdb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "koło/rower",
+      "meaning": "bicycle",
+      "audio": "720edb76445b9980c33c29caf3bb8560d2ea29eec5011a467b68447a39dfd289",
+      "id": "3fdb1a2cedcb",
+      "priority": 1,
+      "group": "18aacfcbafdb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "stacja",
+      "meaningInSourceLanguage": "station",
+      "id": "443f383a9207",
+      "priority": 0,
+      "group": "65a6b5cf44b5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "stacja"
+      ],
+      "phrase": [
+        {
+          "word": "station",
+          "definition": "stacja\nundefined"
+        }
+      ],
+      "id": "d84642859816",
+      "priority": 1,
+      "group": "65a6b5cf44b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stacja",
+      "meaning": "station",
+      "audio": "b86ce7a9ab400bde1054e685a55884dc6e5a79567221658b3038354e67877c39",
+      "id": "ee52f65c72c7",
+      "priority": 1,
+      "group": "65a6b5cf44b5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "szofer/kierowca",
+      "meaningInSourceLanguage": "driver",
+      "id": "8c2e1648ac0c",
+      "priority": 0,
+      "group": "6e5eaa0802fd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "szofer/kierowca"
+      ],
+      "phrase": [
+        {
+          "word": "driver",
+          "definition": "szofer/kierowca\nundefined"
+        }
+      ],
+      "id": "97b39312a8cf",
+      "priority": 1,
+      "group": "6e5eaa0802fd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "szofer/kierowca",
+      "meaning": "driver",
+      "audio": "708a623fdce29a6469fc3fc74f0c02042d6221e6ed6fbd3e966e3fb237bf9e74",
+      "id": "c88b27e71c28",
+      "priority": 1,
+      "group": "6e5eaa0802fd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "droga",
+      "meaningInSourceLanguage": "road",
+      "id": "19ca4a9e29e5",
+      "priority": 0,
+      "group": "224a4e9883f8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "droga"
+      ],
+      "phrase": [
+        {
+          "word": "road",
+          "definition": "droga\nundefined"
+        }
+      ],
+      "id": "e88956c7908d",
+      "priority": 1,
+      "group": "224a4e9883f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "droga",
+      "meaning": "road",
+      "audio": "12c23c90dec005132d91039f8e9e819effe18efa8890acacfc8cfb51da24ff37",
+      "id": "35f77df58d4f",
+      "priority": 1,
+      "group": "224a4e9883f8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "most",
+      "meaningInSourceLanguage": "bridge",
+      "id": "c57738900b58",
+      "priority": 0,
+      "group": "276a5d1665f0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "most"
+      ],
+      "phrase": [
+        {
+          "word": "bridge",
+          "definition": "most\nundefined"
+        }
+      ],
+      "id": "06a0d213f246",
+      "priority": 1,
+      "group": "276a5d1665f0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "most",
+      "meaning": "bridge",
+      "audio": "e3e19128fc8051e566a72937dc7c081e7403105a0ad4d768b997c509413e7dbd",
+      "id": "3e6b455bf7ce",
+      "priority": 1,
+      "group": "276a5d1665f0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "prędkość",
+      "meaningInSourceLanguage": "speed",
+      "id": "60899132afe0",
+      "priority": 0,
+      "group": "95686ab5ad1d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "prędkość"
+      ],
+      "phrase": [
+        {
+          "word": "speed",
+          "definition": "prędkość\nundefined"
+        }
+      ],
+      "id": "93af183b20cf",
+      "priority": 1,
+      "group": "95686ab5ad1d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prędkość",
+      "meaning": "speed",
+      "audio": "7a91dd1cefe26da6f1082f6e4d4598c8791f32ebf4df121a43ff63ca34871f02",
+      "id": "f0cf37bfb76b",
+      "priority": 1,
+      "group": "95686ab5ad1d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "światła drogowe",
+      "meaningInSourceLanguage": "traffic light",
+      "id": "26a3f51e790d",
+      "priority": 0,
+      "group": "d9bf05f83a10"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "światła drogowe"
+      ],
+      "phrase": [
+        {
+          "word": "traffic",
+          "definition": "undefined"
+        },
+        {
+          "word": "light",
+          "definition": "jasny\nundefined"
+        }
+      ],
+      "id": "3f99640a1e1d",
+      "priority": 1,
+      "group": "d9bf05f83a10"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "światła drogowe",
+      "meaning": "traffic light",
+      "audio": "ecc2cb7790ec548aa78b3b0e4255efcf1f086bb0725d91441b9497616fda496b",
+      "id": "38a00cb21159",
+      "priority": 1,
+      "group": "d9bf05f83a10"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "jechać (jedzie)",
+      "meaningInSourceLanguage": "to go/drive",
+      "id": "7b44de0232ce",
+      "priority": 0,
+      "group": "316266626318"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "jechać (jedzie)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "go/drive",
+          "definition": "undefined"
+        }
+      ],
+      "id": "e02066c33196",
+      "priority": 1,
+      "group": "316266626318"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jechać (jedzie)",
+      "meaning": "to go/drive",
+      "audio": "9cd758658cc174e24e04f4eaf15e091ac4e6c440a849fe14fbead92d5f615b85",
+      "id": "79febb06efc3",
+      "priority": 1,
+      "group": "316266626318"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "usiąść (siada)",
+      "meaningInSourceLanguage": "to sit",
+      "id": "813ed4393b2f",
+      "priority": 0,
+      "group": "5c8851311dd7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "usiąść (siada)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "sit",
+          "definition": "undefined"
+        }
+      ],
+      "id": "6e52ca3ac21e",
+      "priority": 1,
+      "group": "5c8851311dd7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "usiąść (siada)",
+      "meaning": "to sit",
+      "audio": "befa64bc035b8c5abd6ebfb1d50ede23099a7b2d483030dc94f7e6093c824fb8",
+      "id": "38efb968ded6",
+      "priority": 1,
+      "group": "5c8851311dd7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "połączyć (łączy)",
+      "meaningInSourceLanguage": "to connect/tie",
+      "id": "ea054e2f790b",
+      "priority": 0,
+      "group": "194d060cccf6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "połączyć (łączy)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "connect/tie",
+          "definition": "undefined"
+        }
+      ],
+      "id": "226339c3a65e",
+      "priority": 1,
+      "group": "194d060cccf6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "połączyć (łączy)",
+      "meaning": "to connect/tie",
+      "audio": "d6ab38f6bad893e146ca43c09ae6908c6806cc87b008f432758eff635aad0fed",
+      "id": "95e5563093c5",
+      "priority": 1,
+      "group": "194d060cccf6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "rozbity/zepsuty",
+      "meaningInSourceLanguage": "broken",
+      "id": "77eed7feddfd",
+      "priority": 0,
+      "group": "e23fbef212e7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "rozbity/zepsuty"
+      ],
+      "phrase": [
+        {
+          "word": "broken",
+          "definition": "rozbity/zepsuty\nundefined"
+        }
+      ],
+      "id": "59ba891eae62",
+      "priority": 1,
+      "group": "e23fbef212e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rozbity/zepsuty",
+      "meaning": "broken",
+      "audio": "294c6f466c0c9a8fb230909560ee5869178f62361d0edf5dac55d3816ae6adf5",
+      "id": "f5cd1f14c4fd",
+      "priority": 1,
+      "group": "e23fbef212e7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ostrożny",
+      "meaningInSourceLanguage": "careful",
+      "id": "86f59706da6e",
+      "priority": 0,
+      "group": "b235e90e672d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ostrożny"
+      ],
+      "phrase": [
+        {
+          "word": "careful",
+          "definition": "ostrożny\nundefined"
+        }
+      ],
+      "id": "2c207b75f1ef",
+      "priority": 1,
+      "group": "b235e90e672d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ostrożny",
+      "meaning": "careful",
+      "audio": "4e63f07b2432ddaf28e3e1091503c5ee35171e5616c4b68f2a66cec50e110263",
+      "id": "dee36f8732af",
+      "priority": 1,
+      "group": "b235e90e672d"
+    }
+  ]
+}

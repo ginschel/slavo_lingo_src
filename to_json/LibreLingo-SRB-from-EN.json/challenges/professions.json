@@ -1,0 +1,2677 @@
+{
+  "id": "47082a238710",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мој брат јест учитељем.",
+      "meaningInSourceLanguage": "My brother is a teacher.",
+      "id": "cb39f6038baa",
+      "priority": 0,
+      "group": "c18b01c1e55f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мој брат јест учитељем.",
+      "meaning": "My brother is a teacher.",
+      "audio": "40647c3ab97fd47ce1df4ce2dc15f1cc765982db9d43fc936eaafbe6ec67666b",
+      "id": "e2d1b0cfb4f9",
+      "priority": 1,
+      "group": "c18b01c1e55f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined"
+        },
+        {
+          "word": "brother",
+          "definition": "undefined\nбрат"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "teacher.",
+          "definition": "undefined\nучитељ"
+        }
+      ],
+      "chips": [
+        "Мој",
+        "брат",
+        "јест",
+        "учитељем",
+        "Мост",
+        "Јест",
+        "јем"
+      ],
+      "solutions": [
+        [
+          "Мој",
+          "брат",
+          "јест",
+          "учитељем"
+        ]
+      ],
+      "formattedSolution": "Мој брат јест учитељем.",
+      "id": "6e2d90b649b1",
+      "priority": 2,
+      "group": "c18b01c1e55f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мој",
+          "definition": "undefined"
+        },
+        {
+          "word": "брат",
+          "definition": "brother\nundefined"
+        },
+        {
+          "word": "јест",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "учитељем.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "brother",
+        "is",
+        "a",
+        "teacher",
+        "the",
+        "her",
+        "tea",
+        "at"
+      ],
+      "solutions": [
+        [
+          "My",
+          "brother",
+          "is",
+          "a",
+          "teacher"
+        ]
+      ],
+      "formattedSolution": "My brother is a teacher.",
+      "id": "0c9548dce3ed",
+      "priority": 2,
+      "group": "c18b01c1e55f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она јест доктором.",
+      "meaningInSourceLanguage": "She is a doctor.",
+      "id": "a24eeaa50352",
+      "priority": 0,
+      "group": "64997e86dac7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она јест доктором.",
+      "meaning": "She is a doctor.",
+      "audio": "9fce2121efade8d89c5708d8d35076ee96340060a14305d3b503e5bc4ed0701b",
+      "id": "55dfa7edf30f",
+      "priority": 1,
+      "group": "64997e86dac7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "doctor.",
+          "definition": "undefined\nдоктор"
+        }
+      ],
+      "chips": [
+        "Она",
+        "јест",
+        "доктором",
+        "дом",
+        "Јест"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "јест",
+          "доктором"
+        ]
+      ],
+      "formattedSolution": "Она јест доктором.",
+      "id": "338acc014b58",
+      "priority": 2,
+      "group": "64997e86dac7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "јест",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "доктором.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "is",
+        "a",
+        "doctor",
+        "it",
+        "at",
+        "da"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is",
+          "a",
+          "doctor"
+        ]
+      ],
+      "formattedSolution": "She is a doctor.",
+      "id": "71b5150fd15b",
+      "priority": 2,
+      "group": "64997e86dac7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он јест инжењером в месту.",
+      "meaningInSourceLanguage": "He is an engineer in the city.",
+      "id": "e4dba98db014",
+      "priority": 0,
+      "group": "584757c7fc5d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он јест инжењером в месту.",
+      "meaning": "He is an engineer in the city.",
+      "audio": "8b9c84091c027ce512260decf44b8687f53ad46769459d668e3ca2ab61bdd1a0",
+      "id": "9b6d46544953",
+      "priority": 1,
+      "group": "584757c7fc5d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "an",
+          "definition": "undefined"
+        },
+        {
+          "word": "engineer",
+          "definition": "undefined\nинжењер"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "city.",
+          "definition": "undefined\nград\nместо"
+        }
+      ],
+      "chips": [
+        "Он",
+        "јест",
+        "инжењером",
+        "в",
+        "месту",
+        "не",
+        "је",
+        "се",
+        "Јест"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "јест",
+          "инжењером",
+          "в",
+          "месту"
+        ]
+      ],
+      "formattedSolution": "Он јест инжењером в месту.",
+      "id": "9041869e06f4",
+      "priority": 2,
+      "group": "584757c7fc5d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "јест",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "инжењером",
+          "definition": "undefined"
+        },
+        {
+          "word": "в",
+          "definition": "undefined"
+        },
+        {
+          "word": "месту.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "an",
+        "engineer",
+        "in",
+        "the",
+        "city",
+        "it",
+        "he",
+        "We",
+        "me",
+        "on",
+        "ink"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "an",
+          "engineer",
+          "in",
+          "the",
+          "city"
+        ]
+      ],
+      "formattedSolution": "He is an engineer in the city.",
+      "id": "0c3a33c056ca",
+      "priority": 2,
+      "group": "584757c7fc5d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Работник pracuje na mostu.",
+      "meaningInSourceLanguage": "The worker is working on the bridge.",
+      "id": "464427f7903a",
+      "priority": 0,
+      "group": "96263eeac896"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Работник pracuje na mostu.",
+      "meaning": "The worker is working on the bridge.",
+      "audio": "f44977f9d2af9e5afff13e55a820d58d8446b661d2b163998767d74a38810c1e",
+      "id": "3ff9ddfc9848",
+      "priority": 1,
+      "group": "96263eeac896"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "worker",
+          "definition": "undefined\nработник"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "working",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "bridge.",
+          "definition": "undefined\nмост"
+        }
+      ],
+      "chips": [
+        "Работник",
+        "pracuje",
+        "na",
+        "mostu",
+        "ти",
+        "би",
+        "Ја"
+      ],
+      "solutions": [
+        [
+          "Работник",
+          "pracuje",
+          "na",
+          "mostu"
+        ]
+      ],
+      "formattedSolution": "Работник pracuje na mostu.",
+      "id": "932a73f836c7",
+      "priority": 2,
+      "group": "96263eeac896"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Работник",
+          "definition": "undefined\nworker"
+        },
+        {
+          "word": "pracuje",
+          "definition": "undefined"
+        },
+        {
+          "word": "na",
+          "definition": "undefined"
+        },
+        {
+          "word": "mostu.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "worker",
+        "is",
+        "working",
+        "on",
+        "the",
+        "bridge",
+        "or",
+        "are",
+        "in",
+        "wine",
+        "be",
+        "wore"
+      ],
+      "solutions": [
+        [
+          "The",
+          "worker",
+          "is",
+          "working",
+          "on",
+          "the",
+          "bridge"
+        ]
+      ],
+      "formattedSolution": "The worker is working on the bridge.",
+      "id": "d54ee31ce5ab",
+      "priority": 2,
+      "group": "96263eeac896"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Писар пише в офису.",
+      "meaningInSourceLanguage": "The writer writes in the office.",
+      "id": "1b79529790e6",
+      "priority": 0,
+      "group": "272c67db6e70"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Писар пише в офису.",
+      "meaning": "The writer writes in the office.",
+      "audio": "f557fa763521a30722fd4fe04816e91d129830b2f43218aba79b6a60fef9ed41",
+      "id": "9726f1abb9e8",
+      "priority": 1,
+      "group": "272c67db6e70"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "writer",
+          "definition": "undefined\nписар"
+        },
+        {
+          "word": "writes",
+          "definition": "undefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "office.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Писар",
+        "пише",
+        "в",
+        "офису",
+        "пива",
+        "Пишу",
+        "виси"
+      ],
+      "solutions": [
+        [
+          "Писар",
+          "пише",
+          "в",
+          "офису"
+        ]
+      ],
+      "formattedSolution": "Писар пише в офису.",
+      "id": "ea12f6e9ff63",
+      "priority": 2,
+      "group": "272c67db6e70"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Писар",
+          "definition": "undefined\nwriter"
+        },
+        {
+          "word": "пише",
+          "definition": "undefined"
+        },
+        {
+          "word": "в",
+          "definition": "undefined"
+        },
+        {
+          "word": "офису.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "writer",
+        "writes",
+        "in",
+        "the",
+        "office",
+        "wine",
+        "white",
+        "wise",
+        "ripe",
+        "wide"
+      ],
+      "solutions": [
+        [
+          "The",
+          "writer",
+          "writes",
+          "in",
+          "the",
+          "office"
+        ]
+      ],
+      "formattedSolution": "The writer writes in the office.",
+      "id": "e94aead5d894",
+      "priority": 2,
+      "group": "272c67db6e70"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Продавец робота в магазину.",
+      "meaningInSourceLanguage": "The seller works in the shop.",
+      "id": "8658e3412d2b",
+      "priority": 0,
+      "group": "f9684487b215"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Продавец робота в магазину.",
+      "meaning": "The seller works in the shop.",
+      "audio": "97bc78c3586e0128152d9ca80c38bf0af9e03ab73617cffa89432a5eade8b2c4",
+      "id": "e1db48d4ad9f",
+      "priority": 1,
+      "group": "f9684487b215"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "seller",
+          "definition": "undefined\nпродавец"
+        },
+        {
+          "word": "works",
+          "definition": "undefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "shop.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Продавец",
+        "робота",
+        "в",
+        "магазину",
+        "равна",
+        "моја",
+        "романе"
+      ],
+      "solutions": [
+        [
+          "Продавец",
+          "робота",
+          "в",
+          "магазину"
+        ]
+      ],
+      "formattedSolution": "Продавец робота в магазину.",
+      "id": "45d665d5cd11",
+      "priority": 2,
+      "group": "f9684487b215"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Продавец",
+          "definition": "seller\nundefined"
+        },
+        {
+          "word": "робота",
+          "definition": "undefined"
+        },
+        {
+          "word": "в",
+          "definition": "undefined"
+        },
+        {
+          "word": "магазину.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "seller",
+        "works",
+        "in",
+        "the",
+        "shop",
+        "She",
+        "her",
+        "see",
+        "shoe",
+        "so"
+      ],
+      "solutions": [
+        [
+          "The",
+          "seller",
+          "works",
+          "in",
+          "the",
+          "shop"
+        ]
+      ],
+      "formattedSolution": "The seller works in the shop.",
+      "id": "19ee94c4d754",
+      "priority": 2,
+      "group": "f9684487b215"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Шофер веде аутобус.",
+      "meaningInSourceLanguage": "The driver drives a bus.",
+      "id": "3b404baeb867",
+      "priority": 0,
+      "group": "68788c8895ce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Шофер веде аутобус.",
+      "meaning": "The driver drives a bus.",
+      "audio": "dc828d85e002133187dfbeac50dbd081b6cacfdf7291517e18667c0f51b0fd8a",
+      "id": "1933342d81e6",
+      "priority": 1,
+      "group": "68788c8895ce"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "driver",
+          "definition": "undefined\nшофер"
+        },
+        {
+          "word": "drives",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "bus.",
+          "definition": "undefined\nаутобус"
+        }
+      ],
+      "chips": [
+        "Шофер",
+        "веде",
+        "аутобус",
+        "обед",
+        "тебе"
+      ],
+      "solutions": [
+        [
+          "Шофер",
+          "веде",
+          "аутобус"
+        ]
+      ],
+      "formattedSolution": "Шофер веде аутобус.",
+      "id": "04d943803bd2",
+      "priority": 2,
+      "group": "68788c8895ce"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Шофер",
+          "definition": "driver\nundefined"
+        },
+        {
+          "word": "веде",
+          "definition": "undefined"
+        },
+        {
+          "word": "аутобус.",
+          "definition": "bus\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "driver",
+        "drives",
+        "a",
+        "bus",
+        "are",
+        "is",
+        "be",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "driver",
+          "drives",
+          "a",
+          "bus"
+        ]
+      ],
+      "formattedSolution": "The driver drives a bus.",
+      "id": "ec344518005f",
+      "priority": 2,
+      "group": "68788c8895ce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мој отац јест кухаром.",
+      "meaningInSourceLanguage": "My father is a cook.",
+      "id": "d35258fff7d6",
+      "priority": 0,
+      "group": "2a38457a0050"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мој отац јест кухаром.",
+      "meaning": "My father is a cook.",
+      "audio": "f987e9f7cde2235fa9f69a19ef711a9ca75ace49a32b41192f3b08c33286b649",
+      "id": "e24cbb839c95",
+      "priority": 1,
+      "group": "2a38457a0050"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined"
+        },
+        {
+          "word": "father",
+          "definition": "undefined\nотац"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "cook.",
+          "definition": "undefined\nкухар"
+        }
+      ],
+      "chips": [
+        "Мој",
+        "отац",
+        "јест",
+        "кухаром",
+        "там",
+        "том",
+        "тој"
+      ],
+      "solutions": [
+        [
+          "Мој",
+          "отац",
+          "јест",
+          "кухаром"
+        ]
+      ],
+      "formattedSolution": "Мој отац јест кухаром.",
+      "id": "e6d3838769f3",
+      "priority": 2,
+      "group": "2a38457a0050"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мој",
+          "definition": "undefined"
+        },
+        {
+          "word": "отац",
+          "definition": "father\nundefined"
+        },
+        {
+          "word": "јест",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "кухаром.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "father",
+        "is",
+        "a",
+        "cook",
+        "at",
+        "as",
+        "am",
+        "it"
+      ],
+      "solutions": [
+        [
+          "My",
+          "father",
+          "is",
+          "a",
+          "cook"
+        ]
+      ],
+      "formattedSolution": "My father is a cook.",
+      "id": "597ad23eeb40",
+      "priority": 2,
+      "group": "2a38457a0050"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Полицијник стоји на улици.",
+      "meaningInSourceLanguage": "The policeman is standing on the street.",
+      "id": "82ad96f75e34",
+      "priority": 0,
+      "group": "f4cfe6291428"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Полицијник стоји на улици.",
+      "meaning": "The policeman is standing on the street.",
+      "audio": "12eb299f02bb62edf1c93d8d8341e4ba9c82a11e0d38b671f0df9020d1aa4abc",
+      "id": "13680c8dcdfd",
+      "priority": 1,
+      "group": "f4cfe6291428"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "policeman",
+          "definition": "undefined\nполицијник"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "standing",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "street.",
+          "definition": "undefined\nулица"
+        }
+      ],
+      "chips": [
+        "Полицијник",
+        "стоји",
+        "на",
+        "улици",
+        "ли",
+        "птици",
+        "стаји"
+      ],
+      "solutions": [
+        [
+          "Полицијник",
+          "стоји",
+          "на",
+          "улици"
+        ]
+      ],
+      "formattedSolution": "Полицијник стоји на улици.",
+      "id": "3a2a62992565",
+      "priority": 2,
+      "group": "f4cfe6291428"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Полицијник",
+          "definition": "policeman\nundefined"
+        },
+        {
+          "word": "стоји",
+          "definition": "undefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "улици.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "policeman",
+        "is",
+        "standing",
+        "on",
+        "the",
+        "street",
+        "in",
+        "then",
+        "ten",
+        "son",
+        "an",
+        "see"
+      ],
+      "solutions": [
+        [
+          "The",
+          "policeman",
+          "is",
+          "standing",
+          "on",
+          "the",
+          "street"
+        ]
+      ],
+      "formattedSolution": "The policeman is standing on the street.",
+      "id": "ae70ebb9a192",
+      "priority": 2,
+      "group": "f4cfe6291428"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Артист рисује портрет.",
+      "meaningInSourceLanguage": "The artist is drawing a portrait.",
+      "id": "5e66a99aef8e",
+      "priority": 0,
+      "group": "5d39d7f9894a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Артист рисује портрет.",
+      "meaning": "The artist is drawing a portrait.",
+      "audio": "c43e74fc436663973817bead7467ed92a6f857c5f9de24097c86b6be9bd42254",
+      "id": "0b28c01caca8",
+      "priority": 1,
+      "group": "5d39d7f9894a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "artist",
+          "definition": "undefined\nартист"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "drawing",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "portrait.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Артист",
+        "рисује",
+        "портрет",
+        "расте",
+        "рибе"
+      ],
+      "solutions": [
+        [
+          "Артист",
+          "рисује",
+          "портрет"
+        ]
+      ],
+      "formattedSolution": "Артист рисује портрет.",
+      "id": "092e739da22a",
+      "priority": 2,
+      "group": "5d39d7f9894a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Артист",
+          "definition": "artist\nundefined"
+        },
+        {
+          "word": "рисује",
+          "definition": "undefined"
+        },
+        {
+          "word": "портрет.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "artist",
+        "is",
+        "drawing",
+        "a",
+        "portrait",
+        "it",
+        "at",
+        "air",
+        "rain",
+        "as"
+      ],
+      "solutions": [
+        [
+          "The",
+          "artist",
+          "is",
+          "drawing",
+          "a",
+          "portrait"
+        ]
+      ],
+      "formattedSolution": "The artist is drawing a portrait.",
+      "id": "11a567a50250",
+      "priority": 2,
+      "group": "5d39d7f9894a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Учитељ каже учениками делати.",
+      "meaningInSourceLanguage": "The teacher tells the students to do.",
+      "id": "49f130c20ad1",
+      "priority": 0,
+      "group": "b8c9b4e42646"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Учитељ каже учениками делати.",
+      "meaning": "The teacher tells the students to do.",
+      "audio": "2fdb364c44240809dec6002ba6a341379a8286d2239f454f3ce65af723cc7120",
+      "id": "1b6cbd676c8c",
+      "priority": 1,
+      "group": "b8c9b4e42646"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "teacher",
+          "definition": "undefined\nучитељ"
+        },
+        {
+          "word": "tells",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "students",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "do.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Учитељ",
+        "каже",
+        "учениками",
+        "делати",
+        "учите",
+        "дате",
+        "дете"
+      ],
+      "solutions": [
+        [
+          "Учитељ",
+          "каже",
+          "учениками",
+          "делати"
+        ]
+      ],
+      "formattedSolution": "Учитељ каже учениками делати.",
+      "id": "62a1fb96a9ff",
+      "priority": 2,
+      "group": "b8c9b4e42646"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Учитељ",
+          "definition": "male teacher\nteacher\nundefined"
+        },
+        {
+          "word": "каже",
+          "definition": "undefined"
+        },
+        {
+          "word": "учениками",
+          "definition": "undefined"
+        },
+        {
+          "word": "делати.",
+          "definition": "to do/make\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "teacher",
+        "tells",
+        "the",
+        "students",
+        "to",
+        "do",
+        "tea",
+        "then",
+        "ten",
+        "them",
+        "She",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "teacher",
+          "tells",
+          "the",
+          "students",
+          "to",
+          "do"
+        ]
+      ],
+      "formattedSolution": "The teacher tells the students to do.",
+      "id": "284e46e9ee2b",
+      "priority": 2,
+      "group": "b8c9b4e42646"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Доктор помага људами.",
+      "meaningInSourceLanguage": "The doctor helps people.",
+      "id": "cd6a2e131645",
+      "priority": 0,
+      "group": "d18f43308b57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Доктор помага људами.",
+      "meaning": "The doctor helps people.",
+      "audio": "35cad34e6597f1828f433f3981477eee2806118dc2410683d8a8882497489c7a",
+      "id": "22b6ddbd83a4",
+      "priority": 1,
+      "group": "d18f43308b57"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "doctor",
+          "definition": "undefined\nдоктор"
+        },
+        {
+          "word": "helps",
+          "definition": "undefined"
+        },
+        {
+          "word": "people.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Доктор",
+        "помага",
+        "људами",
+        "пољами",
+        "горами"
+      ],
+      "solutions": [
+        [
+          "Доктор",
+          "помага",
+          "људами"
+        ]
+      ],
+      "formattedSolution": "Доктор помага људами.",
+      "id": "dc01952b292f",
+      "priority": 2,
+      "group": "d18f43308b57"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Доктор",
+          "definition": "doctor\nundefined"
+        },
+        {
+          "word": "помага",
+          "definition": "undefined"
+        },
+        {
+          "word": "људами.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "doctor",
+        "helps",
+        "people",
+        "help",
+        "the",
+        "her"
+      ],
+      "solutions": [
+        [
+          "The",
+          "doctor",
+          "helps",
+          "people"
+        ]
+      ],
+      "formattedSolution": "The doctor helps people.",
+      "id": "e0df0f81dbaa",
+      "priority": 2,
+      "group": "d18f43308b57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Инжењер дела план.",
+      "meaningInSourceLanguage": "The engineer makes a plan.",
+      "id": "a051eb67a9be",
+      "priority": 0,
+      "group": "714db38ee23d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Инжењер дела план.",
+      "meaning": "The engineer makes a plan.",
+      "audio": "926c0c4141f98a915d05449a637227a5c867c3448007c81705c83a32be6e5f99",
+      "id": "94ebd5ec006a",
+      "priority": 1,
+      "group": "714db38ee23d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "engineer",
+          "definition": "undefined\nинжењер"
+        },
+        {
+          "word": "makes",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "plan.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Инжењер",
+        "дела",
+        "план",
+        "бела",
+        "делал"
+      ],
+      "solutions": [
+        [
+          "Инжењер",
+          "дела",
+          "план"
+        ]
+      ],
+      "formattedSolution": "Инжењер дела план.",
+      "id": "a269903f9b1c",
+      "priority": 2,
+      "group": "714db38ee23d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Инжењер",
+          "definition": "engineer\nundefined"
+        },
+        {
+          "word": "дела",
+          "definition": "undefined"
+        },
+        {
+          "word": "план.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "engineer",
+        "makes",
+        "a",
+        "plan",
+        "man",
+        "an",
+        "pan",
+        "age"
+      ],
+      "solutions": [
+        [
+          "The",
+          "engineer",
+          "makes",
+          "a",
+          "plan"
+        ]
+      ],
+      "formattedSolution": "The engineer makes a plan.",
+      "id": "25f311b38678",
+      "priority": 2,
+      "group": "714db38ee23d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Работник строи дом.",
+      "meaningInSourceLanguage": "The worker is building a house.",
+      "id": "1920b2beb2fe",
+      "priority": 0,
+      "group": "1d1a46f9bcc5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Работник строи дом.",
+      "meaning": "The worker is building a house.",
+      "audio": "2db4943890a7f5aa83224207ccc411a894035fd89edccedf9cbfbfdcfc4ac247",
+      "id": "582fe314be34",
+      "priority": 1,
+      "group": "1d1a46f9bcc5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "worker",
+          "definition": "undefined\nработник"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "building",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "house.",
+          "definition": "undefined\nдом"
+        }
+      ],
+      "chips": [
+        "Работник",
+        "строи",
+        "дом",
+        "сок",
+        "три"
+      ],
+      "solutions": [
+        [
+          "Работник",
+          "строи",
+          "дом"
+        ]
+      ],
+      "formattedSolution": "Работник строи дом.",
+      "id": "7363ce9b949e",
+      "priority": 2,
+      "group": "1d1a46f9bcc5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Работник",
+          "definition": "undefined\nworker"
+        },
+        {
+          "word": "строи",
+          "definition": "undefined"
+        },
+        {
+          "word": "дом.",
+          "definition": "house\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "worker",
+        "is",
+        "building",
+        "a",
+        "house",
+        "us",
+        "be",
+        "wise",
+        "We",
+        "are"
+      ],
+      "solutions": [
+        [
+          "The",
+          "worker",
+          "is",
+          "building",
+          "a",
+          "house"
+        ]
+      ],
+      "formattedSolution": "The worker is building a house.",
+      "id": "09f4de6fe122",
+      "priority": 2,
+      "group": "1d1a46f9bcc5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Писар пише документи.",
+      "meaningInSourceLanguage": "The writer writes documents.",
+      "id": "ae2eeea8eeec",
+      "priority": 0,
+      "group": "c18946594c3e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Писар пише документи.",
+      "meaning": "The writer writes documents.",
+      "audio": "9baba7cad8cd25d45561aea56191a6a15261662ace43f48a26e0c4996f11e624",
+      "id": "ac52e544ed0e",
+      "priority": 1,
+      "group": "c18946594c3e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "writer",
+          "definition": "undefined\nписар"
+        },
+        {
+          "word": "writes",
+          "definition": "undefined"
+        },
+        {
+          "word": "documents.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Писар",
+        "пише",
+        "документи",
+        "Пити",
+        "пије"
+      ],
+      "solutions": [
+        [
+          "Писар",
+          "пише",
+          "документи"
+        ]
+      ],
+      "formattedSolution": "Писар пише документи.",
+      "id": "660187a7c9e5",
+      "priority": 2,
+      "group": "c18946594c3e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Писар",
+          "definition": "undefined\nwriter"
+        },
+        {
+          "word": "пише",
+          "definition": "undefined"
+        },
+        {
+          "word": "документи.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "writer",
+        "writes",
+        "documents",
+        "white",
+        "rises",
+        "drives"
+      ],
+      "solutions": [
+        [
+          "The",
+          "writer",
+          "writes",
+          "documents"
+        ]
+      ],
+      "formattedSolution": "The writer writes documents.",
+      "id": "ba6ed6166698",
+      "priority": 2,
+      "group": "c18946594c3e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Продавец продаје једу.",
+      "meaningInSourceLanguage": "The seller sells food.",
+      "id": "0625247441db",
+      "priority": 0,
+      "group": "a5fc6feae508"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Продавец продаје једу.",
+      "meaning": "The seller sells food.",
+      "audio": "aa9a522a95447629d5a18ae9dc41470f6b14075d5024f0b1d37792d9a4ecb39b",
+      "id": "7a5b363245b1",
+      "priority": 1,
+      "group": "a5fc6feae508"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "seller",
+          "definition": "undefined\nпродавец"
+        },
+        {
+          "word": "sells",
+          "definition": "undefined"
+        },
+        {
+          "word": "food.",
+          "definition": "undefined\nједа"
+        }
+      ],
+      "chips": [
+        "Продавец",
+        "продаје",
+        "једу",
+        "додаје",
+        "даје"
+      ],
+      "solutions": [
+        [
+          "Продавец",
+          "продаје",
+          "једу"
+        ]
+      ],
+      "formattedSolution": "Продавец продаје једу.",
+      "id": "51e5375e924a",
+      "priority": 2,
+      "group": "a5fc6feae508"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Продавец",
+          "definition": "seller\nundefined"
+        },
+        {
+          "word": "продаје",
+          "definition": "undefined"
+        },
+        {
+          "word": "једу.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "seller",
+        "sells",
+        "food",
+        "see",
+        "sees",
+        "well"
+      ],
+      "solutions": [
+        [
+          "The",
+          "seller",
+          "sells",
+          "food"
+        ]
+      ],
+      "formattedSolution": "The seller sells food.",
+      "id": "bf3a40c4cd5f",
+      "priority": 2,
+      "group": "a5fc6feae508"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Шофер веде људи.",
+      "meaningInSourceLanguage": "The driver drives people.",
+      "id": "76e2b5a6abab",
+      "priority": 0,
+      "group": "60fab12a3956"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Шофер веде људи.",
+      "meaning": "The driver drives people.",
+      "audio": "7796f448676e6adab7a5e650d24d5ee84e0a188c6aa126ff8445f374f00895c8",
+      "id": "40402734085f",
+      "priority": 1,
+      "group": "60fab12a3956"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "driver",
+          "definition": "undefined\nшофер"
+        },
+        {
+          "word": "drives",
+          "definition": "undefined"
+        },
+        {
+          "word": "people.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Шофер",
+        "веде",
+        "људи",
+        "води",
+        "једе"
+      ],
+      "solutions": [
+        [
+          "Шофер",
+          "веде",
+          "људи"
+        ]
+      ],
+      "formattedSolution": "Шофер веде људи.",
+      "id": "9b455920897f",
+      "priority": 2,
+      "group": "60fab12a3956"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Шофер",
+          "definition": "driver\nundefined"
+        },
+        {
+          "word": "веде",
+          "definition": "undefined"
+        },
+        {
+          "word": "људи.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "driver",
+        "drives",
+        "people",
+        "river",
+        "ripe",
+        "Give"
+      ],
+      "solutions": [
+        [
+          "The",
+          "driver",
+          "drives",
+          "people"
+        ]
+      ],
+      "formattedSolution": "The driver drives people.",
+      "id": "82c68f43f041",
+      "priority": 2,
+      "group": "60fab12a3956"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Кухар готови вечеру.",
+      "meaningInSourceLanguage": "The cook is preparing dinner.",
+      "id": "46b9be10b292",
+      "priority": 0,
+      "group": "ca5540d02aca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Кухар готови вечеру.",
+      "meaning": "The cook is preparing dinner.",
+      "audio": "0dc0bc06792e70badfa7b0064803c02ec1ae5eb2b0b78aa5afa50c79490991c5",
+      "id": "ed5be0b32467",
+      "priority": 1,
+      "group": "ca5540d02aca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "cook",
+          "definition": "undefined\nкухар"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "preparing",
+          "definition": "undefined"
+        },
+        {
+          "word": "dinner.",
+          "definition": "undefined\nвечерја"
+        }
+      ],
+      "chips": [
+        "Кухар",
+        "готови",
+        "вечеру",
+        "вечер",
+        "говори"
+      ],
+      "solutions": [
+        [
+          "Кухар",
+          "готови",
+          "вечеру"
+        ]
+      ],
+      "formattedSolution": "Кухар готови вечеру.",
+      "id": "a5439969d28c",
+      "priority": 2,
+      "group": "ca5540d02aca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Кухар",
+          "definition": "cook\nundefined"
+        },
+        {
+          "word": "готови",
+          "definition": "undefined"
+        },
+        {
+          "word": "вечеру.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "cook",
+        "is",
+        "preparing",
+        "dinner",
+        "in",
+        "ink",
+        "her",
+        "wine"
+      ],
+      "solutions": [
+        [
+          "The",
+          "cook",
+          "is",
+          "preparing",
+          "dinner"
+        ]
+      ],
+      "formattedSolution": "The cook is preparing dinner.",
+      "id": "14894ad29f86",
+      "priority": 2,
+      "group": "ca5540d02aca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Полицијник контролише ситуацију.",
+      "meaningInSourceLanguage": "The policeman controls the situation.",
+      "id": "716fc1e94cfd",
+      "priority": 0,
+      "group": "a5bae4892c31"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Полицијник контролише ситуацију.",
+      "meaning": "The policeman controls the situation.",
+      "audio": "d450229a234bd2b9ed9cec01433b1d56b92a0d9618ec2961e5346c053377268c",
+      "id": "d2d9c3148eb0",
+      "priority": 1,
+      "group": "a5bae4892c31"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "policeman",
+          "definition": "undefined\nполицијник"
+        },
+        {
+          "word": "controls",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "situation.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Полицијник",
+        "контролише",
+        "ситуацију",
+        "линији",
+        "готовити"
+      ],
+      "solutions": [
+        [
+          "Полицијник",
+          "контролише",
+          "ситуацију"
+        ]
+      ],
+      "formattedSolution": "Полицијник контролише ситуацију.",
+      "id": "57092cdfe200",
+      "priority": 2,
+      "group": "a5bae4892c31"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Полицијник",
+          "definition": "policeman\nundefined"
+        },
+        {
+          "word": "контролише",
+          "definition": "undefined"
+        },
+        {
+          "word": "ситуацију.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "policeman",
+        "controls",
+        "the",
+        "situation",
+        "then",
+        "son",
+        "can",
+        "them"
+      ],
+      "solutions": [
+        [
+          "The",
+          "policeman",
+          "controls",
+          "the",
+          "situation"
+        ]
+      ],
+      "formattedSolution": "The policeman controls the situation.",
+      "id": "5da24c43469f",
+      "priority": 2,
+      "group": "a5bae4892c31"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Артист показује своју творбу.",
+      "meaningInSourceLanguage": "The artist shows his work.",
+      "id": "110589dd79b0",
+      "priority": 0,
+      "group": "027a2c05d510"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Артист показује своју творбу.",
+      "meaning": "The artist shows his work.",
+      "audio": "6d0922199b0a4b708a0ea696e254fe5ddef92f59392febca9b85a734700be6aa",
+      "id": "b1e9e8d8c58c",
+      "priority": 1,
+      "group": "027a2c05d510"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "artist",
+          "definition": "undefined\nартист"
+        },
+        {
+          "word": "shows",
+          "definition": "undefined"
+        },
+        {
+          "word": "his",
+          "definition": "undefined"
+        },
+        {
+          "word": "work.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Артист",
+        "показује",
+        "своју",
+        "творбу",
+        "твоју",
+        "твој",
+        "воду"
+      ],
+      "solutions": [
+        [
+          "Артист",
+          "показује",
+          "своју",
+          "творбу"
+        ]
+      ],
+      "formattedSolution": "Артист показује своју творбу.",
+      "id": "954928b064f9",
+      "priority": 2,
+      "group": "027a2c05d510"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Артист",
+          "definition": "artist\nundefined"
+        },
+        {
+          "word": "показује",
+          "definition": "undefined"
+        },
+        {
+          "word": "своју",
+          "definition": "undefined"
+        },
+        {
+          "word": "творбу.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "artist",
+        "shows",
+        "his",
+        "work",
+        "This",
+        "is",
+        "has",
+        "hot"
+      ],
+      "solutions": [
+        [
+          "The",
+          "artist",
+          "shows",
+          "his",
+          "work"
+        ]
+      ],
+      "formattedSolution": "The artist shows his work.",
+      "id": "37732ba1f017",
+      "priority": 2,
+      "group": "027a2c05d510"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "учитељ",
+      "meaningInSourceLanguage": "teacher",
+      "id": "f6f9d758c550",
+      "priority": 0,
+      "group": "dfdd638229fa"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "учитељ"
+      ],
+      "phrase": [
+        {
+          "word": "teacher",
+          "definition": "undefined\nучитељ"
+        }
+      ],
+      "id": "e4a5e45e4786",
+      "priority": 1,
+      "group": "dfdd638229fa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "учитељ",
+      "meaning": "teacher",
+      "audio": "2c58e3ea675bdc20889f62f1bac16640cd2acbf9ded2903c8ae2a337c8b2318a",
+      "id": "30eba96ac24b",
+      "priority": 1,
+      "group": "dfdd638229fa"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "доктор",
+      "meaningInSourceLanguage": "doctor",
+      "id": "03c8ad937157",
+      "priority": 0,
+      "group": "eba204df7e3f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "доктор"
+      ],
+      "phrase": [
+        {
+          "word": "doctor",
+          "definition": "undefined\nдоктор"
+        }
+      ],
+      "id": "7e95c96c9bc6",
+      "priority": 1,
+      "group": "eba204df7e3f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "доктор",
+      "meaning": "doctor",
+      "audio": "8e5e300fb97923c897ad9875840384fa680a9d1034742536c4a6af177c82c9cb",
+      "id": "739db3d469dc",
+      "priority": 1,
+      "group": "eba204df7e3f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "инжењер",
+      "meaningInSourceLanguage": "engineer",
+      "id": "fd6346282128",
+      "priority": 0,
+      "group": "a7b8c4d552eb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "инжењер"
+      ],
+      "phrase": [
+        {
+          "word": "engineer",
+          "definition": "undefined\nинжењер"
+        }
+      ],
+      "id": "5e03fbe53b88",
+      "priority": 1,
+      "group": "a7b8c4d552eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "инжењер",
+      "meaning": "engineer",
+      "audio": "41171b7efff5d3f4dfad3c2f9e34dfec48d8f874518c308a4599bd6463066c08",
+      "id": "5012918a223a",
+      "priority": 1,
+      "group": "a7b8c4d552eb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "работник",
+      "meaningInSourceLanguage": "worker",
+      "id": "d88bfa2a8acb",
+      "priority": 0,
+      "group": "120f897267af"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "работник"
+      ],
+      "phrase": [
+        {
+          "word": "worker",
+          "definition": "undefined\nработник"
+        }
+      ],
+      "id": "8dd6782729ad",
+      "priority": 1,
+      "group": "120f897267af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "работник",
+      "meaning": "worker",
+      "audio": "4da2a38bae68279fa6e2736f91c3d73fefb442562099b4fe092a813361f89934",
+      "id": "046b3522e9b3",
+      "priority": 1,
+      "group": "120f897267af"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "писар",
+      "meaningInSourceLanguage": "writer",
+      "id": "1a479f993dfb",
+      "priority": 0,
+      "group": "a1512e1d32f8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "писар"
+      ],
+      "phrase": [
+        {
+          "word": "writer",
+          "definition": "undefined\nписар"
+        }
+      ],
+      "id": "b0ecf7d2d948",
+      "priority": 1,
+      "group": "a1512e1d32f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "писар",
+      "meaning": "writer",
+      "audio": "7071b1871a81124747840ccb73e839ba9857be6a0f7ab5f32cf5a9694d042ac8",
+      "id": "b24ef0378241",
+      "priority": 1,
+      "group": "a1512e1d32f8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "продавец",
+      "meaningInSourceLanguage": "seller",
+      "id": "fd21d868c9cc",
+      "priority": 0,
+      "group": "4ef2ab59d8cf"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "продавец"
+      ],
+      "phrase": [
+        {
+          "word": "seller",
+          "definition": "undefined\nпродавец"
+        }
+      ],
+      "id": "ee27c3edc7c0",
+      "priority": 1,
+      "group": "4ef2ab59d8cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "продавец",
+      "meaning": "seller",
+      "audio": "5018c6ca4504bb8c697ac0bb854a9328052c382c85760ddec92bf1b16248d5c3",
+      "id": "5be47d581083",
+      "priority": 1,
+      "group": "4ef2ab59d8cf"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "шофер",
+      "meaningInSourceLanguage": "driver",
+      "id": "27f9ef488db7",
+      "priority": 0,
+      "group": "4dbca74e83eb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "шофер"
+      ],
+      "phrase": [
+        {
+          "word": "driver",
+          "definition": "undefined\nшофер"
+        }
+      ],
+      "id": "c033cf9ff45b",
+      "priority": 1,
+      "group": "4dbca74e83eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "шофер",
+      "meaning": "driver",
+      "audio": "59cac0a4333845e70b3b9df2bb987c1b1d3644f65b57792bb153a4cad96e454e",
+      "id": "8d71d5cadbcc",
+      "priority": 1,
+      "group": "4dbca74e83eb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "кухар",
+      "meaningInSourceLanguage": "cook",
+      "id": "9ca286115fd2",
+      "priority": 0,
+      "group": "26ec87a8eac6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "кухар"
+      ],
+      "phrase": [
+        {
+          "word": "cook",
+          "definition": "undefined\nкухар"
+        }
+      ],
+      "id": "775f59b75dd3",
+      "priority": 1,
+      "group": "26ec87a8eac6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "кухар",
+      "meaning": "cook",
+      "audio": "8deb77e2cb90c3722369866e936f544f8c4acea3961d99a30ee2288452cbaa47",
+      "id": "1c1eee1816af",
+      "priority": 1,
+      "group": "26ec87a8eac6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "полицијник",
+      "meaningInSourceLanguage": "policeman",
+      "id": "ce72678cc3b6",
+      "priority": 0,
+      "group": "0950eff89a00"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "полицијник"
+      ],
+      "phrase": [
+        {
+          "word": "policeman",
+          "definition": "undefined\nполицијник"
+        }
+      ],
+      "id": "4d027cd1b81a",
+      "priority": 1,
+      "group": "0950eff89a00"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "полицијник",
+      "meaning": "policeman",
+      "audio": "4ba95008399b68a4ebbfbc008ba8078191e4e43467a5aede067aa60513bb14ba",
+      "id": "9c545cb7c2ca",
+      "priority": 1,
+      "group": "0950eff89a00"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "артист",
+      "meaningInSourceLanguage": "artist",
+      "id": "8742624759a8",
+      "priority": 0,
+      "group": "f22fe1fd3fe2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "артист"
+      ],
+      "phrase": [
+        {
+          "word": "artist",
+          "definition": "undefined\nартист"
+        }
+      ],
+      "id": "5602469c854d",
+      "priority": 1,
+      "group": "f22fe1fd3fe2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "артист",
+      "meaning": "artist",
+      "audio": "7fcf7d8e8c320917326ff5d7f600a7ed800476a0f810b703f997f3f620f7dbc5",
+      "id": "026375f968d7",
+      "priority": 1,
+      "group": "f22fe1fd3fe2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "работовати",
+      "meaningInSourceLanguage": "to work",
+      "id": "76a534417411",
+      "priority": 0,
+      "group": "fb31c303a730"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "работовати"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "work",
+          "definition": "undefined"
+        }
+      ],
+      "id": "5b0c596906b1",
+      "priority": 1,
+      "group": "fb31c303a730"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "работовати",
+      "meaning": "to work",
+      "audio": "a18d90de19b287aed3ea5e187bff4be41d31464db65220d639ab202b4254d8fc",
+      "id": "464791905609",
+      "priority": 1,
+      "group": "fb31c303a730"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "работати",
+      "meaningInSourceLanguage": "to work",
+      "id": "ae96c30a2513",
+      "priority": 0,
+      "group": "420aea242870"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "работати"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "work",
+          "definition": "undefined"
+        }
+      ],
+      "id": "edcbbf75c246",
+      "priority": 1,
+      "group": "420aea242870"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "работати",
+      "meaning": "to work",
+      "audio": "d2f7db52625f4c2374bb8d87d182ab9940d3d22d413916188e87634d34bfb316",
+      "id": "754773539ddb",
+      "priority": 1,
+      "group": "420aea242870"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "рисовати",
+      "meaningInSourceLanguage": "to draw",
+      "id": "364bde9bce7c",
+      "priority": 0,
+      "group": "a6cba6899da9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "рисовати"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "draw",
+          "definition": "undefined"
+        }
+      ],
+      "id": "6238690c9be6",
+      "priority": 1,
+      "group": "a6cba6899da9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "рисовати",
+      "meaning": "to draw",
+      "audio": "cc387fd2f81801e93d11cbf63d517012f9f2b0891cd2dda58fbd78a35ff712cc",
+      "id": "9d76177741f8",
+      "priority": 1,
+      "group": "a6cba6899da9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "делати",
+      "meaningInSourceLanguage": "to do/make",
+      "id": "0551dc57033f",
+      "priority": 0,
+      "group": "39910683a4a0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "делати"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "do/make",
+          "definition": "undefined"
+        }
+      ],
+      "id": "fdaf3340dd1c",
+      "priority": 1,
+      "group": "39910683a4a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "делати",
+      "meaning": "to do/make",
+      "audio": "79bb30b19971fed2556936c3e5db2d7dbd422048ffaf8138d6946a213d94b335",
+      "id": "cff367a2a47f",
+      "priority": 1,
+      "group": "39910683a4a0"
+    }
+  ]
+}

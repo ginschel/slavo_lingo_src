@@ -1,0 +1,2759 @@
+{
+  "id": "3e8e332663cb",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Это есть большой город.",
+      "meaningInSourceLanguage": "This is a big city.",
+      "id": "064772458c24",
+      "priority": 0,
+      "group": "24532e5f72d5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Это есть большой город.",
+      "meaning": "This is a big city.",
+      "audio": "d2f9af108233b56b3d2a9e158117d88e48d4ee92fc42664409240cd61b81abde",
+      "id": "b8a108aa5d41",
+      "priority": 1,
+      "group": "24532e5f72d5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "big",
+          "definition": "undefined"
+        },
+        {
+          "word": "city.",
+          "definition": "undefined\nгород"
+        }
+      ],
+      "chips": [
+        "Это",
+        "есть",
+        "большой",
+        "город",
+        "сто",
+        "Кто",
+        "то"
+      ],
+      "solutions": [
+        [
+          "Это",
+          "есть",
+          "большой",
+          "город"
+        ]
+      ],
+      "formattedSolution": "Это есть большой город.",
+      "id": "9bb1644d5423",
+      "priority": 2,
+      "group": "24532e5f72d5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Это",
+          "definition": "undefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "большой",
+          "definition": "undefined"
+        },
+        {
+          "word": "город.",
+          "definition": "city\nundefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "a",
+        "big",
+        "city",
+        "it",
+        "his",
+        "in",
+        "him"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "a",
+          "big",
+          "city"
+        ]
+      ],
+      "formattedSolution": "This is a big city.",
+      "id": "1b8ce07b2067",
+      "priority": 2,
+      "group": "24532e5f72d5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Дом стоит на улице.",
+      "meaningInSourceLanguage": "The house stands on the street.",
+      "id": "0bea4ce85285",
+      "priority": 0,
+      "group": "3aa470396bc4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Дом стоит на улице.",
+      "meaning": "The house stands on the street.",
+      "audio": "ae7c02b40d1c8c54132e8588a686f33432e662badeb2a5e3d93c3199ceb378b1",
+      "id": "8937332fd7fe",
+      "priority": 1,
+      "group": "3aa470396bc4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "house",
+          "definition": "undefined\nдом"
+        },
+        {
+          "word": "stands",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "street.",
+          "definition": "undefined\nулица"
+        }
+      ],
+      "chips": [
+        "Дом",
+        "стоит",
+        "на",
+        "улице",
+        "то",
+        "ли",
+        "со"
+      ],
+      "solutions": [
+        [
+          "Дом",
+          "стоит",
+          "на",
+          "улице"
+        ]
+      ],
+      "formattedSolution": "Дом стоит на улице.",
+      "id": "aeca14c3c216",
+      "priority": 2,
+      "group": "3aa470396bc4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Дом",
+          "definition": "house\nundefined"
+        },
+        {
+          "word": "стоит",
+          "definition": "undefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "улице.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "house",
+        "stands",
+        "on",
+        "the",
+        "street",
+        "see",
+        "shoe",
+        "She",
+        "are",
+        "son"
+      ],
+      "solutions": [
+        [
+          "The",
+          "house",
+          "stands",
+          "on",
+          "the",
+          "street"
+        ]
+      ],
+      "formattedSolution": "The house stands on the street.",
+      "id": "8d2fdfe953e8",
+      "priority": 2,
+      "group": "3aa470396bc4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Идём до площади/рынка.",
+      "meaningInSourceLanguage": "We are going to the square.",
+      "id": "9657c82f0af0",
+      "priority": 0,
+      "group": "3cc3c8d69816"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Идём до площади/рынка.",
+      "meaning": "We are going to the square.",
+      "audio": "d97dd30438ce38de55382bbfde29fbfdf60db3ca2893ba88cb5a76b38f11fdb3",
+      "id": "b200068e4140",
+      "priority": 1,
+      "group": "3cc3c8d69816"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nмы"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+        },
+        {
+          "word": "going",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "square.",
+          "definition": "undefined\nквадрат"
+        }
+      ],
+      "chips": [
+        "Идём",
+        "до",
+        "площади/рынка",
+        "дом",
+        "Иди"
+      ],
+      "solutions": [
+        [
+          "Идём",
+          "до",
+          "площади/рынка"
+        ]
+      ],
+      "formattedSolution": "Идём до площади/рынка.",
+      "id": "fe443fc8cb5c",
+      "priority": 2,
+      "group": "3cc3c8d69816"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Идём",
+          "definition": "undefined"
+        },
+        {
+          "word": "до",
+          "definition": "undefined"
+        },
+        {
+          "word": "площади/рынка.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "going",
+        "to",
+        "the",
+        "square",
+        "Are",
+        "He",
+        "me",
+        "be",
+        "we"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "going",
+          "to",
+          "the",
+          "square"
+        ]
+      ],
+      "formattedSolution": "We are going to the square.",
+      "id": "bc6223bcd942",
+      "priority": 2,
+      "group": "3cc3c8d69816"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Станция есть близко центра.",
+      "meaningInSourceLanguage": "The station is near the center.",
+      "id": "5070155bd872",
+      "priority": 0,
+      "group": "be44f481d83e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Станция есть близко центра.",
+      "meaning": "The station is near the center.",
+      "audio": "59e324f4e5ff04bc07eab07b2c20a2be5ccaafd86b3e691cd49d98e504e707eb",
+      "id": "388049fd6536",
+      "priority": 1,
+      "group": "be44f481d83e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "station",
+          "definition": "undefined\nстанция"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "near",
+          "definition": "undefined\nблизко"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "center.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Станция",
+        "есть",
+        "близко",
+        "центра",
+        "центре",
+        "лета",
+        "сестра"
+      ],
+      "solutions": [
+        [
+          "Станция",
+          "есть",
+          "близко",
+          "центра"
+        ]
+      ],
+      "formattedSolution": "Станция есть близко центра.",
+      "id": "19e075a36cdc",
+      "priority": 2,
+      "group": "be44f481d83e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Станция",
+          "definition": "station\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "близко",
+          "definition": "near\nundefined"
+        },
+        {
+          "word": "центра.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "station",
+        "is",
+        "near",
+        "the",
+        "center",
+        "her",
+        "tea",
+        "see",
+        "eat",
+        "ten"
+      ],
+      "solutions": [
+        [
+          "The",
+          "station",
+          "is",
+          "near",
+          "the",
+          "center"
+        ]
+      ],
+      "formattedSolution": "The station is near the center.",
+      "id": "78aa5cd9e897",
+      "priority": 2,
+      "group": "be44f481d83e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мост идёт через реку.",
+      "meaningInSourceLanguage": "The bridge goes over the river.",
+      "id": "470870b50f45",
+      "priority": 0,
+      "group": "490446b421d5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мост идёт через реку.",
+      "meaning": "The bridge goes over the river.",
+      "audio": "71f98646077ac3cc7d759716ba49dadb3837a43ff2863b5f2440ecd90a0f59be",
+      "id": "70d116b07317",
+      "priority": 1,
+      "group": "490446b421d5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bridge",
+          "definition": "undefined\nмост"
+        },
+        {
+          "word": "goes",
+          "definition": "undefined\nидёт (пешком)"
+        },
+        {
+          "word": "over",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "river.",
+          "definition": "undefined\nрека"
+        }
+      ],
+      "chips": [
+        "Мост",
+        "идёт",
+        "через",
+        "реку",
+        "едут",
+        "реке",
+        "ест"
+      ],
+      "solutions": [
+        [
+          "Мост",
+          "идёт",
+          "через",
+          "реку"
+        ]
+      ],
+      "formattedSolution": "Мост идёт через реку.",
+      "id": "4ddd78a479b9",
+      "priority": 2,
+      "group": "490446b421d5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мост",
+          "definition": "bridge\nundefined"
+        },
+        {
+          "word": "идёт",
+          "definition": "undefined"
+        },
+        {
+          "word": "через",
+          "definition": "through\nundefined"
+        },
+        {
+          "word": "реку.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bridge",
+        "goes",
+        "over",
+        "the",
+        "river",
+        "She",
+        "are",
+        "her",
+        "be",
+        "age"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bridge",
+          "goes",
+          "over",
+          "the",
+          "river"
+        ]
+      ],
+      "formattedSolution": "The bridge goes over the river.",
+      "id": "f6a61ef939d8",
+      "priority": 2,
+      "group": "490446b421d5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Покупаем хлеб в магазине.",
+      "meaningInSourceLanguage": "We buy bread in the shop.",
+      "id": "95f11e411307",
+      "priority": 0,
+      "group": "9dfb486fc9ec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Покупаем хлеб в магазине.",
+      "meaning": "We buy bread in the shop.",
+      "audio": "ba015306bd474508db9f6a1d4a71b2950ede116a97e4dc4c16066e74a78b6a41",
+      "id": "baeb8e4cdf8d",
+      "priority": 1,
+      "group": "9dfb486fc9ec"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nмы"
+        },
+        {
+          "word": "buy",
+          "definition": "undefined"
+        },
+        {
+          "word": "bread",
+          "definition": "undefined\nхлеб"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "shop.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Покупаем",
+        "хлеб",
+        "в",
+        "магазине",
+        "не",
+        "мне",
+        "кем"
+      ],
+      "solutions": [
+        [
+          "Покупаем",
+          "хлеб",
+          "в",
+          "магазине"
+        ]
+      ],
+      "formattedSolution": "Покупаем хлеб в магазине.",
+      "id": "61156b0985c4",
+      "priority": 2,
+      "group": "9dfb486fc9ec"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Покупаем",
+          "definition": "undefined"
+        },
+        {
+          "word": "хлеб",
+          "definition": "bread\nundefined"
+        },
+        {
+          "word": "в",
+          "definition": "undefined"
+        },
+        {
+          "word": "магазине.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "buy",
+        "bread",
+        "in",
+        "the",
+        "shop",
+        "be",
+        "She",
+        "He",
+        "me",
+        "The"
+      ],
+      "solutions": [
+        [
+          "We",
+          "buy",
+          "bread",
+          "in",
+          "the",
+          "shop"
+        ]
+      ],
+      "formattedSolution": "We buy bread in the shop.",
+      "id": "eb47f59a6182",
+      "priority": 2,
+      "group": "9dfb486fc9ec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "На торговой площади/рынке есть много людей.",
+      "meaningInSourceLanguage": "There are many people at the market.",
+      "id": "5343d21ce4aa",
+      "priority": 0,
+      "group": "21e6b9aaf841"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "На торговой площади/рынке есть много людей.",
+      "meaning": "There are many people at the market.",
+      "audio": "c4d32ef3ee4b643c61bed3ae53cf30cf02340d2dbc2532ff70b2748a3a191227",
+      "id": "42a492a4f8dd",
+      "priority": 1,
+      "group": "21e6b9aaf841"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "There",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+        },
+        {
+          "word": "many",
+          "definition": "undefined"
+        },
+        {
+          "word": "people",
+          "definition": "undefined"
+        },
+        {
+          "word": "at",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "market.",
+          "definition": "undefined\nторговая площадь/рынок"
+        }
+      ],
+      "chips": [
+        "На",
+        "торговой",
+        "площади/рынке",
+        "есть",
+        "много",
+        "людей",
+        "море",
+        "мой",
+        "то",
+        "твой",
+        "Надо"
+      ],
+      "solutions": [
+        [
+          "На",
+          "торговой",
+          "площади/рынке",
+          "есть",
+          "много",
+          "людей"
+        ]
+      ],
+      "formattedSolution": "На торговой площади/рынке есть много людей.",
+      "id": "77d054f48478",
+      "priority": 2,
+      "group": "21e6b9aaf841"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "На",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "торговой",
+          "definition": "undefined"
+        },
+        {
+          "word": "площади/рынке",
+          "definition": "undefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "много",
+          "definition": "undefined"
+        },
+        {
+          "word": "людей.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "There",
+        "are",
+        "many",
+        "people",
+        "at",
+        "the",
+        "market",
+        "age",
+        "Are",
+        "me",
+        "here",
+        "The",
+        "made"
+      ],
+      "solutions": [
+        [
+          "There",
+          "are",
+          "many",
+          "people",
+          "at",
+          "the",
+          "market"
+        ]
+      ],
+      "formattedSolution": "There are many people at the market.",
+      "id": "af629230e9c2",
+      "priority": 2,
+      "group": "21e6b9aaf841"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Читаю книгу в библиотеке.",
+      "meaningInSourceLanguage": "I read a book in the library.",
+      "id": "4499bd91e7ce",
+      "priority": 0,
+      "group": "80fce8b24f3f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Читаю книгу в библиотеке.",
+      "meaning": "I read a book in the library.",
+      "audio": "c326041175a5ed8fefa9e68fc81b19c6254f1a0ad54c72ce6af824fb07007ee0",
+      "id": "f3ad76cf2989",
+      "priority": 1,
+      "group": "80fce8b24f3f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "read",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "book",
+          "definition": "undefined\nкнига"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "library.",
+          "definition": "undefined\nбиблиотека"
+        }
+      ],
+      "chips": [
+        "Читаю",
+        "книгу",
+        "в",
+        "библиотеке",
+        "ли",
+        "или",
+        "дитя"
+      ],
+      "solutions": [
+        [
+          "Читаю",
+          "книгу",
+          "в",
+          "библиотеке"
+        ]
+      ],
+      "formattedSolution": "Читаю книгу в библиотеке.",
+      "id": "622e4d7f59dd",
+      "priority": 2,
+      "group": "80fce8b24f3f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Читаю",
+          "definition": "undefined"
+        },
+        {
+          "word": "книгу",
+          "definition": "undefined"
+        },
+        {
+          "word": "в",
+          "definition": "undefined"
+        },
+        {
+          "word": "библиотеке.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "read",
+        "a",
+        "book",
+        "in",
+        "the",
+        "library",
+        "an",
+        "be",
+        "am",
+        "at",
+        "da",
+        "bad"
+      ],
+      "solutions": [
+        [
+          "I",
+          "read",
+          "a",
+          "book",
+          "in",
+          "the",
+          "library"
+        ]
+      ],
+      "formattedSolution": "I read a book in the library.",
+      "id": "69ec288bef85",
+      "priority": 2,
+      "group": "80fce8b24f3f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Церковь есть старая и белая.",
+      "meaningInSourceLanguage": "The church is old and white.",
+      "id": "2e62b943cce2",
+      "priority": 0,
+      "group": "491b9ff16794"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Церковь есть старая и белая.",
+      "meaning": "The church is old and white.",
+      "audio": "622356053d84fef1077dd0f222f133150f3ef2053ad83ffe0f74c64074b24be5",
+      "id": "3ecbb735d808",
+      "priority": 1,
+      "group": "491b9ff16794"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "church",
+          "definition": "undefined\nцерковь"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "old",
+          "definition": "undefined\nстарый"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "white.",
+          "definition": "undefined\nбелый"
+        }
+      ],
+      "chips": [
+        "Церковь",
+        "есть",
+        "старая",
+        "и",
+        "белая",
+        "ест",
+        "есмь",
+        "есте",
+        "еси"
+      ],
+      "solutions": [
+        [
+          "Церковь",
+          "есть",
+          "старая",
+          "и",
+          "белая"
+        ]
+      ],
+      "formattedSolution": "Церковь есть старая и белая.",
+      "id": "36bc9f72594e",
+      "priority": 2,
+      "group": "491b9ff16794"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Церковь",
+          "definition": "church\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "старая",
+          "definition": "undefined"
+        },
+        {
+          "word": "и",
+          "definition": "undefined"
+        },
+        {
+          "word": "белая.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "church",
+        "is",
+        "old",
+        "and",
+        "white",
+        "She",
+        "the",
+        "his",
+        "are",
+        "it"
+      ],
+      "solutions": [
+        [
+          "The",
+          "church",
+          "is",
+          "old",
+          "and",
+          "white"
+        ]
+      ],
+      "formattedSolution": "The church is old and white.",
+      "id": "3d4015dd7aa1",
+      "priority": 2,
+      "group": "491b9ff16794"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Улица есть длинная и тёплая.",
+      "meaningInSourceLanguage": "The street is long and warm.",
+      "id": "bf1440810c47",
+      "priority": 0,
+      "group": "1182ed870881"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Улица есть длинная и тёплая.",
+      "meaning": "The street is long and warm.",
+      "audio": "bf20f15adaa48a28018dd927c0539c4bb26d174f450e3fc8800e70e999a8cd23",
+      "id": "28ac88ee376f",
+      "priority": 1,
+      "group": "1182ed870881"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "street",
+          "definition": "undefined\nулица"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "long",
+          "definition": "undefined\nдлинный"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "warm.",
+          "definition": "undefined\nтепло"
+        }
+      ],
+      "chips": [
+        "Улица",
+        "есть",
+        "длинная",
+        "и",
+        "тёплая",
+        "ли",
+        "дитя",
+        "для",
+        "вина"
+      ],
+      "solutions": [
+        [
+          "Улица",
+          "есть",
+          "длинная",
+          "и",
+          "тёплая"
+        ]
+      ],
+      "formattedSolution": "Улица есть длинная и тёплая.",
+      "id": "a5dcb2c9215d",
+      "priority": 2,
+      "group": "1182ed870881"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Улица",
+          "definition": "street\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "длинная",
+          "definition": "undefined"
+        },
+        {
+          "word": "и",
+          "definition": "undefined"
+        },
+        {
+          "word": "тёплая.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "street",
+        "is",
+        "long",
+        "and",
+        "warm",
+        "are",
+        "an",
+        "am",
+        "the",
+        "in"
+      ],
+      "solutions": [
+        [
+          "The",
+          "street",
+          "is",
+          "long",
+          "and",
+          "warm"
+        ]
+      ],
+      "formattedSolution": "The street is long and warm.",
+      "id": "5c13f988c9db",
+      "priority": 2,
+      "group": "1182ed870881"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Город имеет много домов.",
+      "meaningInSourceLanguage": "The city has many houses.",
+      "id": "b9233c7ddb17",
+      "priority": 0,
+      "group": "fbddc5cd3e58"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Город имеет много домов.",
+      "meaning": "The city has many houses.",
+      "audio": "265bc5e1367d7ac24f6112b0397ff8d7e79f274832b44076069566a0e0af9511",
+      "id": "68bce5e9956e",
+      "priority": 1,
+      "group": "fbddc5cd3e58"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "city",
+          "definition": "undefined\nгород"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "many",
+          "definition": "undefined"
+        },
+        {
+          "word": "houses.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Город",
+        "имеет",
+        "много",
+        "домов",
+        "город",
+        "домом",
+        "Того"
+      ],
+      "solutions": [
+        [
+          "Город",
+          "имеет",
+          "много",
+          "домов"
+        ]
+      ],
+      "formattedSolution": "Город имеет много домов.",
+      "id": "87c33f37699e",
+      "priority": 2,
+      "group": "fbddc5cd3e58"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Город",
+          "definition": "city\nundefined"
+        },
+        {
+          "word": "имеет",
+          "definition": "undefined"
+        },
+        {
+          "word": "много",
+          "definition": "undefined"
+        },
+        {
+          "word": "домов.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "city",
+        "has",
+        "many",
+        "houses",
+        "They",
+        "his",
+        "hat",
+        "man"
+      ],
+      "solutions": [
+        [
+          "The",
+          "city",
+          "has",
+          "many",
+          "houses"
+        ]
+      ],
+      "formattedSolution": "The city has many houses.",
+      "id": "4d4c376b3f22",
+      "priority": 2,
+      "group": "fbddc5cd3e58"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Магазин есть открыт сегодня.",
+      "meaningInSourceLanguage": "The shop is open today.",
+      "id": "77e3e4860384",
+      "priority": 0,
+      "group": "54184a9de1b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Магазин есть открыт сегодня.",
+      "meaning": "The shop is open today.",
+      "audio": "2a9ca371f9ffed1191b1a78cb7ce1516086514cb444e2797ec3de7d898080a03",
+      "id": "765f14c04e7d",
+      "priority": 1,
+      "group": "54184a9de1b1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "shop",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "open",
+          "definition": "undefined"
+        },
+        {
+          "word": "today.",
+          "definition": "undefined\nсегодня"
+        }
+      ],
+      "chips": [
+        "Магазин",
+        "есть",
+        "открыт",
+        "сегодня",
+        "ест",
+        "стоит",
+        "окна"
+      ],
+      "solutions": [
+        [
+          "Магазин",
+          "есть",
+          "открыт",
+          "сегодня"
+        ]
+      ],
+      "formattedSolution": "Магазин есть открыт сегодня.",
+      "id": "06463821c1a7",
+      "priority": 2,
+      "group": "54184a9de1b1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Магазин",
+          "definition": "shop/store\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "открыт",
+          "definition": "undefined"
+        },
+        {
+          "word": "сегодня.",
+          "definition": "today\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "shop",
+        "is",
+        "open",
+        "today",
+        "the",
+        "on",
+        "She",
+        "They"
+      ],
+      "solutions": [
+        [
+          "The",
+          "shop",
+          "is",
+          "open",
+          "today"
+        ]
+      ],
+      "formattedSolution": "The shop is open today.",
+      "id": "f469499b4faf",
+      "priority": 2,
+      "group": "54184a9de1b1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Церковь стоит близко библиотеки.",
+      "meaningInSourceLanguage": "The church stands near the library.",
+      "id": "58f9de46b912",
+      "priority": 0,
+      "group": "42e67217291b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Церковь стоит близко библиотеки.",
+      "meaning": "The church stands near the library.",
+      "audio": "21a2d63ca7c4589607bbbc91cc1aca908771dff2f1760ce10a4724464ecad199",
+      "id": "6c70a59e94b5",
+      "priority": 1,
+      "group": "42e67217291b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "church",
+          "definition": "undefined\nцерковь"
+        },
+        {
+          "word": "stands",
+          "definition": "undefined"
+        },
+        {
+          "word": "near",
+          "definition": "undefined\nблизко"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "library.",
+          "definition": "undefined\nбиблиотека"
+        }
+      ],
+      "chips": [
+        "Церковь",
+        "стоит",
+        "близко",
+        "библиотеки",
+        "Яблоко",
+        "строит",
+        "болит"
+      ],
+      "solutions": [
+        [
+          "Церковь",
+          "стоит",
+          "близко",
+          "библиотеки"
+        ]
+      ],
+      "formattedSolution": "Церковь стоит близко библиотеки.",
+      "id": "1b2f49c571b6",
+      "priority": 2,
+      "group": "42e67217291b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Церковь",
+          "definition": "church\nundefined"
+        },
+        {
+          "word": "стоит",
+          "definition": "undefined"
+        },
+        {
+          "word": "близко",
+          "definition": "near\nundefined"
+        },
+        {
+          "word": "библиотеки.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "church",
+        "stands",
+        "near",
+        "the",
+        "library",
+        "are",
+        "car",
+        "her",
+        "ear",
+        "hear"
+      ],
+      "solutions": [
+        [
+          "The",
+          "church",
+          "stands",
+          "near",
+          "the",
+          "library"
+        ]
+      ],
+      "formattedSolution": "The church stands near the library.",
+      "id": "3567731a11d2",
+      "priority": 2,
+      "group": "42e67217291b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Улица ведёт до площади/рынка.",
+      "meaningInSourceLanguage": "The street leads to the square.",
+      "id": "b34df39e4c5a",
+      "priority": 0,
+      "group": "28149294df9f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Улица ведёт до площади/рынка.",
+      "meaning": "The street leads to the square.",
+      "audio": "15139eef5d14a27314cfd2bd06f46714be51bc1443456fb873451644571fea42",
+      "id": "56bc47a324c5",
+      "priority": 1,
+      "group": "28149294df9f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "street",
+          "definition": "undefined\nулица"
+        },
+        {
+          "word": "leads",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "square.",
+          "definition": "undefined\nквадрат"
+        }
+      ],
+      "chips": [
+        "Улица",
+        "ведёт",
+        "до",
+        "площади/рынка",
+        "один",
+        "одна",
+        "ли"
+      ],
+      "solutions": [
+        [
+          "Улица",
+          "ведёт",
+          "до",
+          "площади/рынка"
+        ]
+      ],
+      "formattedSolution": "Улица ведёт до площади/рынка.",
+      "id": "038a1fe065a2",
+      "priority": 2,
+      "group": "28149294df9f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Улица",
+          "definition": "street\nundefined"
+        },
+        {
+          "word": "ведёт",
+          "definition": "undefined"
+        },
+        {
+          "word": "до",
+          "definition": "undefined"
+        },
+        {
+          "word": "площади/рынка.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "street",
+        "leads",
+        "to",
+        "the",
+        "square",
+        "are",
+        "see",
+        "tea",
+        "She",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "street",
+          "leads",
+          "to",
+          "the",
+          "square"
+        ]
+      ],
+      "formattedSolution": "The street leads to the square.",
+      "id": "2ac3eb3a38db",
+      "priority": 2,
+      "group": "28149294df9f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "На площади/рынке стоит фонтан.",
+      "meaningInSourceLanguage": "A fountain stands in the square.",
+      "id": "395fa2aa3d49",
+      "priority": 0,
+      "group": "2cc3e9021e50"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "На площади/рынке стоит фонтан.",
+      "meaning": "A fountain stands in the square.",
+      "audio": "29badb19c724c17198a2979bf2fba16adaf7c893cd5b379a5629be628d90ab3b",
+      "id": "f9df5385e29d",
+      "priority": 1,
+      "group": "2cc3e9021e50"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "fountain",
+          "definition": "undefined"
+        },
+        {
+          "word": "stands",
+          "definition": "undefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "square.",
+          "definition": "undefined\nквадрат"
+        }
+      ],
+      "chips": [
+        "На",
+        "площади/рынке",
+        "стоит",
+        "фонтан",
+        "сока",
+        "план",
+        "от"
+      ],
+      "solutions": [
+        [
+          "На",
+          "площади/рынке",
+          "стоит",
+          "фонтан"
+        ]
+      ],
+      "formattedSolution": "На площади/рынке стоит фонтан.",
+      "id": "069cc9796b44",
+      "priority": 2,
+      "group": "2cc3e9021e50"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "На",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "площади/рынке",
+          "definition": "undefined"
+        },
+        {
+          "word": "стоит",
+          "definition": "undefined"
+        },
+        {
+          "word": "фонтан.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "fountain",
+        "stands",
+        "in",
+        "the",
+        "square",
+        "an",
+        "sun",
+        "are",
+        "a",
+        "man"
+      ],
+      "solutions": [
+        [
+          "A",
+          "fountain",
+          "stands",
+          "in",
+          "the",
+          "square"
+        ]
+      ],
+      "formattedSolution": "A fountain stands in the square.",
+      "id": "306004d1968a",
+      "priority": 2,
+      "group": "2cc3e9021e50"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мост есть красивый и новый.",
+      "meaningInSourceLanguage": "The bridge is beautiful and new.",
+      "id": "44170ff516f5",
+      "priority": 0,
+      "group": "61018aa6b230"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мост есть красивый и новый.",
+      "meaning": "The bridge is beautiful and new.",
+      "audio": "31dbe2d44c71e5ec910307092bbdb484b63674f588f2682030bd7c06aa263d21",
+      "id": "53adbfcf1e26",
+      "priority": 1,
+      "group": "61018aa6b230"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bridge",
+          "definition": "undefined\nмост"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "beautiful",
+          "definition": "undefined\nкрасивый"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "new.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Мост",
+        "есть",
+        "красивый",
+        "и",
+        "новый",
+        "еси",
+        "ест",
+        "со",
+        "кость"
+      ],
+      "solutions": [
+        [
+          "Мост",
+          "есть",
+          "красивый",
+          "и",
+          "новый"
+        ]
+      ],
+      "formattedSolution": "Мост есть красивый и новый.",
+      "id": "af04c0f1e3e5",
+      "priority": 2,
+      "group": "61018aa6b230"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мост",
+          "definition": "bridge\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "красивый",
+          "definition": "beautiful\nundefined"
+        },
+        {
+          "word": "и",
+          "definition": "undefined"
+        },
+        {
+          "word": "новый.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bridge",
+        "is",
+        "beautiful",
+        "and",
+        "new",
+        "be",
+        "big",
+        "bed",
+        "We",
+        "are"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bridge",
+          "is",
+          "beautiful",
+          "and",
+          "new"
+        ]
+      ],
+      "formattedSolution": "The bridge is beautiful and new.",
+      "id": "43b5a5ae1363",
+      "priority": 2,
+      "group": "61018aa6b230"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Это есть мой дом в городе.",
+      "meaningInSourceLanguage": "This is my house in the city.",
+      "id": "1eb671d850fa",
+      "priority": 0,
+      "group": "1160d850343c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Это есть мой дом в городе.",
+      "meaning": "This is my house in the city.",
+      "audio": "3407c6f41f1dad2359e4444a31edd8eaca50278d5aed7b616217e37915417ee8",
+      "id": "8431c5091101",
+      "priority": 1,
+      "group": "1160d850343c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "my",
+          "definition": "undefined"
+        },
+        {
+          "word": "house",
+          "definition": "undefined\nдом"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "city.",
+          "definition": "undefined\nгород"
+        }
+      ],
+      "chips": [
+        "Это",
+        "есть",
+        "мой",
+        "дом",
+        "в",
+        "городе",
+        "то",
+        "со",
+        "до",
+        "о",
+        "во"
+      ],
+      "solutions": [
+        [
+          "Это",
+          "есть",
+          "мой",
+          "дом",
+          "в",
+          "городе"
+        ]
+      ],
+      "formattedSolution": "Это есть мой дом в городе.",
+      "id": "4167ec074249",
+      "priority": 2,
+      "group": "1160d850343c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Это",
+          "definition": "undefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "мой",
+          "definition": "undefined"
+        },
+        {
+          "word": "дом",
+          "definition": "house\nundefined"
+        },
+        {
+          "word": "в",
+          "definition": "undefined"
+        },
+        {
+          "word": "городе.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "my",
+        "house",
+        "in",
+        "the",
+        "city",
+        "his",
+        "it",
+        "us",
+        "Is",
+        "me",
+        "him"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "my",
+          "house",
+          "in",
+          "the",
+          "city"
+        ]
+      ],
+      "formattedSolution": "This is my house in the city.",
+      "id": "5e815fcf2bbf",
+      "priority": 2,
+      "group": "1160d850343c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Станция имеет много поездов.",
+      "meaningInSourceLanguage": "The station has many trains.",
+      "id": "a5b1074c3601",
+      "priority": 0,
+      "group": "44c6c5f9395c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Станция имеет много поездов.",
+      "meaning": "The station has many trains.",
+      "audio": "7b320a26b5dcb29895f63a667ef01d4708b11fe0cdb291fa5f7d20ceac141c4d",
+      "id": "f9bb3191c4b1",
+      "priority": 1,
+      "group": "44c6c5f9395c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "station",
+          "definition": "undefined\nстанция"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "many",
+          "definition": "undefined"
+        },
+        {
+          "word": "trains.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Станция",
+        "имеет",
+        "много",
+        "поездов",
+        "моего",
+        "него",
+        "моею"
+      ],
+      "solutions": [
+        [
+          "Станция",
+          "имеет",
+          "много",
+          "поездов"
+        ]
+      ],
+      "formattedSolution": "Станция имеет много поездов.",
+      "id": "ebc272bfd96b",
+      "priority": 2,
+      "group": "44c6c5f9395c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Станция",
+          "definition": "station\nundefined"
+        },
+        {
+          "word": "имеет",
+          "definition": "undefined"
+        },
+        {
+          "word": "много",
+          "definition": "undefined"
+        },
+        {
+          "word": "поездов.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "station",
+        "has",
+        "many",
+        "trains",
+        "man",
+        "ran",
+        "an",
+        "pan"
+      ],
+      "solutions": [
+        [
+          "The",
+          "station",
+          "has",
+          "many",
+          "trains"
+        ]
+      ],
+      "formattedSolution": "The station has many trains.",
+      "id": "a00d53f2457c",
+      "priority": 2,
+      "group": "44c6c5f9395c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Улица идёт до магазина.",
+      "meaningInSourceLanguage": "The street goes to the shop.",
+      "id": "50d64a6a6b42",
+      "priority": 0,
+      "group": "136a6c0896c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Улица идёт до магазина.",
+      "meaning": "The street goes to the shop.",
+      "audio": "5881e8a542ace12ab55082ae7250d77732ed311dbd9cc83aec6d37bf1585fed9",
+      "id": "1731b13ea910",
+      "priority": 1,
+      "group": "136a6c0896c6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "street",
+          "definition": "undefined\nулица"
+        },
+        {
+          "word": "goes",
+          "definition": "undefined\nидёт (пешком)"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "shop.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Улица",
+        "идёт",
+        "до",
+        "магазина",
+        "иду",
+        "ли",
+        "за"
+      ],
+      "solutions": [
+        [
+          "Улица",
+          "идёт",
+          "до",
+          "магазина"
+        ]
+      ],
+      "formattedSolution": "Улица идёт до магазина.",
+      "id": "55c2e6802350",
+      "priority": 2,
+      "group": "136a6c0896c6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Улица",
+          "definition": "street\nundefined"
+        },
+        {
+          "word": "идёт",
+          "definition": "undefined"
+        },
+        {
+          "word": "до",
+          "definition": "undefined"
+        },
+        {
+          "word": "магазина.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "street",
+        "goes",
+        "to",
+        "the",
+        "shop",
+        "shoe",
+        "She",
+        "see",
+        "then",
+        "them"
+      ],
+      "solutions": [
+        [
+          "The",
+          "street",
+          "goes",
+          "to",
+          "the",
+          "shop"
+        ]
+      ],
+      "formattedSolution": "The street goes to the shop.",
+      "id": "1cc1d47e7cb8",
+      "priority": 2,
+      "group": "136a6c0896c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Площадь/Рынок есть полный людей.",
+      "meaningInSourceLanguage": "The square is full of people.",
+      "id": "9d9af3a60c49",
+      "priority": 0,
+      "group": "c2b36f5cd78b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Площадь/Рынок есть полный людей.",
+      "meaning": "The square is full of people.",
+      "audio": "1a215175d0bf8823bd10a8e02af2bb6ec911357ff502ecf031974dc922577220",
+      "id": "2374bfbf60d3",
+      "priority": 1,
+      "group": "c2b36f5cd78b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "square",
+          "definition": "undefined\nквадрат"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "full",
+          "definition": "undefined"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "people.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Площадь/Рынок",
+        "есть",
+        "полный",
+        "людей",
+        "одно",
+        "воды",
+        "дней"
+      ],
+      "solutions": [
+        [
+          "Площадь/Рынок",
+          "есть",
+          "полный",
+          "людей"
+        ]
+      ],
+      "formattedSolution": "Площадь/Рынок есть полный людей.",
+      "id": "49dd26c9f59a",
+      "priority": 2,
+      "group": "c2b36f5cd78b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Площадь/Рынок",
+          "definition": "square/market\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "полный",
+          "definition": "undefined"
+        },
+        {
+          "word": "людей.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "square",
+        "is",
+        "full",
+        "of",
+        "people",
+        "We",
+        "are",
+        "He",
+        "me",
+        "our"
+      ],
+      "solutions": [
+        [
+          "The",
+          "square",
+          "is",
+          "full",
+          "of",
+          "people"
+        ]
+      ],
+      "formattedSolution": "The square is full of people.",
+      "id": "e04e75fb4af4",
+      "priority": 2,
+      "group": "c2b36f5cd78b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "город",
+      "meaningInSourceLanguage": "city",
+      "id": "dffa8764d189",
+      "priority": 0,
+      "group": "0877ca527f06"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "город"
+      ],
+      "phrase": [
+        {
+          "word": "city",
+          "definition": "undefined\nгород"
+        }
+      ],
+      "id": "e67d2b3f24a5",
+      "priority": 1,
+      "group": "0877ca527f06"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "город",
+      "meaning": "city",
+      "audio": "e9c606c743d81556b4b0d8bcf635f1d43242c9ec424b84fbb78fdd38a626889f",
+      "id": "6dd13b35ec22",
+      "priority": 1,
+      "group": "0877ca527f06"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "дом",
+      "meaningInSourceLanguage": "house",
+      "id": "71a0f8a0df60",
+      "priority": 0,
+      "group": "85f2cb80c6f3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "дом"
+      ],
+      "phrase": [
+        {
+          "word": "house",
+          "definition": "undefined\nдом"
+        }
+      ],
+      "id": "2022818b4da0",
+      "priority": 1,
+      "group": "85f2cb80c6f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дом",
+      "meaning": "house",
+      "audio": "b0269cfb0d93b3f1e5b4f6aaa23d61ef0cddebb0435200c5e801ec2cd05f3d72",
+      "id": "810d6392271c",
+      "priority": 1,
+      "group": "85f2cb80c6f3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "площадь/рынок",
+      "meaningInSourceLanguage": "square/market",
+      "id": "a4f73d4fd839",
+      "priority": 0,
+      "group": "75f153290beb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "площадь/рынок"
+      ],
+      "phrase": [
+        {
+          "word": "square/market",
+          "definition": "undefined\nплощадь/рынок"
+        }
+      ],
+      "id": "ba13ab472a6e",
+      "priority": 1,
+      "group": "75f153290beb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "площадь/рынок",
+      "meaning": "square/market",
+      "audio": "b258059c39df27790230b2d550c82dd69ded4b1318585f21f543b929e3ae5ed7",
+      "id": "976f1a6aeda1",
+      "priority": 1,
+      "group": "75f153290beb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "станция",
+      "meaningInSourceLanguage": "station",
+      "id": "be1128021c85",
+      "priority": 0,
+      "group": "3cfb01446c74"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "станция"
+      ],
+      "phrase": [
+        {
+          "word": "station",
+          "definition": "undefined\nстанция"
+        }
+      ],
+      "id": "b71096d0ddb9",
+      "priority": 1,
+      "group": "3cfb01446c74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "станция",
+      "meaning": "station",
+      "audio": "2babf57748cc0a4a82f8989e9e71ca2a011ba5a74f628bb5a12a312a9e316716",
+      "id": "31bd199a488d",
+      "priority": 1,
+      "group": "3cfb01446c74"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "мост",
+      "meaningInSourceLanguage": "bridge",
+      "id": "0367b8706938",
+      "priority": 0,
+      "group": "7bed92214e2b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "мост"
+      ],
+      "phrase": [
+        {
+          "word": "bridge",
+          "definition": "undefined\nмост"
+        }
+      ],
+      "id": "3882b9528156",
+      "priority": 1,
+      "group": "7bed92214e2b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "мост",
+      "meaning": "bridge",
+      "audio": "f05631b1f1c581972b45cdf0bc04e0fbfb819bd0f45de85d40795418f8950bf0",
+      "id": "01767094f3c0",
+      "priority": 1,
+      "group": "7bed92214e2b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "магазин",
+      "meaningInSourceLanguage": "shop/store",
+      "id": "fe5f5bc76a90",
+      "priority": 0,
+      "group": "0a205f6771cb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "магазин"
+      ],
+      "phrase": [
+        {
+          "word": "shop/store",
+          "definition": "undefined\nмагазин"
+        }
+      ],
+      "id": "dd17a9b728ce",
+      "priority": 1,
+      "group": "0a205f6771cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "магазин",
+      "meaning": "shop/store",
+      "audio": "d1f7fc89ed6fc44406af0eac5ee7a395e91ce49ec3ce4bc64c4875731fe641c9",
+      "id": "9a6de0a7728f",
+      "priority": 1,
+      "group": "0a205f6771cb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "торговая площадь/рынок",
+      "meaningInSourceLanguage": "market",
+      "id": "852a8497bcb6",
+      "priority": 0,
+      "group": "89bfb38b08b8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "торговая площадь/рынок"
+      ],
+      "phrase": [
+        {
+          "word": "market",
+          "definition": "undefined\nторговая площадь/рынок"
+        }
+      ],
+      "id": "ba41ed32e3c2",
+      "priority": 1,
+      "group": "89bfb38b08b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "торговая площадь/рынок",
+      "meaning": "market",
+      "audio": "f505395b0368564e8480f115b25025af3a05d33b9093df6bf76f5391746f2fa2",
+      "id": "64858b51fd99",
+      "priority": 1,
+      "group": "89bfb38b08b8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "библиотека",
+      "meaningInSourceLanguage": "library",
+      "id": "7a09d684be1a",
+      "priority": 0,
+      "group": "770c2c63a085"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "библиотека"
+      ],
+      "phrase": [
+        {
+          "word": "library",
+          "definition": "undefined\nбиблиотека"
+        }
+      ],
+      "id": "651d61dbaecb",
+      "priority": 1,
+      "group": "770c2c63a085"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "библиотека",
+      "meaning": "library",
+      "audio": "83df71538354214a84da17b68fbe1c87449f18b1d74b0cee56435e62cf8e3d21",
+      "id": "819ff43f0814",
+      "priority": 1,
+      "group": "770c2c63a085"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "церковь",
+      "meaningInSourceLanguage": "church",
+      "id": "83fb37852bf1",
+      "priority": 0,
+      "group": "f3afa2fc2a37"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "церковь"
+      ],
+      "phrase": [
+        {
+          "word": "church",
+          "definition": "undefined\nцерковь"
+        }
+      ],
+      "id": "15279f8d1463",
+      "priority": 1,
+      "group": "f3afa2fc2a37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "церковь",
+      "meaning": "church",
+      "audio": "5eb6b6428c6152fec2c608a48c2c4f38cdbb682a67429a1eacaf76ddd5641d3d",
+      "id": "7e575ea6c866",
+      "priority": 1,
+      "group": "f3afa2fc2a37"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "улица",
+      "meaningInSourceLanguage": "street",
+      "id": "c604c7cc9ec8",
+      "priority": 0,
+      "group": "30c8adaef2e3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "улица"
+      ],
+      "phrase": [
+        {
+          "word": "street",
+          "definition": "undefined\nулица"
+        }
+      ],
+      "id": "703a135a828e",
+      "priority": 1,
+      "group": "30c8adaef2e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "улица",
+      "meaning": "street",
+      "audio": "2e35deaa73b44c65f2b277aa01d5498e2898b48ef89a5fa3b4660a597d2d9b40",
+      "id": "ace6d7e64768",
+      "priority": 1,
+      "group": "30c8adaef2e3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "вести (ведёт)",
+      "meaningInSourceLanguage": "to lead",
+      "id": "a1a22522af86",
+      "priority": 0,
+      "group": "4ab44546b88f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "вести (ведёт)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "lead",
+          "definition": "undefined"
+        }
+      ],
+      "id": "418b9ffa3569",
+      "priority": 1,
+      "group": "4ab44546b88f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "вести (ведёт)",
+      "meaning": "to lead",
+      "audio": "e711076eb3d0ad70cde0a49d9d4f6036f95c8e4e3206f88e15f6f45bfbc50dce",
+      "id": "a395f47d1ce6",
+      "priority": 1,
+      "group": "4ab44546b88f"
+    }
+  ]
+}

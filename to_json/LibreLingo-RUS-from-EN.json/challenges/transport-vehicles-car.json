@@ -1,0 +1,2746 @@
+{
+  "id": "e3b95a96a7dc",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Авто стоит на улице.",
+      "meaningInSourceLanguage": "The car is standing on the street.",
+      "id": "c5f83c1ab4b0",
+      "priority": 0,
+      "group": "df45550dd186"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Авто стоит на улице.",
+      "meaning": "The car is standing on the street.",
+      "audio": "59ebe44d9273b07ff311f2669384ad8656d9251202ef91d86493422677d332f0",
+      "id": "de479fc6066a",
+      "priority": 1,
+      "group": "df45550dd186"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "car",
+          "definition": "undefined\nавто"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "standing",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "street.",
+          "definition": "undefined\nулица"
+        }
+      ],
+      "chips": [
+        "Авто",
+        "стоит",
+        "на",
+        "улице",
+        "то",
+        "сто",
+        "Это"
+      ],
+      "solutions": [
+        [
+          "Авто",
+          "стоит",
+          "на",
+          "улице"
+        ]
+      ],
+      "formattedSolution": "Авто стоит на улице.",
+      "id": "fc3e9fb237a6",
+      "priority": 2,
+      "group": "df45550dd186"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Авто",
+          "definition": "car\nundefined"
+        },
+        {
+          "word": "стоит",
+          "definition": "undefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "улице.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "car",
+        "is",
+        "standing",
+        "on",
+        "the",
+        "street",
+        "are",
+        "in",
+        "an",
+        "see",
+        "ten",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "car",
+          "is",
+          "standing",
+          "on",
+          "the",
+          "street"
+        ]
+      ],
+      "formattedSolution": "The car is standing on the street.",
+      "id": "4e21a84a8ba3",
+      "priority": 2,
+      "group": "df45550dd186"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Автобус едет до центра.",
+      "meaningInSourceLanguage": "The bus goes to the center.",
+      "id": "8f3d446f9895",
+      "priority": 0,
+      "group": "261c8803095a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Автобус едет до центра.",
+      "meaning": "The bus goes to the center.",
+      "audio": "24c50cf1d2ca3c119127295bb7702d5784cd8331c63e75a515e34c38e4afbbac",
+      "id": "53db2a8f2617",
+      "priority": 1,
+      "group": "261c8803095a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bus",
+          "definition": "undefined\nавтобус"
+        },
+        {
+          "word": "goes",
+          "definition": "undefined\nидёт (пешком)"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "center.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Автобус",
+        "едет",
+        "до",
+        "центра",
+        "то",
+        "Нет",
+        "едут"
+      ],
+      "solutions": [
+        [
+          "Автобус",
+          "едет",
+          "до",
+          "центра"
+        ]
+      ],
+      "formattedSolution": "Автобус едет до центра.",
+      "id": "fe7858039491",
+      "priority": 2,
+      "group": "261c8803095a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Автобус",
+          "definition": "bus\nundefined"
+        },
+        {
+          "word": "едет",
+          "definition": "undefined"
+        },
+        {
+          "word": "до",
+          "definition": "undefined"
+        },
+        {
+          "word": "центра.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bus",
+        "goes",
+        "to",
+        "the",
+        "center",
+        "She",
+        "be",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bus",
+          "goes",
+          "to",
+          "the",
+          "center"
+        ]
+      ],
+      "formattedSolution": "The bus goes to the center.",
+      "id": "bec0515010ea",
+      "priority": 2,
+      "group": "261c8803095a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Поезд едет на станцию.",
+      "meaningInSourceLanguage": "The train goes to the station.",
+      "id": "9f28c77d5f2d",
+      "priority": 0,
+      "group": "091eadf1e460"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Поезд едет на станцию.",
+      "meaning": "The train goes to the station.",
+      "audio": "74dabd89203a3d6e2614b6b02df4732975ccd6d9c82f29e5cc983d58adfe1f1f",
+      "id": "4a6facca6d5a",
+      "priority": 1,
+      "group": "091eadf1e460"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "train",
+          "definition": "undefined\nпоезд"
+        },
+        {
+          "word": "goes",
+          "definition": "undefined\nидёт (пешком)"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "station.",
+          "definition": "undefined\nстанция"
+        }
+      ],
+      "chips": [
+        "Поезд",
+        "едет",
+        "на",
+        "станцию",
+        "не",
+        "за",
+        "ест"
+      ],
+      "solutions": [
+        [
+          "Поезд",
+          "едет",
+          "на",
+          "станцию"
+        ]
+      ],
+      "formattedSolution": "Поезд едет на станцию.",
+      "id": "cc7f7216aa03",
+      "priority": 2,
+      "group": "091eadf1e460"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Поезд",
+          "definition": "train\nundefined"
+        },
+        {
+          "word": "едет",
+          "definition": "undefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "станцию.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "train",
+        "goes",
+        "to",
+        "the",
+        "station",
+        "then",
+        "too",
+        "ten",
+        "thin",
+        "tea"
+      ],
+      "solutions": [
+        [
+          "The",
+          "train",
+          "goes",
+          "to",
+          "the",
+          "station"
+        ]
+      ],
+      "formattedSolution": "The train goes to the station.",
+      "id": "c32a2f38d4e2",
+      "priority": 2,
+      "group": "091eadf1e460"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Здесь есть сиденье. Можно сесть.",
+      "meaningInSourceLanguage": "Here is a seat. One can sit.",
+      "id": "03828b1f8dcf",
+      "priority": 0,
+      "group": "090752574a16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Здесь есть сиденье. Можно сесть.",
+      "meaning": "Here is a seat. One can sit.",
+      "audio": "3c4fa9ae53dad0b1e7be22ca80e06483dac7f56f7c250113a07df34ba5b42d24",
+      "id": "1524e42c67f6",
+      "priority": 1,
+      "group": "090752574a16"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Here",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "seat.",
+          "definition": "undefined"
+        },
+        {
+          "word": "One",
+          "definition": "undefined\nодин (м)\nодна (ж)\nодно (с)"
+        },
+        {
+          "word": "can",
+          "definition": "undefined"
+        },
+        {
+          "word": "sit.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Здесь",
+        "есть",
+        "сиденье",
+        "Можно",
+        "сесть",
+        "день",
+        "здесь",
+        "шесть",
+        "есмь"
+      ],
+      "solutions": [
+        [
+          "Здесь",
+          "есть",
+          "сиденье",
+          "Можно",
+          "сесть"
+        ]
+      ],
+      "formattedSolution": "Здесь есть сиденье. Можно сесть.",
+      "id": "be373b02999e",
+      "priority": 2,
+      "group": "090752574a16"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Здесь",
+          "definition": "undefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "сиденье.",
+          "definition": "undefined"
+        },
+        {
+          "word": "Можно",
+          "definition": "possible\nundefined"
+        },
+        {
+          "word": "сесть.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Here",
+        "is",
+        "a",
+        "seat",
+        "One",
+        "can",
+        "sit",
+        "at",
+        "an",
+        "eat",
+        "He",
+        "it",
+        "in"
+      ],
+      "solutions": [
+        [
+          "Here",
+          "is",
+          "a",
+          "seat",
+          "One",
+          "can",
+          "sit"
+        ]
+      ],
+      "formattedSolution": "Here is a seat. One can sit.",
+      "id": "5abf27411a05",
+      "priority": 2,
+      "group": "090752574a16"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Станция есть большая.",
+      "meaningInSourceLanguage": "The station is big.",
+      "id": "dd0a54dd4d29",
+      "priority": 0,
+      "group": "0b45a4c33ea3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Станция есть большая.",
+      "meaning": "The station is big.",
+      "audio": "8d52a39659de2294a59bde1c6374e4c6d12777f46d8871d56dc57e29515d4176",
+      "id": "2f2c8cb13354",
+      "priority": 1,
+      "group": "0b45a4c33ea3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "station",
+          "definition": "undefined\nстанция"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "big.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Станция",
+        "есть",
+        "большая",
+        "белая",
+        "станция"
+      ],
+      "solutions": [
+        [
+          "Станция",
+          "есть",
+          "большая"
+        ]
+      ],
+      "formattedSolution": "Станция есть большая.",
+      "id": "2a79d5e2ecce",
+      "priority": 2,
+      "group": "0b45a4c33ea3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Станция",
+          "definition": "station\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "большая.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "station",
+        "is",
+        "big",
+        "in",
+        "it",
+        "his"
+      ],
+      "solutions": [
+        [
+          "The",
+          "station",
+          "is",
+          "big"
+        ]
+      ],
+      "formattedSolution": "The station is big.",
+      "id": "286cf993fb81",
+      "priority": 2,
+      "group": "0b45a4c33ea3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Шофёр едет быстро.",
+      "meaningInSourceLanguage": "The driver drives fast.",
+      "id": "88c935aba134",
+      "priority": 0,
+      "group": "a5189ac1e685"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Шофёр едет быстро.",
+      "meaning": "The driver drives fast.",
+      "audio": "5f29a5ed6996df9e4e4e1a7e4ff0677ea12e832d1d252fc91b18b74dfcb20130",
+      "id": "366288214e0d",
+      "priority": 1,
+      "group": "a5189ac1e685"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "driver",
+          "definition": "undefined\nшофёр"
+        },
+        {
+          "word": "drives",
+          "definition": "undefined"
+        },
+        {
+          "word": "fast.",
+          "definition": "undefined\nбыстро"
+        }
+      ],
+      "chips": [
+        "Шофёр",
+        "едет",
+        "быстро",
+        "идёт",
+        "едут"
+      ],
+      "solutions": [
+        [
+          "Шофёр",
+          "едет",
+          "быстро"
+        ]
+      ],
+      "formattedSolution": "Шофёр едет быстро.",
+      "id": "eadff676e4ca",
+      "priority": 2,
+      "group": "a5189ac1e685"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Шофёр",
+          "definition": "driver\nundefined"
+        },
+        {
+          "word": "едет",
+          "definition": "undefined"
+        },
+        {
+          "word": "быстро.",
+          "definition": "fast\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "driver",
+        "drives",
+        "fast",
+        "river",
+        "five",
+        "are"
+      ],
+      "solutions": [
+        [
+          "The",
+          "driver",
+          "drives",
+          "fast"
+        ]
+      ],
+      "formattedSolution": "The driver drives fast.",
+      "id": "e271e858829b",
+      "priority": 2,
+      "group": "a5189ac1e685"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Дорога идёт через лес.",
+      "meaningInSourceLanguage": "The road goes through the forest.",
+      "id": "ede3f34b6c77",
+      "priority": 0,
+      "group": "953b8d2f387d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Дорога идёт через лес.",
+      "meaning": "The road goes through the forest.",
+      "audio": "91d491633e563665b8eafc7848397c29e89c06dde26930dd69099a2549d7cdf5",
+      "id": "b2a6183bd555",
+      "priority": 1,
+      "group": "953b8d2f387d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "road",
+          "definition": "undefined\nдорога"
+        },
+        {
+          "word": "goes",
+          "definition": "undefined\nидёт (пешком)"
+        },
+        {
+          "word": "through",
+          "definition": "undefined\nчерез"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "forest.",
+          "definition": "undefined\nлес"
+        }
+      ],
+      "chips": [
+        "Дорога",
+        "идёт",
+        "через",
+        "лес",
+        "едет",
+        "Нет",
+        "реке"
+      ],
+      "solutions": [
+        [
+          "Дорога",
+          "идёт",
+          "через",
+          "лес"
+        ]
+      ],
+      "formattedSolution": "Дорога идёт через лес.",
+      "id": "655e0c2992d7",
+      "priority": 2,
+      "group": "953b8d2f387d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Дорога",
+          "definition": "road\nundefined"
+        },
+        {
+          "word": "идёт",
+          "definition": "undefined"
+        },
+        {
+          "word": "через",
+          "definition": "through\nundefined"
+        },
+        {
+          "word": "лес.",
+          "definition": "forest\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "road",
+        "goes",
+        "through",
+        "the",
+        "forest",
+        "does",
+        "She",
+        "rose",
+        "then",
+        "them"
+      ],
+      "solutions": [
+        [
+          "The",
+          "road",
+          "goes",
+          "through",
+          "the",
+          "forest"
+        ]
+      ],
+      "formattedSolution": "The road goes through the forest.",
+      "id": "577631306d57",
+      "priority": 2,
+      "group": "953b8d2f387d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мост связывает два города.",
+      "meaningInSourceLanguage": "The bridge connects two cities.",
+      "id": "fba7bc57ec99",
+      "priority": 0,
+      "group": "1980a9e2307f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мост связывает два города.",
+      "meaning": "The bridge connects two cities.",
+      "audio": "df9ed6ba870e4b2c0958ac1cc65c95b76683b696f7a6b3f57bb7f14bcf5935c3",
+      "id": "67d1e6e85a29",
+      "priority": 1,
+      "group": "1980a9e2307f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bridge",
+          "definition": "undefined\nмост"
+        },
+        {
+          "word": "connects",
+          "definition": "undefined"
+        },
+        {
+          "word": "two",
+          "definition": "undefined\nдва (м/с)\nдве (ж)"
+        },
+        {
+          "word": "cities.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Мост",
+        "связывает",
+        "два",
+        "города",
+        "сока",
+        "свет",
+        "Гора"
+      ],
+      "solutions": [
+        [
+          "Мост",
+          "связывает",
+          "два",
+          "города"
+        ]
+      ],
+      "formattedSolution": "Мост связывает два города.",
+      "id": "ed001a923102",
+      "priority": 2,
+      "group": "1980a9e2307f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мост",
+          "definition": "bridge\nundefined"
+        },
+        {
+          "word": "связывает",
+          "definition": "undefined"
+        },
+        {
+          "word": "два",
+          "definition": "undefined"
+        },
+        {
+          "word": "города.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bridge",
+        "connects",
+        "two",
+        "cities",
+        "the",
+        "She",
+        "are",
+        "does"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bridge",
+          "connects",
+          "two",
+          "cities"
+        ]
+      ],
+      "formattedSolution": "The bridge connects two cities.",
+      "id": "15ffe57f10b5",
+      "priority": 2,
+      "group": "1980a9e2307f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Скорость есть важна для безопасности на улице.",
+      "meaningInSourceLanguage": "A speed limit is important for the security on the street.",
+      "id": "6ffef6bdf0bf",
+      "priority": 0,
+      "group": "3f57d6dd5408"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Скорость есть важна для безопасности на улице.",
+      "meaning": "A speed limit is important for the security on the street.",
+      "audio": "4baa5a89e95e936554a806355dc578ad354848b6f03488b94b452a15fc0eb2e2",
+      "id": "57b35dacd44f",
+      "priority": 1,
+      "group": "3f57d6dd5408"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "speed",
+          "definition": "undefined\nскорость"
+        },
+        {
+          "word": "limit",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "important",
+          "definition": "undefined"
+        },
+        {
+          "word": "for",
+          "definition": "undefined\nза"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "security",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "street.",
+          "definition": "undefined\nулица"
+        }
+      ],
+      "chips": [
+        "Скорость",
+        "есть",
+        "важна",
+        "для",
+        "безопасности",
+        "на",
+        "улице",
+        "ест",
+        "сна",
+        "есте",
+        "еси",
+        "даст",
+        "Есть"
+      ],
+      "solutions": [
+        [
+          "Скорость",
+          "есть",
+          "важна",
+          "для",
+          "безопасности",
+          "на",
+          "улице"
+        ]
+      ],
+      "formattedSolution": "Скорость есть важна для безопасности на улице.",
+      "id": "101529fa1601",
+      "priority": 2,
+      "group": "3f57d6dd5408"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Скорость",
+          "definition": "speed\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "важна",
+          "definition": "undefined"
+        },
+        {
+          "word": "для",
+          "definition": "undefined"
+        },
+        {
+          "word": "безопасности",
+          "definition": "undefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "улице.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "speed",
+        "limit",
+        "is",
+        "important",
+        "for",
+        "the",
+        "security",
+        "on",
+        "the",
+        "street",
+        "it",
+        "me",
+        "see",
+        "or",
+        "sit",
+        "in",
+        "pot",
+        "ten",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "A",
+          "speed",
+          "limit",
+          "is",
+          "important",
+          "for",
+          "the",
+          "security",
+          "on",
+          "the",
+          "street"
+        ]
+      ],
+      "formattedSolution": "A speed limit is important for the security on the street.",
+      "id": "6dc6b4694ee5",
+      "priority": 2,
+      "group": "3f57d6dd5408"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Светофор показывает красный.",
+      "meaningInSourceLanguage": "The traffic light shows red.",
+      "id": "e47c0a622338",
+      "priority": 0,
+      "group": "c13634c6c08c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Светофор показывает красный.",
+      "meaning": "The traffic light shows red.",
+      "audio": "a303eea2301c55b4a6cc263280d876d783795c8b54d8b6210585bee0da27b8e6",
+      "id": "f7e24ebc9659",
+      "priority": 1,
+      "group": "c13634c6c08c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "traffic",
+          "definition": "undefined"
+        },
+        {
+          "word": "light",
+          "definition": "undefined\nсветлый"
+        },
+        {
+          "word": "shows",
+          "definition": "undefined"
+        },
+        {
+          "word": "red.",
+          "definition": "undefined\nкрасный"
+        }
+      ],
+      "chips": [
+        "Светофор",
+        "показывает",
+        "красный",
+        "красное",
+        "красные"
+      ],
+      "solutions": [
+        [
+          "Светофор",
+          "показывает",
+          "красный"
+        ]
+      ],
+      "formattedSolution": "Светофор показывает красный.",
+      "id": "e320103ac29d",
+      "priority": 2,
+      "group": "c13634c6c08c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Светофор",
+          "definition": "traffic light\nundefined"
+        },
+        {
+          "word": "показывает",
+          "definition": "undefined"
+        },
+        {
+          "word": "красный.",
+          "definition": "red\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "traffic",
+        "light",
+        "shows",
+        "red",
+        "the",
+        "She",
+        "Who",
+        "his"
+      ],
+      "solutions": [
+        [
+          "The",
+          "traffic",
+          "light",
+          "shows",
+          "red"
+        ]
+      ],
+      "formattedSolution": "The traffic light shows red.",
+      "id": "33c51b9070a6",
+      "priority": 2,
+      "group": "c13634c6c08c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Авто есть новое и красивое.",
+      "meaningInSourceLanguage": "The car is new and beautiful.",
+      "id": "3281cbc37ede",
+      "priority": 0,
+      "group": "bf32aae7651e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Авто есть новое и красивое.",
+      "meaning": "The car is new and beautiful.",
+      "audio": "cdd893dbf455858c35105ce2281545d1f8029e08085193ee81b57bc1e130cebc",
+      "id": "3debfbbe52d3",
+      "priority": 1,
+      "group": "bf32aae7651e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "car",
+          "definition": "undefined\nавто"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "new",
+          "definition": "undefined"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "beautiful.",
+          "definition": "undefined\nкрасивый"
+        }
+      ],
+      "chips": [
+        "Авто",
+        "есть",
+        "новое",
+        "и",
+        "красивое",
+        "во",
+        "сто",
+        "есте",
+        "то"
+      ],
+      "solutions": [
+        [
+          "Авто",
+          "есть",
+          "новое",
+          "и",
+          "красивое"
+        ]
+      ],
+      "formattedSolution": "Авто есть новое и красивое.",
+      "id": "9ca3328a519f",
+      "priority": 2,
+      "group": "bf32aae7651e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Авто",
+          "definition": "car\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "новое",
+          "definition": "undefined"
+        },
+        {
+          "word": "и",
+          "definition": "undefined"
+        },
+        {
+          "word": "красивое.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "car",
+        "is",
+        "new",
+        "and",
+        "beautiful",
+        "at",
+        "an",
+        "air",
+        "be",
+        "as"
+      ],
+      "solutions": [
+        [
+          "The",
+          "car",
+          "is",
+          "new",
+          "and",
+          "beautiful"
+        ]
+      ],
+      "formattedSolution": "The car is new and beautiful.",
+      "id": "0e74906598ab",
+      "priority": 2,
+      "group": "bf32aae7651e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Автобус везёт много людей.",
+      "meaningInSourceLanguage": "The bus carries many people.",
+      "id": "c3c1737e8c0f",
+      "priority": 0,
+      "group": "52ccbd2901a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Автобус везёт много людей.",
+      "meaning": "The bus carries many people.",
+      "audio": "5c247690ddb0f0baa7c1ced5f37d187f7468d270f26d6e8d96d2a34764c1e425",
+      "id": "7d41f5c17380",
+      "priority": 1,
+      "group": "52ccbd2901a6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bus",
+          "definition": "undefined\nавтобус"
+        },
+        {
+          "word": "carries",
+          "definition": "undefined"
+        },
+        {
+          "word": "many",
+          "definition": "undefined"
+        },
+        {
+          "word": "people.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Автобус",
+        "везёт",
+        "много",
+        "людей",
+        "ведут",
+        "воду",
+        "ведёт"
+      ],
+      "solutions": [
+        [
+          "Автобус",
+          "везёт",
+          "много",
+          "людей"
+        ]
+      ],
+      "formattedSolution": "Автобус везёт много людей.",
+      "id": "1254af97918a",
+      "priority": 2,
+      "group": "52ccbd2901a6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Автобус",
+          "definition": "bus\nundefined"
+        },
+        {
+          "word": "везёт",
+          "definition": "undefined"
+        },
+        {
+          "word": "много",
+          "definition": "undefined"
+        },
+        {
+          "word": "людей.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bus",
+        "carries",
+        "many",
+        "people",
+        "are",
+        "age",
+        "She",
+        "man"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bus",
+          "carries",
+          "many",
+          "people"
+        ]
+      ],
+      "formattedSolution": "The bus carries many people.",
+      "id": "fc962e914668",
+      "priority": 2,
+      "group": "52ccbd2901a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Поезд едет на север.",
+      "meaningInSourceLanguage": "The train goes to the north.",
+      "id": "7241be7c71d9",
+      "priority": 0,
+      "group": "955f44e775f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Поезд едет на север.",
+      "meaning": "The train goes to the north.",
+      "audio": "1041c701927832a433ac20de00cbf54bf296f04f8292b834d5fd03b75280b77e",
+      "id": "cce267486722",
+      "priority": 1,
+      "group": "955f44e775f1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "train",
+          "definition": "undefined\nпоезд"
+        },
+        {
+          "word": "goes",
+          "definition": "undefined\nидёт (пешком)"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "north.",
+          "definition": "undefined\nсевер"
+        }
+      ],
+      "chips": [
+        "Поезд",
+        "едет",
+        "на",
+        "север",
+        "не",
+        "свет",
+        "Нет"
+      ],
+      "solutions": [
+        [
+          "Поезд",
+          "едет",
+          "на",
+          "север"
+        ]
+      ],
+      "formattedSolution": "Поезд едет на север.",
+      "id": "e1f17a206588",
+      "priority": 2,
+      "group": "955f44e775f1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Поезд",
+          "definition": "train\nundefined"
+        },
+        {
+          "word": "едет",
+          "definition": "undefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "север.",
+          "definition": "north\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "train",
+        "goes",
+        "to",
+        "the",
+        "north",
+        "too",
+        "then",
+        "She",
+        "are",
+        "not"
+      ],
+      "solutions": [
+        [
+          "The",
+          "train",
+          "goes",
+          "to",
+          "the",
+          "north"
+        ]
+      ],
+      "formattedSolution": "The train goes to the north.",
+      "id": "3cec349521ed",
+      "priority": 2,
+      "group": "955f44e775f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Колесо есть разбито.",
+      "meaningInSourceLanguage": "The bicycle is broken.",
+      "id": "059a2e9018d2",
+      "priority": 0,
+      "group": "3425d0b8d171"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Колесо есть разбито.",
+      "meaning": "The bicycle is broken.",
+      "audio": "f6c18e597ce91c70289023fca21887191c06da65b61fe4d5e4669d4c3f78a309",
+      "id": "49b32e1c4451",
+      "priority": 1,
+      "group": "3425d0b8d171"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bicycle",
+          "definition": "undefined\nвелосипед\nколесо/велосипед"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "broken.",
+          "definition": "undefined\nразбитый"
+        }
+      ],
+      "chips": [
+        "Колесо",
+        "есть",
+        "разбито",
+        "ест",
+        "есте"
+      ],
+      "solutions": [
+        [
+          "Колесо",
+          "есть",
+          "разбито"
+        ]
+      ],
+      "formattedSolution": "Колесо есть разбито.",
+      "id": "bc71338a33ce",
+      "priority": 2,
+      "group": "3425d0b8d171"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Колесо",
+          "definition": "undefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "разбито.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bicycle",
+        "is",
+        "broken",
+        "be",
+        "wise",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bicycle",
+          "is",
+          "broken"
+        ]
+      ],
+      "formattedSolution": "The bicycle is broken.",
+      "id": "cf0d13f69f97",
+      "priority": 2,
+      "group": "3425d0b8d171"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Станция есть открыта.",
+      "meaningInSourceLanguage": "The station is open.",
+      "id": "f5d4b05487ad",
+      "priority": 0,
+      "group": "f11128815403"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Станция есть открыта.",
+      "meaning": "The station is open.",
+      "audio": "a5a53c0313d754771b800b588f2504d62a4fc86cd2b224efac19b142096745d8",
+      "id": "58f15ced8739",
+      "priority": 1,
+      "group": "f11128815403"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "station",
+          "definition": "undefined\nстанция"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "open.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Станция",
+        "есть",
+        "открыта",
+        "Эта",
+        "открыто"
+      ],
+      "solutions": [
+        [
+          "Станция",
+          "есть",
+          "открыта"
+        ]
+      ],
+      "formattedSolution": "Станция есть открыта.",
+      "id": "fbf794f6b3ff",
+      "priority": 2,
+      "group": "f11128815403"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Станция",
+          "definition": "station\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "открыта.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "station",
+        "is",
+        "open",
+        "in",
+        "on",
+        "the"
+      ],
+      "solutions": [
+        [
+          "The",
+          "station",
+          "is",
+          "open"
+        ]
+      ],
+      "formattedSolution": "The station is open.",
+      "id": "8a4a92a5881b",
+      "priority": 2,
+      "group": "f11128815403"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Шофёр есть осторожный.",
+      "meaningInSourceLanguage": "The driver is careful.",
+      "id": "a97d7297890b",
+      "priority": 0,
+      "group": "fef5f2aefbf7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Шофёр есть осторожный.",
+      "meaning": "The driver is careful.",
+      "audio": "e43486209e5cc504a493ffffdb458171e67e7b6edca8fc61c1fa45394b48d15a",
+      "id": "9278bd94f4d9",
+      "priority": 1,
+      "group": "fef5f2aefbf7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "driver",
+          "definition": "undefined\nшофёр"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "careful.",
+          "definition": "undefined\nосторожный"
+        }
+      ],
+      "chips": [
+        "Шофёр",
+        "есть",
+        "осторожный",
+        "острый",
+        "есте"
+      ],
+      "solutions": [
+        [
+          "Шофёр",
+          "есть",
+          "осторожный"
+        ]
+      ],
+      "formattedSolution": "Шофёр есть осторожный.",
+      "id": "8c1ba255fc84",
+      "priority": 2,
+      "group": "fef5f2aefbf7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Шофёр",
+          "definition": "driver\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "осторожный.",
+          "definition": "careful\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "driver",
+        "is",
+        "careful",
+        "are",
+        "wise",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "driver",
+          "is",
+          "careful"
+        ]
+      ],
+      "formattedSolution": "The driver is careful.",
+      "id": "461cfc7e9d8d",
+      "priority": 2,
+      "group": "fef5f2aefbf7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Дорога есть широкая.",
+      "meaningInSourceLanguage": "The road is wide.",
+      "id": "5720e07cb03e",
+      "priority": 0,
+      "group": "eee4c4cf2c8a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Дорога есть широкая.",
+      "meaning": "The road is wide.",
+      "audio": "81b54c5b369202597ab46d9a6f20e1105e3da8d9fb6da751edacee16ad494621",
+      "id": "e82853762a54",
+      "priority": 1,
+      "group": "eee4c4cf2c8a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "road",
+          "definition": "undefined\nдорога"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "wide.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Дорога",
+        "есть",
+        "широкая",
+        "дорога",
+        "сока"
+      ],
+      "solutions": [
+        [
+          "Дорога",
+          "есть",
+          "широкая"
+        ]
+      ],
+      "formattedSolution": "Дорога есть широкая.",
+      "id": "f6afa80ff0f6",
+      "priority": 2,
+      "group": "eee4c4cf2c8a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Дорога",
+          "definition": "road\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "широкая.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "road",
+        "is",
+        "wide",
+        "wise",
+        "did",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "road",
+          "is",
+          "wide"
+        ]
+      ],
+      "formattedSolution": "The road is wide.",
+      "id": "8653e5cca44d",
+      "priority": 2,
+      "group": "eee4c4cf2c8a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мост есть высокий.",
+      "meaningInSourceLanguage": "The bridge is high.",
+      "id": "92c4749cc79e",
+      "priority": 0,
+      "group": "4d0c96ed16c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мост есть высокий.",
+      "meaning": "The bridge is high.",
+      "audio": "6ffff7bc8873d614b3944d6ef47307c635079881e7414922c237c0825efa7923",
+      "id": "59c600e6195e",
+      "priority": 1,
+      "group": "4d0c96ed16c9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bridge",
+          "definition": "undefined\nмост"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "high.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Мост",
+        "есть",
+        "высокий",
+        "ест",
+        "есте"
+      ],
+      "solutions": [
+        [
+          "Мост",
+          "есть",
+          "высокий"
+        ]
+      ],
+      "formattedSolution": "Мост есть высокий.",
+      "id": "84fbb2dd5d3f",
+      "priority": 2,
+      "group": "4d0c96ed16c9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мост",
+          "definition": "bridge\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "высокий.",
+          "definition": "tall\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bridge",
+        "is",
+        "high",
+        "big",
+        "his",
+        "wise"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bridge",
+          "is",
+          "high"
+        ]
+      ],
+      "formattedSolution": "The bridge is high.",
+      "id": "57df302ee3a0",
+      "priority": 2,
+      "group": "4d0c96ed16c9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Скорость есть ограничена.",
+      "meaningInSourceLanguage": "The speed is limited.",
+      "id": "e3a5d94af057",
+      "priority": 0,
+      "group": "47e4b08da492"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Скорость есть ограничена.",
+      "meaning": "The speed is limited.",
+      "audio": "1d7581c55485d845e74f93b7c113d5887fda19d71b644ef75d2fd90c5c2a4d2a",
+      "id": "73b5d876792d",
+      "priority": 1,
+      "group": "47e4b08da492"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "speed",
+          "definition": "undefined\nскорость"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "limited.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Скорость",
+        "есть",
+        "ограничена",
+        "кость",
+        "есте"
+      ],
+      "solutions": [
+        [
+          "Скорость",
+          "есть",
+          "ограничена"
+        ]
+      ],
+      "formattedSolution": "Скорость есть ограничена.",
+      "id": "cb5b7452adeb",
+      "priority": 2,
+      "group": "47e4b08da492"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Скорость",
+          "definition": "speed\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "ограничена.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "speed",
+        "is",
+        "limited",
+        "me",
+        "see",
+        "lies"
+      ],
+      "solutions": [
+        [
+          "The",
+          "speed",
+          "is",
+          "limited"
+        ]
+      ],
+      "formattedSolution": "The speed is limited.",
+      "id": "c1d39f2f94d9",
+      "priority": 2,
+      "group": "47e4b08da492"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Светофор показывает зелёный.",
+      "meaningInSourceLanguage": "The traffic light shows green.",
+      "id": "2a732765be3d",
+      "priority": 0,
+      "group": "033aef5f0042"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Светофор показывает зелёный.",
+      "meaning": "The traffic light shows green.",
+      "audio": "6ac3ebbc967569e03345e0b0b0410bd7bc0cd16ddd790c6f67170488f99faffd",
+      "id": "777dc6ca7846",
+      "priority": 1,
+      "group": "033aef5f0042"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "traffic",
+          "definition": "undefined"
+        },
+        {
+          "word": "light",
+          "definition": "undefined\nсветлый"
+        },
+        {
+          "word": "shows",
+          "definition": "undefined"
+        },
+        {
+          "word": "green.",
+          "definition": "undefined\nзелёный"
+        }
+      ],
+      "chips": [
+        "Светофор",
+        "показывает",
+        "зелёный",
+        "зелёные",
+        "полный"
+      ],
+      "solutions": [
+        [
+          "Светофор",
+          "показывает",
+          "зелёный"
+        ]
+      ],
+      "formattedSolution": "Светофор показывает зелёный.",
+      "id": "bebbd38e8407",
+      "priority": 2,
+      "group": "033aef5f0042"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Светофор",
+          "definition": "traffic light\nundefined"
+        },
+        {
+          "word": "показывает",
+          "definition": "undefined"
+        },
+        {
+          "word": "зелёный.",
+          "definition": "green\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "traffic",
+        "light",
+        "shows",
+        "green",
+        "the",
+        "She",
+        "tree",
+        "trees"
+      ],
+      "solutions": [
+        [
+          "The",
+          "traffic",
+          "light",
+          "shows",
+          "green"
+        ]
+      ],
+      "formattedSolution": "The traffic light shows green.",
+      "id": "e93b30c3fcee",
+      "priority": 2,
+      "group": "033aef5f0042"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "авто",
+      "meaningInSourceLanguage": "car",
+      "id": "e4cfeeda6b32",
+      "priority": 0,
+      "group": "792193cb44eb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "авто"
+      ],
+      "phrase": [
+        {
+          "word": "car",
+          "definition": "undefined\nавто"
+        }
+      ],
+      "id": "9d58f6099574",
+      "priority": 1,
+      "group": "792193cb44eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "авто",
+      "meaning": "car",
+      "audio": "9fb27e2ed5bfaad7052bd6892f12be27cf8e4073c4a69b3e6c2cc9ecc247ed2a",
+      "id": "4ab6da57a602",
+      "priority": 1,
+      "group": "792193cb44eb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "автобус",
+      "meaningInSourceLanguage": "bus",
+      "id": "83e82771b062",
+      "priority": 0,
+      "group": "fb152e0f769a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "автобус"
+      ],
+      "phrase": [
+        {
+          "word": "bus",
+          "definition": "undefined\nавтобус"
+        }
+      ],
+      "id": "59f9ab56c64c",
+      "priority": 1,
+      "group": "fb152e0f769a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "автобус",
+      "meaning": "bus",
+      "audio": "04b7f7a9693054e030129c1956c95d7be13399c6e8e8d791391aedf15ff66ccc",
+      "id": "57cb1bfec92c",
+      "priority": 1,
+      "group": "fb152e0f769a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "поезд",
+      "meaningInSourceLanguage": "train",
+      "id": "50a94558967e",
+      "priority": 0,
+      "group": "ec88864428d5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "поезд"
+      ],
+      "phrase": [
+        {
+          "word": "train",
+          "definition": "undefined\nпоезд"
+        }
+      ],
+      "id": "11ecd3f9de8d",
+      "priority": 1,
+      "group": "ec88864428d5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "поезд",
+      "meaning": "train",
+      "audio": "24e4db573f7fa8bc6a7347d291035588f5a2796b23861077c3e07a70feba5af3",
+      "id": "64c0dc6d3520",
+      "priority": 1,
+      "group": "ec88864428d5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "колесо/велосипед",
+      "meaningInSourceLanguage": "bicycle",
+      "id": "7f31c97f990f",
+      "priority": 0,
+      "group": "428afd441a9d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "колесо/велосипед"
+      ],
+      "phrase": [
+        {
+          "word": "bicycle",
+          "definition": "undefined\nвелосипед\nколесо/велосипед"
+        }
+      ],
+      "id": "f39dd1adfd30",
+      "priority": 1,
+      "group": "428afd441a9d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "колесо/велосипед",
+      "meaning": "bicycle",
+      "audio": "5bd45f83c27b9456b0358c30c9cd2473d6260c4269255290a59708afc6850ea2",
+      "id": "284229a74b6e",
+      "priority": 1,
+      "group": "428afd441a9d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "станция",
+      "meaningInSourceLanguage": "station",
+      "id": "be1128021c85",
+      "priority": 0,
+      "group": "3cfb01446c74"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "станция"
+      ],
+      "phrase": [
+        {
+          "word": "station",
+          "definition": "undefined\nстанция"
+        }
+      ],
+      "id": "b71096d0ddb9",
+      "priority": 1,
+      "group": "3cfb01446c74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "станция",
+      "meaning": "station",
+      "audio": "2babf57748cc0a4a82f8989e9e71ca2a011ba5a74f628bb5a12a312a9e316716",
+      "id": "31bd199a488d",
+      "priority": 1,
+      "group": "3cfb01446c74"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "шофёр",
+      "meaningInSourceLanguage": "driver",
+      "id": "65a1e87a13f1",
+      "priority": 0,
+      "group": "fd79563bfa2f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "шофёр"
+      ],
+      "phrase": [
+        {
+          "word": "driver",
+          "definition": "undefined\nшофёр"
+        }
+      ],
+      "id": "382e6b100229",
+      "priority": 1,
+      "group": "fd79563bfa2f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "шофёр",
+      "meaning": "driver",
+      "audio": "259ce0d1e1c64c5f734fa8cbc59567c424bfbcc0027379adde13ed5e724798b9",
+      "id": "4cd6e27a484f",
+      "priority": 1,
+      "group": "fd79563bfa2f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "дорога",
+      "meaningInSourceLanguage": "road",
+      "id": "3bd5c33e1c7e",
+      "priority": 0,
+      "group": "ad379c1b06eb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "дорога"
+      ],
+      "phrase": [
+        {
+          "word": "road",
+          "definition": "undefined\nдорога"
+        }
+      ],
+      "id": "d225e7ad58f5",
+      "priority": 1,
+      "group": "ad379c1b06eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дорога",
+      "meaning": "road",
+      "audio": "06c8e3717c606a1c56fd01e386443d8612d25adfa1f1ecc96bf0b5d6d10f490e",
+      "id": "7680c0839dfd",
+      "priority": 1,
+      "group": "ad379c1b06eb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "мост",
+      "meaningInSourceLanguage": "bridge",
+      "id": "0367b8706938",
+      "priority": 0,
+      "group": "7bed92214e2b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "мост"
+      ],
+      "phrase": [
+        {
+          "word": "bridge",
+          "definition": "undefined\nмост"
+        }
+      ],
+      "id": "3882b9528156",
+      "priority": 1,
+      "group": "7bed92214e2b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "мост",
+      "meaning": "bridge",
+      "audio": "f05631b1f1c581972b45cdf0bc04e0fbfb819bd0f45de85d40795418f8950bf0",
+      "id": "01767094f3c0",
+      "priority": 1,
+      "group": "7bed92214e2b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "скорость",
+      "meaningInSourceLanguage": "speed",
+      "id": "75c8a65b9e00",
+      "priority": 0,
+      "group": "c58a5d89618e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "скорость"
+      ],
+      "phrase": [
+        {
+          "word": "speed",
+          "definition": "undefined\nскорость"
+        }
+      ],
+      "id": "866622535b35",
+      "priority": 1,
+      "group": "c58a5d89618e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "скорость",
+      "meaning": "speed",
+      "audio": "07f4bbe102a71b4cddf7d8a6a98a265c79d9943c8fdc3f65b760d52d4fd1fc77",
+      "id": "f7589c5a8027",
+      "priority": 1,
+      "group": "c58a5d89618e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "светофор",
+      "meaningInSourceLanguage": "traffic light",
+      "id": "32825e76e3f8",
+      "priority": 0,
+      "group": "b402c258ffbd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "светофор"
+      ],
+      "phrase": [
+        {
+          "word": "traffic",
+          "definition": "undefined"
+        },
+        {
+          "word": "light",
+          "definition": "undefined\nсветлый"
+        }
+      ],
+      "id": "248321d1707d",
+      "priority": 1,
+      "group": "b402c258ffbd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "светофор",
+      "meaning": "traffic light",
+      "audio": "94608b75c5067ef52aa7f9789ea76da7ece982ef10c5d373346c164d588fb412",
+      "id": "962ae68bdb2d",
+      "priority": 1,
+      "group": "b402c258ffbd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ехать (едет)",
+      "meaningInSourceLanguage": "to go/drive",
+      "id": "e81c813be7f0",
+      "priority": 0,
+      "group": "2726105cd576"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ехать (едет)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "go/drive",
+          "definition": "undefined"
+        }
+      ],
+      "id": "8eba32c96cc2",
+      "priority": 1,
+      "group": "2726105cd576"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ехать (едет)",
+      "meaning": "to go/drive",
+      "audio": "a154391539f5b0dfd856685adaf14f57d00fbb52aef58781ae489b4001eba8b0",
+      "id": "c9b099d41577",
+      "priority": 1,
+      "group": "2726105cd576"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "сесть (сядет)",
+      "meaningInSourceLanguage": "to sit",
+      "id": "51cd8b23bc42",
+      "priority": 0,
+      "group": "2623fe1b639e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "сесть (сядет)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "sit",
+          "definition": "undefined"
+        }
+      ],
+      "id": "87e365e30566",
+      "priority": 1,
+      "group": "2623fe1b639e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "сесть (сядет)",
+      "meaning": "to sit",
+      "audio": "d6b869a503247fcc009079c8d9ca2b2a233bf6190fd3916366b850073281f9e5",
+      "id": "6b1be5cce2fa",
+      "priority": 1,
+      "group": "2623fe1b639e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "связать (свяжет)",
+      "meaningInSourceLanguage": "to connect/tie",
+      "id": "6a06c4744d96",
+      "priority": 0,
+      "group": "aa83faadfc3b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "связать (свяжет)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "connect/tie",
+          "definition": "undefined"
+        }
+      ],
+      "id": "eb32ca7d26d7",
+      "priority": 1,
+      "group": "aa83faadfc3b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "связать (свяжет)",
+      "meaning": "to connect/tie",
+      "audio": "fcd50f8769ebe97ff9019b8f058bd0556151900a1afbc51ca1f7813769a776a5",
+      "id": "644fd992a579",
+      "priority": 1,
+      "group": "aa83faadfc3b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "разбитый",
+      "meaningInSourceLanguage": "broken",
+      "id": "daae51e12cb3",
+      "priority": 0,
+      "group": "bb4ae0debc0d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "разбитый"
+      ],
+      "phrase": [
+        {
+          "word": "broken",
+          "definition": "undefined\nразбитый"
+        }
+      ],
+      "id": "934ef981d44b",
+      "priority": 1,
+      "group": "bb4ae0debc0d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "разбитый",
+      "meaning": "broken",
+      "audio": "9047940c9d21c1a4a5949a3607b3fe73f3a14b66bbd821330ab4366090e3e03c",
+      "id": "d529c47fb0fa",
+      "priority": 1,
+      "group": "bb4ae0debc0d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "осторожный",
+      "meaningInSourceLanguage": "careful",
+      "id": "af5dcb64f68a",
+      "priority": 0,
+      "group": "ce06bc44181b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "осторожный"
+      ],
+      "phrase": [
+        {
+          "word": "careful",
+          "definition": "undefined\nосторожный"
+        }
+      ],
+      "id": "bf60995f6b0a",
+      "priority": 1,
+      "group": "ce06bc44181b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "осторожный",
+      "meaning": "careful",
+      "audio": "e72d68b7d9acd1f152fa0d76e334b7afa5ca5df1ad5af66cd037c8279c2b2174",
+      "id": "4932bdc15c4f",
+      "priority": 1,
+      "group": "ce06bc44181b"
+    }
+  ]
+}

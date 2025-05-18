@@ -1,0 +1,2462 @@
+{
+  "id": "a3ab90692df4",
+  "levels": 6,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мој пес јест црни.",
+      "meaningInSourceLanguage": "My dog is black.",
+      "id": "7a0da0e440cb",
+      "priority": 0,
+      "group": "efeb497ca746"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мој пес јест црни.",
+      "meaning": "My dog is black.",
+      "audio": "567c264effc5c83181e0ba28c04c870b78d9a4da866301fc619f6bd494cb084e",
+      "id": "62ddef749113",
+      "priority": 1,
+      "group": "efeb497ca746"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined"
+        },
+        {
+          "word": "dog",
+          "definition": "undefined\nпес"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "black.",
+          "definition": "undefined\nцрни"
+        }
+      ],
+      "chips": [
+        "Мој",
+        "пес",
+        "јест",
+        "црни",
+        "јеси",
+        "лес",
+        "пет"
+      ],
+      "solutions": [
+        [
+          "Мој",
+          "пес",
+          "јест",
+          "црни"
+        ]
+      ],
+      "formattedSolution": "Мој пес јест црни.",
+      "id": "74e5a57fa386",
+      "priority": 2,
+      "group": "efeb497ca746"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мој",
+          "definition": "undefined"
+        },
+        {
+          "word": "пес",
+          "definition": "dog\nundefined"
+        },
+        {
+          "word": "јест",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "црни.",
+          "definition": "black\nundefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "dog",
+        "is",
+        "black",
+        "da",
+        "by",
+        "as"
+      ],
+      "solutions": [
+        [
+          "My",
+          "dog",
+          "is",
+          "black"
+        ]
+      ],
+      "formattedSolution": "My dog is black.",
+      "id": "ae355147a40f",
+      "priority": 2,
+      "group": "efeb497ca746"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Миш јест бела.",
+      "meaningInSourceLanguage": "The mouse is white.",
+      "id": "ca0acdb18d91",
+      "priority": 0,
+      "group": "b8d1cc57b872"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Миш јест бела.",
+      "meaning": "The mouse is white.",
+      "audio": "291584287efc4e906cb8bda32751e53e10f6f601bdb79950c9e57385383aaf6e",
+      "id": "642b08411e55",
+      "priority": 1,
+      "group": "b8d1cc57b872"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "mouse",
+          "definition": "undefined\nмиш"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "white.",
+          "definition": "undefined\nбели"
+        }
+      ],
+      "chips": [
+        "Миш",
+        "јест",
+        "бела",
+        "јеш",
+        "јеси"
+      ],
+      "solutions": [
+        [
+          "Миш",
+          "јест",
+          "бела"
+        ]
+      ],
+      "formattedSolution": "Миш јест бела.",
+      "id": "0754fdb93179",
+      "priority": 2,
+      "group": "b8d1cc57b872"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Миш",
+          "definition": "mouse\nundefined"
+        },
+        {
+          "word": "јест",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "бела.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "mouse",
+        "is",
+        "white",
+        "wise",
+        "This",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "mouse",
+          "is",
+          "white"
+        ]
+      ],
+      "formattedSolution": "The mouse is white.",
+      "id": "e673ad4fb78b",
+      "priority": 2,
+      "group": "b8d1cc57b872"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Трава јест зелена.",
+      "meaningInSourceLanguage": "The grass is green.",
+      "id": "3d0b91d803bf",
+      "priority": 0,
+      "group": "125e2df79fb2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Трава јест зелена.",
+      "meaning": "The grass is green.",
+      "audio": "8fb06f52595def803e91b07971a3f80c7175ddf3a5d71a268d3d1eadd5841711",
+      "id": "fbdef2d1c6a7",
+      "priority": 1,
+      "group": "125e2df79fb2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "grass",
+          "definition": "undefined\nтрава"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "green.",
+          "definition": "undefined\nзелени"
+        }
+      ],
+      "chips": [
+        "Трава",
+        "јест",
+        "зелена",
+        "жена",
+        "пева"
+      ],
+      "solutions": [
+        [
+          "Трава",
+          "јест",
+          "зелена"
+        ]
+      ],
+      "formattedSolution": "Трава јест зелена.",
+      "id": "a78960bf0096",
+      "priority": 2,
+      "group": "125e2df79fb2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Трава",
+          "definition": "grass\nundefined"
+        },
+        {
+          "word": "јест",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "зелена.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "grass",
+        "is",
+        "green",
+        "are",
+        "goes",
+        "grey"
+      ],
+      "solutions": [
+        [
+          "The",
+          "grass",
+          "is",
+          "green"
+        ]
+      ],
+      "formattedSolution": "The grass is green.",
+      "id": "c669ec1754e3",
+      "priority": 2,
+      "group": "125e2df79fb2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Небо јест модро.",
+      "meaningInSourceLanguage": "The sky is blue.",
+      "id": "37b396aa4995",
+      "priority": 0,
+      "group": "bf7a8df0bf0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Небо јест модро.",
+      "meaning": "The sky is blue.",
+      "audio": "5fdb504b42840cc9d1aadcca7ed707dca46bc78b559e387c89b131365fba95e6",
+      "id": "30580c35cc50",
+      "priority": 1,
+      "group": "bf7a8df0bf0b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "sky",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "blue.",
+          "definition": "undefined\nмодри"
+        }
+      ],
+      "chips": [
+        "Небо",
+        "јест",
+        "модро",
+        "месо",
+        "место"
+      ],
+      "solutions": [
+        [
+          "Небо",
+          "јест",
+          "модро"
+        ]
+      ],
+      "formattedSolution": "Небо јест модро.",
+      "id": "47c0b4adfaa2",
+      "priority": 2,
+      "group": "bf7a8df0bf0b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Небо",
+          "definition": "undefined"
+        },
+        {
+          "word": "јест",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "модро.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "sky",
+        "is",
+        "blue",
+        "be",
+        "She",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "sky",
+          "is",
+          "blue"
+        ]
+      ],
+      "formattedSolution": "The sky is blue.",
+      "id": "2e9b92156f67",
+      "priority": 2,
+      "group": "bf7a8df0bf0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Цвети сут црвене.",
+      "meaningInSourceLanguage": "The flowers are red.",
+      "id": "eab5c868d46d",
+      "priority": 0,
+      "group": "12230ea2530a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Цвети сут црвене.",
+      "meaning": "The flowers are red.",
+      "audio": "c5d0e6e10c99ce8d1dbf8ed237309809a3dd5fed96596f621a5e08bebb36719f",
+      "id": "8ca169beebe9",
+      "priority": 1,
+      "group": "12230ea2530a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "flowers",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nсут\nјеси\nјесмо\nјесте"
+        },
+        {
+          "word": "red.",
+          "definition": "undefined\nцрвени"
+        }
+      ],
+      "chips": [
+        "Цвети",
+        "сут",
+        "црвене",
+        "свети",
+        "Цвет"
+      ],
+      "solutions": [
+        [
+          "Цвети",
+          "сут",
+          "црвене"
+        ]
+      ],
+      "formattedSolution": "Цвети сут црвене.",
+      "id": "6d50c75e1749",
+      "priority": 2,
+      "group": "12230ea2530a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Цвети",
+          "definition": "undefined"
+        },
+        {
+          "word": "сут",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "црвене.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "flowers",
+        "are",
+        "red",
+        "Are",
+        "She",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "flowers",
+          "are",
+          "red"
+        ]
+      ],
+      "formattedSolution": "The flowers are red.",
+      "id": "5affbb702eca",
+      "priority": 2,
+      "group": "12230ea2530a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Солнце јест жолто.",
+      "meaningInSourceLanguage": "The sun is yellow.",
+      "id": "5dd4685f06ed",
+      "priority": 0,
+      "group": "fdb57259be90"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Солнце јест жолто.",
+      "meaning": "The sun is yellow.",
+      "audio": "bf484126730b90775ad69de9b3ba7b263ab08567ba5844d10132247bf720c6d5",
+      "id": "1d8749b7c738",
+      "priority": 1,
+      "group": "fdb57259be90"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "sun",
+          "definition": "undefined\nсолнце"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "yellow.",
+          "definition": "undefined\nжолти"
+        }
+      ],
+      "chips": [
+        "Солнце",
+        "јест",
+        "жолто",
+        "жолти",
+        "Жолто"
+      ],
+      "solutions": [
+        [
+          "Солнце",
+          "јест",
+          "жолто"
+        ]
+      ],
+      "formattedSolution": "Солнце јест жолто.",
+      "id": "5a09cf583dfe",
+      "priority": 2,
+      "group": "fdb57259be90"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Солнце",
+          "definition": "sun\nundefined"
+        },
+        {
+          "word": "јест",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "жолто.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "sun",
+        "is",
+        "yellow",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "sun",
+          "is",
+          "yellow"
+        ]
+      ],
+      "formattedSolution": "The sun is yellow.",
+      "id": "4413b72a610a",
+      "priority": 2,
+      "group": "fdb57259be90"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Облаки сут сиви.",
+      "meaningInSourceLanguage": "The clouds are grey.",
+      "id": "21271ad3baa6",
+      "priority": 0,
+      "group": "0318cfcced14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Облаки сут сиви.",
+      "meaning": "The clouds are grey.",
+      "audio": "4d900db5bef8da0c56ef4dbedfbb8142d8f02a7cb7a4371a82b62c4056f4f34c",
+      "id": "dacc5b1965e4",
+      "priority": 1,
+      "group": "0318cfcced14"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "clouds",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nсут\nјеси\nјесмо\nјесте"
+        },
+        {
+          "word": "grey.",
+          "definition": "undefined\nсиви"
+        }
+      ],
+      "chips": [
+        "Облаки",
+        "сут",
+        "сиви",
+        "бити",
+        "или"
+      ],
+      "solutions": [
+        [
+          "Облаки",
+          "сут",
+          "сиви"
+        ]
+      ],
+      "formattedSolution": "Облаки сут сиви.",
+      "id": "2aaa9aed9601",
+      "priority": 2,
+      "group": "0318cfcced14"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Облаки",
+          "definition": "undefined"
+        },
+        {
+          "word": "сут",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "сиви.",
+          "definition": "grey\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "clouds",
+        "are",
+        "grey",
+        "Are",
+        "She",
+        "They"
+      ],
+      "solutions": [
+        [
+          "The",
+          "clouds",
+          "are",
+          "grey"
+        ]
+      ],
+      "formattedSolution": "The clouds are grey.",
+      "id": "e0d698a0a702",
+      "priority": 2,
+      "group": "0318cfcced14"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он носи каштаново паљто.",
+      "meaningInSourceLanguage": "He wears a brown coat.",
+      "id": "22a4e5dfbdd1",
+      "priority": 0,
+      "group": "1fe3b054212f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он носи каштаново паљто.",
+      "meaning": "He wears a brown coat.",
+      "audio": "0153dcda04cd490bd7267b8a504dd64d32361c89992c3df5d56e168fa90b82af",
+      "id": "1002ca26ac1c",
+      "priority": 1,
+      "group": "1fe3b054212f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "wears",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "brown",
+          "definition": "undefined\nкаштанови"
+        },
+        {
+          "word": "coat.",
+          "definition": "undefined\nпаљто"
+        }
+      ],
+      "chips": [
+        "Он",
+        "носи",
+        "каштаново",
+        "паљто",
+        "но",
+        "Оно",
+        "ново"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "носи",
+          "каштаново",
+          "паљто"
+        ]
+      ],
+      "formattedSolution": "Он носи каштаново паљто.",
+      "id": "b8cab789d8e5",
+      "priority": 2,
+      "group": "1fe3b054212f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "носи",
+          "definition": "undefined"
+        },
+        {
+          "word": "каштаново",
+          "definition": "undefined"
+        },
+        {
+          "word": "паљто.",
+          "definition": "coat\nundefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "wears",
+        "a",
+        "brown",
+        "coat",
+        "at",
+        "an",
+        "as",
+        "am"
+      ],
+      "solutions": [
+        [
+          "He",
+          "wears",
+          "a",
+          "brown",
+          "coat"
+        ]
+      ],
+      "formattedSolution": "He wears a brown coat.",
+      "id": "0c1b9a6b265b",
+      "priority": 2,
+      "group": "1fe3b054212f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Лист јест оранжеви.",
+      "meaningInSourceLanguage": "The leaf is orange.",
+      "id": "fa220c6a57af",
+      "priority": 0,
+      "group": "f55b366bbe49"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Лист јест оранжеви.",
+      "meaning": "The leaf is orange.",
+      "audio": "db008b3a3d582ccb10e18428fb5ae99e8c0d64f384080219f7838d62b40f4b5a",
+      "id": "f158c8a4c2c5",
+      "priority": 1,
+      "group": "f55b366bbe49"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "leaf",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "orange.",
+          "definition": "undefined\nоранжеви\nпомаранча"
+        }
+      ],
+      "chips": [
+        "Лист",
+        "јест",
+        "оранжеви",
+        "јеси",
+        "Јест"
+      ],
+      "solutions": [
+        [
+          "Лист",
+          "јест",
+          "оранжеви"
+        ]
+      ],
+      "formattedSolution": "Лист јест оранжеви.",
+      "id": "3af28123e079",
+      "priority": 2,
+      "group": "f55b366bbe49"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Лист",
+          "definition": "undefined"
+        },
+        {
+          "word": "јест",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "оранжеви.",
+          "definition": "orange\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "leaf",
+        "is",
+        "orange",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "leaf",
+          "is",
+          "orange"
+        ]
+      ],
+      "formattedSolution": "The leaf is orange.",
+      "id": "c0c5c0f477bb",
+      "priority": 2,
+      "group": "f55b366bbe49"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "То јест црвено море.",
+      "meaningInSourceLanguage": "This is the Red Sea.",
+      "id": "9660292e754f",
+      "priority": 0,
+      "group": "51cf545cb68c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "То јест црвено море.",
+      "meaning": "This is the Red Sea.",
+      "audio": "c3a4695a7b567c06bd7307c6f283a0033198e9036bbbeeaded1385cff8b43882",
+      "id": "b6183bf50778",
+      "priority": 1,
+      "group": "51cf545cb68c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nта\nто"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "Red",
+          "definition": "undefined\nцрвени"
+        },
+        {
+          "word": "Sea.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "То",
+        "јест",
+        "црвено",
+        "море",
+        "је",
+        "месо",
+        "но"
+      ],
+      "solutions": [
+        [
+          "То",
+          "јест",
+          "црвено",
+          "море"
+        ]
+      ],
+      "formattedSolution": "То јест црвено море.",
+      "id": "c12da0224d95",
+      "priority": 2,
+      "group": "51cf545cb68c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "То",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "јест",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "црвено",
+          "definition": "undefined"
+        },
+        {
+          "word": "море.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "the",
+        "Red",
+        "Sea",
+        "his",
+        "She",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "the",
+          "Red",
+          "Sea"
+        ]
+      ],
+      "formattedSolution": "This is the Red Sea.",
+      "id": "3cdc4fe97868",
+      "priority": 2,
+      "group": "51cf545cb68c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Моје очи сут модре.",
+      "meaningInSourceLanguage": "My eyes are blue.",
+      "id": "46a4435ccbd1",
+      "priority": 0,
+      "group": "7163164ccba2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Моје очи сут модре.",
+      "meaning": "My eyes are blue.",
+      "audio": "e13bdab1771ffae738d3d9c6578cea828dccdd9ceedebed5ebb790929f1ff8c5",
+      "id": "07bf67c47cd0",
+      "priority": 1,
+      "group": "7163164ccba2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined"
+        },
+        {
+          "word": "eyes",
+          "definition": "undefined\nочи"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nсут\nјеси\nјесмо\nјесте"
+        },
+        {
+          "word": "blue.",
+          "definition": "undefined\nмодри"
+        }
+      ],
+      "chips": [
+        "Моје",
+        "очи",
+        "сут",
+        "модре",
+        "моје",
+        "море",
+        "мој"
+      ],
+      "solutions": [
+        [
+          "Моје",
+          "очи",
+          "сут",
+          "модре"
+        ]
+      ],
+      "formattedSolution": "Моје очи сут модре.",
+      "id": "3e2f33ad783a",
+      "priority": 2,
+      "group": "7163164ccba2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Моје",
+          "definition": "undefined"
+        },
+        {
+          "word": "очи",
+          "definition": "eyes\nundefined"
+        },
+        {
+          "word": "сут",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "модре.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "eyes",
+        "are",
+        "blue",
+        "be",
+        "We",
+        "Are"
+      ],
+      "solutions": [
+        [
+          "My",
+          "eyes",
+          "are",
+          "blue"
+        ]
+      ],
+      "formattedSolution": "My eyes are blue.",
+      "id": "12c8c3cb348a",
+      "priority": 2,
+      "group": "7163164ccba2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она има зелену траву.",
+      "meaningInSourceLanguage": "She has green grass.",
+      "id": "ad708d8bdeed",
+      "priority": 0,
+      "group": "1cb9dfffb31c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она има зелену траву.",
+      "meaning": "She has green grass.",
+      "audio": "218c0f5e82fffb22237b02527c52692825d573c41a71f3853f194edcd2811b34",
+      "id": "919231b5c3df",
+      "priority": 1,
+      "group": "1cb9dfffb31c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "green",
+          "definition": "undefined\nзелени"
+        },
+        {
+          "word": "grass.",
+          "definition": "undefined\nтрава"
+        }
+      ],
+      "chips": [
+        "Она",
+        "има",
+        "зелену",
+        "траву",
+        "зна",
+        "сна",
+        "она"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "има",
+          "зелену",
+          "траву"
+        ]
+      ],
+      "formattedSolution": "Она има зелену траву.",
+      "id": "6f274d1b9ce5",
+      "priority": 2,
+      "group": "1cb9dfffb31c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "има",
+          "definition": "undefined"
+        },
+        {
+          "word": "зелену",
+          "definition": "undefined"
+        },
+        {
+          "word": "траву.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "has",
+        "green",
+        "grass",
+        "ran",
+        "are",
+        "goes"
+      ],
+      "solutions": [
+        [
+          "She",
+          "has",
+          "green",
+          "grass"
+        ]
+      ],
+      "formattedSolution": "She has green grass.",
+      "id": "8d196b2db54d",
+      "priority": 2,
+      "group": "1cb9dfffb31c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ја љубим црвени колор.",
+      "meaningInSourceLanguage": "I like the red color.",
+      "id": "f486cc8662ee",
+      "priority": 0,
+      "group": "56b222921b5e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ја љубим црвени колор.",
+      "meaning": "I like the red color.",
+      "audio": "634a64d690ba3beb2b84b5096261728176e637b4080d43e85326cc29f0b5adf2",
+      "id": "6c36ed971267",
+      "priority": 1,
+      "group": "56b222921b5e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "ја"
+        },
+        {
+          "word": "like",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "red",
+          "definition": "undefined\nцрвени"
+        },
+        {
+          "word": "color.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ја",
+        "љубим",
+        "црвени",
+        "колор",
+        "ли",
+        "љуби",
+        "кави"
+      ],
+      "solutions": [
+        [
+          "Ја",
+          "љубим",
+          "црвени",
+          "колор"
+        ]
+      ],
+      "formattedSolution": "Ја љубим црвени колор.",
+      "id": "0a5a7c7bbbd5",
+      "priority": 2,
+      "group": "56b222921b5e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ја",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "љубим",
+          "definition": "undefined"
+        },
+        {
+          "word": "црвени",
+          "definition": "red\nundefined"
+        },
+        {
+          "word": "колор.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "like",
+        "the",
+        "red",
+        "color",
+        "We",
+        "He",
+        "me",
+        "be"
+      ],
+      "solutions": [
+        [
+          "I",
+          "like",
+          "the",
+          "red",
+          "color"
+        ]
+      ],
+      "formattedSolution": "I like the red color.",
+      "id": "5e1fb2f74a50",
+      "priority": 2,
+      "group": "56b222921b5e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Његов ауто јест црно.",
+      "meaningInSourceLanguage": "His car is black.",
+      "id": "9045e0e6c0e8",
+      "priority": 0,
+      "group": "9442d0f696d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Његов ауто јест црно.",
+      "meaning": "His car is black.",
+      "audio": "e3139b27aed9021dd2d766437d184515677bad450e4cd3f6492a806edb5147ea",
+      "id": "30fc3c051f13",
+      "priority": 1,
+      "group": "9442d0f696d6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "His",
+          "definition": "undefined"
+        },
+        {
+          "word": "car",
+          "definition": "undefined\nауто"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "black.",
+          "definition": "undefined\nцрни"
+        }
+      ],
+      "chips": [
+        "Његов",
+        "ауто",
+        "јест",
+        "црно",
+        "месо",
+        "јемо",
+        "Лето"
+      ],
+      "solutions": [
+        [
+          "Његов",
+          "ауто",
+          "јест",
+          "црно"
+        ]
+      ],
+      "formattedSolution": "Његов ауто јест црно.",
+      "id": "35a17516fbe3",
+      "priority": 2,
+      "group": "9442d0f696d6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Његов",
+          "definition": "undefined"
+        },
+        {
+          "word": "ауто",
+          "definition": "car\nundefined"
+        },
+        {
+          "word": "јест",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "црно.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "His",
+        "car",
+        "is",
+        "black",
+        "as",
+        "his",
+        "has"
+      ],
+      "solutions": [
+        [
+          "His",
+          "car",
+          "is",
+          "black"
+        ]
+      ],
+      "formattedSolution": "His car is black.",
+      "id": "e54aa4ff68df",
+      "priority": 2,
+      "group": "9442d0f696d6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Дева несе белу сукњу.",
+      "meaningInSourceLanguage": "The girl is wearing a white dress.",
+      "id": "a0a11fa23726",
+      "priority": 0,
+      "group": "7a6f8a5fd41e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Дева несе белу сукњу.",
+      "meaning": "The girl is wearing a white dress.",
+      "audio": "e98ac9c4d6fe53488aeb0ef8e5dffd30c41c3086003f4d31eb89b58229ce0383",
+      "id": "7dd25bb3ef03",
+      "priority": 1,
+      "group": "7a6f8a5fd41e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "girl",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "wearing",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "white",
+          "definition": "undefined\nбели"
+        },
+        {
+          "word": "dress.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Дева",
+        "несе",
+        "белу",
+        "сукњу",
+        "несу",
+        "бела",
+        "реку"
+      ],
+      "solutions": [
+        [
+          "Дева",
+          "несе",
+          "белу",
+          "сукњу"
+        ]
+      ],
+      "formattedSolution": "Дева несе белу сукњу.",
+      "id": "5d1e8c03d8bd",
+      "priority": 2,
+      "group": "7a6f8a5fd41e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Дева",
+          "definition": "undefined"
+        },
+        {
+          "word": "несе",
+          "definition": "undefined"
+        },
+        {
+          "word": "белу",
+          "definition": "undefined"
+        },
+        {
+          "word": "сукњу.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "girl",
+        "is",
+        "wearing",
+        "a",
+        "white",
+        "dress",
+        "are",
+        "wise",
+        "it",
+        "his",
+        "in",
+        "air"
+      ],
+      "solutions": [
+        [
+          "The",
+          "girl",
+          "is",
+          "wearing",
+          "a",
+          "white",
+          "dress"
+        ]
+      ],
+      "formattedSolution": "The girl is wearing a white dress.",
+      "id": "c44853de6be0",
+      "priority": 2,
+      "group": "7a6f8a5fd41e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Јест ли то сиви влас?",
+      "meaningInSourceLanguage": "Is that grey hair?",
+      "id": "99dbaadc97a9",
+      "priority": 0,
+      "group": "3130dbfd0183"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Јест ли то сиви влас?",
+      "meaning": "Is that grey hair?",
+      "audio": "a825d31bc5301e8737e9bea4fd9aae728f5d52722e3e68722e46f34d1cb3acfe",
+      "id": "9afac504ca7a",
+      "priority": 1,
+      "group": "3130dbfd0183"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "that",
+          "definition": "undefined\nтај"
+        },
+        {
+          "word": "grey",
+          "definition": "undefined\nсиви"
+        },
+        {
+          "word": "hair?",
+          "definition": "undefined\nвласи"
+        }
+      ],
+      "chips": [
+        "Јест",
+        "ли",
+        "то",
+        "сиви",
+        "влас",
+        "ти",
+        "лес",
+        "или",
+        "Ја"
+      ],
+      "solutions": [
+        [
+          "Јест",
+          "ли",
+          "то",
+          "сиви",
+          "влас"
+        ]
+      ],
+      "formattedSolution": "Јест ли то сиви влас?",
+      "id": "f76e2cd2f987",
+      "priority": 2,
+      "group": "3130dbfd0183"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Јест",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "ли",
+          "definition": "undefined"
+        },
+        {
+          "word": "то",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "сиви",
+          "definition": "grey\nundefined"
+        },
+        {
+          "word": "влас?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Is",
+        "that",
+        "grey",
+        "hair",
+        "has",
+        "hat",
+        "her"
+      ],
+      "solutions": [
+        [
+          "Is",
+          "that",
+          "grey",
+          "hair"
+        ]
+      ],
+      "formattedSolution": "Is that grey hair?",
+      "id": "770247fe77f0",
+      "priority": 2,
+      "group": "3130dbfd0183"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он има оранжеву торбу.",
+      "meaningInSourceLanguage": "He has an orange bag.",
+      "id": "093c5e3370d1",
+      "priority": 0,
+      "group": "5eab1f4c14ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он има оранжеву торбу.",
+      "meaning": "He has an orange bag.",
+      "audio": "fe533399bfc50341c704aaf5c69e61b472de7ef8158e9a758b4db2e8c2a71be0",
+      "id": "f7365706806a",
+      "priority": 1,
+      "group": "5eab1f4c14ea"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "an",
+          "definition": "undefined"
+        },
+        {
+          "word": "orange",
+          "definition": "undefined\nоранжеви\nпомаранча"
+        },
+        {
+          "word": "bag.",
+          "definition": "undefined\nторба"
+        }
+      ],
+      "chips": [
+        "Он",
+        "има",
+        "оранжеву",
+        "торбу",
+        "он",
+        "Она",
+        "Оне"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "има",
+          "оранжеву",
+          "торбу"
+        ]
+      ],
+      "formattedSolution": "Он има оранжеву торбу.",
+      "id": "57705283b204",
+      "priority": 2,
+      "group": "5eab1f4c14ea"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "има",
+          "definition": "undefined"
+        },
+        {
+          "word": "оранжеву",
+          "definition": "undefined"
+        },
+        {
+          "word": "торбу.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "has",
+        "an",
+        "orange",
+        "bag",
+        "ran",
+        "as",
+        "am",
+        "a"
+      ],
+      "solutions": [
+        [
+          "He",
+          "has",
+          "an",
+          "orange",
+          "bag"
+        ]
+      ],
+      "formattedSolution": "He has an orange bag.",
+      "id": "19976d91d4a8",
+      "priority": 2,
+      "group": "5eab1f4c14ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Каштанови коњ стоји в стаји.",
+      "meaningInSourceLanguage": "The brown horse stands in the stable.",
+      "id": "ea8ebb728bd0",
+      "priority": 0,
+      "group": "715d5dc0a3c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Каштанови коњ стоји в стаји.",
+      "meaning": "The brown horse stands in the stable.",
+      "audio": "a9a8d96f0ff753a1c937c06fd07601cec3d7d7dfd02e9270254f348aad7abf8c",
+      "id": "e1ac5418fcef",
+      "priority": 1,
+      "group": "715d5dc0a3c6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "brown",
+          "definition": "undefined\nкаштанови"
+        },
+        {
+          "word": "horse",
+          "definition": "undefined\nкоњ"
+        },
+        {
+          "word": "stands",
+          "definition": "undefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "stable.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Каштанови",
+        "коњ",
+        "стоји",
+        "в",
+        "стаји",
+        "тој",
+        "ти",
+        "нови",
+        "сто"
+      ],
+      "solutions": [
+        [
+          "Каштанови",
+          "коњ",
+          "стоји",
+          "в",
+          "стаји"
+        ]
+      ],
+      "formattedSolution": "Каштанови коњ стоји в стаји.",
+      "id": "b1e7982887bd",
+      "priority": 2,
+      "group": "715d5dc0a3c6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Каштанови",
+          "definition": "brown\nundefined"
+        },
+        {
+          "word": "коњ",
+          "definition": "horse\nundefined"
+        },
+        {
+          "word": "стоји",
+          "definition": "undefined"
+        },
+        {
+          "word": "в",
+          "definition": "undefined"
+        },
+        {
+          "word": "стаји.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "brown",
+        "horse",
+        "stands",
+        "in",
+        "the",
+        "stable",
+        "are",
+        "son",
+        "be",
+        "shoe",
+        "ran",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "brown",
+          "horse",
+          "stands",
+          "in",
+          "the",
+          "stable"
+        ]
+      ],
+      "formattedSolution": "The brown horse stands in the stable.",
+      "id": "8eef7034cf99",
+      "priority": 2,
+      "group": "715d5dc0a3c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Жолто солнце греје земју.",
+      "meaningInSourceLanguage": "The yellow sun warms the earth.",
+      "id": "5a90eb2fbe0b",
+      "priority": 0,
+      "group": "5232ef555323"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Жолто солнце греје земју.",
+      "meaning": "The yellow sun warms the earth.",
+      "audio": "4aa0901974c79e5522af04a62f58b43f198f96b02dfaaa0343f0f3a2e325a95f",
+      "id": "b09907effd30",
+      "priority": 1,
+      "group": "5232ef555323"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "yellow",
+          "definition": "undefined\nжолти"
+        },
+        {
+          "word": "sun",
+          "definition": "undefined\nсолнце"
+        },
+        {
+          "word": "warms",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "earth.",
+          "definition": "undefined\nземја"
+        }
+      ],
+      "chips": [
+        "Жолто",
+        "солнце",
+        "греје",
+        "земју",
+        "земје",
+        "солнц",
+        "моје"
+      ],
+      "solutions": [
+        [
+          "Жолто",
+          "солнце",
+          "греје",
+          "земју"
+        ]
+      ],
+      "formattedSolution": "Жолто солнце греје земју.",
+      "id": "785eeb26fd04",
+      "priority": 2,
+      "group": "5232ef555323"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Жолто",
+          "definition": "undefined"
+        },
+        {
+          "word": "солнце",
+          "definition": "sun\nundefined"
+        },
+        {
+          "word": "греје",
+          "definition": "undefined"
+        },
+        {
+          "word": "земју.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "yellow",
+        "sun",
+        "warms",
+        "the",
+        "earth",
+        "are",
+        "ear",
+        "her",
+        "eat",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "yellow",
+          "sun",
+          "warms",
+          "the",
+          "earth"
+        ]
+      ],
+      "formattedSolution": "The yellow sun warms the earth.",
+      "id": "2c237bff9d91",
+      "priority": 2,
+      "group": "5232ef555323"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Црвена роза расте ту.",
+      "meaningInSourceLanguage": "A red rose grows here.",
+      "id": "1889d20dbbde",
+      "priority": 0,
+      "group": "d1df8f64b617"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Црвена роза расте ту.",
+      "meaning": "A red rose grows here.",
+      "audio": "3415ec196c34f3aaebd302572ededbbbb02d36d8de5daa8f7ecbce1fa2cd20c9",
+      "id": "d91f2ba43d04",
+      "priority": 1,
+      "group": "d1df8f64b617"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "red",
+          "definition": "undefined\nцрвени"
+        },
+        {
+          "word": "rose",
+          "definition": "undefined\nроза"
+        },
+        {
+          "word": "grows",
+          "definition": "undefined"
+        },
+        {
+          "word": "here.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Црвена",
+        "роза",
+        "расте",
+        "ту",
+        "за",
+        "рука",
+        "Ја"
+      ],
+      "solutions": [
+        [
+          "Црвена",
+          "роза",
+          "расте",
+          "ту"
+        ]
+      ],
+      "formattedSolution": "Црвена роза расте ту.",
+      "id": "363e02ddde8d",
+      "priority": 2,
+      "group": "d1df8f64b617"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Црвена",
+          "definition": "undefined"
+        },
+        {
+          "word": "роза",
+          "definition": "rose\nundefined"
+        },
+        {
+          "word": "расте",
+          "definition": "undefined"
+        },
+        {
+          "word": "ту.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "red",
+        "rose",
+        "grows",
+        "here",
+        "are",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "A",
+          "red",
+          "rose",
+          "grows",
+          "here"
+        ]
+      ],
+      "formattedSolution": "A red rose grows here.",
+      "id": "c9759774e174",
+      "priority": 2,
+      "group": "d1df8f64b617"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "црни",
+      "meaningInSourceLanguage": "black",
+      "id": "4da48a4d8a26",
+      "priority": 0,
+      "group": "79da0770f0ae"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "црни"
+      ],
+      "phrase": [
+        {
+          "word": "black",
+          "definition": "undefined\nцрни"
+        }
+      ],
+      "id": "c926e25fabfb",
+      "priority": 1,
+      "group": "79da0770f0ae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "црни",
+      "meaning": "black",
+      "audio": "202d9e4d4d26c313bf300501e3b08b44a1349b3674625d8b3df2e00669e7ca77",
+      "id": "9de72f1c1caa",
+      "priority": 1,
+      "group": "79da0770f0ae"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "бели",
+      "meaningInSourceLanguage": "white",
+      "id": "9c543ee32a78",
+      "priority": 0,
+      "group": "9d1f9f3ce78e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "бели"
+      ],
+      "phrase": [
+        {
+          "word": "white",
+          "definition": "undefined\nбели"
+        }
+      ],
+      "id": "815e99ca9e9c",
+      "priority": 1,
+      "group": "9d1f9f3ce78e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "бели",
+      "meaning": "white",
+      "audio": "e5d66b4bd53c5eb00e3d26c25636fd9473f4d25f197e118b0781bf8447c9bfa8",
+      "id": "f702fd3307ee",
+      "priority": 1,
+      "group": "9d1f9f3ce78e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "зелени",
+      "meaningInSourceLanguage": "green",
+      "id": "eb50dacd6a9f",
+      "priority": 0,
+      "group": "f8e8bb8e7d65"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "зелени"
+      ],
+      "phrase": [
+        {
+          "word": "green",
+          "definition": "undefined\nзелени"
+        }
+      ],
+      "id": "3aabc15cbd76",
+      "priority": 1,
+      "group": "f8e8bb8e7d65"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "зелени",
+      "meaning": "green",
+      "audio": "b0793a44a2543c7af4d2849eb4ed7497c74ea77bb9f5528bd78a7fa3cfa353dd",
+      "id": "46dec0400ead",
+      "priority": 1,
+      "group": "f8e8bb8e7d65"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "модри",
+      "meaningInSourceLanguage": "blue",
+      "id": "ff72d3d36a3c",
+      "priority": 0,
+      "group": "bba9e79349e9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "модри"
+      ],
+      "phrase": [
+        {
+          "word": "blue",
+          "definition": "undefined\nмодри"
+        }
+      ],
+      "id": "96143705dc5b",
+      "priority": 1,
+      "group": "bba9e79349e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "модри",
+      "meaning": "blue",
+      "audio": "c321357a5572422e7aad178f7c17c3d400d173343178b09a71733ac29a876251",
+      "id": "e565f04234f1",
+      "priority": 1,
+      "group": "bba9e79349e9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "црвени",
+      "meaningInSourceLanguage": "red",
+      "id": "98d3cadd04ea",
+      "priority": 0,
+      "group": "5cc8739e03d2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "црвени"
+      ],
+      "phrase": [
+        {
+          "word": "red",
+          "definition": "undefined\nцрвени"
+        }
+      ],
+      "id": "9030baaaf56f",
+      "priority": 1,
+      "group": "5cc8739e03d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "црвени",
+      "meaning": "red",
+      "audio": "8ef814327f041e80be1513807ed55c46b2e0ff2dabe7cb2abeb6469222d7eb81",
+      "id": "6b1d72015ca4",
+      "priority": 1,
+      "group": "5cc8739e03d2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "жолти",
+      "meaningInSourceLanguage": "yellow",
+      "id": "095de29ffe92",
+      "priority": 0,
+      "group": "25a0ae0575c5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "жолти"
+      ],
+      "phrase": [
+        {
+          "word": "yellow",
+          "definition": "undefined\nжолти"
+        }
+      ],
+      "id": "53585997d9e2",
+      "priority": 1,
+      "group": "25a0ae0575c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "жолти",
+      "meaning": "yellow",
+      "audio": "e79e5311732d4bf114543474f33c73ee5151eedbe2b784b7e346cd84d11f6ba7",
+      "id": "e90b08b11a20",
+      "priority": 1,
+      "group": "25a0ae0575c5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "сиви",
+      "meaningInSourceLanguage": "grey",
+      "id": "30da97aa92b2",
+      "priority": 0,
+      "group": "b609ec63a37f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "сиви"
+      ],
+      "phrase": [
+        {
+          "word": "grey",
+          "definition": "undefined\nсиви"
+        }
+      ],
+      "id": "c4becefdbc29",
+      "priority": 1,
+      "group": "b609ec63a37f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "сиви",
+      "meaning": "grey",
+      "audio": "6d76cb01486e6bc50c963e6c685767e73d9922dbb41a89238230d164da81c016",
+      "id": "0e6b46715210",
+      "priority": 1,
+      "group": "b609ec63a37f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "каштанови",
+      "meaningInSourceLanguage": "brown",
+      "id": "41bb252367cb",
+      "priority": 0,
+      "group": "3c43bdc83730"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "каштанови"
+      ],
+      "phrase": [
+        {
+          "word": "brown",
+          "definition": "undefined\nкаштанови"
+        }
+      ],
+      "id": "55d8cb410380",
+      "priority": 1,
+      "group": "3c43bdc83730"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "каштанови",
+      "meaning": "brown",
+      "audio": "fe41d11324cea0466d8729c4aaa1caa868b109b2b11d702c89e2b68ff78db40b",
+      "id": "29f7aa7419e6",
+      "priority": 1,
+      "group": "3c43bdc83730"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "оранжеви",
+      "meaningInSourceLanguage": "orange",
+      "id": "13dfdca719b8",
+      "priority": 0,
+      "group": "4f3ebc932697"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "оранжеви"
+      ],
+      "phrase": [
+        {
+          "word": "orange",
+          "definition": "undefined\nоранжеви\nпомаранча"
+        }
+      ],
+      "id": "14d122ad00f3",
+      "priority": 1,
+      "group": "4f3ebc932697"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "оранжеви",
+      "meaning": "orange",
+      "audio": "7a73f4d620eec2688932f65964c968a55ee9fb820b57a571c5e90913247eca16",
+      "id": "5d4befb59f79",
+      "priority": 1,
+      "group": "4f3ebc932697"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "црвени",
+      "meaningInSourceLanguage": "red",
+      "id": "98d3cadd04ea",
+      "priority": 0,
+      "group": "5cc8739e03d2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "црвени"
+      ],
+      "phrase": [
+        {
+          "word": "red",
+          "definition": "undefined\nцрвени"
+        }
+      ],
+      "id": "9030baaaf56f",
+      "priority": 1,
+      "group": "5cc8739e03d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "црвени",
+      "meaning": "red",
+      "audio": "8ef814327f041e80be1513807ed55c46b2e0ff2dabe7cb2abeb6469222d7eb81",
+      "id": "6b1d72015ca4",
+      "priority": 1,
+      "group": "5cc8739e03d2"
+    }
+  ]
+}

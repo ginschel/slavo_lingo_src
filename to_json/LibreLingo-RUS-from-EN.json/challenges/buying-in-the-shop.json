@@ -1,0 +1,2557 @@
+{
+  "id": "2309ee941a54",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Хочу купить хлеб.",
+      "meaningInSourceLanguage": "I want to buy bread.",
+      "id": "d019054e9aeb",
+      "priority": 0,
+      "group": "9df307901136"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Хочу купить хлеб.",
+      "meaning": "I want to buy bread.",
+      "audio": "0b30e28775e2d88440cea03a078be3bf2a5bed2ad3aed7b5ae174aaca0923a9a",
+      "id": "bd6159ef7138",
+      "priority": 1,
+      "group": "9df307901136"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "want",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "buy",
+          "definition": "undefined"
+        },
+        {
+          "word": "bread.",
+          "definition": "undefined\nхлеб"
+        }
+      ],
+      "chips": [
+        "Хочу",
+        "купить",
+        "хлеб",
+        "коту",
+        "суть"
+      ],
+      "solutions": [
+        [
+          "Хочу",
+          "купить",
+          "хлеб"
+        ]
+      ],
+      "formattedSolution": "Хочу купить хлеб.",
+      "id": "bd8447d21ec6",
+      "priority": 2,
+      "group": "9df307901136"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Хочу",
+          "definition": "undefined"
+        },
+        {
+          "word": "купить",
+          "definition": "to buy\nundefined"
+        },
+        {
+          "word": "хлеб.",
+          "definition": "bread\nundefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "want",
+        "to",
+        "buy",
+        "bread",
+        "a",
+        "at",
+        "an",
+        "be"
+      ],
+      "solutions": [
+        [
+          "I",
+          "want",
+          "to",
+          "buy",
+          "bread"
+        ]
+      ],
+      "formattedSolution": "I want to buy bread.",
+      "id": "d1034cd9d4fd",
+      "priority": 2,
+      "group": "9df307901136"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он продаёт мясо.",
+      "meaningInSourceLanguage": "He sells meat.",
+      "id": "30ccab92d9d9",
+      "priority": 0,
+      "group": "675b33531608"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он продаёт мясо.",
+      "meaning": "He sells meat.",
+      "audio": "c4a4ff6b470e3dec73a0de7cc96295ede02ba3b534874ae9f9074f17ec3c6da5",
+      "id": "bf38f8173173",
+      "priority": 1,
+      "group": "675b33531608"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "sells",
+          "definition": "undefined"
+        },
+        {
+          "word": "meat.",
+          "definition": "undefined\nмясо"
+        }
+      ],
+      "chips": [
+        "Он",
+        "продаёт",
+        "мясо",
+        "со",
+        "по"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "продаёт",
+          "мясо"
+        ]
+      ],
+      "formattedSolution": "Он продаёт мясо.",
+      "id": "c9d79497bfae",
+      "priority": 2,
+      "group": "675b33531608"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "продаёт",
+          "definition": "undefined"
+        },
+        {
+          "word": "мясо.",
+          "definition": "meat\nundefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "sells",
+        "meat",
+        "me",
+        "seat"
+      ],
+      "solutions": [
+        [
+          "He",
+          "sells",
+          "meat"
+        ]
+      ],
+      "formattedSolution": "He sells meat.",
+      "id": "fdff8ce0822e",
+      "priority": 2,
+      "group": "675b33531608"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Цена есть высокая.",
+      "meaningInSourceLanguage": "The price is high.",
+      "id": "5b88dba3baab",
+      "priority": 0,
+      "group": "e45169d8c1be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Цена есть высокая.",
+      "meaning": "The price is high.",
+      "audio": "e81a114e642f6c88bacebaf328c7b140b7b0d9c4e30f66af4d2c5b3b0b93368b",
+      "id": "2dcabdcd6317",
+      "priority": 1,
+      "group": "e45169d8c1be"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "price",
+          "definition": "undefined\nцена"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "high.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Цена",
+        "есть",
+        "высокая",
+        "ест",
+        "сока"
+      ],
+      "solutions": [
+        [
+          "Цена",
+          "есть",
+          "высокая"
+        ]
+      ],
+      "formattedSolution": "Цена есть высокая.",
+      "id": "df2d8431cbcc",
+      "priority": 2,
+      "group": "e45169d8c1be"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Цена",
+          "definition": "price\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "высокая.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "price",
+        "is",
+        "high",
+        "his",
+        "wise",
+        "This"
+      ],
+      "solutions": [
+        [
+          "The",
+          "price",
+          "is",
+          "high"
+        ]
+      ],
+      "formattedSolution": "The price is high.",
+      "id": "4f068f51fe8f",
+      "priority": 2,
+      "group": "e45169d8c1be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Одежда есть новая.",
+      "meaningInSourceLanguage": "The clothes are new.",
+      "id": "08adabe0ad12",
+      "priority": 0,
+      "group": "9fa0790abf60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Одежда есть новая.",
+      "meaning": "The clothes are new.",
+      "audio": "a49474cb15c66599e480019380d6f003b42f377198cd6dbb5ca2b79ac592ecf3",
+      "id": "2498fe3e5484",
+      "priority": 1,
+      "group": "9fa0790abf60"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "clothes",
+          "definition": "undefined\nодежда"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+        },
+        {
+          "word": "new.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Одежда",
+        "есть",
+        "новая",
+        "есмь",
+        "есте"
+      ],
+      "solutions": [
+        [
+          "Одежда",
+          "есть",
+          "новая"
+        ]
+      ],
+      "formattedSolution": "Одежда есть новая.",
+      "id": "43e9339536ff",
+      "priority": 2,
+      "group": "9fa0790abf60"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Одежда",
+          "definition": "clothes\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "новая.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "clothes",
+        "are",
+        "new",
+        "the",
+        "She",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "clothes",
+          "are",
+          "new"
+        ]
+      ],
+      "formattedSolution": "The clothes are new.",
+      "id": "97d2f9b1c1cc",
+      "priority": 2,
+      "group": "9fa0790abf60"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Продавец есть утомлён сегодня.",
+      "meaningInSourceLanguage": "The seller is tired today.",
+      "id": "a0d14385206e",
+      "priority": 0,
+      "group": "7dc0220e61b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Продавец есть утомлён сегодня.",
+      "meaning": "The seller is tired today.",
+      "audio": "789741f7186234bc0291c102283e899f9ccd9426c2a88cfefc61bbc2a2fd41ab",
+      "id": "db4333bf510a",
+      "priority": 1,
+      "group": "7dc0220e61b9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "seller",
+          "definition": "undefined\nпродавец"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "tired",
+          "definition": "undefined"
+        },
+        {
+          "word": "today.",
+          "definition": "undefined\nсегодня"
+        }
+      ],
+      "chips": [
+        "Продавец",
+        "есть",
+        "утомлён",
+        "сегодня",
+        "столе",
+        "стол",
+        "стола"
+      ],
+      "solutions": [
+        [
+          "Продавец",
+          "есть",
+          "утомлён",
+          "сегодня"
+        ]
+      ],
+      "formattedSolution": "Продавец есть утомлён сегодня.",
+      "id": "efd432e43715",
+      "priority": 2,
+      "group": "7dc0220e61b9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Продавец",
+          "definition": "seller\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "утомлён",
+          "definition": "undefined"
+        },
+        {
+          "word": "сегодня.",
+          "definition": "today\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "seller",
+        "is",
+        "tired",
+        "today",
+        "the",
+        "tea",
+        "see",
+        "red"
+      ],
+      "solutions": [
+        [
+          "The",
+          "seller",
+          "is",
+          "tired",
+          "today"
+        ]
+      ],
+      "formattedSolution": "The seller is tired today.",
+      "id": "1621cec5edf5",
+      "priority": 2,
+      "group": "7dc0220e61b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сумка есть тяжёлая.",
+      "meaningInSourceLanguage": "The bag is heavy.",
+      "id": "482f753971d1",
+      "priority": 0,
+      "group": "d7bdc0a16c2d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сумка есть тяжёлая.",
+      "meaning": "The bag is heavy.",
+      "audio": "17221b7ffd2164699fc2ba8547cba1da0b72b09d53f9a4ad1dcf644cc1cd4623",
+      "id": "85357113cecf",
+      "priority": 1,
+      "group": "d7bdc0a16c2d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bag",
+          "definition": "undefined\nсумка"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "heavy.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Сумка",
+        "есть",
+        "тяжёлая",
+        "есмь",
+        "рука"
+      ],
+      "solutions": [
+        [
+          "Сумка",
+          "есть",
+          "тяжёлая"
+        ]
+      ],
+      "formattedSolution": "Сумка есть тяжёлая.",
+      "id": "08d4353c1bfb",
+      "priority": 2,
+      "group": "d7bdc0a16c2d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Сумка",
+          "definition": "bag\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "тяжёлая.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bag",
+        "is",
+        "heavy",
+        "has",
+        "be",
+        "as"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bag",
+          "is",
+          "heavy"
+        ]
+      ],
+      "formattedSolution": "The bag is heavy.",
+      "id": "ebb2804bd037",
+      "priority": 2,
+      "group": "d7bdc0a16c2d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Кусок сыра есть добрый.",
+      "meaningInSourceLanguage": "A piece of cheese is good.",
+      "id": "9c5e8517e430",
+      "priority": 0,
+      "group": "148c60f6be7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Кусок сыра есть добрый.",
+      "meaning": "A piece of cheese is good.",
+      "audio": "b2e5cae20581fec2cf2091f8daa0e30b2ece0a953793f3d1e5e17ec08e8b3e04",
+      "id": "e7a0980eea59",
+      "priority": 1,
+      "group": "148c60f6be7c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "piece",
+          "definition": "undefined\nкусок"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "cheese",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "good.",
+          "definition": "undefined\nдобрый"
+        }
+      ],
+      "chips": [
+        "Кусок",
+        "сыра",
+        "есть",
+        "добрый",
+        "сок",
+        "сыр",
+        "со"
+      ],
+      "solutions": [
+        [
+          "Кусок",
+          "сыра",
+          "есть",
+          "добрый"
+        ]
+      ],
+      "formattedSolution": "Кусок сыра есть добрый.",
+      "id": "024799cd5c99",
+      "priority": 2,
+      "group": "148c60f6be7c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Кусок",
+          "definition": "piece\nundefined"
+        },
+        {
+          "word": "сыра",
+          "definition": "undefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "добрый.",
+          "definition": "good\nundefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "piece",
+        "of",
+        "cheese",
+        "is",
+        "good",
+        "We",
+        "He",
+        "Is",
+        "me",
+        "so"
+      ],
+      "solutions": [
+        [
+          "A",
+          "piece",
+          "of",
+          "cheese",
+          "is",
+          "good"
+        ]
+      ],
+      "formattedSolution": "A piece of cheese is good.",
+      "id": "8d4b065e84d5",
+      "priority": 2,
+      "group": "148c60f6be7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Купец спрашивает за скидку.",
+      "meaningInSourceLanguage": "The customer asks for a discount.",
+      "id": "374c6cb70957",
+      "priority": 0,
+      "group": "3b8bafd3c112"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Купец спрашивает за скидку.",
+      "meaning": "The customer asks for a discount.",
+      "audio": "c6621e428d90d0bdb09878fe587fe5948a98a461a118f2a4f19f07d634a81eef",
+      "id": "da07b36380fc",
+      "priority": 1,
+      "group": "3b8bafd3c112"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "customer",
+          "definition": "undefined\nкупец/покупатель"
+        },
+        {
+          "word": "asks",
+          "definition": "undefined"
+        },
+        {
+          "word": "for",
+          "definition": "undefined\nза"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "discount.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Купец",
+        "спрашивает",
+        "за",
+        "скидку",
+        "спит",
+        "пива",
+        "свет"
+      ],
+      "solutions": [
+        [
+          "Купец",
+          "спрашивает",
+          "за",
+          "скидку"
+        ]
+      ],
+      "formattedSolution": "Купец спрашивает за скидку.",
+      "id": "7bcf70529032",
+      "priority": 2,
+      "group": "3b8bafd3c112"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Купец",
+          "definition": "undefined"
+        },
+        {
+          "word": "спрашивает",
+          "definition": "undefined"
+        },
+        {
+          "word": "за",
+          "definition": "for\nundefined"
+        },
+        {
+          "word": "скидку.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "customer",
+        "asks",
+        "for",
+        "a",
+        "discount",
+        "so",
+        "son",
+        "cut",
+        "or",
+        "ask"
+      ],
+      "solutions": [
+        [
+          "The",
+          "customer",
+          "asks",
+          "for",
+          "a",
+          "discount"
+        ]
+      ],
+      "formattedSolution": "The customer asks for a discount.",
+      "id": "2cbbf63d59bd",
+      "priority": 2,
+      "group": "3b8bafd3c112"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Возврата нет. Это плохой магазин.",
+      "meaningInSourceLanguage": "No returns. This is a bad shop.",
+      "id": "712f51c2c125",
+      "priority": 0,
+      "group": "661d784f32be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Возврата нет. Это плохой магазин.",
+      "meaning": "No returns. This is a bad shop.",
+      "audio": "62baacc24b595b307b5869736941eb1671824ac46f45d5542736a5909968cc02",
+      "id": "25c93a3eaf2d",
+      "priority": 1,
+      "group": "661d784f32be"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "No",
+          "definition": "undefined\nнет"
+        },
+        {
+          "word": "returns.",
+          "definition": "undefined"
+        },
+        {
+          "word": "This",
+          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "bad",
+          "definition": "undefined\nзлой"
+        },
+        {
+          "word": "shop.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Возврата",
+        "нет",
+        "Это",
+        "плохой",
+        "магазин",
+        "Эта",
+        "авто",
+        "от",
+        "кота"
+      ],
+      "solutions": [
+        [
+          "Возврата",
+          "нет",
+          "Это",
+          "плохой",
+          "магазин"
+        ]
+      ],
+      "formattedSolution": "Возврата нет. Это плохой магазин.",
+      "id": "ca66d67f9500",
+      "priority": 2,
+      "group": "661d784f32be"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Возврата",
+          "definition": "undefined"
+        },
+        {
+          "word": "нет.",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "Это",
+          "definition": "undefined"
+        },
+        {
+          "word": "плохой",
+          "definition": "undefined"
+        },
+        {
+          "word": "магазин.",
+          "definition": "shop/store\nundefined"
+        }
+      ],
+      "chips": [
+        "No",
+        "returns",
+        "This",
+        "is",
+        "a",
+        "bad",
+        "shop",
+        "as",
+        "his",
+        "has",
+        "us",
+        "Is",
+        "To"
+      ],
+      "solutions": [
+        [
+          "No",
+          "returns",
+          "This",
+          "is",
+          "a",
+          "bad",
+          "shop"
+        ]
+      ],
+      "formattedSolution": "No returns. This is a bad shop.",
+      "id": "b1424d3a6dbf",
+      "priority": 2,
+      "group": "661d784f32be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Дам чек продавцу.",
+      "meaningInSourceLanguage": "I give the receipt to the seller.",
+      "id": "779dff8a9403",
+      "priority": 0,
+      "group": "30c52a659893"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Дам чек продавцу.",
+      "meaning": "I give the receipt to the seller.",
+      "audio": "14641ba3c7f520ec2178212828e2b10386e959709f2fe132534e29dabe468444",
+      "id": "c269e9595f13",
+      "priority": 1,
+      "group": "30c52a659893"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "give",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "receipt",
+          "definition": "undefined\nчек"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "seller.",
+          "definition": "undefined\nпродавец"
+        }
+      ],
+      "chips": [
+        "Дам",
+        "чек",
+        "продавцу",
+        "дам",
+        "Там"
+      ],
+      "solutions": [
+        [
+          "Дам",
+          "чек",
+          "продавцу"
+        ]
+      ],
+      "formattedSolution": "Дам чек продавцу.",
+      "id": "84de51e02d4b",
+      "priority": 2,
+      "group": "30c52a659893"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Дам",
+          "definition": "undefined"
+        },
+        {
+          "word": "чек",
+          "definition": "receipt\nundefined"
+        },
+        {
+          "word": "продавцу.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "give",
+        "the",
+        "receipt",
+        "to",
+        "the",
+        "seller",
+        "see",
+        "She",
+        "We",
+        "He",
+        "me",
+        "The"
+      ],
+      "solutions": [
+        [
+          "I",
+          "give",
+          "the",
+          "receipt",
+          "to",
+          "the",
+          "seller"
+        ]
+      ],
+      "formattedSolution": "I give the receipt to the seller.",
+      "id": "afa993d26035",
+      "priority": 2,
+      "group": "30c52a659893"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она покупает книгу.",
+      "meaningInSourceLanguage": "She is buying a book.",
+      "id": "e305dbaf6f43",
+      "priority": 0,
+      "group": "98b221b326ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она покупает книгу.",
+      "meaning": "She is buying a book.",
+      "audio": "aa4e4de43ac3b019790856914d9085b347ec114718c9cbe26df642bc8f20e44d",
+      "id": "5200844a6a88",
+      "priority": 1,
+      "group": "98b221b326ed"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "buying",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "book.",
+          "definition": "undefined\nкнига"
+        }
+      ],
+      "chips": [
+        "Она",
+        "покупает",
+        "книгу",
+        "окна",
+        "она"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "покупает",
+          "книгу"
+        ]
+      ],
+      "formattedSolution": "Она покупает книгу.",
+      "id": "e942f385ef0a",
+      "priority": 2,
+      "group": "98b221b326ed"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "покупает",
+          "definition": "undefined"
+        },
+        {
+          "word": "книгу.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "is",
+        "buying",
+        "a",
+        "book",
+        "in",
+        "big",
+        "be",
+        "by"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is",
+          "buying",
+          "a",
+          "book"
+        ]
+      ],
+      "formattedSolution": "She is buying a book.",
+      "id": "c5e81c0aa60b",
+      "priority": 2,
+      "group": "98b221b326ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он продаёт молоко.",
+      "meaningInSourceLanguage": "He sells milk.",
+      "id": "f96128194df0",
+      "priority": 0,
+      "group": "29337b9e9a7d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он продаёт молоко.",
+      "meaning": "He sells milk.",
+      "audio": "cea59ddcbe692e5074d86504eec9ef8b58de8a5696fc248714d514108de0a12f",
+      "id": "99d088b1b518",
+      "priority": 1,
+      "group": "29337b9e9a7d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "sells",
+          "definition": "undefined"
+        },
+        {
+          "word": "milk.",
+          "definition": "undefined\nмолоко"
+        }
+      ],
+      "chips": [
+        "Он",
+        "продаёт",
+        "молоко",
+        "моё",
+        "поёт"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "продаёт",
+          "молоко"
+        ]
+      ],
+      "formattedSolution": "Он продаёт молоко.",
+      "id": "49c8c661e35a",
+      "priority": 2,
+      "group": "29337b9e9a7d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "продаёт",
+          "definition": "undefined"
+        },
+        {
+          "word": "молоко.",
+          "definition": "milk\nundefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "sells",
+        "milk",
+        "well",
+        "me"
+      ],
+      "solutions": [
+        [
+          "He",
+          "sells",
+          "milk"
+        ]
+      ],
+      "formattedSolution": "He sells milk.",
+      "id": "82e51561e223",
+      "priority": 2,
+      "group": "29337b9e9a7d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Цена масла есть добрая.",
+      "meaningInSourceLanguage": "The price of butter is good.",
+      "id": "abe29026b89b",
+      "priority": 0,
+      "group": "e939a4dc3bd1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Цена масла есть добрая.",
+      "meaning": "The price of butter is good.",
+      "audio": "b8dd0e7c967c7b98fd09d63872d8ebe71444833d28a721a1a7a2294657e5bb2d",
+      "id": "7d8fe1b36c1c",
+      "priority": 1,
+      "group": "e939a4dc3bd1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "price",
+          "definition": "undefined\nцена"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "butter",
+          "definition": "undefined\nмасло"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "good.",
+          "definition": "undefined\nдобрый"
+        }
+      ],
+      "chips": [
+        "Цена",
+        "масла",
+        "есть",
+        "добрая",
+        "сна",
+        "моста",
+        "Весна"
+      ],
+      "solutions": [
+        [
+          "Цена",
+          "масла",
+          "есть",
+          "добрая"
+        ]
+      ],
+      "formattedSolution": "Цена масла есть добрая.",
+      "id": "92ca0e819fba",
+      "priority": 2,
+      "group": "e939a4dc3bd1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Цена",
+          "definition": "price\nundefined"
+        },
+        {
+          "word": "масла",
+          "definition": "undefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "добрая.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "price",
+        "of",
+        "butter",
+        "is",
+        "good",
+        "be",
+        "or",
+        "We",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "price",
+          "of",
+          "butter",
+          "is",
+          "good"
+        ]
+      ],
+      "formattedSolution": "The price of butter is good.",
+      "id": "a6784312858b",
+      "priority": 2,
+      "group": "e939a4dc3bd1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Колбаса есть свежая.",
+      "meaningInSourceLanguage": "The sausage is fresh.",
+      "id": "90f125118b2c",
+      "priority": 0,
+      "group": "ff1df6801b33"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Колбаса есть свежая.",
+      "meaning": "The sausage is fresh.",
+      "audio": "c8a7928222350faf311a49ec8f04f135e976a2f826ca366b4fc78e6e8163cabd",
+      "id": "28643aad24ad",
+      "priority": 1,
+      "group": "ff1df6801b33"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "sausage",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "fresh.",
+          "definition": "undefined\nсвежий"
+        }
+      ],
+      "chips": [
+        "Колбаса",
+        "есть",
+        "свежая",
+        "ест",
+        "белая"
+      ],
+      "solutions": [
+        [
+          "Колбаса",
+          "есть",
+          "свежая"
+        ]
+      ],
+      "formattedSolution": "Колбаса есть свежая.",
+      "id": "a71d25f244a7",
+      "priority": 2,
+      "group": "ff1df6801b33"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Колбаса",
+          "definition": "undefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "свежая.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "sausage",
+        "is",
+        "fresh",
+        "are",
+        "us",
+        "age"
+      ],
+      "solutions": [
+        [
+          "The",
+          "sausage",
+          "is",
+          "fresh"
+        ]
+      ],
+      "formattedSolution": "The sausage is fresh.",
+      "id": "3042cd62fed8",
+      "priority": 2,
+      "group": "ff1df6801b33"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Продавец даст кусок колбасы.",
+      "meaningInSourceLanguage": "The seller gives a piece of sausage.",
+      "id": "4949d4ec0e5a",
+      "priority": 0,
+      "group": "58b65556af22"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Продавец даст кусок колбасы.",
+      "meaning": "The seller gives a piece of sausage.",
+      "audio": "aea783f8d074a3261c0f9dc005f362a8005b86c695b0a6b5186f388138f354eb",
+      "id": "c13f989ba851",
+      "priority": 1,
+      "group": "58b65556af22"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "seller",
+          "definition": "undefined\nпродавец"
+        },
+        {
+          "word": "gives",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "piece",
+          "definition": "undefined\nкусок"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "sausage.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Продавец",
+        "даст",
+        "кусок",
+        "колбасы",
+        "часе",
+        "сока",
+        "даёт"
+      ],
+      "solutions": [
+        [
+          "Продавец",
+          "даст",
+          "кусок",
+          "колбасы"
+        ]
+      ],
+      "formattedSolution": "Продавец даст кусок колбасы.",
+      "id": "fd1acaf48824",
+      "priority": 2,
+      "group": "58b65556af22"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Продавец",
+          "definition": "seller\nundefined"
+        },
+        {
+          "word": "даст",
+          "definition": "undefined"
+        },
+        {
+          "word": "кусок",
+          "definition": "piece\nundefined"
+        },
+        {
+          "word": "колбасы.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "seller",
+        "gives",
+        "a",
+        "piece",
+        "of",
+        "sausage",
+        "see",
+        "age",
+        "We",
+        "are",
+        "He",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "seller",
+          "gives",
+          "a",
+          "piece",
+          "of",
+          "sausage"
+        ]
+      ],
+      "formattedSolution": "The seller gives a piece of sausage.",
+      "id": "17d77d3e0eb5",
+      "priority": 2,
+      "group": "58b65556af22"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сумка стоит на полу.",
+      "meaningInSourceLanguage": "The bag is on the floor.",
+      "id": "80a1a910c528",
+      "priority": 0,
+      "group": "0a90cc9008ab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сумка стоит на полу.",
+      "meaning": "The bag is on the floor.",
+      "audio": "3d2e07af00166f2344c49de75b86d38790aed7f652fac2a68bfe174a09e93c3d",
+      "id": "a163d7651b95",
+      "priority": 1,
+      "group": "0a90cc9008ab"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bag",
+          "definition": "undefined\nсумка"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "floor.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Сумка",
+        "стоит",
+        "на",
+        "полу",
+        "сока",
+        "то",
+        "со"
+      ],
+      "solutions": [
+        [
+          "Сумка",
+          "стоит",
+          "на",
+          "полу"
+        ]
+      ],
+      "formattedSolution": "Сумка стоит на полу.",
+      "id": "e199108b000e",
+      "priority": 2,
+      "group": "0a90cc9008ab"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Сумка",
+          "definition": "bag\nundefined"
+        },
+        {
+          "word": "стоит",
+          "definition": "undefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "полу.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bag",
+        "is",
+        "on",
+        "the",
+        "floor",
+        "be",
+        "or",
+        "She",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bag",
+          "is",
+          "on",
+          "the",
+          "floor"
+        ]
+      ],
+      "formattedSolution": "The bag is on the floor.",
+      "id": "8d4cd757fb3c",
+      "priority": 2,
+      "group": "0a90cc9008ab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Кусок хлеба есть малый.",
+      "meaningInSourceLanguage": "The piece of bread is small.",
+      "id": "12fe29cbe6cc",
+      "priority": 0,
+      "group": "d896b04ca964"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Кусок хлеба есть малый.",
+      "meaning": "The piece of bread is small.",
+      "audio": "7aa46ee8992db6c59c41777fbc8bfa531af36a8cea19b6f354a31cfcfbbd25bc",
+      "id": "1a321604a138",
+      "priority": 1,
+      "group": "d896b04ca964"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "piece",
+          "definition": "undefined\nкусок"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "bread",
+          "definition": "undefined\nхлеб"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "small.",
+          "definition": "undefined\nмалый"
+        }
+      ],
+      "chips": [
+        "Кусок",
+        "хлеба",
+        "есть",
+        "малый",
+        "хлеб",
+        "ест",
+        "лес"
+      ],
+      "solutions": [
+        [
+          "Кусок",
+          "хлеба",
+          "есть",
+          "малый"
+        ]
+      ],
+      "formattedSolution": "Кусок хлеба есть малый.",
+      "id": "b3fe57a089e5",
+      "priority": 2,
+      "group": "d896b04ca964"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Кусок",
+          "definition": "piece\nundefined"
+        },
+        {
+          "word": "хлеба",
+          "definition": "undefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "малый.",
+          "definition": "small\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "piece",
+        "of",
+        "bread",
+        "is",
+        "small",
+        "me",
+        "be",
+        "We",
+        "are",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "piece",
+          "of",
+          "bread",
+          "is",
+          "small"
+        ]
+      ],
+      "formattedSolution": "The piece of bread is small.",
+      "id": "84e54528b91a",
+      "priority": 2,
+      "group": "d896b04ca964"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Купец спрашивает о цене.",
+      "meaningInSourceLanguage": "The customer asks about the price.",
+      "id": "dee817fda7f4",
+      "priority": 0,
+      "group": "27db4fe77173"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Купец спрашивает о цене.",
+      "meaning": "The customer asks about the price.",
+      "audio": "13e7813c340c3bf02395b880e2d918af3d6e7537a2caf66bed085b5bf3743656",
+      "id": "f3f2125f1ab0",
+      "priority": 1,
+      "group": "27db4fe77173"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "customer",
+          "definition": "undefined\nкупец/покупатель"
+        },
+        {
+          "word": "asks",
+          "definition": "undefined"
+        },
+        {
+          "word": "about",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "price.",
+          "definition": "undefined\nцена"
+        }
+      ],
+      "chips": [
+        "Купец",
+        "спрашивает",
+        "о",
+        "цене",
+        "не",
+        "Нет",
+        "реке"
+      ],
+      "solutions": [
+        [
+          "Купец",
+          "спрашивает",
+          "о",
+          "цене"
+        ]
+      ],
+      "formattedSolution": "Купец спрашивает о цене.",
+      "id": "49e35b796216",
+      "priority": 2,
+      "group": "27db4fe77173"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Купец",
+          "definition": "undefined"
+        },
+        {
+          "word": "спрашивает",
+          "definition": "undefined"
+        },
+        {
+          "word": "о",
+          "definition": "undefined"
+        },
+        {
+          "word": "цене.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "customer",
+        "asks",
+        "about",
+        "the",
+        "price",
+        "are",
+        "shoe",
+        "She",
+        "see",
+        "time"
+      ],
+      "solutions": [
+        [
+          "The",
+          "customer",
+          "asks",
+          "about",
+          "the",
+          "price"
+        ]
+      ],
+      "formattedSolution": "The customer asks about the price.",
+      "id": "0e9fba2f8ae2",
+      "priority": 2,
+      "group": "27db4fe77173"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Возврат есть до семи дней.",
+      "meaningInSourceLanguage": "Return is within seven days.",
+      "id": "27959ef9bebb",
+      "priority": 0,
+      "group": "5bc939109c35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Возврат есть до семи дней.",
+      "meaning": "Return is within seven days.",
+      "audio": "516b46cf72c6fb335caeeb2e50548f109396230f0d462bd71e0c29dd68f04712",
+      "id": "eee32f27235b",
+      "priority": 1,
+      "group": "5bc939109c35"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Return",
+          "definition": "undefined\nвозврат"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "within",
+          "definition": "undefined"
+        },
+        {
+          "word": "seven",
+          "definition": "undefined\nсемь"
+        },
+        {
+          "word": "days.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Возврат",
+        "есть",
+        "до",
+        "семи",
+        "дней",
+        "дом",
+        "со",
+        "ем",
+        "ест"
+      ],
+      "solutions": [
+        [
+          "Возврат",
+          "есть",
+          "до",
+          "семи",
+          "дней"
+        ]
+      ],
+      "formattedSolution": "Возврат есть до семи дней.",
+      "id": "6a11d5cfae26",
+      "priority": 2,
+      "group": "5bc939109c35"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Возврат",
+          "definition": "return\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "до",
+          "definition": "undefined"
+        },
+        {
+          "word": "семи",
+          "definition": "undefined"
+        },
+        {
+          "word": "дней.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Return",
+        "is",
+        "within",
+        "seven",
+        "days",
+        "thin",
+        "in",
+        "sets",
+        "then"
+      ],
+      "solutions": [
+        [
+          "Return",
+          "is",
+          "within",
+          "seven",
+          "days"
+        ]
+      ],
+      "formattedSolution": "Return is within seven days.",
+      "id": "25cff7bf7f60",
+      "priority": 2,
+      "group": "5bc939109c35"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Чек есть подписан.",
+      "meaningInSourceLanguage": "The receipt is signed.",
+      "id": "5b801022a6c6",
+      "priority": 0,
+      "group": "fab71be2ab09"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Чек есть подписан.",
+      "meaning": "The receipt is signed.",
+      "audio": "71333869e093dbf22e9e0531827fafb1b3baaaf82d563ba8b0e99bf565be2a2d",
+      "id": "c51feaec6c41",
+      "priority": 1,
+      "group": "fab71be2ab09"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "receipt",
+          "definition": "undefined\nчек"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nон/она/оно есть"
+        },
+        {
+          "word": "signed.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Чек",
+        "есть",
+        "подписан",
+        "ест",
+        "пса"
+      ],
+      "solutions": [
+        [
+          "Чек",
+          "есть",
+          "подписан"
+        ]
+      ],
+      "formattedSolution": "Чек есть подписан.",
+      "id": "911dc6b07cd7",
+      "priority": 2,
+      "group": "fab71be2ab09"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Чек",
+          "definition": "receipt\nundefined"
+        },
+        {
+          "word": "есть",
+          "definition": "undefined"
+        },
+        {
+          "word": "подписан.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "receipt",
+        "is",
+        "signed",
+        "it",
+        "in",
+        "see"
+      ],
+      "solutions": [
+        [
+          "The",
+          "receipt",
+          "is",
+          "signed"
+        ]
+      ],
+      "formattedSolution": "The receipt is signed.",
+      "id": "f02e0bfc3749",
+      "priority": 2,
+      "group": "fab71be2ab09"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "купить",
+      "meaningInSourceLanguage": "to buy",
+      "id": "0465212436b6",
+      "priority": 0,
+      "group": "55918b1e75b0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "купить"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "buy",
+          "definition": "undefined"
+        }
+      ],
+      "id": "1d6c4a67f745",
+      "priority": 1,
+      "group": "55918b1e75b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "купить",
+      "meaning": "to buy",
+      "audio": "8a540c73bcf5e5a7d3b9d42f5576bc96e0f4924f3345d9057b6d6831ef1a1171",
+      "id": "b46561a5b346",
+      "priority": 1,
+      "group": "55918b1e75b0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "продавать",
+      "meaningInSourceLanguage": "to sell",
+      "id": "95b37cbaae50",
+      "priority": 0,
+      "group": "eb75274aec95"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "продавать"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "sell",
+          "definition": "undefined"
+        }
+      ],
+      "id": "a84a7dbceca8",
+      "priority": 1,
+      "group": "eb75274aec95"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "продавать",
+      "meaning": "to sell",
+      "audio": "ddf0d22de11f3639d070a297a97f173b442870cee3a01f2d67be1ad9cc96c533",
+      "id": "1a740f209db2",
+      "priority": 1,
+      "group": "eb75274aec95"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "цена",
+      "meaningInSourceLanguage": "price",
+      "id": "c4a3101b4f6c",
+      "priority": 0,
+      "group": "0ad7b915145b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "цена"
+      ],
+      "phrase": [
+        {
+          "word": "price",
+          "definition": "undefined\nцена"
+        }
+      ],
+      "id": "ca09d22489bb",
+      "priority": 1,
+      "group": "0ad7b915145b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "цена",
+      "meaning": "price",
+      "audio": "45c8f738da8e83e92a8ebac982f3fb7f7f0919e842bd5684f9c42ac8cfbd6600",
+      "id": "5e24ab41cb03",
+      "priority": 1,
+      "group": "0ad7b915145b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "одежда",
+      "meaningInSourceLanguage": "clothes",
+      "id": "d1e999e47f4b",
+      "priority": 0,
+      "group": "8162554ccc5d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "одежда"
+      ],
+      "phrase": [
+        {
+          "word": "clothes",
+          "definition": "undefined\nодежда"
+        }
+      ],
+      "id": "78dceadb51bd",
+      "priority": 1,
+      "group": "8162554ccc5d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "одежда",
+      "meaning": "clothes",
+      "audio": "4c3893aa80db6c45aedfd0d0b86d21c23def1f14a544e5f0344e4e17578a8060",
+      "id": "a1464199e591",
+      "priority": 1,
+      "group": "8162554ccc5d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "сумка",
+      "meaningInSourceLanguage": "bag",
+      "id": "d3633de4e6da",
+      "priority": 0,
+      "group": "5f48d80361dc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "сумка"
+      ],
+      "phrase": [
+        {
+          "word": "bag",
+          "definition": "undefined\nсумка"
+        }
+      ],
+      "id": "8e9829a31e37",
+      "priority": 1,
+      "group": "5f48d80361dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "сумка",
+      "meaning": "bag",
+      "audio": "2c5032fc30bcca73003f849a1c1e9e1de92fd9294db916b66ef288a6022429fe",
+      "id": "9f74b15db498",
+      "priority": 1,
+      "group": "5f48d80361dc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "кусок",
+      "meaningInSourceLanguage": "piece",
+      "id": "fa7fcd69bdda",
+      "priority": 0,
+      "group": "df8b7b1cd7bb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "кусок"
+      ],
+      "phrase": [
+        {
+          "word": "piece",
+          "definition": "undefined\nкусок"
+        }
+      ],
+      "id": "1cb326b8818c",
+      "priority": 1,
+      "group": "df8b7b1cd7bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "кусок",
+      "meaning": "piece",
+      "audio": "c16125d24a77d74f15a40a1b53e3ec145d6dbede28a5a7d350066ca1a8cee4c8",
+      "id": "851bd53e79d5",
+      "priority": 1,
+      "group": "df8b7b1cd7bb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "купец/покупатель",
+      "meaningInSourceLanguage": "customer",
+      "id": "d1e783306d27",
+      "priority": 0,
+      "group": "b0cc0bbdea40"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "купец/покупатель"
+      ],
+      "phrase": [
+        {
+          "word": "customer",
+          "definition": "undefined\nкупец/покупатель"
+        }
+      ],
+      "id": "592b38b6f69e",
+      "priority": 1,
+      "group": "b0cc0bbdea40"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "купец/покупатель",
+      "meaning": "customer",
+      "audio": "38826b12b4f341fceee0bea9a59546b435a3d308657bab65c9a5da05b49a6c5d",
+      "id": "eaa5384204ab",
+      "priority": 1,
+      "group": "b0cc0bbdea40"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "возврат",
+      "meaningInSourceLanguage": "return",
+      "id": "1109cfd9d209",
+      "priority": 0,
+      "group": "b0a37d3db3f7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "возврат"
+      ],
+      "phrase": [
+        {
+          "word": "return",
+          "definition": "undefined\nвозврат"
+        }
+      ],
+      "id": "7d8ce0b0543f",
+      "priority": 1,
+      "group": "b0a37d3db3f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "возврат",
+      "meaning": "return",
+      "audio": "84849e0bcdf413d9dc245eb743ec9a28e59f5da498d9b79d29c62212f6b72ad0",
+      "id": "2a7f63217f20",
+      "priority": 1,
+      "group": "b0a37d3db3f7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "чек",
+      "meaningInSourceLanguage": "receipt",
+      "id": "67ca571bef07",
+      "priority": 0,
+      "group": "ff7926b5f550"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "чек"
+      ],
+      "phrase": [
+        {
+          "word": "receipt",
+          "definition": "undefined\nчек"
+        }
+      ],
+      "id": "be7c8c2fb3ce",
+      "priority": 1,
+      "group": "ff7926b5f550"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "чек",
+      "meaning": "receipt",
+      "audio": "2c13298a61ddef742055339384d8b77d19916fdddf1e8c8092ff863c159e7c29",
+      "id": "604be88f0949",
+      "priority": 1,
+      "group": "ff7926b5f550"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "спрашивать",
+      "meaningInSourceLanguage": "to ask",
+      "id": "6f8c1804b604",
+      "priority": 0,
+      "group": "a3b03911bc51"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "спрашивать"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "ask",
+          "definition": "undefined"
+        }
+      ],
+      "id": "9f7d449a33d2",
+      "priority": 1,
+      "group": "a3b03911bc51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "спрашивать",
+      "meaning": "to ask",
+      "audio": "000dd3fa5b0060b9548bc8f8cc1ac991a1ef5bfb724f107915a784a90c8702d5",
+      "id": "7e67cb6cf045",
+      "priority": 1,
+      "group": "a3b03911bc51"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "свежий",
+      "meaningInSourceLanguage": "fresh",
+      "id": "20d2ca92fe2d",
+      "priority": 0,
+      "group": "aed419d10796"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "свежий"
+      ],
+      "phrase": [
+        {
+          "word": "fresh",
+          "definition": "undefined\nсвежий"
+        }
+      ],
+      "id": "aa049142f988",
+      "priority": 1,
+      "group": "aed419d10796"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "свежий",
+      "meaning": "fresh",
+      "audio": "d77df47a0031683945404864a633a47f3775149dc56c7389e89861bb4a562734",
+      "id": "21f3fba1d74c",
+      "priority": 1,
+      "group": "aed419d10796"
+    }
+  ]
+}

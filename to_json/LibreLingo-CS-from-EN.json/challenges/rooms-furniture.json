@@ -1,0 +1,2749 @@
+{
+  "id": "75e952736a7f",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pokoj je teplý a tichý.",
+      "meaningInSourceLanguage": "The room is warm and quiet.",
+      "id": "8905a618f1e2",
+      "priority": 0,
+      "group": "959b6e98b0dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Pokoj je teplý a tichý.",
+      "meaning": "The room is warm and quiet.",
+      "audio": "9d93b3aca8159aa2b25df518ff5c3b53ab33113b5a6ad292444cbc8d9d7f71e9",
+      "id": "69aab280bbea",
+      "priority": 1,
+      "group": "959b6e98b0dd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "room",
+          "definition": "pokoj\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "warm",
+          "definition": "teplo\nundefined"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "quiet.",
+          "definition": "tichý\nundefined"
+        }
+      ],
+      "chips": [
+        "Pokoj",
+        "je",
+        "teplý",
+        "a",
+        "tichý",
+        "ti",
+        "ty",
+        "se",
+        "Ne"
+      ],
+      "solutions": [
+        [
+          "Pokoj",
+          "je",
+          "teplý",
+          "a",
+          "tichý"
+        ]
+      ],
+      "formattedSolution": "Pokoj je teplý a tichý.",
+      "id": "d5e7a70f3977",
+      "priority": 2,
+      "group": "959b6e98b0dd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pokoj",
+          "definition": "room\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "teplý",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "tichý.",
+          "definition": "quiet\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "room",
+        "is",
+        "warm",
+        "and",
+        "quiet",
+        "am",
+        "are",
+        "it",
+        "in",
+        "at"
+      ],
+      "solutions": [
+        [
+          "The",
+          "room",
+          "is",
+          "warm",
+          "and",
+          "quiet"
+        ]
+      ],
+      "formattedSolution": "The room is warm and quiet.",
+      "id": "80130363c1d4",
+      "priority": 2,
+      "group": "959b6e98b0dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Stůl stojí uprostřed pokoje.",
+      "meaningInSourceLanguage": "The table stands in the middle of the room.",
+      "id": "d45f46f4ac94",
+      "priority": 0,
+      "group": "a4a1614913f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Stůl stojí uprostřed pokoje.",
+      "meaning": "The table stands in the middle of the room.",
+      "audio": "8250e74bb626678c057aa28e7b4a52aabd65f2cdcfa47ff2289899b0280d0b2e",
+      "id": "fdcca2a0c022",
+      "priority": 1,
+      "group": "a4a1614913f9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "table",
+          "definition": "stůl\nundefined"
+        },
+        {
+          "word": "stands",
+          "definition": "undefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "middle",
+          "definition": "undefined"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "room.",
+          "definition": "pokoj\nundefined"
+        }
+      ],
+      "chips": [
+        "Stůl",
+        "stojí",
+        "uprostřed",
+        "pokoje",
+        "stole",
+        "moje",
+        "stůl"
+      ],
+      "solutions": [
+        [
+          "Stůl",
+          "stojí",
+          "uprostřed",
+          "pokoje"
+        ]
+      ],
+      "formattedSolution": "Stůl stojí uprostřed pokoje.",
+      "id": "587d8af7a136",
+      "priority": 2,
+      "group": "a4a1614913f9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Stůl",
+          "definition": "table\nundefined"
+        },
+        {
+          "word": "stojí",
+          "definition": "undefined"
+        },
+        {
+          "word": "uprostřed",
+          "definition": "undefined"
+        },
+        {
+          "word": "pokoje.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "table",
+        "stands",
+        "in",
+        "the",
+        "middle",
+        "of",
+        "the",
+        "room",
+        "She",
+        "me",
+        "be",
+        "We",
+        "are",
+        "He",
+        "too",
+        "One"
+      ],
+      "solutions": [
+        [
+          "The",
+          "table",
+          "stands",
+          "in",
+          "the",
+          "middle",
+          "of",
+          "the",
+          "room"
+        ]
+      ],
+      "formattedSolution": "The table stands in the middle of the room.",
+      "id": "33be7ca72826",
+      "priority": 2,
+      "group": "a4a1614913f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Židle je blízko stolu.",
+      "meaningInSourceLanguage": "The chair is near the table.",
+      "id": "c17e744314db",
+      "priority": 0,
+      "group": "1bbf4f52f2a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Židle je blízko stolu.",
+      "meaning": "The chair is near the table.",
+      "audio": "0a6efede5621555db367177cdb0fb0a61e78e36a7d0018589bd4e79ba6b9e1ce",
+      "id": "08f85bed2cbd",
+      "priority": 1,
+      "group": "1bbf4f52f2a8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "chair",
+          "definition": "undefined\nžidle"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "near",
+          "definition": "blízko\nundefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "table.",
+          "definition": "stůl\nundefined"
+        }
+      ],
+      "chips": [
+        "Židle",
+        "je",
+        "blízko",
+        "stolu",
+        "stole",
+        "ale",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Židle",
+          "je",
+          "blízko",
+          "stolu"
+        ]
+      ],
+      "formattedSolution": "Židle je blízko stolu.",
+      "id": "0df25053edf0",
+      "priority": 2,
+      "group": "1bbf4f52f2a8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Židle",
+          "definition": "chair\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "blízko",
+          "definition": "near\nundefined"
+        },
+        {
+          "word": "stolu.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "chair",
+        "is",
+        "near",
+        "the",
+        "table",
+        "She",
+        "are",
+        "car",
+        "her",
+        "air"
+      ],
+      "solutions": [
+        [
+          "The",
+          "chair",
+          "is",
+          "near",
+          "the",
+          "table"
+        ]
+      ],
+      "formattedSolution": "The chair is near the table.",
+      "id": "fcfe377197ab",
+      "priority": 2,
+      "group": "1bbf4f52f2a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Postel je měkká.",
+      "meaningInSourceLanguage": "The bed is soft.",
+      "id": "4f5c5526dfb4",
+      "priority": 0,
+      "group": "93f5087bfc1c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Postel je měkká.",
+      "meaning": "The bed is soft.",
+      "audio": "bf60da6fa8afd19803e1bface3337b8da7380359f8b2da78a48ceb78f7ac2768",
+      "id": "9b2b9af2e0a0",
+      "priority": 1,
+      "group": "93f5087bfc1c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bed",
+          "definition": "postel\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "soft.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Postel",
+        "je",
+        "měkká",
+        "moje",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Postel",
+          "je",
+          "měkká"
+        ]
+      ],
+      "formattedSolution": "Postel je měkká.",
+      "id": "f997fac75366",
+      "priority": 2,
+      "group": "93f5087bfc1c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Postel",
+          "definition": "bed\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "měkká.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bed",
+        "is",
+        "soft",
+        "be",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bed",
+          "is",
+          "soft"
+        ]
+      ],
+      "formattedSolution": "The bed is soft.",
+      "id": "478774b871b9",
+      "priority": 2,
+      "group": "93f5087bfc1c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Okno je otevřené.",
+      "meaningInSourceLanguage": "The window is open.",
+      "id": "cabaf03e903f",
+      "priority": 0,
+      "group": "dcb85634b9dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Okno je otevřené.",
+      "meaning": "The window is open.",
+      "audio": "0e12177149c60476151e355c8c41cdb4c3bfa73b811fd390df1d716f7b906bbc",
+      "id": "9e9d7546184a",
+      "priority": 1,
+      "group": "dcb85634b9dd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "window",
+          "definition": "okno\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "open.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Okno",
+        "je",
+        "otevřené",
+        "On",
+        "Ten"
+      ],
+      "solutions": [
+        [
+          "Okno",
+          "je",
+          "otevřené"
+        ]
+      ],
+      "formattedSolution": "Okno je otevřené.",
+      "id": "93658d0f067e",
+      "priority": 2,
+      "group": "dcb85634b9dd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Okno",
+          "definition": "undefined\nwindow"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "otevřené.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "window",
+        "is",
+        "open",
+        "in",
+        "on",
+        "pen"
+      ],
+      "solutions": [
+        [
+          "The",
+          "window",
+          "is",
+          "open"
+        ]
+      ],
+      "formattedSolution": "The window is open.",
+      "id": "0fc00f5bef94",
+      "priority": 2,
+      "group": "dcb85634b9dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dveře jsou zavřené.",
+      "meaningInSourceLanguage": "The doors are closed.",
+      "id": "4588092bde53",
+      "priority": 0,
+      "group": "b38430ae360e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dveře jsou zavřené.",
+      "meaning": "The doors are closed.",
+      "audio": "03e16657f9dd7836d4f5dff7c68008a37809ce427ce9a876c66a566fa4f1704e",
+      "id": "71f310dc62ad",
+      "priority": 1,
+      "group": "b38430ae360e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "doors",
+          "definition": "dveře\nundefined"
+        },
+        {
+          "word": "are",
+          "definition": "jsi\njsme\njsou\njste\nundefined"
+        },
+        {
+          "word": "closed.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Dveře",
+        "jsou",
+        "zavřené",
+        "jaře",
+        "vede"
+      ],
+      "solutions": [
+        [
+          "Dveře",
+          "jsou",
+          "zavřené"
+        ]
+      ],
+      "formattedSolution": "Dveře jsou zavřené.",
+      "id": "dd7156b405e2",
+      "priority": 2,
+      "group": "b38430ae360e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dveře",
+          "definition": "doors\nundefined"
+        },
+        {
+          "word": "jsou",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "zavřené.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "doors",
+        "are",
+        "closed",
+        "Are",
+        "does",
+        "more"
+      ],
+      "solutions": [
+        [
+          "The",
+          "doors",
+          "are",
+          "closed"
+        ]
+      ],
+      "formattedSolution": "The doors are closed.",
+      "id": "875711877b3f",
+      "priority": 2,
+      "group": "b38430ae360e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Skříň má mnoho oděvu.",
+      "meaningInSourceLanguage": "The wardrobe has many clothes.",
+      "id": "fc4e19fcb74b",
+      "priority": 0,
+      "group": "6f2b34585059"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Skříň má mnoho oděvu.",
+      "meaning": "The wardrobe has many clothes.",
+      "audio": "7197aa644591d7a1c819e1f914ba94346b6857590fac14154c7836d137e77c38",
+      "id": "354c1c124c70",
+      "priority": 1,
+      "group": "6f2b34585059"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "wardrobe",
+          "definition": "skříň\nundefined"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "many",
+          "definition": "undefined"
+        },
+        {
+          "word": "clothes.",
+          "definition": "oděv\nundefined"
+        }
+      ],
+      "chips": [
+        "Skříň",
+        "má",
+        "mnoho",
+        "oděvu",
+        "mě",
+        "mně",
+        "od"
+      ],
+      "solutions": [
+        [
+          "Skříň",
+          "má",
+          "mnoho",
+          "oděvu"
+        ]
+      ],
+      "formattedSolution": "Skříň má mnoho oděvu.",
+      "id": "37b19e5e9ef6",
+      "priority": 2,
+      "group": "6f2b34585059"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Skříň",
+          "definition": "undefined\nwardrobe"
+        },
+        {
+          "word": "má",
+          "definition": "undefined"
+        },
+        {
+          "word": "mnoho",
+          "definition": "undefined"
+        },
+        {
+          "word": "oděvu.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "wardrobe",
+        "has",
+        "many",
+        "clothes",
+        "are",
+        "the",
+        "made",
+        "had"
+      ],
+      "solutions": [
+        [
+          "The",
+          "wardrobe",
+          "has",
+          "many",
+          "clothes"
+        ]
+      ],
+      "formattedSolution": "The wardrobe has many clothes.",
+      "id": "68f595cdb36d",
+      "priority": 2,
+      "group": "6f2b34585059"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Komoda je pod postelí.",
+      "meaningInSourceLanguage": "The chest is under the bed.",
+      "id": "7d08b6ec88e4",
+      "priority": 0,
+      "group": "4ac31d0a3147"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Komoda je pod postelí.",
+      "meaning": "The chest is under the bed.",
+      "audio": "1ec3a288e5fcc5d31333158eb73530ec4fe4ec9cff17aca1c749efe98a7d3d40",
+      "id": "82956d8d5459",
+      "priority": 1,
+      "group": "4ac31d0a3147"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "chest",
+          "definition": "truhla/komoda\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "under",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "bed.",
+          "definition": "postel\nundefined"
+        }
+      ],
+      "chips": [
+        "Komoda",
+        "je",
+        "pod",
+        "postelí",
+        "po",
+        "od",
+        "moje"
+      ],
+      "solutions": [
+        [
+          "Komoda",
+          "je",
+          "pod",
+          "postelí"
+        ]
+      ],
+      "formattedSolution": "Komoda je pod postelí.",
+      "id": "0cdbdb4019b4",
+      "priority": 2,
+      "group": "4ac31d0a3147"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Komoda",
+          "definition": "undefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "pod",
+          "definition": "undefined"
+        },
+        {
+          "word": "postelí.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "chest",
+        "is",
+        "under",
+        "the",
+        "bed",
+        "She",
+        "her",
+        "be",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "chest",
+          "is",
+          "under",
+          "the",
+          "bed"
+        ]
+      ],
+      "formattedSolution": "The chest is under the bed.",
+      "id": "a011a8394e5d",
+      "priority": 2,
+      "group": "4ac31d0a3147"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Polička drží knihy.",
+      "meaningInSourceLanguage": "The shelf holds books.",
+      "id": "9964e54ba253",
+      "priority": 0,
+      "group": "a95660051826"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Polička drží knihy.",
+      "meaning": "The shelf holds books.",
+      "audio": "0429afbf9df159160b55eed1d5d7889ba85bf29d20d6899fab82e86533582f38",
+      "id": "869f0089bf35",
+      "priority": 1,
+      "group": "a95660051826"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "shelf",
+          "definition": "polička\nundefined"
+        },
+        {
+          "word": "holds",
+          "definition": "undefined"
+        },
+        {
+          "word": "books.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Polička",
+        "drží",
+        "knihy",
+        "knihu",
+        "Kniha"
+      ],
+      "solutions": [
+        [
+          "Polička",
+          "drží",
+          "knihy"
+        ]
+      ],
+      "formattedSolution": "Polička drží knihy.",
+      "id": "993071a9de66",
+      "priority": 2,
+      "group": "a95660051826"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Polička",
+          "definition": "shelf\nundefined"
+        },
+        {
+          "word": "drží",
+          "definition": "undefined"
+        },
+        {
+          "word": "knihy.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "shelf",
+        "holds",
+        "books",
+        "does",
+        "goes",
+        "old"
+      ],
+      "solutions": [
+        [
+          "The",
+          "shelf",
+          "holds",
+          "books"
+        ]
+      ],
+      "formattedSolution": "The shelf holds books.",
+      "id": "8301d586a31e",
+      "priority": 2,
+      "group": "a95660051826"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Lampa svítí nad stolem.",
+      "meaningInSourceLanguage": "The lamp shines above the table.",
+      "id": "7494dce503cb",
+      "priority": 0,
+      "group": "5cdf69e88f44"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Lampa svítí nad stolem.",
+      "meaning": "The lamp shines above the table.",
+      "audio": "8a5032ea8f3538d5272a8ceda776061e133b8dc5e065d76b4c19ddba878ebeb8",
+      "id": "50baa5b682ca",
+      "priority": 1,
+      "group": "5cdf69e88f44"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "lamp",
+          "definition": "lampa\nundefined"
+        },
+        {
+          "word": "shines",
+          "definition": "undefined"
+        },
+        {
+          "word": "above",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "table.",
+          "definition": "stůl\nundefined"
+        }
+      ],
+      "chips": [
+        "Lampa",
+        "svítí",
+        "nad",
+        "stolem",
+        "tam",
+        "sto",
+        "stole"
+      ],
+      "solutions": [
+        [
+          "Lampa",
+          "svítí",
+          "nad",
+          "stolem"
+        ]
+      ],
+      "formattedSolution": "Lampa svítí nad stolem.",
+      "id": "9a55347c0ca7",
+      "priority": 2,
+      "group": "5cdf69e88f44"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Lampa",
+          "definition": "lamp\nundefined"
+        },
+        {
+          "word": "svítí",
+          "definition": "undefined"
+        },
+        {
+          "word": "nad",
+          "definition": "undefined"
+        },
+        {
+          "word": "stolem.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "lamp",
+        "shines",
+        "above",
+        "the",
+        "table",
+        "She",
+        "are",
+        "shoe",
+        "age",
+        "have"
+      ],
+      "solutions": [
+        [
+          "The",
+          "lamp",
+          "shines",
+          "above",
+          "the",
+          "table"
+        ]
+      ],
+      "formattedSolution": "The lamp shines above the table.",
+      "id": "7c7352280732",
+      "priority": 2,
+      "group": "5cdf69e88f44"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pokoj má dvě okna.",
+      "meaningInSourceLanguage": "The room has two windows.",
+      "id": "5320d1024e41",
+      "priority": 0,
+      "group": "0e2bfb50d7de"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Pokoj má dvě okna.",
+      "meaning": "The room has two windows.",
+      "audio": "dc89d9ad5b65c96f4722486b08ac14fccc1270e54c8a6d3112d4ef7b3b85dff9",
+      "id": "fc1fc17615f2",
+      "priority": 1,
+      "group": "0e2bfb50d7de"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "room",
+          "definition": "pokoj\nundefined"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "two",
+          "definition": "dva (m/s)\ndvě (ž)\nundefined"
+        },
+        {
+          "word": "windows.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Pokoj",
+        "má",
+        "dvě",
+        "okna",
+        "do",
+        "mě",
+        "mně"
+      ],
+      "solutions": [
+        [
+          "Pokoj",
+          "má",
+          "dvě",
+          "okna"
+        ]
+      ],
+      "formattedSolution": "Pokoj má dvě okna.",
+      "id": "9554456c1ebd",
+      "priority": 2,
+      "group": "0e2bfb50d7de"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pokoj",
+          "definition": "room\nundefined"
+        },
+        {
+          "word": "má",
+          "definition": "undefined"
+        },
+        {
+          "word": "dvě",
+          "definition": "undefined"
+        },
+        {
+          "word": "okna.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "room",
+        "has",
+        "two",
+        "windows",
+        "too",
+        "Who",
+        "To",
+        "his"
+      ],
+      "solutions": [
+        [
+          "The",
+          "room",
+          "has",
+          "two",
+          "windows"
+        ]
+      ],
+      "formattedSolution": "The room has two windows.",
+      "id": "b4957c3e85cc",
+      "priority": 2,
+      "group": "0e2bfb50d7de"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Na stole leží kniha.",
+      "meaningInSourceLanguage": "A book is lying on the table.",
+      "id": "f81f7852791f",
+      "priority": 0,
+      "group": "6bccdb87e95a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Na stole leží kniha.",
+      "meaning": "A book is lying on the table.",
+      "audio": "4957ea8942433de54af994e964b568dc3329df9f8c840f6ee8c29a206f1f29a1",
+      "id": "f300c881b7c1",
+      "priority": 1,
+      "group": "6bccdb87e95a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "book",
+          "definition": "kniha\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "lying",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "na\nundefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "table.",
+          "definition": "stůl\nundefined"
+        }
+      ],
+      "chips": [
+        "Na",
+        "stole",
+        "leží",
+        "kniha",
+        "se",
+        "Ne",
+        "na"
+      ],
+      "solutions": [
+        [
+          "Na",
+          "stole",
+          "leží",
+          "kniha"
+        ]
+      ],
+      "formattedSolution": "Na stole leží kniha.",
+      "id": "f4302d23ac09",
+      "priority": 2,
+      "group": "6bccdb87e95a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "stole",
+          "definition": "undefined"
+        },
+        {
+          "word": "leží",
+          "definition": "undefined"
+        },
+        {
+          "word": "kniha.",
+          "definition": "book\nundefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "book",
+        "is",
+        "lying",
+        "on",
+        "the",
+        "table",
+        "in",
+        "be",
+        "an",
+        "by",
+        "We",
+        "a"
+      ],
+      "solutions": [
+        [
+          "A",
+          "book",
+          "is",
+          "lying",
+          "on",
+          "the",
+          "table"
+        ]
+      ],
+      "formattedSolution": "A book is lying on the table.",
+      "id": "4cf042bd1af3",
+      "priority": 2,
+      "group": "6bccdb87e95a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Židle je stará, ale pohodlná.",
+      "meaningInSourceLanguage": "The chair is old, but comfortable.",
+      "id": "7701842b1996",
+      "priority": 0,
+      "group": "0b43e3e188ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Židle je stará, ale pohodlná.",
+      "meaning": "The chair is old, but comfortable.",
+      "audio": "af75b3cea93b810e0a299e02757c02bfdbfef1df89bcb6baf6fca29bdcfe3639",
+      "id": "bee9a0adb4af",
+      "priority": 1,
+      "group": "0b43e3e188ca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "chair",
+          "definition": "undefined\nžidle"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "old,",
+          "definition": "starý\nundefined"
+        },
+        {
+          "word": "but",
+          "definition": "undefined"
+        },
+        {
+          "word": "comfortable.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Židle",
+        "je",
+        "stará",
+        "ale",
+        "pohodlná",
+        "jde",
+        "se",
+        "zde",
+        "stole"
+      ],
+      "solutions": [
+        [
+          "Židle",
+          "je",
+          "stará",
+          "ale",
+          "pohodlná"
+        ]
+      ],
+      "formattedSolution": "Židle je stará, ale pohodlná.",
+      "id": "8916c4ed5486",
+      "priority": 2,
+      "group": "0b43e3e188ca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Židle",
+          "definition": "chair\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "stará,",
+          "definition": "undefined"
+        },
+        {
+          "word": "ale",
+          "definition": "undefined"
+        },
+        {
+          "word": "pohodlná.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "chair",
+        "is",
+        "old",
+        "but",
+        "comfortable",
+        "car",
+        "the",
+        "it",
+        "our",
+        "cat"
+      ],
+      "solutions": [
+        [
+          "The",
+          "chair",
+          "is",
+          "old",
+          "but",
+          "comfortable"
+        ]
+      ],
+      "formattedSolution": "The chair is old, but comfortable.",
+      "id": "732c573765e4",
+      "priority": 2,
+      "group": "0b43e3e188ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Postel je nová.",
+      "meaningInSourceLanguage": "The bed is new.",
+      "id": "8a89248d721a",
+      "priority": 0,
+      "group": "103c3caa1e8a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Postel je nová.",
+      "meaning": "The bed is new.",
+      "audio": "4b51b099bca0e674a36eff58224b910efc80d832a1752675438307ace5f7657b",
+      "id": "71fa5cfadb1a",
+      "priority": 1,
+      "group": "103c3caa1e8a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bed",
+          "definition": "postel\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "new.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Postel",
+        "je",
+        "nová",
+        "moje",
+        "se"
+      ],
+      "solutions": [
+        [
+          "Postel",
+          "je",
+          "nová"
+        ]
+      ],
+      "formattedSolution": "Postel je nová.",
+      "id": "31541179c204",
+      "priority": 2,
+      "group": "103c3caa1e8a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Postel",
+          "definition": "bed\nundefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "nová.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bed",
+        "is",
+        "new",
+        "be",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bed",
+          "is",
+          "new"
+        ]
+      ],
+      "formattedSolution": "The bed is new.",
+      "id": "8e2d1c95e1bc",
+      "priority": 2,
+      "group": "103c3caa1e8a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dveře vedou do kuchyně.",
+      "meaningInSourceLanguage": "The doors lead to the kitchen.",
+      "id": "e9d02759054c",
+      "priority": 0,
+      "group": "ba637470e4d3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dveře vedou do kuchyně.",
+      "meaning": "The doors lead to the kitchen.",
+      "audio": "a68c88701b17ab1ad315085b5046691eeb1072b7cb303215d4ee8fa6f623f100",
+      "id": "2660d074408c",
+      "priority": 1,
+      "group": "ba637470e4d3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "doors",
+          "definition": "dveře\nundefined"
+        },
+        {
+          "word": "lead",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "kitchen.",
+          "definition": "kuchyně\nundefined"
+        }
+      ],
+      "chips": [
+        "Dveře",
+        "vedou",
+        "do",
+        "kuchyně",
+        "vede",
+        "ve",
+        "Kdo"
+      ],
+      "solutions": [
+        [
+          "Dveře",
+          "vedou",
+          "do",
+          "kuchyně"
+        ]
+      ],
+      "formattedSolution": "Dveře vedou do kuchyně.",
+      "id": "7f1663ee059f",
+      "priority": 2,
+      "group": "ba637470e4d3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Dveře",
+          "definition": "doors\nundefined"
+        },
+        {
+          "word": "vedou",
+          "definition": "undefined"
+        },
+        {
+          "word": "do",
+          "definition": "undefined"
+        },
+        {
+          "word": "kuchyně.",
+          "definition": "kitchen\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "doors",
+        "lead",
+        "to",
+        "the",
+        "kitchen",
+        "then",
+        "She",
+        "too",
+        "her",
+        "tea"
+      ],
+      "solutions": [
+        [
+          "The",
+          "doors",
+          "lead",
+          "to",
+          "the",
+          "kitchen"
+        ]
+      ],
+      "formattedSolution": "The doors lead to the kitchen.",
+      "id": "8aa99af6b838",
+      "priority": 2,
+      "group": "ba637470e4d3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Skříň je plná.",
+      "meaningInSourceLanguage": "The wardrobe is full.",
+      "id": "34dd67dac4ff",
+      "priority": 0,
+      "group": "630f470b05b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Skříň je plná.",
+      "meaning": "The wardrobe is full.",
+      "audio": "513503cbc3c5d82149c268332cdd7fbdea084a0e025a784a5e1b51926cd45a1e",
+      "id": "0ae199ab9115",
+      "priority": 1,
+      "group": "630f470b05b9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "wardrobe",
+          "definition": "skříň\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "full.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Skříň",
+        "je",
+        "plná",
+        "jí",
+        "Já"
+      ],
+      "solutions": [
+        [
+          "Skříň",
+          "je",
+          "plná"
+        ]
+      ],
+      "formattedSolution": "Skříň je plná.",
+      "id": "d05fddf1e531",
+      "priority": 2,
+      "group": "630f470b05b9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Skříň",
+          "definition": "undefined\nwardrobe"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "plná.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "wardrobe",
+        "is",
+        "full",
+        "are",
+        "be",
+        "wise"
+      ],
+      "solutions": [
+        [
+          "The",
+          "wardrobe",
+          "is",
+          "full"
+        ]
+      ],
+      "formattedSolution": "The wardrobe is full.",
+      "id": "1b375afad5ae",
+      "priority": 2,
+      "group": "630f470b05b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Komoda je ze dřeva.",
+      "meaningInSourceLanguage": "The chest is made of wood.",
+      "id": "6f15c81b3a3a",
+      "priority": 0,
+      "group": "4e680e0d3e74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Komoda je ze dřeva.",
+      "meaning": "The chest is made of wood.",
+      "audio": "04a70f931e5d3989d741cee08c6491a04a48f1bc16cffcf9b58263b61694f439",
+      "id": "73b120be1488",
+      "priority": 1,
+      "group": "4e680e0d3e74"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "chest",
+          "definition": "truhla/komoda\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "made",
+          "definition": "undefined"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "wood.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Komoda",
+        "je",
+        "ze",
+        "dřeva",
+        "se",
+        "za",
+        "Ne"
+      ],
+      "solutions": [
+        [
+          "Komoda",
+          "je",
+          "ze",
+          "dřeva"
+        ]
+      ],
+      "formattedSolution": "Komoda je ze dřeva.",
+      "id": "70c592dda8de",
+      "priority": 2,
+      "group": "4e680e0d3e74"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Komoda",
+          "definition": "undefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "ze",
+          "definition": "undefined"
+        },
+        {
+          "word": "dřeva.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "chest",
+        "is",
+        "made",
+        "of",
+        "wood",
+        "me",
+        "She",
+        "We",
+        "He",
+        "the"
+      ],
+      "solutions": [
+        [
+          "The",
+          "chest",
+          "is",
+          "made",
+          "of",
+          "wood"
+        ]
+      ],
+      "formattedSolution": "The chest is made of wood.",
+      "id": "8021dbdc8adc",
+      "priority": 2,
+      "group": "4e680e0d3e74"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Polička visí na stěně.",
+      "meaningInSourceLanguage": "The shelf hangs on the wall.",
+      "id": "c2db25271ad3",
+      "priority": 0,
+      "group": "3772983a0c67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Polička visí na stěně.",
+      "meaning": "The shelf hangs on the wall.",
+      "audio": "42741f43eebfc3d38b8f7742456a74896573632e783a6bf0242b328d7898a7f9",
+      "id": "afad492cbfe7",
+      "priority": 1,
+      "group": "3772983a0c67"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "shelf",
+          "definition": "polička\nundefined"
+        },
+        {
+          "word": "hangs",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "na\nundefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "wall.",
+          "definition": "stěna\nundefined"
+        }
+      ],
+      "chips": [
+        "Polička",
+        "visí",
+        "na",
+        "stěně",
+        "kina",
+        "Ona",
+        "ti"
+      ],
+      "solutions": [
+        [
+          "Polička",
+          "visí",
+          "na",
+          "stěně"
+        ]
+      ],
+      "formattedSolution": "Polička visí na stěně.",
+      "id": "9c78adef8fa1",
+      "priority": 2,
+      "group": "3772983a0c67"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Polička",
+          "definition": "shelf\nundefined"
+        },
+        {
+          "word": "visí",
+          "definition": "undefined"
+        },
+        {
+          "word": "na",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "stěně.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "shelf",
+        "hangs",
+        "on",
+        "the",
+        "wall",
+        "She",
+        "then",
+        "age",
+        "when",
+        "are"
+      ],
+      "solutions": [
+        [
+          "The",
+          "shelf",
+          "hangs",
+          "on",
+          "the",
+          "wall"
+        ]
+      ],
+      "formattedSolution": "The shelf hangs on the wall.",
+      "id": "02d668dba6ae",
+      "priority": 2,
+      "group": "3772983a0c67"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Lampa dává světlo.",
+      "meaningInSourceLanguage": "The lamp gives light.",
+      "id": "b0b1a83fa09f",
+      "priority": 0,
+      "group": "315b869ad6c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Lampa dává světlo.",
+      "meaning": "The lamp gives light.",
+      "audio": "cab5018df5f94381ddf91bab11ec83bd0d618ef284182fdf7c454678bf967b86",
+      "id": "bab8d035678f",
+      "priority": 1,
+      "group": "315b869ad6c5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "lamp",
+          "definition": "lampa\nundefined"
+        },
+        {
+          "word": "gives",
+          "definition": "undefined"
+        },
+        {
+          "word": "light.",
+          "definition": "světlý\nundefined"
+        }
+      ],
+      "chips": [
+        "Lampa",
+        "dává",
+        "světlo",
+        "dvě",
+        "dělá"
+      ],
+      "solutions": [
+        [
+          "Lampa",
+          "dává",
+          "světlo"
+        ]
+      ],
+      "formattedSolution": "Lampa dává světlo.",
+      "id": "08cc10d288eb",
+      "priority": 2,
+      "group": "315b869ad6c5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Lampa",
+          "definition": "lamp\nundefined"
+        },
+        {
+          "word": "dává",
+          "definition": "undefined"
+        },
+        {
+          "word": "světlo.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "lamp",
+        "gives",
+        "light",
+        "lies",
+        "live",
+        "lives"
+      ],
+      "solutions": [
+        [
+          "The",
+          "lamp",
+          "gives",
+          "light"
+        ]
+      ],
+      "formattedSolution": "The lamp gives light.",
+      "id": "6c2bd63e49b5",
+      "priority": 2,
+      "group": "315b869ad6c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "V pokoji je klidno.",
+      "meaningInSourceLanguage": "It is quiet in the room.",
+      "id": "a7f54205de32",
+      "priority": 0,
+      "group": "915111a65e8f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "V pokoji je klidno.",
+      "meaning": "It is quiet in the room.",
+      "audio": "6bc0db2200965b0cf78fdb92b96d403bd3b48fe04765e1e7dd5bd8f7476ad546",
+      "id": "88607e14cb05",
+      "priority": 1,
+      "group": "915111a65e8f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "ono\nundefined"
+        },
+        {
+          "word": "is",
+          "definition": "je\nundefined"
+        },
+        {
+          "word": "quiet",
+          "definition": "tichý\nundefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "room.",
+          "definition": "pokoj\nundefined"
+        }
+      ],
+      "chips": [
+        "V",
+        "pokoji",
+        "je",
+        "klidno",
+        "do",
+        "li",
+        "k"
+      ],
+      "solutions": [
+        [
+          "V",
+          "pokoji",
+          "je",
+          "klidno"
+        ]
+      ],
+      "formattedSolution": "V pokoji je klidno.",
+      "id": "cba81d15ab8f",
+      "priority": 2,
+      "group": "915111a65e8f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "V",
+          "definition": "undefined"
+        },
+        {
+          "word": "pokoji",
+          "definition": "undefined"
+        },
+        {
+          "word": "je",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "klidno.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "It",
+        "is",
+        "quiet",
+        "in",
+        "the",
+        "room",
+        "it",
+        "We",
+        "He",
+        "Is",
+        "me"
+      ],
+      "solutions": [
+        [
+          "It",
+          "is",
+          "quiet",
+          "in",
+          "the",
+          "room"
+        ]
+      ],
+      "formattedSolution": "It is quiet in the room.",
+      "id": "bc6043d87cba",
+      "priority": 2,
+      "group": "915111a65e8f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pokoj",
+      "meaningInSourceLanguage": "room",
+      "id": "019ef28268c6",
+      "priority": 0,
+      "group": "7fe8a3de099c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pokoj"
+      ],
+      "phrase": [
+        {
+          "word": "room",
+          "definition": "pokoj\nundefined"
+        }
+      ],
+      "id": "1a9f099b7eff",
+      "priority": 1,
+      "group": "7fe8a3de099c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pokoj",
+      "meaning": "room",
+      "audio": "a08ad5887edd32e252b2a5a62bdf32d074723786a77d08f12ca57619b1cf1a98",
+      "id": "e04e123b9b16",
+      "priority": 1,
+      "group": "7fe8a3de099c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "stůl",
+      "meaningInSourceLanguage": "table",
+      "id": "aa42ed634dd9",
+      "priority": 0,
+      "group": "95bc09e21d0e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "stůl"
+      ],
+      "phrase": [
+        {
+          "word": "table",
+          "definition": "stůl\nundefined"
+        }
+      ],
+      "id": "a6b120c6cfad",
+      "priority": 1,
+      "group": "95bc09e21d0e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stůl",
+      "meaning": "table",
+      "audio": "056e19a2b8b3191bdacd6de16b0f8d090ebdf8f0924123db71775dac181b9c2d",
+      "id": "1f67e63cd087",
+      "priority": 1,
+      "group": "95bc09e21d0e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "židle",
+      "meaningInSourceLanguage": "chair",
+      "id": "865678ad324a",
+      "priority": 0,
+      "group": "1110e03f43f6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "židle"
+      ],
+      "phrase": [
+        {
+          "word": "chair",
+          "definition": "undefined\nžidle"
+        }
+      ],
+      "id": "191e8fd3f469",
+      "priority": 1,
+      "group": "1110e03f43f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "židle",
+      "meaning": "chair",
+      "audio": "28b5f7b2c8fea4fd3978c7e2f4c89a6a1e4bd3d8db272af109fa393010d8a97e",
+      "id": "00692c1c5d40",
+      "priority": 1,
+      "group": "1110e03f43f6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "polštář",
+      "meaningInSourceLanguage": "pillow",
+      "id": "db88fceeef43",
+      "priority": 0,
+      "group": "53e9467018de"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "polštář"
+      ],
+      "phrase": [
+        {
+          "word": "pillow",
+          "definition": "polštář\nundefined"
+        }
+      ],
+      "id": "2c72bd7bb7ce",
+      "priority": 1,
+      "group": "53e9467018de"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "polštář",
+      "meaning": "pillow",
+      "audio": "57942c5b0799f856fb0afe02e20710107d55dbb0f3086a817e757f5f8de99d26",
+      "id": "7c51f6526cbf",
+      "priority": 1,
+      "group": "53e9467018de"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "postel",
+      "meaningInSourceLanguage": "bed",
+      "id": "54061517cf3c",
+      "priority": 0,
+      "group": "1653c4210f3e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "postel"
+      ],
+      "phrase": [
+        {
+          "word": "bed",
+          "definition": "postel\nundefined"
+        }
+      ],
+      "id": "9c97ddec8705",
+      "priority": 1,
+      "group": "1653c4210f3e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "postel",
+      "meaning": "bed",
+      "audio": "c5d82c065d03362d920dc413267114090072415c890f2377a3e65421afb3b234",
+      "id": "262ac749c7fc",
+      "priority": 1,
+      "group": "1653c4210f3e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "okno",
+      "meaningInSourceLanguage": "window",
+      "id": "0fea385f3714",
+      "priority": 0,
+      "group": "10f5eafffec6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "okno"
+      ],
+      "phrase": [
+        {
+          "word": "window",
+          "definition": "okno\nundefined"
+        }
+      ],
+      "id": "d4b31cdf0c78",
+      "priority": 1,
+      "group": "10f5eafffec6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "okno",
+      "meaning": "window",
+      "audio": "1ceca7177fcea5b0b8f9917cf464817cef9951444b8da246241f2662280db8e7",
+      "id": "5fbc6cc9013e",
+      "priority": 1,
+      "group": "10f5eafffec6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "dveře",
+      "meaningInSourceLanguage": "doors",
+      "id": "ab2de930dce0",
+      "priority": 0,
+      "group": "3e4d7b909e35"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "dveře"
+      ],
+      "phrase": [
+        {
+          "word": "doors",
+          "definition": "dveře\nundefined"
+        }
+      ],
+      "id": "aad3ee2075af",
+      "priority": 1,
+      "group": "3e4d7b909e35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dveře",
+      "meaning": "doors",
+      "audio": "a987cb213b3f059794397dd968279cecf212ec48617748b595e2e301296f991a",
+      "id": "2537394b8e8f",
+      "priority": 1,
+      "group": "3e4d7b909e35"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "skříň",
+      "meaningInSourceLanguage": "wardrobe",
+      "id": "e549f3565b91",
+      "priority": 0,
+      "group": "1e6fae53c8ef"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "skříň"
+      ],
+      "phrase": [
+        {
+          "word": "wardrobe",
+          "definition": "skříň\nundefined"
+        }
+      ],
+      "id": "a57f4659457f",
+      "priority": 1,
+      "group": "1e6fae53c8ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "skříň",
+      "meaning": "wardrobe",
+      "audio": "66bf43b4de47d5f28f07df4818a6045d237d91297791f9287a33d3693ab4daf8",
+      "id": "7ed81fe42815",
+      "priority": 1,
+      "group": "1e6fae53c8ef"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "truhla/komoda",
+      "meaningInSourceLanguage": "chest",
+      "id": "3bdff1d9ea30",
+      "priority": 0,
+      "group": "9d0d7452efd3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "truhla/komoda"
+      ],
+      "phrase": [
+        {
+          "word": "chest",
+          "definition": "truhla/komoda\nundefined"
+        }
+      ],
+      "id": "b894cb7b3f95",
+      "priority": 1,
+      "group": "9d0d7452efd3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "truhla/komoda",
+      "meaning": "chest",
+      "audio": "d76b089859f5737760ff72655e06fc5c1b2eed3e030f6724ee175477d64f8187",
+      "id": "c20c5de65e9f",
+      "priority": 1,
+      "group": "9d0d7452efd3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "polička",
+      "meaningInSourceLanguage": "shelf",
+      "id": "3808e50c768c",
+      "priority": 0,
+      "group": "daa58fff69fc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "polička"
+      ],
+      "phrase": [
+        {
+          "word": "shelf",
+          "definition": "polička\nundefined"
+        }
+      ],
+      "id": "69a20a170a70",
+      "priority": 1,
+      "group": "daa58fff69fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "polička",
+      "meaning": "shelf",
+      "audio": "cdb0305b905b1074a699c0cf4cfa9ef6c2371196a6e1c13282a118c918c6e94a",
+      "id": "aa19cfc3f4bb",
+      "priority": 1,
+      "group": "daa58fff69fc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "držet (drží)",
+      "meaningInSourceLanguage": "to hold",
+      "id": "e9e111cab4b7",
+      "priority": 0,
+      "group": "b422d51152ae"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "držet (drží)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "hold",
+          "definition": "undefined"
+        }
+      ],
+      "id": "ded7f3df08f0",
+      "priority": 1,
+      "group": "b422d51152ae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "držet (drží)",
+      "meaning": "to hold",
+      "audio": "14c88fa5fae6e26fdc6a5410c4d02b13ffcf50b4a001b6ad63b1c03d8195301a",
+      "id": "1ec2a54d65f7",
+      "priority": 1,
+      "group": "b422d51152ae"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "viset (visí)",
+      "meaningInSourceLanguage": "to hang",
+      "id": "ab2db27b3bbe",
+      "priority": 0,
+      "group": "cb15799483a8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "viset (visí)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "hang",
+          "definition": "undefined"
+        }
+      ],
+      "id": "853dfc3a6e71",
+      "priority": 1,
+      "group": "cb15799483a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "viset (visí)",
+      "meaning": "to hang",
+      "audio": "f567d73ae4fb287b77bf7b65e73ddd3a598f7bbb99d91875c1c49a1d8265fa68",
+      "id": "de279f114204",
+      "priority": 1,
+      "group": "cb15799483a8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "stěna",
+      "meaningInSourceLanguage": "wall",
+      "id": "6b4d316b9f84",
+      "priority": 0,
+      "group": "e7a802f52d12"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "stěna"
+      ],
+      "phrase": [
+        {
+          "word": "wall",
+          "definition": "stěna\nundefined"
+        }
+      ],
+      "id": "d7328a9f28f0",
+      "priority": 1,
+      "group": "e7a802f52d12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stěna",
+      "meaning": "wall",
+      "audio": "a03014a9fecf3499f64c41fdc33123c66782c4b85b962b2f6701f983d36d0550",
+      "id": "9e736ead245c",
+      "priority": 1,
+      "group": "e7a802f52d12"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "lampa",
+      "meaningInSourceLanguage": "lamp",
+      "id": "6fa40de6bbd3",
+      "priority": 0,
+      "group": "21830d7eb7a5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "lampa"
+      ],
+      "phrase": [
+        {
+          "word": "lamp",
+          "definition": "lampa\nundefined"
+        }
+      ],
+      "id": "38f0cc10bd3f",
+      "priority": 1,
+      "group": "21830d7eb7a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lampa",
+      "meaning": "lamp",
+      "audio": "3ac26029103900f0039e6a21283abdd8af01cde2a5fe03228ac9c2f45dfb47f4",
+      "id": "ab62036c07b2",
+      "priority": 1,
+      "group": "21830d7eb7a5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "dávat",
+      "meaningInSourceLanguage": "to give",
+      "id": "a792402d4e7d",
+      "priority": 0,
+      "group": "4251c5fde928"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "dávat"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "give",
+          "definition": "undefined"
+        }
+      ],
+      "id": "a152bc856089",
+      "priority": 1,
+      "group": "4251c5fde928"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dávat",
+      "meaning": "to give",
+      "audio": "cbc18f24c51ee0b4269149766f25a2c65083e8986ceccba8745eabf4970c643d",
+      "id": "f052bef193f8",
+      "priority": 1,
+      "group": "4251c5fde928"
+    }
+  ]
+}

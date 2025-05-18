@@ -1,0 +1,2689 @@
+{
+  "id": "0beaa60946f0",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я дам котови рыбу.",
+      "meaningInSourceLanguage": "I give the cat a fish.",
+      "id": "4f2036402134",
+      "priority": 0,
+      "group": "e2e75ab32692"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я дам котови рыбу.",
+      "meaning": "I give the cat a fish.",
+      "audio": "d67d7645f284bee5e7ce13da1c809ed5eccd094532d5fb6d5beb7d84de1c1f13",
+      "id": "fa8ae28df881",
+      "priority": 1,
+      "group": "e2e75ab32692"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "give",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "cat",
+          "definition": "undefined\nкіт"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "fish.",
+          "definition": "undefined\nрыба"
+        }
+      ],
+      "chips": [
+        "Я",
+        "дам",
+        "котови",
+        "рыбу",
+        "дом",
+        "ты",
+        "в"
+      ],
+      "solutions": [
+        [
+          "Я",
+          "дам",
+          "котови",
+          "рыбу"
+        ]
+      ],
+      "formattedSolution": "Я дам котови рыбу.",
+      "id": "e33b49a142b8",
+      "priority": 2,
+      "group": "e2e75ab32692"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Я",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "дам",
+          "definition": "undefined"
+        },
+        {
+          "word": "котови",
+          "definition": "undefined"
+        },
+        {
+          "word": "рыбу.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "give",
+        "the",
+        "cat",
+        "a",
+        "fish",
+        "is",
+        "it",
+        "at",
+        "as",
+        "am"
+      ],
+      "solutions": [
+        [
+          "I",
+          "give",
+          "the",
+          "cat",
+          "a",
+          "fish"
+        ]
+      ],
+      "formattedSolution": "I give the cat a fish.",
+      "id": "57a38c7f5aed",
+      "priority": 2,
+      "group": "e2e75ab32692"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она укаже псови.",
+      "meaningInSourceLanguage": "She says to the dog.",
+      "id": "cc4f1d9c8e9b",
+      "priority": 0,
+      "group": "4042b7cdc610"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она укаже псови.",
+      "meaning": "She says to the dog.",
+      "audio": "496347bb321a87fcbd5911e3f7dbcf6caa173ac7308be2d3d78a219fe1408e14",
+      "id": "18e42fc0ae17",
+      "priority": 1,
+      "group": "4042b7cdc610"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "says",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "dog.",
+          "definition": "undefined\nпес"
+        }
+      ],
+      "chips": [
+        "Она",
+        "укаже",
+        "псови",
+        "сна",
+        "она"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "укаже",
+          "псови"
+        ]
+      ],
+      "formattedSolution": "Она укаже псови.",
+      "id": "483fa1347943",
+      "priority": 2,
+      "group": "4042b7cdc610"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "укаже",
+          "definition": "undefined"
+        },
+        {
+          "word": "псови.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "says",
+        "to",
+        "the",
+        "dog",
+        "she",
+        "so",
+        "too",
+        "The"
+      ],
+      "solutions": [
+        [
+          "She",
+          "says",
+          "to",
+          "the",
+          "dog"
+        ]
+      ],
+      "formattedSolution": "She says to the dog.",
+      "id": "4a3f2d371b3e",
+      "priority": 2,
+      "group": "4042b7cdc610"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он помагає птахови.",
+      "meaningInSourceLanguage": "He helps the bird.",
+      "id": "4df8e5db035e",
+      "priority": 0,
+      "group": "a136f1d24c48"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он помагає птахови.",
+      "meaning": "He helps the bird.",
+      "audio": "ae868b516cff0783bbf41e03f68ad62c6334a12caa434467519b932c72a4781b",
+      "id": "fccc4f33d63e",
+      "priority": 1,
+      "group": "a136f1d24c48"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "helps",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "bird.",
+          "definition": "undefined\nптах"
+        }
+      ],
+      "chips": [
+        "Он",
+        "помагає",
+        "птахови",
+        "по",
+        "Она"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "помагає",
+          "птахови"
+        ]
+      ],
+      "formattedSolution": "Он помагає птахови.",
+      "id": "c20a6c536297",
+      "priority": 2,
+      "group": "a136f1d24c48"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "помагає",
+          "definition": "undefined"
+        },
+        {
+          "word": "птахови.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "helps",
+        "the",
+        "bird",
+        "he",
+        "her",
+        "be"
+      ],
+      "solutions": [
+        [
+          "He",
+          "helps",
+          "the",
+          "bird"
+        ]
+      ],
+      "formattedSolution": "He helps the bird.",
+      "id": "f0e229cf7224",
+      "priority": 2,
+      "group": "a136f1d24c48"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Даєме коню воду.",
+      "meaningInSourceLanguage": "We give the horse water.",
+      "id": "ecfe3a751b0d",
+      "priority": 0,
+      "group": "c30e8e5e0675"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Даєме коню воду.",
+      "meaning": "We give the horse water.",
+      "audio": "a1d4c90d91ea4ac171efa39ec09fc02e3d7ed27cb8007a02686dafb7f97412f9",
+      "id": "c8f201c3a7b5",
+      "priority": 1,
+      "group": "c30e8e5e0675"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nмы"
+        },
+        {
+          "word": "give",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "horse",
+          "definition": "undefined\nкінь"
+        },
+        {
+          "word": "water.",
+          "definition": "undefined\nвода"
+        }
+      ],
+      "chips": [
+        "Даєме",
+        "коню",
+        "воду",
+        "воды",
+        "Кому"
+      ],
+      "solutions": [
+        [
+          "Даєме",
+          "коню",
+          "воду"
+        ]
+      ],
+      "formattedSolution": "Даєме коню воду.",
+      "id": "e8e8da8b0b59",
+      "priority": 2,
+      "group": "c30e8e5e0675"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Даєме",
+          "definition": "undefined"
+        },
+        {
+          "word": "коню",
+          "definition": "undefined"
+        },
+        {
+          "word": "воду.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "give",
+        "the",
+        "horse",
+        "water",
+        "are",
+        "we",
+        "wise",
+        "She"
+      ],
+      "solutions": [
+        [
+          "We",
+          "give",
+          "the",
+          "horse",
+          "water"
+        ]
+      ],
+      "formattedSolution": "We give the horse water.",
+      "id": "ee810e88ad59",
+      "priority": 2,
+      "group": "c30e8e5e0675"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она несе мыши сыр.",
+      "meaningInSourceLanguage": "She carries cheese to the mouse.",
+      "id": "09ba48b86d4c",
+      "priority": 0,
+      "group": "f5ea93fcdeb1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она несе мыши сыр.",
+      "meaning": "She carries cheese to the mouse.",
+      "audio": "f8de46f3e678c6341db5631b9d52d484d792ed1709198461e497b06d5ba30b07",
+      "id": "041c43bdcb26",
+      "priority": 1,
+      "group": "f5ea93fcdeb1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "carries",
+          "definition": "undefined"
+        },
+        {
+          "word": "cheese",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "mouse.",
+          "definition": "undefined\nмыша"
+        }
+      ],
+      "chips": [
+        "Она",
+        "несе",
+        "мыши",
+        "сыр",
+        "не",
+        "Они",
+        "нас"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "несе",
+          "мыши",
+          "сыр"
+        ]
+      ],
+      "formattedSolution": "Она несе мыши сыр.",
+      "id": "07eda412b615",
+      "priority": 2,
+      "group": "f5ea93fcdeb1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "несе",
+          "definition": "undefined"
+        },
+        {
+          "word": "мыши",
+          "definition": "undefined"
+        },
+        {
+          "word": "сыр.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "carries",
+        "cheese",
+        "to",
+        "the",
+        "mouse",
+        "The",
+        "she",
+        "are",
+        "me",
+        "rose"
+      ],
+      "solutions": [
+        [
+          "She",
+          "carries",
+          "cheese",
+          "to",
+          "the",
+          "mouse"
+        ]
+      ],
+      "formattedSolution": "She carries cheese to the mouse.",
+      "id": "5b444bfae24a",
+      "priority": 2,
+      "group": "f5ea93fcdeb1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он помагає медвїдю.",
+      "meaningInSourceLanguage": "He helps the bear.",
+      "id": "d102643c617f",
+      "priority": 0,
+      "group": "9b922fd5c627"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он помагає медвїдю.",
+      "meaning": "He helps the bear.",
+      "audio": "b1da33758bb9c09ea3f27f649777607ddb283b287769eafa4e5284827863dc70",
+      "id": "120ddeb15c53",
+      "priority": 1,
+      "group": "9b922fd5c627"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "helps",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "bear.",
+          "definition": "undefined\nмедвїдь"
+        }
+      ],
+      "chips": [
+        "Он",
+        "помагає",
+        "медвїдю",
+        "маю",
+        "має"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "помагає",
+          "медвїдю"
+        ]
+      ],
+      "formattedSolution": "Он помагає медвїдю.",
+      "id": "586b96d5837b",
+      "priority": 2,
+      "group": "9b922fd5c627"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "помагає",
+          "definition": "undefined"
+        },
+        {
+          "word": "медвїдю.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "helps",
+        "the",
+        "bear",
+        "he",
+        "her",
+        "be"
+      ],
+      "solutions": [
+        [
+          "He",
+          "helps",
+          "the",
+          "bear"
+        ]
+      ],
+      "formattedSolution": "He helps the bear.",
+      "id": "46b935406a89",
+      "priority": 2,
+      "group": "9b922fd5c627"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мы даєме жабі хлїб.",
+      "meaningInSourceLanguage": "We give bread to the frog.",
+      "id": "0ed1c1e8e069",
+      "priority": 0,
+      "group": "564ca64d2f1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мы даєме жабі хлїб.",
+      "meaning": "We give bread to the frog.",
+      "audio": "9067531a2b807025d92fc9115616dc1d08d9ae92724b03de10ebeae7f66b40f3",
+      "id": "8473e93a2b7c",
+      "priority": 1,
+      "group": "564ca64d2f1f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nмы"
+        },
+        {
+          "word": "give",
+          "definition": "undefined"
+        },
+        {
+          "word": "bread",
+          "definition": "undefined\nхлїб"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "frog.",
+          "definition": "undefined\nжаба"
+        }
+      ],
+      "chips": [
+        "Мы",
+        "даєме",
+        "жабі",
+        "хлїб",
+        "дає",
+        "але",
+        "єм"
+      ],
+      "solutions": [
+        [
+          "Мы",
+          "даєме",
+          "жабі",
+          "хлїб"
+        ]
+      ],
+      "formattedSolution": "Мы даєме жабі хлїб.",
+      "id": "1b78a74c9f1c",
+      "priority": 2,
+      "group": "564ca64d2f1f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мы",
+          "definition": "undefined\nwe"
+        },
+        {
+          "word": "даєме",
+          "definition": "undefined"
+        },
+        {
+          "word": "жабі",
+          "definition": "undefined"
+        },
+        {
+          "word": "хлїб.",
+          "definition": "bread\nundefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "give",
+        "bread",
+        "to",
+        "the",
+        "frog",
+        "be",
+        "are",
+        "He",
+        "me",
+        "we"
+      ],
+      "solutions": [
+        [
+          "We",
+          "give",
+          "bread",
+          "to",
+          "the",
+          "frog"
+        ]
+      ],
+      "formattedSolution": "We give bread to the frog.",
+      "id": "84d8a4cbabf8",
+      "priority": 2,
+      "group": "564ca64d2f1f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Они дають звїреви руку.",
+      "meaningInSourceLanguage": "They give their hand to the animal.",
+      "id": "2e5813f45931",
+      "priority": 0,
+      "group": "e06169b72c27"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Они дають звїреви руку.",
+      "meaning": "They give their hand to the animal.",
+      "audio": "2a12c16e63ed79e8f09536effc164c80ed9de0b48bccc3f28cc9352e40964c71",
+      "id": "ca453242c3f9",
+      "priority": 1,
+      "group": "e06169b72c27"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "undefined\nони"
+        },
+        {
+          "word": "give",
+          "definition": "undefined"
+        },
+        {
+          "word": "their",
+          "definition": "undefined"
+        },
+        {
+          "word": "hand",
+          "definition": "undefined\nрука"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "animal.",
+          "definition": "undefined\nзвїрь"
+        }
+      ],
+      "chips": [
+        "Они",
+        "дають",
+        "звїреви",
+        "руку",
+        "дїнь",
+        "їси",
+        "При"
+      ],
+      "solutions": [
+        [
+          "Они",
+          "дають",
+          "звїреви",
+          "руку"
+        ]
+      ],
+      "formattedSolution": "Они дають звїреви руку.",
+      "id": "5605da9ca2c8",
+      "priority": 2,
+      "group": "e06169b72c27"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Они",
+          "definition": "they\nundefined"
+        },
+        {
+          "word": "дають",
+          "definition": "undefined"
+        },
+        {
+          "word": "звїреви",
+          "definition": "undefined"
+        },
+        {
+          "word": "руку.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "They",
+        "give",
+        "their",
+        "hand",
+        "to",
+        "the",
+        "animal",
+        "The",
+        "then",
+        "them",
+        "they",
+        "She",
+        "her"
+      ],
+      "solutions": [
+        [
+          "They",
+          "give",
+          "their",
+          "hand",
+          "to",
+          "the",
+          "animal"
+        ]
+      ],
+      "formattedSolution": "They give their hand to the animal.",
+      "id": "b172ec883be5",
+      "priority": 2,
+      "group": "e06169b72c27"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Помагаєме волкови.",
+      "meaningInSourceLanguage": "We help the wolf.",
+      "id": "d0fa5819f1ca",
+      "priority": 0,
+      "group": "88d7f51a7fac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Помагаєме волкови.",
+      "meaning": "We help the wolf.",
+      "audio": "9637a347439161dfc5de0791f5e91df664e5b02cc2c6d008c7e6c9ed14df74cf",
+      "id": "919e894d1331",
+      "priority": 1,
+      "group": "88d7f51a7fac"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nмы"
+        },
+        {
+          "word": "help",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "wolf.",
+          "definition": "undefined\nволк"
+        }
+      ],
+      "chips": [
+        "Помагаєме",
+        "волкови",
+        "помагає",
+        "помагаєме"
+      ],
+      "solutions": [
+        [
+          "Помагаєме",
+          "волкови"
+        ]
+      ],
+      "formattedSolution": "Помагаєме волкови.",
+      "id": "8922efde052d",
+      "priority": 2,
+      "group": "88d7f51a7fac"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Помагаєме",
+          "definition": "undefined"
+        },
+        {
+          "word": "волкови.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "help",
+        "the",
+        "wolf",
+        "we",
+        "She",
+        "He"
+      ],
+      "solutions": [
+        [
+          "We",
+          "help",
+          "the",
+          "wolf"
+        ]
+      ],
+      "formattedSolution": "We help the wolf.",
+      "id": "4df81dbad09f",
+      "priority": 2,
+      "group": "88d7f51a7fac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ты даси мі рыбу?",
+      "meaningInSourceLanguage": "Will you give me a fish?",
+      "id": "63fdd519a8af",
+      "priority": 0,
+      "group": "7eff2a226664"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ты даси мі рыбу?",
+      "meaning": "Will you give me a fish?",
+      "audio": "0b9aee429a4a2764be5fb71fdc2079e66025a461dcecd7ff1146c1d5bed97025",
+      "id": "d55dbd5f2614",
+      "priority": 1,
+      "group": "7eff2a226664"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Will",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nвы\nты"
+        },
+        {
+          "word": "give",
+          "definition": "undefined"
+        },
+        {
+          "word": "me",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "fish?",
+          "definition": "undefined\nрыба"
+        }
+      ],
+      "chips": [
+        "Ты",
+        "даси",
+        "мі",
+        "рыбу",
+        "Мы",
+        "Вы",
+        "ты"
+      ],
+      "solutions": [
+        [
+          "Ты",
+          "даси",
+          "мі",
+          "рыбу"
+        ]
+      ],
+      "formattedSolution": "Ты даси мі рыбу?",
+      "id": "5984aa9fbbf7",
+      "priority": 2,
+      "group": "7eff2a226664"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ты",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "даси",
+          "definition": "undefined"
+        },
+        {
+          "word": "мі",
+          "definition": "undefined"
+        },
+        {
+          "word": "рыбу?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Will",
+        "you",
+        "give",
+        "me",
+        "a",
+        "fish",
+        "is",
+        "We",
+        "it",
+        "in",
+        "He"
+      ],
+      "solutions": [
+        [
+          "Will",
+          "you",
+          "give",
+          "me",
+          "a",
+          "fish"
+        ]
+      ],
+      "formattedSolution": "Will you give me a fish?",
+      "id": "2b7b6ed47f4f",
+      "priority": 2,
+      "group": "7eff2a226664"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я дам котови імня.",
+      "meaningInSourceLanguage": "I give the cat a name.",
+      "id": "ed0fc54ebb34",
+      "priority": 0,
+      "group": "c0a3b7e36c98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я дам котови імня.",
+      "meaning": "I give the cat a name.",
+      "audio": "427370253154f987f1f072c5010d3927b9eae2cc34089335d02c8dd720368b91",
+      "id": "4edc8120dfc0",
+      "priority": 1,
+      "group": "c0a3b7e36c98"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "give",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "cat",
+          "definition": "undefined\nкіт"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "name.",
+          "definition": "undefined\nімня"
+        }
+      ],
+      "chips": [
+        "Я",
+        "дам",
+        "котови",
+        "імня",
+        "єм",
+        "моя",
+        "дом"
+      ],
+      "solutions": [
+        [
+          "Я",
+          "дам",
+          "котови",
+          "імня"
+        ]
+      ],
+      "formattedSolution": "Я дам котови імня.",
+      "id": "0c45a7f00ea9",
+      "priority": 2,
+      "group": "c0a3b7e36c98"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Я",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "дам",
+          "definition": "undefined"
+        },
+        {
+          "word": "котови",
+          "definition": "undefined"
+        },
+        {
+          "word": "імня.",
+          "definition": "name\nundefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "give",
+        "the",
+        "cat",
+        "a",
+        "name",
+        "am",
+        "me",
+        "at",
+        "We",
+        "are"
+      ],
+      "solutions": [
+        [
+          "I",
+          "give",
+          "the",
+          "cat",
+          "a",
+          "name"
+        ]
+      ],
+      "formattedSolution": "I give the cat a name.",
+      "id": "001ba3a6b46e",
+      "priority": 2,
+      "group": "c0a3b7e36c98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он дасть мыши сыр.",
+      "meaningInSourceLanguage": "On da myši syr.",
+      "id": "b2b2909e5a5e",
+      "priority": 0,
+      "group": "025d1fb20759"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он дасть мыши сыр.",
+      "meaning": "On da myši syr.",
+      "audio": "066e6a75fc31acad33dd987c8e8ab2eaf2f7d4dcf28bd081f377f8fbe5411d35",
+      "id": "195670927cf5",
+      "priority": 1,
+      "group": "025d1fb20759"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "On",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "da",
+          "definition": "undefined"
+        },
+        {
+          "word": "myši",
+          "definition": "undefined"
+        },
+        {
+          "word": "syr.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Он",
+        "дасть",
+        "мыши",
+        "сыр",
+        "ты",
+        "Мы",
+        "Вы"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "дасть",
+          "мыши",
+          "сыр"
+        ]
+      ],
+      "formattedSolution": "Он дасть мыши сыр.",
+      "id": "c166b9ba105b",
+      "priority": 2,
+      "group": "025d1fb20759"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "дасть",
+          "definition": "undefined"
+        },
+        {
+          "word": "мыши",
+          "definition": "undefined"
+        },
+        {
+          "word": "сыр.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "On",
+        "da",
+        "myši",
+        "syr",
+        "my",
+        "by",
+        "a"
+      ],
+      "solutions": [
+        [
+          "On",
+          "da",
+          "myši",
+          "syr"
+        ]
+      ],
+      "formattedSolution": "On da myši syr.",
+      "id": "f18b01ff6726",
+      "priority": 2,
+      "group": "025d1fb20759"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мы помагаєме птахам.",
+      "meaningInSourceLanguage": "We help the birds.",
+      "id": "d83750f5fb23",
+      "priority": 0,
+      "group": "97c4e94fcf6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мы помагаєме птахам.",
+      "meaning": "We help the birds.",
+      "audio": "a8280b0c9efb36241ddd0d147877349b83d19ed43a25f3b9978e42e9be9739f5",
+      "id": "ff7d0e232bcb",
+      "priority": 1,
+      "group": "97c4e94fcf6c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nмы"
+        },
+        {
+          "word": "help",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "birds.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Мы",
+        "помагаєме",
+        "птахам",
+        "помагає",
+        "там"
+      ],
+      "solutions": [
+        [
+          "Мы",
+          "помагаєме",
+          "птахам"
+        ]
+      ],
+      "formattedSolution": "Мы помагаєме птахам.",
+      "id": "5ca43ae70b08",
+      "priority": 2,
+      "group": "97c4e94fcf6c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мы",
+          "definition": "undefined\nwe"
+        },
+        {
+          "word": "помагаєме",
+          "definition": "undefined"
+        },
+        {
+          "word": "птахам.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "help",
+        "the",
+        "birds",
+        "her",
+        "be",
+        "She"
+      ],
+      "solutions": [
+        [
+          "We",
+          "help",
+          "the",
+          "birds"
+        ]
+      ],
+      "formattedSolution": "We help the birds.",
+      "id": "6bdfbdeee13a",
+      "priority": 2,
+      "group": "97c4e94fcf6c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Даєме жабі воду.",
+      "meaningInSourceLanguage": "We give the frog water.",
+      "id": "441c210be45d",
+      "priority": 0,
+      "group": "c2e0f89d5a80"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Даєме жабі воду.",
+      "meaning": "We give the frog water.",
+      "audio": "eb294bc7e8566152aa85401392ff8dfef27baf5b230d45b81834f53d7beb569d",
+      "id": "d2c20c5155bc",
+      "priority": 1,
+      "group": "c2e0f89d5a80"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nмы"
+        },
+        {
+          "word": "give",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "frog",
+          "definition": "undefined\nжаба"
+        },
+        {
+          "word": "water.",
+          "definition": "undefined\nвода"
+        }
+      ],
+      "chips": [
+        "Даєме",
+        "жабі",
+        "воду",
+        "Дам",
+        "тобі"
+      ],
+      "solutions": [
+        [
+          "Даєме",
+          "жабі",
+          "воду"
+        ]
+      ],
+      "formattedSolution": "Даєме жабі воду.",
+      "id": "519f23867ba8",
+      "priority": 2,
+      "group": "c2e0f89d5a80"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Даєме",
+          "definition": "undefined"
+        },
+        {
+          "word": "жабі",
+          "definition": "undefined"
+        },
+        {
+          "word": "воду.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "give",
+        "the",
+        "frog",
+        "water",
+        "are",
+        "we",
+        "She",
+        "He"
+      ],
+      "solutions": [
+        [
+          "We",
+          "give",
+          "the",
+          "frog",
+          "water"
+        ]
+      ],
+      "formattedSolution": "We give the frog water.",
+      "id": "991bf101c029",
+      "priority": 2,
+      "group": "c2e0f89d5a80"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Они несуть медвїдю їду.",
+      "meaningInSourceLanguage": "They are carrying food to the bear.",
+      "id": "e30e13884b6e",
+      "priority": 0,
+      "group": "8549cd625cfd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Они несуть медвїдю їду.",
+      "meaning": "They are carrying food to the bear.",
+      "audio": "b38f0f96177d6dfc5ff892bb3fc3abca74a3538c7a0b247fa7e0950c65a07471",
+      "id": "ce64d66390bd",
+      "priority": 1,
+      "group": "8549cd625cfd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "undefined\nони"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nсме\nсуть\nсьте\nєс"
+        },
+        {
+          "word": "carrying",
+          "definition": "undefined"
+        },
+        {
+          "word": "food",
+          "definition": "undefined\nїда"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "bear.",
+          "definition": "undefined\nмедвїдь"
+        }
+      ],
+      "chips": [
+        "Они",
+        "несуть",
+        "медвїдю",
+        "їду",
+        "не",
+        "їси",
+        "їды"
+      ],
+      "solutions": [
+        [
+          "Они",
+          "несуть",
+          "медвїдю",
+          "їду"
+        ]
+      ],
+      "formattedSolution": "Они несуть медвїдю їду.",
+      "id": "49c2c86e9372",
+      "priority": 2,
+      "group": "8549cd625cfd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Они",
+          "definition": "they\nundefined"
+        },
+        {
+          "word": "несуть",
+          "definition": "undefined"
+        },
+        {
+          "word": "медвїдю",
+          "definition": "undefined"
+        },
+        {
+          "word": "їду.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "They",
+        "are",
+        "carrying",
+        "food",
+        "to",
+        "the",
+        "bear",
+        "car",
+        "her",
+        "The",
+        "be",
+        "far",
+        "ear"
+      ],
+      "solutions": [
+        [
+          "They",
+          "are",
+          "carrying",
+          "food",
+          "to",
+          "the",
+          "bear"
+        ]
+      ],
+      "formattedSolution": "They are carrying food to the bear.",
+      "id": "2c061878f559",
+      "priority": 2,
+      "group": "8549cd625cfd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она дає псови добре імня.",
+      "meaningInSourceLanguage": "She gives the dog a good name.",
+      "id": "739f6f6330c7",
+      "priority": 0,
+      "group": "d795918e9ba6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она дає псови добре імня.",
+      "meaning": "She gives the dog a good name.",
+      "audio": "f1cf3c3ba6775c37d89125a3c1fcdfa462281aa52bec950e57b2eee36d0986e1",
+      "id": "71ea76c03dc4",
+      "priority": 1,
+      "group": "d795918e9ba6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "gives",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "dog",
+          "definition": "undefined\nпес"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "good",
+          "definition": "undefined\nдобрый"
+        },
+        {
+          "word": "name.",
+          "definition": "undefined\nімня"
+        }
+      ],
+      "chips": [
+        "Она",
+        "дає",
+        "псови",
+        "добре",
+        "імня",
+        "она",
+        "моя",
+        "дом",
+        "моє"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "дає",
+          "псови",
+          "добре",
+          "імня"
+        ]
+      ],
+      "formattedSolution": "Она дає псови добре імня.",
+      "id": "86a7f4c344ce",
+      "priority": 2,
+      "group": "d795918e9ba6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "дає",
+          "definition": "undefined"
+        },
+        {
+          "word": "псови",
+          "definition": "undefined"
+        },
+        {
+          "word": "добре",
+          "definition": "undefined"
+        },
+        {
+          "word": "імня.",
+          "definition": "name\nundefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "gives",
+        "the",
+        "dog",
+        "a",
+        "good",
+        "name",
+        "are",
+        "me",
+        "The",
+        "she",
+        "age",
+        "We"
+      ],
+      "solutions": [
+        [
+          "She",
+          "gives",
+          "the",
+          "dog",
+          "a",
+          "good",
+          "name"
+        ]
+      ],
+      "formattedSolution": "She gives the dog a good name.",
+      "id": "8592684653a1",
+      "priority": 2,
+      "group": "d795918e9ba6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Вы дасте коню.",
+      "meaningInSourceLanguage": "You will give the horse.",
+      "id": "54976ce3834e",
+      "priority": 0,
+      "group": "e07889108d0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Вы дасте коню.",
+      "meaning": "You will give the horse.",
+      "audio": "4eaeba565b908ed363244e93938b9345c1e20017502ff064beef2afb8b1ffdeb",
+      "id": "91eaaf796080",
+      "priority": 1,
+      "group": "e07889108d0b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You",
+          "definition": "undefined\nвы\nты"
+        },
+        {
+          "word": "will",
+          "definition": "undefined"
+        },
+        {
+          "word": "give",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "horse.",
+          "definition": "undefined\nкінь"
+        }
+      ],
+      "chips": [
+        "Вы",
+        "дасте",
+        "коню",
+        "ты",
+        "не"
+      ],
+      "solutions": [
+        [
+          "Вы",
+          "дасте",
+          "коню"
+        ]
+      ],
+      "formattedSolution": "Вы дасте коню.",
+      "id": "27fe1a9891d7",
+      "priority": 2,
+      "group": "e07889108d0b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Вы",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "дасте",
+          "definition": "undefined"
+        },
+        {
+          "word": "коню.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "You",
+        "will",
+        "give",
+        "the",
+        "horse",
+        "wise",
+        "wore",
+        "She",
+        "are"
+      ],
+      "solutions": [
+        [
+          "You",
+          "will",
+          "give",
+          "the",
+          "horse"
+        ]
+      ],
+      "formattedSolution": "You will give the horse.",
+      "id": "c51ea94d83b7",
+      "priority": 2,
+      "group": "e07889108d0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я дам рыбі воду.",
+      "meaningInSourceLanguage": "I give the fish water.",
+      "id": "766d22e5c6ea",
+      "priority": 0,
+      "group": "7a84a055f619"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я дам рыбі воду.",
+      "meaning": "I give the fish water.",
+      "audio": "998cbe66f17292c38ac3681a87f0c889ddd3c05daaffdb855c50c15e77869658",
+      "id": "2b190eb86f0b",
+      "priority": 1,
+      "group": "7a84a055f619"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "give",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "fish",
+          "definition": "undefined\nрыба"
+        },
+        {
+          "word": "water.",
+          "definition": "undefined\nвода"
+        }
+      ],
+      "chips": [
+        "Я",
+        "дам",
+        "рыбі",
+        "воду",
+        "дом",
+        "в",
+        "до"
+      ],
+      "solutions": [
+        [
+          "Я",
+          "дам",
+          "рыбі",
+          "воду"
+        ]
+      ],
+      "formattedSolution": "Я дам рыбі воду.",
+      "id": "02576a020975",
+      "priority": 2,
+      "group": "7a84a055f619"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Я",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "дам",
+          "definition": "undefined"
+        },
+        {
+          "word": "рыбі",
+          "definition": "undefined"
+        },
+        {
+          "word": "воду.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "give",
+        "the",
+        "fish",
+        "water",
+        "wise",
+        "five",
+        "is",
+        "She"
+      ],
+      "solutions": [
+        [
+          "I",
+          "give",
+          "the",
+          "fish",
+          "water"
+        ]
+      ],
+      "formattedSolution": "I give the fish water.",
+      "id": "698563cb0f8f",
+      "priority": 2,
+      "group": "7a84a055f619"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она помагала ёму зо звїрем.",
+      "meaningInSourceLanguage": "She helped him with the animal.",
+      "id": "6e4100bb97fb",
+      "priority": 0,
+      "group": "e0d04d09d927"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она помагала ёму зо звїрем.",
+      "meaning": "She helped him with the animal.",
+      "audio": "64940026f06fc7381506f65ec6661360e983e09d3b9a49665c18d9cdd4add18d",
+      "id": "df299f8dabe0",
+      "priority": 1,
+      "group": "e0d04d09d927"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "helped",
+          "definition": "undefined"
+        },
+        {
+          "word": "him",
+          "definition": "undefined"
+        },
+        {
+          "word": "with",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "animal.",
+          "definition": "undefined\nзвїрь"
+        }
+      ],
+      "chips": [
+        "Она",
+        "помагала",
+        "ёму",
+        "зо",
+        "звїрем",
+        "за",
+        "їм",
+        "зла",
+        "єм"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "помагала",
+          "ёму",
+          "зо",
+          "звїрем"
+        ]
+      ],
+      "formattedSolution": "Она помагала ёму зо звїрем.",
+      "id": "56718543ca7f",
+      "priority": 2,
+      "group": "e0d04d09d927"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "помагала",
+          "definition": "undefined"
+        },
+        {
+          "word": "ёму",
+          "definition": "undefined"
+        },
+        {
+          "word": "зо",
+          "definition": "undefined"
+        },
+        {
+          "word": "звїрем.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "helped",
+        "him",
+        "with",
+        "the",
+        "animal",
+        "time",
+        "them",
+        "her",
+        "his",
+        "The"
+      ],
+      "solutions": [
+        [
+          "She",
+          "helped",
+          "him",
+          "with",
+          "the",
+          "animal"
+        ]
+      ],
+      "formattedSolution": "She helped him with the animal.",
+      "id": "1200c404088f",
+      "priority": 2,
+      "group": "e0d04d09d927"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Даси ли псови смачну кість?",
+      "meaningInSourceLanguage": "Will you give the dog a tasty bone?",
+      "id": "7d9e9ad1ee1b",
+      "priority": 0,
+      "group": "b94cdc97517a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Даси ли псови смачну кість?",
+      "meaning": "Will you give the dog a tasty bone?",
+      "audio": "e30c48044bc1c122d3580d892b2b596b8fa53d128f09459b4b0cc6d00f112fd6",
+      "id": "ae4bd7590cf9",
+      "priority": 1,
+      "group": "b94cdc97517a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Will",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nвы\nты"
+        },
+        {
+          "word": "give",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "dog",
+          "definition": "undefined\nпес"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "tasty",
+          "definition": "undefined"
+        },
+        {
+          "word": "bone?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Даси",
+        "ли",
+        "псови",
+        "смачну",
+        "кість",
+        "єси",
+        "їси",
+        "соли",
+        "даси"
+      ],
+      "solutions": [
+        [
+          "Даси",
+          "ли",
+          "псови",
+          "смачну",
+          "кість"
+        ]
+      ],
+      "formattedSolution": "Даси ли псови смачну кість?",
+      "id": "d56ef08ea299",
+      "priority": 2,
+      "group": "b94cdc97517a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Даси",
+          "definition": "undefined"
+        },
+        {
+          "word": "ли",
+          "definition": "undefined"
+        },
+        {
+          "word": "псови",
+          "definition": "undefined"
+        },
+        {
+          "word": "смачну",
+          "definition": "undefined"
+        },
+        {
+          "word": "кість?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Will",
+        "you",
+        "give",
+        "the",
+        "dog",
+        "a",
+        "tasty",
+        "bone",
+        "We",
+        "are",
+        "so",
+        "too",
+        "son",
+        "on",
+        "dot"
+      ],
+      "solutions": [
+        [
+          "Will",
+          "you",
+          "give",
+          "the",
+          "dog",
+          "a",
+          "tasty",
+          "bone"
+        ]
+      ],
+      "formattedSolution": "Will you give the dog a tasty bone?",
+      "id": "775b56faf110",
+      "priority": 2,
+      "group": "b94cdc97517a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "кіт",
+      "meaningInSourceLanguage": "cat",
+      "id": "4b6608fd24d6",
+      "priority": 0,
+      "group": "af1b6d39645d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "кіт"
+      ],
+      "phrase": [
+        {
+          "word": "cat",
+          "definition": "undefined\nкіт"
+        }
+      ],
+      "id": "54e016858f16",
+      "priority": 1,
+      "group": "af1b6d39645d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "кіт",
+      "meaning": "cat",
+      "audio": "3a3bea75e2b42387394b702d2b063fd72c806262b89c1b7d94d912975e36b93c",
+      "id": "2b08f1093ddc",
+      "priority": 1,
+      "group": "af1b6d39645d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "пес",
+      "meaningInSourceLanguage": "dog",
+      "id": "d5357873ff2d",
+      "priority": 0,
+      "group": "2755d15dee61"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "пес"
+      ],
+      "phrase": [
+        {
+          "word": "dog",
+          "definition": "undefined\nпес"
+        }
+      ],
+      "id": "da77a77e0a9f",
+      "priority": 1,
+      "group": "2755d15dee61"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "пес",
+      "meaning": "dog",
+      "audio": "cd685ebcd9558a969db76059ce3c1fe555e1cd9ce558c1af17e96b47fc724283",
+      "id": "8fbaa608a793",
+      "priority": 1,
+      "group": "2755d15dee61"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "птах",
+      "meaningInSourceLanguage": "bird",
+      "id": "a3ccd7447d17",
+      "priority": 0,
+      "group": "67802f13e6f9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "птах"
+      ],
+      "phrase": [
+        {
+          "word": "bird",
+          "definition": "undefined\nптах"
+        }
+      ],
+      "id": "1cb1fc1043d6",
+      "priority": 1,
+      "group": "67802f13e6f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "птах",
+      "meaning": "bird",
+      "audio": "fa683473b97dfa1196db6d7703da0303be60853f001d4f6e005f748036a65aff",
+      "id": "fa2a1800b052",
+      "priority": 1,
+      "group": "67802f13e6f9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "помагати",
+      "meaningInSourceLanguage": "to help",
+      "id": "bd7cbb7f3705",
+      "priority": 0,
+      "group": "9e624138562b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "помагати"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "help",
+          "definition": "undefined"
+        }
+      ],
+      "id": "14e5f3901e0a",
+      "priority": 1,
+      "group": "9e624138562b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "помагати",
+      "meaning": "to help",
+      "audio": "f021f87857c60c16ad4323c97349d837c262847a493c4be0f20d188a46bf9904",
+      "id": "8d9a8dc5586c",
+      "priority": 1,
+      "group": "9e624138562b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "указати (укаже)",
+      "meaningInSourceLanguage": "to show",
+      "id": "8a1abd5e3054",
+      "priority": 0,
+      "group": "4d0049f7c510"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "указати (укаже)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "show",
+          "definition": "undefined"
+        }
+      ],
+      "id": "9ec11276f261",
+      "priority": 1,
+      "group": "4d0049f7c510"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "указати (укаже)",
+      "meaning": "to show",
+      "audio": "f7180e38a3aef47d1e34a1612a060266fd0100a3e6bfb5baec50b01276a83e7e",
+      "id": "37a1c8eaf4ea",
+      "priority": 1,
+      "group": "4d0049f7c510"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "кінь",
+      "meaningInSourceLanguage": "horse",
+      "id": "2f8936cee1b3",
+      "priority": 0,
+      "group": "7ec574c0f5b5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "кінь"
+      ],
+      "phrase": [
+        {
+          "word": "horse",
+          "definition": "undefined\nкінь"
+        }
+      ],
+      "id": "52a366746572",
+      "priority": 1,
+      "group": "7ec574c0f5b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "кінь",
+      "meaning": "horse",
+      "audio": "2f54fe41f38bc956b3ac1e2169d2ad989ba42fcc7325f5127100ac61dcb3b701",
+      "id": "f4cb2d2c547e",
+      "priority": 1,
+      "group": "7ec574c0f5b5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "дати (дасть)",
+      "meaningInSourceLanguage": "to give",
+      "id": "fda78919fcb0",
+      "priority": 0,
+      "group": "4259f93fb488"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "дати (дасть)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "give",
+          "definition": "undefined"
+        }
+      ],
+      "id": "daf1d7cef3a4",
+      "priority": 1,
+      "group": "4259f93fb488"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дати (дасть)",
+      "meaning": "to give",
+      "audio": "c22b384deba51a930af07cea1f596cfe9186bf3fee8b21ac03b286017d015c92",
+      "id": "0197292eae3c",
+      "priority": 1,
+      "group": "4259f93fb488"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "рыба",
+      "meaningInSourceLanguage": "fish",
+      "id": "c7b4124807ab",
+      "priority": 0,
+      "group": "6e881d261c99"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "рыба"
+      ],
+      "phrase": [
+        {
+          "word": "fish",
+          "definition": "undefined\nрыба"
+        }
+      ],
+      "id": "faac048a58d9",
+      "priority": 1,
+      "group": "6e881d261c99"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "рыба",
+      "meaning": "fish",
+      "audio": "18c4dd6cff6ac67a9f9d88e073d48c27ad3673a954c443161f4e77df9f28f4a7",
+      "id": "a1d84cc23f90",
+      "priority": 1,
+      "group": "6e881d261c99"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "жаба",
+      "meaningInSourceLanguage": "frog",
+      "id": "c5225ef0c110",
+      "priority": 0,
+      "group": "2a8d6970241b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "жаба"
+      ],
+      "phrase": [
+        {
+          "word": "frog",
+          "definition": "undefined\nжаба"
+        }
+      ],
+      "id": "312751b261e8",
+      "priority": 1,
+      "group": "2a8d6970241b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "жаба",
+      "meaning": "frog",
+      "audio": "58fba8f3ff3748d02fc3b5d28555730f42e433c23dcb5d238743f5f372068954",
+      "id": "a19eec6c0c0b",
+      "priority": 1,
+      "group": "2a8d6970241b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "медвїдь",
+      "meaningInSourceLanguage": "bear",
+      "id": "f88fb80a12e1",
+      "priority": 0,
+      "group": "9fccbdb7292b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "медвїдь"
+      ],
+      "phrase": [
+        {
+          "word": "bear",
+          "definition": "undefined\nмедвїдь"
+        }
+      ],
+      "id": "a5bb65838e0e",
+      "priority": 1,
+      "group": "9fccbdb7292b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "медвїдь",
+      "meaning": "bear",
+      "audio": "68f3e9b197072932b995a21e896a38e0bd067b8abb2060269eb406f1cf6b4659",
+      "id": "924c076a66ca",
+      "priority": 1,
+      "group": "9fccbdb7292b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "волк",
+      "meaningInSourceLanguage": "wolf",
+      "id": "5769b2ed871e",
+      "priority": 0,
+      "group": "a668d40c23d8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "волк"
+      ],
+      "phrase": [
+        {
+          "word": "wolf",
+          "definition": "undefined\nволк"
+        }
+      ],
+      "id": "86ac5c03fc43",
+      "priority": 1,
+      "group": "a668d40c23d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "волк",
+      "meaning": "wolf",
+      "audio": "bd548ebd4cf8f87ef067001746d5bd247fb128420f346f0f5f657813fe44b6c7",
+      "id": "a66bd8852929",
+      "priority": 1,
+      "group": "a668d40c23d8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "мыша",
+      "meaningInSourceLanguage": "mouse",
+      "id": "13c9d6b37c95",
+      "priority": 0,
+      "group": "13567ffb7fa3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "мыша"
+      ],
+      "phrase": [
+        {
+          "word": "mouse",
+          "definition": "undefined\nмыша"
+        }
+      ],
+      "id": "229661fc977e",
+      "priority": 1,
+      "group": "13567ffb7fa3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "мыша",
+      "meaning": "mouse",
+      "audio": "890953913ad67e050b7637d7ccbdbc1eaf551202194928de77dd91d20ab923e3",
+      "id": "981590fa9821",
+      "priority": 1,
+      "group": "13567ffb7fa3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "звїрь",
+      "meaningInSourceLanguage": "animal",
+      "id": "eeeb418ff442",
+      "priority": 0,
+      "group": "cda451860d2f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "звїрь"
+      ],
+      "phrase": [
+        {
+          "word": "animal",
+          "definition": "undefined\nзвїрь"
+        }
+      ],
+      "id": "a26b17206390",
+      "priority": 1,
+      "group": "cda451860d2f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "звїрь",
+      "meaning": "animal",
+      "audio": "4a9aea12c24f244765ae44f597c245ab23b4ab033365de95915c1cff6f888967",
+      "id": "16ed1720cce2",
+      "priority": 1,
+      "group": "cda451860d2f"
+    }
+  ]
+}

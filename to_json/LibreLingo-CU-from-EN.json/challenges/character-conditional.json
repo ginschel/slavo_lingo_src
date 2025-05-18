@@ -1,0 +1,3260 @@
+{
+  "id": "904a160c3661",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Онъ тъ добръ чловѣкъ.",
+      "meaningInSourceLanguage": "He is a good person.",
+      "id": "4b0f499d246f",
+      "priority": 0,
+      "group": "a69a932d27bc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Онъ тъ добръ чловѣкъ.",
+      "meaning": "He is a good person.",
+      "audio": "56bfebf9e33ebe905ef89c23f6309b11d96fe5a4e476880b16f3c76d628c157b",
+      "id": "83abb8538672",
+      "priority": 1,
+      "group": "a69a932d27bc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nонъ"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "good",
+          "definition": "undefined\nдобръ"
+        },
+        {
+          "word": "person.",
+          "definition": "undefined\nчловѣкъ"
+        }
+      ],
+      "chips": [
+        "Онъ",
+        "тъ",
+        "добръ",
+        "чловѣкъ",
+        "онъ",
+        "отъ",
+        "въ"
+      ],
+      "solutions": [
+        [
+          "Онъ",
+          "тъ",
+          "добръ",
+          "чловѣкъ"
+        ]
+      ],
+      "formattedSolution": "Онъ тъ добръ чловѣкъ.",
+      "id": "0eaaf72e97db",
+      "priority": 2,
+      "group": "a69a932d27bc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Онъ",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "тъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "добръ",
+          "definition": "good\nundefined"
+        },
+        {
+          "word": "чловѣкъ.",
+          "definition": "person\nundefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "a",
+        "good",
+        "person",
+        "so",
+        "on",
+        "as",
+        "We"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "a",
+          "good",
+          "person"
+        ]
+      ],
+      "formattedSolution": "He is a good person.",
+      "id": "976947802bb1",
+      "priority": 2,
+      "group": "a69a932d27bc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она ѥстъ зла часомъ.",
+      "meaningInSourceLanguage": "She is sometimes bad.",
+      "id": "fb71812a810d",
+      "priority": 0,
+      "group": "b5ebbaee4f3c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она ѥстъ зла часомъ.",
+      "meaning": "She is sometimes bad.",
+      "audio": "0d443dd3cde5b192c80d7ad47dc009d63b2bf16a6dcd74ba16ef5d587de8f586",
+      "id": "01a5631d651d",
+      "priority": 1,
+      "group": "b5ebbaee4f3c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "sometimes",
+          "definition": "undefined"
+        },
+        {
+          "word": "bad.",
+          "definition": "undefined\nзълъ"
+        }
+      ],
+      "chips": [
+        "Она",
+        "ѥстъ",
+        "зла",
+        "часомъ",
+        "Онъ",
+        "за",
+        "ѥмъ"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "ѥстъ",
+          "зла",
+          "часомъ"
+        ]
+      ],
+      "formattedSolution": "Она ѥстъ зла часомъ.",
+      "id": "6c668a222c43",
+      "priority": 2,
+      "group": "b5ebbaee4f3c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "ѥстъ",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "зла",
+          "definition": "undefined"
+        },
+        {
+          "word": "часомъ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "is",
+        "sometimes",
+        "bad",
+        "me",
+        "the",
+        "his"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is",
+          "sometimes",
+          "bad"
+        ]
+      ],
+      "formattedSolution": "She is sometimes bad.",
+      "id": "3162df5e05da",
+      "priority": 2,
+      "group": "b5ebbaee4f3c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Силььнъи дꙋхъ ѥстъ важьнъ.",
+      "meaningInSourceLanguage": "A strong spirit is important.",
+      "id": "5e459cd5a6d9",
+      "priority": 0,
+      "group": "cfac9c74bd0e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Силььнъи дꙋхъ ѥстъ важьнъ.",
+      "meaning": "A strong spirit is important.",
+      "audio": "477c0493230a9c6bd0d3bd8b3071130d93a4684bfcc8a2475e975b40d1c88ada",
+      "id": "0ae40b9e94d1",
+      "priority": 1,
+      "group": "cfac9c74bd0e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "strong",
+          "definition": "undefined\nсилььнъ"
+        },
+        {
+          "word": "spirit",
+          "definition": "undefined"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "important.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Силььнъи",
+        "дꙋхъ",
+        "ѥстъ",
+        "важьнъ",
+        "женъ",
+        "Онъ",
+        "милъ"
+      ],
+      "solutions": [
+        [
+          "Силььнъи",
+          "дꙋхъ",
+          "ѥстъ",
+          "важьнъ"
+        ]
+      ],
+      "formattedSolution": "Силььнъи дꙋхъ ѥстъ важьнъ.",
+      "id": "1776673e943c",
+      "priority": 2,
+      "group": "cfac9c74bd0e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Силььнъи",
+          "definition": "undefined"
+        },
+        {
+          "word": "дꙋхъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "ѥстъ",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "важьнъ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "strong",
+        "spirit",
+        "is",
+        "important",
+        "it",
+        "in",
+        "so",
+        "son"
+      ],
+      "solutions": [
+        [
+          "A",
+          "strong",
+          "spirit",
+          "is",
+          "important"
+        ]
+      ],
+      "formattedSolution": "A strong spirit is important.",
+      "id": "43d2eb58acd0",
+      "priority": 2,
+      "group": "cfac9c74bd0e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Онъ ѥстъ слабъ въ спортꙋ.",
+      "meaningInSourceLanguage": "He is weak in sports.",
+      "id": "d4a136262f9c",
+      "priority": 0,
+      "group": "12b146febfdf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Онъ ѥстъ слабъ въ спортꙋ.",
+      "meaning": "He is weak in sports.",
+      "audio": "91e3ea72a92a0c4dabddc6b7d9a47b7e59acedf69ad56eccf0e31fb24b5c9df6",
+      "id": "7bca524c3234",
+      "priority": 1,
+      "group": "12b146febfdf"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nонъ"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "weak",
+          "definition": "undefined\nслабъ"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "sports.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Онъ",
+        "ѥстъ",
+        "слабъ",
+        "въ",
+        "спортꙋ",
+        "тъ",
+        "отъ",
+        "сѫтъ",
+        "нъ"
+      ],
+      "solutions": [
+        [
+          "Онъ",
+          "ѥстъ",
+          "слабъ",
+          "въ",
+          "спортꙋ"
+        ]
+      ],
+      "formattedSolution": "Онъ ѥстъ слабъ въ спортꙋ.",
+      "id": "e5cd0ab76886",
+      "priority": 2,
+      "group": "12b146febfdf"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Онъ",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "ѥстъ",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "слабъ",
+          "definition": "undefined\nweak"
+        },
+        {
+          "word": "въ",
+          "definition": "undefined"
+        },
+        {
+          "word": "спортꙋ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "weak",
+        "in",
+        "sports",
+        "it",
+        "as",
+        "We",
+        "Is"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "weak",
+          "in",
+          "sports"
+        ]
+      ],
+      "formattedSolution": "He is weak in sports.",
+      "id": "91ee7afdf743",
+      "priority": 2,
+      "group": "12b146febfdf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Смѣлъ глаголи правилѫ.",
+      "meaningInSourceLanguage": "Brave people speak the truth.",
+      "id": "69ead0ca26e4",
+      "priority": 0,
+      "group": "842a3abd09a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Смѣлъ глаголи правилѫ.",
+      "meaning": "Brave people speak the truth.",
+      "audio": "222173dec207ded9d59743e70154c9b1677b871899fcb393e359fdf5c567d667",
+      "id": "eec1cab34ec2",
+      "priority": 1,
+      "group": "842a3abd09a6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Brave",
+          "definition": "undefined\nсмѣлъ"
+        },
+        {
+          "word": "people",
+          "definition": "undefined"
+        },
+        {
+          "word": "speak",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "truth.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Смѣлъ",
+        "глаголи",
+        "правилѫ",
+        "плави",
+        "милъ"
+      ],
+      "solutions": [
+        [
+          "Смѣлъ",
+          "глаголи",
+          "правилѫ"
+        ]
+      ],
+      "formattedSolution": "Смѣлъ глаголи правилѫ.",
+      "id": "7a6d73b39474",
+      "priority": 2,
+      "group": "842a3abd09a6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Смѣлъ",
+          "definition": "brave\nundefined"
+        },
+        {
+          "word": "глаголи",
+          "definition": "speaks\nundefined"
+        },
+        {
+          "word": "правилѫ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Brave",
+        "people",
+        "speak",
+        "the",
+        "truth",
+        "tree",
+        "are",
+        "tea",
+        "see"
+      ],
+      "solutions": [
+        [
+          "Brave",
+          "people",
+          "speak",
+          "the",
+          "truth"
+        ]
+      ],
+      "formattedSolution": "Brave people speak the truth.",
+      "id": "032510352088",
+      "priority": 2,
+      "group": "842a3abd09a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Какъ тꙑ бꙑхъ слꙑшалъ, тъ они бꙑ бꙑли тихи.",
+      "meaningInSourceLanguage": "If you would hear, they would be silent.",
+      "id": "1b4a891998cc",
+      "priority": 0,
+      "group": "234093b54fbb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Какъ тꙑ бꙑхъ слꙑшалъ, тъ они бꙑ бꙑли тихи.",
+      "meaning": "If you would hear, they would be silent.",
+      "audio": "0f6f5d1f718087958ec9bb004765d0dbd7f9c0aab592ba6203edaea7a3f62cf1",
+      "id": "eef9711c61b7",
+      "priority": 1,
+      "group": "234093b54fbb"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "If",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nвꙑ\nтꙑ"
+        },
+        {
+          "word": "would",
+          "definition": "undefined"
+        },
+        {
+          "word": "hear,",
+          "definition": "undefined"
+        },
+        {
+          "word": "they",
+          "definition": "undefined\nони\nонꙑ"
+        },
+        {
+          "word": "would",
+          "definition": "undefined"
+        },
+        {
+          "word": "be",
+          "definition": "undefined"
+        },
+        {
+          "word": "silent.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Какъ",
+        "тꙑ",
+        "бꙑхъ",
+        "слꙑшалъ",
+        "тъ",
+        "они",
+        "бꙑ",
+        "бꙑли",
+        "тихи",
+        "бꙑлъ",
+        "Мꙑ",
+        "Вꙑ",
+        "ли",
+        "бꙑти",
+        "Тꙑ",
+        "тꙑмъ",
+        "нъ"
+      ],
+      "solutions": [
+        [
+          "Какъ",
+          "тꙑ",
+          "бꙑхъ",
+          "слꙑшалъ",
+          "тъ",
+          "они",
+          "бꙑ",
+          "бꙑли",
+          "тихи"
+        ]
+      ],
+      "formattedSolution": "Какъ тꙑ бꙑхъ слꙑшалъ, тъ они бꙑ бꙑли тихи.",
+      "id": "d9f2bac91f6f",
+      "priority": 2,
+      "group": "234093b54fbb"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Какъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "тꙑ",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "бꙑхъ",
+          "definition": "I would be\nundefined"
+        },
+        {
+          "word": "слꙑшалъ,",
+          "definition": "undefined"
+        },
+        {
+          "word": "тъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "они",
+          "definition": "they\nundefined"
+        },
+        {
+          "word": "бꙑ",
+          "definition": "he/she/it would be\nthey would be\nundefined"
+        },
+        {
+          "word": "бꙑли",
+          "definition": "undefined\nwere"
+        },
+        {
+          "word": "тихи.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "If",
+        "you",
+        "would",
+        "hear",
+        "they",
+        "would",
+        "be",
+        "silent",
+        "her",
+        "wet",
+        "bed",
+        "old",
+        "We",
+        "He",
+        "You"
+      ],
+      "solutions": [
+        [
+          "If",
+          "you",
+          "would",
+          "hear",
+          "they",
+          "would",
+          "be",
+          "silent"
+        ]
+      ],
+      "formattedSolution": "If you would hear, they would be silent.",
+      "id": "0d4d26ceb23c",
+      "priority": 2,
+      "group": "234093b54fbb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мѫдръ знаѥтъ мьного.",
+      "meaningInSourceLanguage": "A smart person knows much.",
+      "id": "2b52a56c3b60",
+      "priority": 0,
+      "group": "798457b540f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мѫдръ знаѥтъ мьного.",
+      "meaning": "A smart person knows much.",
+      "audio": "072e5ce99b1952dd6abd26db780c1685e9548969c4df5583c02935280f2c2f82",
+      "id": "90961ed100c6",
+      "priority": 1,
+      "group": "798457b540f8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "smart",
+          "definition": "undefined"
+        },
+        {
+          "word": "person",
+          "definition": "undefined\nчловѣкъ"
+        },
+        {
+          "word": "knows",
+          "definition": "undefined"
+        },
+        {
+          "word": "much.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Мѫдръ",
+        "знаѥтъ",
+        "мьного",
+        "мѫдръ",
+        "знамъ"
+      ],
+      "solutions": [
+        [
+          "Мѫдръ",
+          "знаѥтъ",
+          "мьного"
+        ]
+      ],
+      "formattedSolution": "Мѫдръ знаѥтъ мьного.",
+      "id": "78ac01394f3d",
+      "priority": 2,
+      "group": "798457b540f8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мѫдръ",
+          "definition": "undefined\nwise"
+        },
+        {
+          "word": "знаѥтъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "мьного.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "smart",
+        "person",
+        "knows",
+        "much",
+        "so",
+        "son",
+        "man",
+        "not"
+      ],
+      "solutions": [
+        [
+          "A",
+          "smart",
+          "person",
+          "knows",
+          "much"
+        ]
+      ],
+      "formattedSolution": "A smart person knows much.",
+      "id": "8cf5907bc575",
+      "priority": 2,
+      "group": "798457b540f8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Какъ тꙑ бꙑши нє бꙑлъ глꙋпъ, тъ бꙑши нє дѣлалъ глꙋпостии.",
+      "meaningInSourceLanguage": "If you were not stupid, you would not do foolish things.",
+      "id": "52d50c92ad47",
+      "priority": 0,
+      "group": "0fd23cb8fa58"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Какъ тꙑ бꙑши нє бꙑлъ глꙋпъ, тъ бꙑши нє дѣлалъ глꙋпостии.",
+      "meaning": "If you were not stupid, you would not do foolish things.",
+      "audio": "50ad6fe1f68e472beedddc034fa58051a275246ce0471612671082abaf4a64a3",
+      "id": "89043c2b2308",
+      "priority": 1,
+      "group": "0fd23cb8fa58"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "If",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nвꙑ\nтꙑ"
+        },
+        {
+          "word": "were",
+          "definition": "undefined\nбꙑли"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "stupid,",
+          "definition": "undefined\nглꙋпъ"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nвꙑ\nтꙑ"
+        },
+        {
+          "word": "would",
+          "definition": "undefined"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "do",
+          "definition": "undefined"
+        },
+        {
+          "word": "foolish",
+          "definition": "undefined"
+        },
+        {
+          "word": "things.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Какъ",
+        "тꙑ",
+        "бꙑши",
+        "нє",
+        "бꙑлъ",
+        "глꙋпъ",
+        "тъ",
+        "бꙑши",
+        "нє",
+        "дѣлалъ",
+        "глꙋпостии",
+        "ли",
+        "нъ",
+        "бꙑ",
+        "къ",
+        "Съ",
+        "въ",
+        "отъ",
+        "та",
+        "Мꙑ",
+        "Вꙑ"
+      ],
+      "solutions": [
+        [
+          "Какъ",
+          "тꙑ",
+          "бꙑши",
+          "нє",
+          "бꙑлъ",
+          "глꙋпъ",
+          "тъ",
+          "бꙑши",
+          "нє",
+          "дѣлалъ",
+          "глꙋпостии"
+        ]
+      ],
+      "formattedSolution": "Какъ тꙑ бꙑши нє бꙑлъ глꙋпъ, тъ бꙑши нє дѣлалъ глꙋпостии.",
+      "id": "eeaf6e6b6151",
+      "priority": 2,
+      "group": "0fd23cb8fa58"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Какъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "тꙑ",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "бꙑши",
+          "definition": "undefined\nyou would be"
+        },
+        {
+          "word": "нє",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "бꙑлъ",
+          "definition": "undefined\nwas"
+        },
+        {
+          "word": "глꙋпъ,",
+          "definition": "stupid\nundefined"
+        },
+        {
+          "word": "тъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "бꙑши",
+          "definition": "undefined\nyou would be"
+        },
+        {
+          "word": "нє",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "дѣлалъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "глꙋпостии.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "If",
+        "you",
+        "were",
+        "not",
+        "stupid",
+        "you",
+        "would",
+        "not",
+        "do",
+        "foolish",
+        "things",
+        "You",
+        "so",
+        "too",
+        "dot",
+        "pot",
+        "hot",
+        "now",
+        "To",
+        "for",
+        "Not"
+      ],
+      "solutions": [
+        [
+          "If",
+          "you",
+          "were",
+          "not",
+          "stupid",
+          "you",
+          "would",
+          "not",
+          "do",
+          "foolish",
+          "things"
+        ]
+      ],
+      "formattedSolution": "If you were not stupid, you would not do foolish things.",
+      "id": "c79369b94b1d",
+      "priority": 2,
+      "group": "0fd23cb8fa58"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Искрєнъи приꙗтєль ѥстъ драгоцѣньнъи.",
+      "meaningInSourceLanguage": "A sincere friend is valuable.",
+      "id": "f12a86da35d2",
+      "priority": 0,
+      "group": "08084d2527f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Искрєнъи приꙗтєль ѥстъ драгоцѣньнъи.",
+      "meaning": "A sincere friend is valuable.",
+      "audio": "be71563cb67713c405ace4ed930c4cc8392856203551571e1be79f44b2e5af4d",
+      "id": "906c2a55414a",
+      "priority": 1,
+      "group": "08084d2527f2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "sincere",
+          "definition": "undefined\nискрєнъ"
+        },
+        {
+          "word": "friend",
+          "definition": "undefined\nприꙗтєль"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "valuable.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Искрєнъи",
+        "приꙗтєль",
+        "ѥстъ",
+        "драгоцѣньнъи",
+        "простъи",
+        "остръи",
+        "растєтъ"
+      ],
+      "solutions": [
+        [
+          "Искрєнъи",
+          "приꙗтєль",
+          "ѥстъ",
+          "драгоцѣньнъи"
+        ]
+      ],
+      "formattedSolution": "Искрєнъи приꙗтєль ѥстъ драгоцѣньнъи.",
+      "id": "1049b73e0475",
+      "priority": 2,
+      "group": "08084d2527f2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Искрєнъи",
+          "definition": "undefined"
+        },
+        {
+          "word": "приꙗтєль",
+          "definition": "friend\nundefined"
+        },
+        {
+          "word": "ѥстъ",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "драгоцѣньнъи.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "sincere",
+        "friend",
+        "is",
+        "valuable",
+        "in",
+        "are",
+        "line",
+        "be"
+      ],
+      "solutions": [
+        [
+          "A",
+          "sincere",
+          "friend",
+          "is",
+          "valuable"
+        ]
+      ],
+      "formattedSolution": "A sincere friend is valuable.",
+      "id": "06100e590a3b",
+      "priority": 2,
+      "group": "08084d2527f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ꙗко они бꙑ бꙑли нє лѣниви, тъ мꙑ бꙑхомъ имъ помагали.",
+      "meaningInSourceLanguage": "If they were not lazy, we would help them.",
+      "id": "6f8fb335bbcb",
+      "priority": 0,
+      "group": "e53093ad49de"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ꙗко они бꙑ бꙑли нє лѣниви, тъ мꙑ бꙑхомъ имъ помагали.",
+      "meaning": "If they were not lazy, we would help them.",
+      "audio": "52ebf069e55759c1bb5c853c8a6e6853d173c5adff22082b85ac0e5ef24c7479",
+      "id": "96a340cc716b",
+      "priority": 1,
+      "group": "e53093ad49de"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "If",
+          "definition": "undefined"
+        },
+        {
+          "word": "they",
+          "definition": "undefined\nони\nонꙑ"
+        },
+        {
+          "word": "were",
+          "definition": "undefined\nбꙑли"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "lazy,",
+          "definition": "undefined\nлѣнивъ"
+        },
+        {
+          "word": "we",
+          "definition": "undefined\nмꙑ"
+        },
+        {
+          "word": "would",
+          "definition": "undefined"
+        },
+        {
+          "word": "help",
+          "definition": "undefined"
+        },
+        {
+          "word": "them.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "ꙗко",
+        "они",
+        "бꙑ",
+        "бꙑли",
+        "нє",
+        "лѣниви",
+        "тъ",
+        "мꙑ",
+        "бꙑхомъ",
+        "имъ",
+        "помагали",
+        "ли",
+        "нъ",
+        "тꙑ",
+        "Мꙑ",
+        "Вꙑ",
+        "Си",
+        "въ",
+        "къ",
+        "по",
+        "о"
+      ],
+      "solutions": [
+        [
+          "ꙗко",
+          "они",
+          "бꙑ",
+          "бꙑли",
+          "нє",
+          "лѣниви",
+          "тъ",
+          "мꙑ",
+          "бꙑхомъ",
+          "имъ",
+          "помагали"
+        ]
+      ],
+      "formattedSolution": "ꙗко они бꙑ бꙑли нє лѣниви, тъ мꙑ бꙑхомъ имъ помагали.",
+      "id": "91971db49dd5",
+      "priority": 2,
+      "group": "e53093ad49de"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "ꙗко",
+          "definition": "undefined"
+        },
+        {
+          "word": "они",
+          "definition": "they\nundefined"
+        },
+        {
+          "word": "бꙑ",
+          "definition": "he/she/it would be\nthey would be\nundefined"
+        },
+        {
+          "word": "бꙑли",
+          "definition": "undefined\nwere"
+        },
+        {
+          "word": "нє",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "лѣниви,",
+          "definition": "undefined"
+        },
+        {
+          "word": "тъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "мꙑ",
+          "definition": "undefined\nwe"
+        },
+        {
+          "word": "бꙑхомъ",
+          "definition": "undefined\nwe would be"
+        },
+        {
+          "word": "имъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "помагали.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "If",
+        "they",
+        "were",
+        "not",
+        "lazy",
+        "we",
+        "would",
+        "help",
+        "them",
+        "the",
+        "her",
+        "wet",
+        "She",
+        "We",
+        "He",
+        "me",
+        "tea"
+      ],
+      "solutions": [
+        [
+          "If",
+          "they",
+          "were",
+          "not",
+          "lazy",
+          "we",
+          "would",
+          "help",
+          "them"
+        ]
+      ],
+      "formattedSolution": "If they were not lazy, we would help them.",
+      "id": "958f79724239",
+      "priority": 2,
+      "group": "e53093ad49de"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она ѥстъ добра и искрєна.",
+      "meaningInSourceLanguage": "She is good and sincere.",
+      "id": "675545b153ac",
+      "priority": 0,
+      "group": "d22784a1dd4b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она ѥстъ добра и искрєна.",
+      "meaning": "She is good and sincere.",
+      "audio": "e0cf3bb80deec5b33d569a510f83ef9bf15d7a5e955a1f253d8584bbbbc01dec",
+      "id": "0d98089efec8",
+      "priority": 1,
+      "group": "d22784a1dd4b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "good",
+          "definition": "undefined\nдобръ"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "sincere.",
+          "definition": "undefined\nискрєнъ"
+        }
+      ],
+      "chips": [
+        "Она",
+        "ѥстъ",
+        "добра",
+        "и",
+        "искрєна",
+        "она",
+        "окна",
+        "кина",
+        "а"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "ѥстъ",
+          "добра",
+          "и",
+          "искрєна"
+        ]
+      ],
+      "formattedSolution": "Она ѥстъ добра и искрєна.",
+      "id": "6e7acbe21298",
+      "priority": 2,
+      "group": "d22784a1dd4b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "ѥстъ",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "добра",
+          "definition": "undefined"
+        },
+        {
+          "word": "и",
+          "definition": "undefined"
+        },
+        {
+          "word": "искрєна.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "is",
+        "good",
+        "and",
+        "sincere",
+        "in",
+        "are",
+        "And",
+        "an"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is",
+          "good",
+          "and",
+          "sincere"
+        ]
+      ],
+      "formattedSolution": "She is good and sincere.",
+      "id": "779455887ca1",
+      "priority": 2,
+      "group": "d22784a1dd4b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Онъ ѥстъ силььнъ алє смѣлъ.",
+      "meaningInSourceLanguage": "He is strong but brave.",
+      "id": "255f7ec64d97",
+      "priority": 0,
+      "group": "91b208e71efc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Онъ ѥстъ силььнъ алє смѣлъ.",
+      "meaning": "He is strong but brave.",
+      "audio": "a4ad0ad999e8ef2ebaa1977cda2decf0b7735bcdf795004d257449cd5abf2fce",
+      "id": "1278b93204c1",
+      "priority": 1,
+      "group": "91b208e71efc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nонъ"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "strong",
+          "definition": "undefined\nсилььнъ"
+        },
+        {
+          "word": "but",
+          "definition": "undefined"
+        },
+        {
+          "word": "brave.",
+          "definition": "undefined\nсмѣлъ"
+        }
+      ],
+      "chips": [
+        "Онъ",
+        "ѥстъ",
+        "силььнъ",
+        "алє",
+        "смѣлъ",
+        "милъ",
+        "ѥмъ",
+        "бѣлъ",
+        "нъ"
+      ],
+      "solutions": [
+        [
+          "Онъ",
+          "ѥстъ",
+          "силььнъ",
+          "алє",
+          "смѣлъ"
+        ]
+      ],
+      "formattedSolution": "Онъ ѥстъ силььнъ алє смѣлъ.",
+      "id": "208e4ec55ea0",
+      "priority": 2,
+      "group": "91b208e71efc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Онъ",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "ѥстъ",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "силььнъ",
+          "definition": "strong\nundefined"
+        },
+        {
+          "word": "алє",
+          "definition": "undefined"
+        },
+        {
+          "word": "смѣлъ.",
+          "definition": "brave\nundefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "strong",
+        "but",
+        "brave",
+        "be",
+        "it",
+        "at",
+        "We"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "strong",
+          "but",
+          "brave"
+        ]
+      ],
+      "formattedSolution": "He is strong but brave.",
+      "id": "883269133961",
+      "priority": 2,
+      "group": "91b208e71efc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Дѣтє сѫтъ мѫдрє за ихъ вѣкъ.",
+      "meaningInSourceLanguage": "Children are wiser for their age.",
+      "id": "7127d534b789",
+      "priority": 0,
+      "group": "a9d581c4abf7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Дѣтє сѫтъ мѫдрє за ихъ вѣкъ.",
+      "meaning": "Children are wiser for their age.",
+      "audio": "d33420b1f835bca298c559b8bb8f1e60fae9830110b8acdb72364feb11bc8fae",
+      "id": "fc7037f98a75",
+      "priority": 1,
+      "group": "a9d581c4abf7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Children",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nсѫтъ\nѥси\nѥсмъ\nѥстє"
+        },
+        {
+          "word": "wiser",
+          "definition": "undefined"
+        },
+        {
+          "word": "for",
+          "definition": "undefined\nза"
+        },
+        {
+          "word": "their",
+          "definition": "undefined"
+        },
+        {
+          "word": "age.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Дѣтє",
+        "сѫтъ",
+        "мѫдрє",
+        "за",
+        "ихъ",
+        "вѣкъ",
+        "тъ",
+        "въ",
+        "изъ",
+        "къ",
+        "отъ"
+      ],
+      "solutions": [
+        [
+          "Дѣтє",
+          "сѫтъ",
+          "мѫдрє",
+          "за",
+          "ихъ",
+          "вѣкъ"
+        ]
+      ],
+      "formattedSolution": "Дѣтє сѫтъ мѫдрє за ихъ вѣкъ.",
+      "id": "6814cd3b9957",
+      "priority": 2,
+      "group": "a9d581c4abf7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Дѣтє",
+          "definition": "undefined"
+        },
+        {
+          "word": "сѫтъ",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "мѫдрє",
+          "definition": "undefined"
+        },
+        {
+          "word": "за",
+          "definition": "for\nundefined"
+        },
+        {
+          "word": "ихъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "вѣкъ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Children",
+        "are",
+        "wiser",
+        "for",
+        "their",
+        "age",
+        "air",
+        "the",
+        "her",
+        "She",
+        "Are"
+      ],
+      "solutions": [
+        [
+          "Children",
+          "are",
+          "wiser",
+          "for",
+          "their",
+          "age"
+        ]
+      ],
+      "formattedSolution": "Children are wiser for their age.",
+      "id": "a4999ecd3b0a",
+      "priority": 2,
+      "group": "a9d581c4abf7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Какъ вꙑ нє бꙑстє бꙑли слаби, тъ вꙑ бꙑстє работали.",
+      "meaningInSourceLanguage": "If you were not weak, you would work.",
+      "id": "d1ce5f0d8090",
+      "priority": 0,
+      "group": "e61728a9c237"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Какъ вꙑ нє бꙑстє бꙑли слаби, тъ вꙑ бꙑстє работали.",
+      "meaning": "If you were not weak, you would work.",
+      "audio": "243b5038a0cd458cc0542517fbe999e47f1e84ee11458f9285fc44402a353705",
+      "id": "83f7f3fc9799",
+      "priority": 1,
+      "group": "e61728a9c237"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "If",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nвꙑ\nтꙑ"
+        },
+        {
+          "word": "were",
+          "definition": "undefined\nбꙑли"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "weak,",
+          "definition": "undefined\nслабъ"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nвꙑ\nтꙑ"
+        },
+        {
+          "word": "would",
+          "definition": "undefined"
+        },
+        {
+          "word": "work.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Какъ",
+        "вꙑ",
+        "нє",
+        "бꙑстє",
+        "бꙑли",
+        "слаби",
+        "тъ",
+        "вꙑ",
+        "бꙑстє",
+        "работали",
+        "бꙑ",
+        "бꙑти",
+        "тꙑ",
+        "та",
+        "ли",
+        "Мꙑ",
+        "Вꙑ",
+        "бꙑлъ",
+        "въ"
+      ],
+      "solutions": [
+        [
+          "Какъ",
+          "вꙑ",
+          "нє",
+          "бꙑстє",
+          "бꙑли",
+          "слаби",
+          "тъ",
+          "вꙑ",
+          "бꙑстє",
+          "работали"
+        ]
+      ],
+      "formattedSolution": "Какъ вꙑ нє бꙑстє бꙑли слаби, тъ вꙑ бꙑстє работали.",
+      "id": "5bf61e6e80da",
+      "priority": 2,
+      "group": "e61728a9c237"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Какъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "вꙑ",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "нє",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "бꙑстє",
+          "definition": "undefined\nyou would be"
+        },
+        {
+          "word": "бꙑли",
+          "definition": "undefined\nwere"
+        },
+        {
+          "word": "слаби,",
+          "definition": "undefined"
+        },
+        {
+          "word": "тъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "вꙑ",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "бꙑстє",
+          "definition": "undefined\nyou would be"
+        },
+        {
+          "word": "работали.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "If",
+        "you",
+        "were",
+        "not",
+        "weak",
+        "you",
+        "would",
+        "work",
+        "You",
+        "or",
+        "wore",
+        "for",
+        "of",
+        "wet",
+        "wolf"
+      ],
+      "solutions": [
+        [
+          "If",
+          "you",
+          "were",
+          "not",
+          "weak",
+          "you",
+          "would",
+          "work"
+        ]
+      ],
+      "formattedSolution": "If you were not weak, you would work.",
+      "id": "b80e0c45fb36",
+      "priority": 2,
+      "group": "e61728a9c237"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Злє слова болѧтъ.",
+      "meaningInSourceLanguage": "Bad words hurt.",
+      "id": "5b33f506fb7a",
+      "priority": 0,
+      "group": "f4f89cee672e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Злє слова болѧтъ.",
+      "meaning": "Bad words hurt.",
+      "audio": "c40a73a6d2f44207eea1f70f0f3b4f8c83fcd884588d94c8704e365ff9ad72cb",
+      "id": "f9d6a0a4ce1d",
+      "priority": 1,
+      "group": "f4f89cee672e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Bad",
+          "definition": "undefined\nзълъ"
+        },
+        {
+          "word": "words",
+          "definition": "undefined"
+        },
+        {
+          "word": "hurt.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Злє",
+        "слова",
+        "болѧтъ",
+        "соли",
+        "отъ"
+      ],
+      "solutions": [
+        [
+          "Злє",
+          "слова",
+          "болѧтъ"
+        ]
+      ],
+      "formattedSolution": "Злє слова болѧтъ.",
+      "id": "4ea40439096a",
+      "priority": 2,
+      "group": "f4f89cee672e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Злє",
+          "definition": "undefined"
+        },
+        {
+          "word": "слова",
+          "definition": "undefined"
+        },
+        {
+          "word": "болѧтъ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Bad",
+        "words",
+        "hurt",
+        "had",
+        "car"
+      ],
+      "solutions": [
+        [
+          "Bad",
+          "words",
+          "hurt"
+        ]
+      ],
+      "formattedSolution": "Bad words hurt.",
+      "id": "d533d8eec1a9",
+      "priority": 2,
+      "group": "f4f89cee672e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Глꙋпъ нє оучитъ сѧ.",
+      "meaningInSourceLanguage": "Stupid people do not learn.",
+      "id": "671fbc8ef4d1",
+      "priority": 0,
+      "group": "4ef968d82a70"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Глꙋпъ нє оучитъ сѧ.",
+      "meaning": "Stupid people do not learn.",
+      "audio": "da430781f8b474b03622664bc0bc23ced23020c07143f55f1f1ad02fcd2c55c3",
+      "id": "3aaee9e95e78",
+      "priority": 1,
+      "group": "4ef968d82a70"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Stupid",
+          "definition": "undefined\nглꙋпъ"
+        },
+        {
+          "word": "people",
+          "definition": "undefined"
+        },
+        {
+          "word": "do",
+          "definition": "undefined"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "learn.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Глꙋпъ",
+        "нє",
+        "оучитъ",
+        "сѧ",
+        "тъ",
+        "нъ",
+        "ли"
+      ],
+      "solutions": [
+        [
+          "Глꙋпъ",
+          "нє",
+          "оучитъ",
+          "сѧ"
+        ]
+      ],
+      "formattedSolution": "Глꙋпъ нє оучитъ сѧ.",
+      "id": "c21335bb8cc6",
+      "priority": 2,
+      "group": "4ef968d82a70"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Глꙋпъ",
+          "definition": "stupid\nundefined"
+        },
+        {
+          "word": "нє",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "оучитъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "сѧ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Stupid",
+        "people",
+        "do",
+        "not",
+        "learn",
+        "pot",
+        "lot",
+        "pen",
+        "dot"
+      ],
+      "solutions": [
+        [
+          "Stupid",
+          "people",
+          "do",
+          "not",
+          "learn"
+        ]
+      ],
+      "formattedSolution": "Stupid people do not learn.",
+      "id": "01ef00645b7d",
+      "priority": 2,
+      "group": "4ef968d82a70"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Лѣнивъ нє хощєтъ ничєсого дѣлати.",
+      "meaningInSourceLanguage": "Lazy people do not want to do anything.",
+      "id": "1ca83eec050c",
+      "priority": 0,
+      "group": "5bfcd977c80c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Лѣнивъ нє хощєтъ ничєсого дѣлати.",
+      "meaning": "Lazy people do not want to do anything.",
+      "audio": "9418c58fe69ae647ec28a4cf49506ef4c38f793014f3aa8bdc4fa5e67adfb25d",
+      "id": "eeec9fec41c0",
+      "priority": 1,
+      "group": "5bfcd977c80c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Lazy",
+          "definition": "undefined\nлѣнивъ"
+        },
+        {
+          "word": "people",
+          "definition": "undefined"
+        },
+        {
+          "word": "do",
+          "definition": "undefined"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "want",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "do",
+          "definition": "undefined"
+        },
+        {
+          "word": "anything.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Лѣнивъ",
+        "нє",
+        "хощєтъ",
+        "ничєсого",
+        "дѣлати",
+        "нєсєтъ",
+        "идєтъ",
+        "нова",
+        "нъ"
+      ],
+      "solutions": [
+        [
+          "Лѣнивъ",
+          "нє",
+          "хощєтъ",
+          "ничєсого",
+          "дѣлати"
+        ]
+      ],
+      "formattedSolution": "Лѣнивъ нє хощєтъ ничєсого дѣлати.",
+      "id": "8240bcdd496b",
+      "priority": 2,
+      "group": "5bfcd977c80c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Лѣнивъ",
+          "definition": "lazy\nundefined"
+        },
+        {
+          "word": "нє",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "хощєтъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "ничєсого",
+          "definition": "undefined"
+        },
+        {
+          "word": "дѣлати.",
+          "definition": "to do/make\nundefined"
+        }
+      ],
+      "chips": [
+        "Lazy",
+        "people",
+        "do",
+        "not",
+        "want",
+        "to",
+        "do",
+        "anything",
+        "dot",
+        "at",
+        "pot",
+        "To",
+        "so",
+        "Not",
+        "No"
+      ],
+      "solutions": [
+        [
+          "Lazy",
+          "people",
+          "do",
+          "not",
+          "want",
+          "to",
+          "do",
+          "anything"
+        ]
+      ],
+      "formattedSolution": "Lazy people do not want to do anything.",
+      "id": "38196701ce21",
+      "priority": 2,
+      "group": "5bfcd977c80c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Искрєнъи глаголи чьто мꙑслитъ.",
+      "meaningInSourceLanguage": "A sincere person says what they think.",
+      "id": "6f54dea07336",
+      "priority": 0,
+      "group": "e29b332a3ebb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Искрєнъи глаголи чьто мꙑслитъ.",
+      "meaning": "A sincere person says what they think.",
+      "audio": "fc9a7b3d2cd673b3e6cde695e2d072b383ed0bd6f927eb41c073507bfc1226cb",
+      "id": "64de05dc0cd3",
+      "priority": 1,
+      "group": "e29b332a3ebb"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "sincere",
+          "definition": "undefined\nискрєнъ"
+        },
+        {
+          "word": "person",
+          "definition": "undefined\nчловѣкъ"
+        },
+        {
+          "word": "says",
+          "definition": "undefined"
+        },
+        {
+          "word": "what",
+          "definition": "undefined\nчьто"
+        },
+        {
+          "word": "they",
+          "definition": "undefined\nони\nонꙑ"
+        },
+        {
+          "word": "think.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Искрєнъи",
+        "глаголи",
+        "чьто",
+        "мꙑслитъ",
+        "соли",
+        "ѥстъ",
+        "сѫтъ"
+      ],
+      "solutions": [
+        [
+          "Искрєнъи",
+          "глаголи",
+          "чьто",
+          "мꙑслитъ"
+        ]
+      ],
+      "formattedSolution": "Искрєнъи глаголи чьто мꙑслитъ.",
+      "id": "d9bdb54268af",
+      "priority": 2,
+      "group": "e29b332a3ebb"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Искрєнъи",
+          "definition": "undefined"
+        },
+        {
+          "word": "глаголи",
+          "definition": "speaks\nundefined"
+        },
+        {
+          "word": "чьто",
+          "definition": "undefined\nwhat"
+        },
+        {
+          "word": "мꙑслитъ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "sincere",
+        "person",
+        "says",
+        "what",
+        "they",
+        "think",
+        "her",
+        "then",
+        "thin",
+        "the",
+        "his",
+        "son"
+      ],
+      "solutions": [
+        [
+          "A",
+          "sincere",
+          "person",
+          "says",
+          "what",
+          "they",
+          "think"
+        ]
+      ],
+      "formattedSolution": "A sincere person says what they think.",
+      "id": "d1e971f4cfb0",
+      "priority": 2,
+      "group": "e29b332a3ebb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мѫдръ молъчитъ къгда трѣба.",
+      "meaningInSourceLanguage": "A wise person stays silent when needed.",
+      "id": "c892cad2d7ed",
+      "priority": 0,
+      "group": "59efba25d50a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мѫдръ молъчитъ къгда трѣба.",
+      "meaning": "A wise person stays silent when needed.",
+      "audio": "9c7f64884d73314151b16d516f4e15000caeeebaddb719c7a78a0f44b05c2f91",
+      "id": "f29eea6c2841",
+      "priority": 1,
+      "group": "59efba25d50a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "wise",
+          "definition": "undefined\nмѫдръ"
+        },
+        {
+          "word": "person",
+          "definition": "undefined\nчловѣкъ"
+        },
+        {
+          "word": "stays",
+          "definition": "undefined"
+        },
+        {
+          "word": "silent",
+          "definition": "undefined"
+        },
+        {
+          "word": "when",
+          "definition": "undefined"
+        },
+        {
+          "word": "needed.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Мѫдръ",
+        "молъчитъ",
+        "къгда",
+        "трѣба",
+        "мѫдръ",
+        "мѫдра",
+        "тръга"
+      ],
+      "solutions": [
+        [
+          "Мѫдръ",
+          "молъчитъ",
+          "къгда",
+          "трѣба"
+        ]
+      ],
+      "formattedSolution": "Мѫдръ молъчитъ къгда трѣба.",
+      "id": "02f9617677a0",
+      "priority": 2,
+      "group": "59efba25d50a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мѫдръ",
+          "definition": "undefined\nwise"
+        },
+        {
+          "word": "молъчитъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "къгда",
+          "definition": "undefined"
+        },
+        {
+          "word": "трѣба.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "wise",
+        "person",
+        "stays",
+        "silent",
+        "when",
+        "needed",
+        "see",
+        "pen",
+        "sees",
+        "ten",
+        "Yes",
+        "son"
+      ],
+      "solutions": [
+        [
+          "A",
+          "wise",
+          "person",
+          "stays",
+          "silent",
+          "when",
+          "needed"
+        ]
+      ],
+      "formattedSolution": "A wise person stays silent when needed.",
+      "id": "4e4883644211",
+      "priority": 2,
+      "group": "59efba25d50a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Какъ ꙗ бꙑ бꙑлъ смѣлъ, тъ ꙗ бꙑ нє боꙗлъ сѧ.",
+      "meaningInSourceLanguage": "If I were brave, I would not be afraid.",
+      "id": "db017936aef2",
+      "priority": 0,
+      "group": "928c4bf819b6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Какъ ꙗ бꙑ бꙑлъ смѣлъ, тъ ꙗ бꙑ нє боꙗлъ сѧ.",
+      "meaning": "If I were brave, I would not be afraid.",
+      "audio": "8ca46138e87bd96a0801cfe901795aa0045432dba885a3abde96bab635774bfc",
+      "id": "a025fc1435e8",
+      "priority": 1,
+      "group": "928c4bf819b6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "If",
+          "definition": "undefined"
+        },
+        {
+          "word": "I",
+          "definition": "азъ"
+        },
+        {
+          "word": "were",
+          "definition": "undefined\nбꙑли"
+        },
+        {
+          "word": "brave,",
+          "definition": "undefined\nсмѣлъ"
+        },
+        {
+          "word": "I",
+          "definition": "азъ"
+        },
+        {
+          "word": "would",
+          "definition": "undefined"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "be",
+          "definition": "undefined"
+        },
+        {
+          "word": "afraid.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Какъ",
+        "ꙗ",
+        "бꙑ",
+        "бꙑлъ",
+        "смѣлъ",
+        "тъ",
+        "ꙗ",
+        "бꙑ",
+        "нє",
+        "боꙗлъ",
+        "сѧ",
+        "нъ",
+        "къ",
+        "Съ",
+        "въ",
+        "тꙑ",
+        "Мꙑ",
+        "Вꙑ",
+        "ли",
+        "о",
+        "а"
+      ],
+      "solutions": [
+        [
+          "Какъ",
+          "ꙗ",
+          "бꙑ",
+          "бꙑлъ",
+          "смѣлъ",
+          "тъ",
+          "ꙗ",
+          "бꙑ",
+          "нє",
+          "боꙗлъ",
+          "сѧ"
+        ]
+      ],
+      "formattedSolution": "Какъ ꙗ бꙑ бꙑлъ смѣлъ, тъ ꙗ бꙑ нє боꙗлъ сѧ.",
+      "id": "9d0f7378bf80",
+      "priority": 2,
+      "group": "928c4bf819b6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Какъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "ꙗ",
+          "definition": "undefined"
+        },
+        {
+          "word": "бꙑ",
+          "definition": "he/she/it would be\nthey would be\nundefined"
+        },
+        {
+          "word": "бꙑлъ",
+          "definition": "undefined\nwas"
+        },
+        {
+          "word": "смѣлъ,",
+          "definition": "brave\nundefined"
+        },
+        {
+          "word": "тъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "ꙗ",
+          "definition": "undefined"
+        },
+        {
+          "word": "бꙑ",
+          "definition": "he/she/it would be\nthey would be\nundefined"
+        },
+        {
+          "word": "нє",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "боꙗлъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "сѧ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "If",
+        "I",
+        "were",
+        "brave",
+        "I",
+        "would",
+        "not",
+        "be",
+        "afraid",
+        "or",
+        "a",
+        "of",
+        "We",
+        "are",
+        "He",
+        "me",
+        "at"
+      ],
+      "solutions": [
+        [
+          "If",
+          "I",
+          "were",
+          "brave",
+          "I",
+          "would",
+          "not",
+          "be",
+          "afraid"
+        ]
+      ],
+      "formattedSolution": "If I were brave, I would not be afraid.",
+      "id": "3e321882f683",
+      "priority": 2,
+      "group": "928c4bf819b6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "добръ",
+      "meaningInSourceLanguage": "good",
+      "id": "542bd5cb16b2",
+      "priority": 0,
+      "group": "e00e8ffcdc56"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "добръ"
+      ],
+      "phrase": [
+        {
+          "word": "good",
+          "definition": "undefined\nдобръ"
+        }
+      ],
+      "id": "db154348c7a8",
+      "priority": 1,
+      "group": "e00e8ffcdc56"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "добръ",
+      "meaning": "good",
+      "audio": "99fc86becca0d2e0b8808fea28dc187ede81fd9deb9da8ccac10d8904d64b9cb",
+      "id": "16ae798d1bf4",
+      "priority": 1,
+      "group": "e00e8ffcdc56"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "зълъ",
+      "meaningInSourceLanguage": "bad",
+      "id": "fa5010ec3d3e",
+      "priority": 0,
+      "group": "22f79f443354"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "зълъ"
+      ],
+      "phrase": [
+        {
+          "word": "bad",
+          "definition": "undefined\nзълъ"
+        }
+      ],
+      "id": "642beb814966",
+      "priority": 1,
+      "group": "22f79f443354"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "зълъ",
+      "meaning": "bad",
+      "audio": "74c544d99a914dc4edea43991c2a833b8e2e282ccc944615d471ae8bf3d2135d",
+      "id": "f0d6615e80d5",
+      "priority": 1,
+      "group": "22f79f443354"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "силььнъ",
+      "meaningInSourceLanguage": "strong",
+      "id": "2fb959ee15f5",
+      "priority": 0,
+      "group": "56cfce6b22b6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "силььнъ"
+      ],
+      "phrase": [
+        {
+          "word": "strong",
+          "definition": "undefined\nсилььнъ"
+        }
+      ],
+      "id": "b4363026b10d",
+      "priority": 1,
+      "group": "56cfce6b22b6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "силььнъ",
+      "meaning": "strong",
+      "audio": "f82466e00ebe78fd2c1a77eab830efc14461d6c870a10cbe36f91c742c014079",
+      "id": "7376691d77bb",
+      "priority": 1,
+      "group": "56cfce6b22b6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "слабъ",
+      "meaningInSourceLanguage": "weak",
+      "id": "565d2560084c",
+      "priority": 0,
+      "group": "49a598d8011f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "слабъ"
+      ],
+      "phrase": [
+        {
+          "word": "weak",
+          "definition": "undefined\nслабъ"
+        }
+      ],
+      "id": "e57c56d3ce2f",
+      "priority": 1,
+      "group": "49a598d8011f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "слабъ",
+      "meaning": "weak",
+      "audio": "49d8ff31d50ba1729e0fc00ced6ff1a86b39a8cd0caff9c76476e33d4d5d4989",
+      "id": "8b054993fd7e",
+      "priority": 1,
+      "group": "49a598d8011f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "смѣлъ",
+      "meaningInSourceLanguage": "brave",
+      "id": "bda85e9cfa9b",
+      "priority": 0,
+      "group": "566166ac6df9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "смѣлъ"
+      ],
+      "phrase": [
+        {
+          "word": "brave",
+          "definition": "undefined\nсмѣлъ"
+        }
+      ],
+      "id": "0c9709fc45ad",
+      "priority": 1,
+      "group": "566166ac6df9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "смѣлъ",
+      "meaning": "brave",
+      "audio": "4d4856e8ee536890e3c87534de8266ce27e031fb86694f599087567cd957657c",
+      "id": "28651ff04473",
+      "priority": 1,
+      "group": "566166ac6df9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "тихъ",
+      "meaningInSourceLanguage": "quiet",
+      "id": "ce4677ce8a31",
+      "priority": 0,
+      "group": "a677dc6eb063"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "тихъ"
+      ],
+      "phrase": [
+        {
+          "word": "quiet",
+          "definition": "undefined\nтихъ"
+        }
+      ],
+      "id": "5f166fc563ca",
+      "priority": 1,
+      "group": "a677dc6eb063"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "тихъ",
+      "meaning": "quiet",
+      "audio": "e78ab970c988fb8c74ff36d22479940a40b17127a2a3772018d7da0b62398b5f",
+      "id": "1e427eb9e173",
+      "priority": 1,
+      "group": "a677dc6eb063"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "мѫдръ",
+      "meaningInSourceLanguage": "wise",
+      "id": "649795b40737",
+      "priority": 0,
+      "group": "761564828300"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "мѫдръ"
+      ],
+      "phrase": [
+        {
+          "word": "wise",
+          "definition": "undefined\nмѫдръ"
+        }
+      ],
+      "id": "fbb06c83abaf",
+      "priority": 1,
+      "group": "761564828300"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "мѫдръ",
+      "meaning": "wise",
+      "audio": "578fad81e98ddec2175b9c3302420f92a28cc3c84c7a25afd2e9e97be10866c4",
+      "id": "144fb2629f59",
+      "priority": 1,
+      "group": "761564828300"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "глꙋпъ",
+      "meaningInSourceLanguage": "stupid",
+      "id": "19f01fefc430",
+      "priority": 0,
+      "group": "8c87ffc40e3d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "глꙋпъ"
+      ],
+      "phrase": [
+        {
+          "word": "stupid",
+          "definition": "undefined\nглꙋпъ"
+        }
+      ],
+      "id": "0329c159d36f",
+      "priority": 1,
+      "group": "8c87ffc40e3d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "глꙋпъ",
+      "meaning": "stupid",
+      "audio": "6061c11c27d8fcb34e9a768b983bf8f12d3ab763f86646274548fc94efc81c3e",
+      "id": "6483fe86951a",
+      "priority": 1,
+      "group": "8c87ffc40e3d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "искрєнъ",
+      "meaningInSourceLanguage": "sincere",
+      "id": "7294550ddfef",
+      "priority": 0,
+      "group": "1b0fad50562d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "искрєнъ"
+      ],
+      "phrase": [
+        {
+          "word": "sincere",
+          "definition": "undefined\nискрєнъ"
+        }
+      ],
+      "id": "e542348e5d1d",
+      "priority": 1,
+      "group": "1b0fad50562d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "искрєнъ",
+      "meaning": "sincere",
+      "audio": "195d5b10f7e140d18fb6e51c86fe2d0db6c4042ad8d64f127ac85b32c45185f6",
+      "id": "91952cda3a9c",
+      "priority": 1,
+      "group": "1b0fad50562d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "лѣнивъ",
+      "meaningInSourceLanguage": "lazy",
+      "id": "7eabc5feec95",
+      "priority": 0,
+      "group": "27d4a95c7a8d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "лѣнивъ"
+      ],
+      "phrase": [
+        {
+          "word": "lazy",
+          "definition": "undefined\nлѣнивъ"
+        }
+      ],
+      "id": "523e25035d1e",
+      "priority": 1,
+      "group": "27d4a95c7a8d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "лѣнивъ",
+      "meaning": "lazy",
+      "audio": "fd54ffdf53148c499b3c30fc4380428b1b23ece52aeb6804b9da0dbc20d68c6f",
+      "id": "3e013f16f291",
+      "priority": 1,
+      "group": "27d4a95c7a8d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "бꙑхъ",
+      "meaningInSourceLanguage": "I would be",
+      "id": "df5c226f5607",
+      "priority": 0,
+      "group": "23c0d1b6a298"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "бꙑхъ"
+      ],
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "азъ"
+        },
+        {
+          "word": "would",
+          "definition": "undefined"
+        },
+        {
+          "word": "be",
+          "definition": "undefined"
+        }
+      ],
+      "id": "8d6585c063b0",
+      "priority": 1,
+      "group": "23c0d1b6a298"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "бꙑхъ",
+      "meaning": "I would be",
+      "audio": "6c60fd1d7ec0b1bf30e206ca83fa0675f10adcdb845d3e536eb2517cf0fff443",
+      "id": "6df6092a77d0",
+      "priority": 1,
+      "group": "23c0d1b6a298"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "бꙑши",
+      "meaningInSourceLanguage": "you would be",
+      "id": "ecac48f26d37",
+      "priority": 0,
+      "group": "72b9fd11c2da"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "бꙑши"
+      ],
+      "phrase": [
+        {
+          "word": "you",
+          "definition": "undefined\nвꙑ\nтꙑ"
+        },
+        {
+          "word": "would",
+          "definition": "undefined"
+        },
+        {
+          "word": "be",
+          "definition": "undefined"
+        }
+      ],
+      "id": "2fe6ca6985e2",
+      "priority": 1,
+      "group": "72b9fd11c2da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "бꙑши",
+      "meaning": "you would be",
+      "audio": "faafa6defdfb21a051ff5b752bf1fe3376d8ebe669aba12330059039ac2d1960",
+      "id": "dc2b86c3a90c",
+      "priority": 1,
+      "group": "72b9fd11c2da"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "бꙑ",
+      "meaningInSourceLanguage": "he/she/it would be",
+      "id": "9c5d20df8739",
+      "priority": 0,
+      "group": "afc4fc17d1af"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "бꙑ"
+      ],
+      "phrase": [
+        {
+          "word": "he/she/it",
+          "definition": "undefined"
+        },
+        {
+          "word": "would",
+          "definition": "undefined"
+        },
+        {
+          "word": "be",
+          "definition": "undefined"
+        }
+      ],
+      "id": "8ad3bc467be5",
+      "priority": 1,
+      "group": "afc4fc17d1af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "бꙑ",
+      "meaning": "he/she/it would be",
+      "audio": "d69e2b09d21720ba852249850e6eb0176880d7161aaecc97b972ecea6183ed0a",
+      "id": "36300813bc91",
+      "priority": 1,
+      "group": "afc4fc17d1af"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "бꙑхомъ",
+      "meaningInSourceLanguage": "we would be",
+      "id": "7f576b7df80c",
+      "priority": 0,
+      "group": "a6204c58a731"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "бꙑхомъ"
+      ],
+      "phrase": [
+        {
+          "word": "we",
+          "definition": "undefined\nмꙑ"
+        },
+        {
+          "word": "would",
+          "definition": "undefined"
+        },
+        {
+          "word": "be",
+          "definition": "undefined"
+        }
+      ],
+      "id": "b2a76685d37a",
+      "priority": 1,
+      "group": "a6204c58a731"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "бꙑхомъ",
+      "meaning": "we would be",
+      "audio": "6df1d5cc17f3673f3ace73748cf625d972a88ba427e28711102ff6f6fc38ae64",
+      "id": "3a595a7e2ef4",
+      "priority": 1,
+      "group": "a6204c58a731"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "бꙑстє",
+      "meaningInSourceLanguage": "you would be",
+      "id": "2a7120665905",
+      "priority": 0,
+      "group": "03c6d62f6287"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "бꙑстє"
+      ],
+      "phrase": [
+        {
+          "word": "you",
+          "definition": "undefined\nвꙑ\nтꙑ"
+        },
+        {
+          "word": "would",
+          "definition": "undefined"
+        },
+        {
+          "word": "be",
+          "definition": "undefined"
+        }
+      ],
+      "id": "94778407ce63",
+      "priority": 1,
+      "group": "03c6d62f6287"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "бꙑстє",
+      "meaning": "you would be",
+      "audio": "c95643f14de2452e4a9e75d0e52885ee562504378bd950ed10e48c598a833349",
+      "id": "30eaa3a0b81e",
+      "priority": 1,
+      "group": "03c6d62f6287"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "бꙑ",
+      "meaningInSourceLanguage": "they would be",
+      "id": "631b5a45fa69",
+      "priority": 0,
+      "group": "76cb6270db8b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "бꙑ"
+      ],
+      "phrase": [
+        {
+          "word": "they",
+          "definition": "undefined\nони\nонꙑ"
+        },
+        {
+          "word": "would",
+          "definition": "undefined"
+        },
+        {
+          "word": "be",
+          "definition": "undefined"
+        }
+      ],
+      "id": "243449ef740e",
+      "priority": 1,
+      "group": "76cb6270db8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "бꙑ",
+      "meaning": "they would be",
+      "audio": "d69e2b09d21720ba852249850e6eb0176880d7161aaecc97b972ecea6183ed0a",
+      "id": "efb77163fcaa",
+      "priority": 1,
+      "group": "76cb6270db8b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "молъчати (молъчитъ)",
+      "meaningInSourceLanguage": "to be silent",
+      "id": "9373a904bd07",
+      "priority": 0,
+      "group": "e9d86ca5d500"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "молъчати (молъчитъ)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "be",
+          "definition": "undefined"
+        },
+        {
+          "word": "silent",
+          "definition": "undefined"
+        }
+      ],
+      "id": "26c105fe98c4",
+      "priority": 1,
+      "group": "e9d86ca5d500"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "молъчати (молъчитъ)",
+      "meaning": "to be silent",
+      "audio": "a4c79ce74b3e5715323939271020b21b0a621e8d34d58e6f16a4d7e467a1a547",
+      "id": "97a4449aa296",
+      "priority": 1,
+      "group": "e9d86ca5d500"
+    }
+  ]
+}

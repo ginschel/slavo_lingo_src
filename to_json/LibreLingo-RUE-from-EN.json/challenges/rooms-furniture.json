@@ -1,0 +1,2756 @@
+{
+  "id": "75e952736a7f",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Комната є тепла і тиха.",
+      "meaningInSourceLanguage": "The room is warm and quiet.",
+      "id": "3c758cc1cad1",
+      "priority": 0,
+      "group": "60702327dcda"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Комната є тепла і тиха.",
+      "meaning": "The room is warm and quiet.",
+      "audio": "145d83da6c0277cfe3bddfcf6dab06d915e3ebc736b087008eba3e3d53c2bf13",
+      "id": "f0ea1ad59871",
+      "priority": 1,
+      "group": "60702327dcda"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "room",
+          "definition": "undefined\nкомната"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "warm",
+          "definition": "undefined\nтепло"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "quiet.",
+          "definition": "undefined\nтихый"
+        }
+      ],
+      "chips": [
+        "Комната",
+        "є",
+        "тепла",
+        "і",
+        "тиха",
+        "а",
+        "ты",
+        "На",
+        "за"
+      ],
+      "solutions": [
+        [
+          "Комната",
+          "є",
+          "тепла",
+          "і",
+          "тиха"
+        ]
+      ],
+      "formattedSolution": "Комната є тепла і тиха.",
+      "id": "a1185853a457",
+      "priority": 2,
+      "group": "60702327dcda"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Комната",
+          "definition": "room\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "тепла",
+          "definition": "undefined"
+        },
+        {
+          "word": "і",
+          "definition": "undefined"
+        },
+        {
+          "word": "тиха.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "room",
+        "is",
+        "warm",
+        "and",
+        "quiet",
+        "am",
+        "are",
+        "it",
+        "in",
+        "at"
+      ],
+      "solutions": [
+        [
+          "The",
+          "room",
+          "is",
+          "warm",
+          "and",
+          "quiet"
+        ]
+      ],
+      "formattedSolution": "The room is warm and quiet.",
+      "id": "95ea391fe178",
+      "priority": 2,
+      "group": "60702327dcda"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Стол стоїть в серединї комнаты.",
+      "meaningInSourceLanguage": "The table stands in the middle of the room.",
+      "id": "46b88006f9da",
+      "priority": 0,
+      "group": "17ab79d680d1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Стол стоїть в серединї комнаты.",
+      "meaning": "The table stands in the middle of the room.",
+      "audio": "bedab68539ef017324bffa63b1b323fb19a0f4da7db33d1fc09f77102f5a07c2",
+      "id": "7327ce52bd7f",
+      "priority": 1,
+      "group": "17ab79d680d1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "table",
+          "definition": "undefined\nстол"
+        },
+        {
+          "word": "stands",
+          "definition": "undefined"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "middle",
+          "definition": "undefined"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "room.",
+          "definition": "undefined\nкомната"
+        }
+      ],
+      "chips": [
+        "Стол",
+        "стоїть",
+        "в",
+        "серединї",
+        "комнаты",
+        "сто",
+        "тот",
+        "стол",
+        "том"
+      ],
+      "solutions": [
+        [
+          "Стол",
+          "стоїть",
+          "в",
+          "серединї",
+          "комнаты"
+        ]
+      ],
+      "formattedSolution": "Стол стоїть в серединї комнаты.",
+      "id": "3e73347dc34c",
+      "priority": 2,
+      "group": "17ab79d680d1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Стол",
+          "definition": "table\nundefined"
+        },
+        {
+          "word": "стоїть",
+          "definition": "undefined"
+        },
+        {
+          "word": "в",
+          "definition": "undefined"
+        },
+        {
+          "word": "серединї",
+          "definition": "undefined"
+        },
+        {
+          "word": "комнаты.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "table",
+        "stands",
+        "in",
+        "the",
+        "middle",
+        "of",
+        "the",
+        "room",
+        "She",
+        "me",
+        "be",
+        "We",
+        "are",
+        "He",
+        "too",
+        "One"
+      ],
+      "solutions": [
+        [
+          "The",
+          "table",
+          "stands",
+          "in",
+          "the",
+          "middle",
+          "of",
+          "the",
+          "room"
+        ]
+      ],
+      "formattedSolution": "The table stands in the middle of the room.",
+      "id": "eb7f26fa5dab",
+      "priority": 2,
+      "group": "17ab79d680d1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Штолїк є близко стола.",
+      "meaningInSourceLanguage": "The chair is near the table.",
+      "id": "571370b9d4d2",
+      "priority": 0,
+      "group": "601efe99e84b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Штолїк є близко стола.",
+      "meaning": "The chair is near the table.",
+      "audio": "f2a9107a5d08fa08823f25c7e8153509e04d856a5c4723cd216dd53d9bc0b60b",
+      "id": "58655f9b1534",
+      "priority": 1,
+      "group": "601efe99e84b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "chair",
+          "definition": "undefined\nштолїк"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "near",
+          "definition": "undefined\nблизко"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "table.",
+          "definition": "undefined\nстол"
+        }
+      ],
+      "chips": [
+        "Штолїк",
+        "є",
+        "близко",
+        "стола",
+        "Што",
+        "столї",
+        "стол"
+      ],
+      "solutions": [
+        [
+          "Штолїк",
+          "є",
+          "близко",
+          "стола"
+        ]
+      ],
+      "formattedSolution": "Штолїк є близко стола.",
+      "id": "8b2771e8b674",
+      "priority": 2,
+      "group": "601efe99e84b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Штолїк",
+          "definition": "chair\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "близко",
+          "definition": "near\nundefined"
+        },
+        {
+          "word": "стола.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "chair",
+        "is",
+        "near",
+        "the",
+        "table",
+        "She",
+        "are",
+        "car",
+        "her",
+        "air"
+      ],
+      "solutions": [
+        [
+          "The",
+          "chair",
+          "is",
+          "near",
+          "the",
+          "table"
+        ]
+      ],
+      "formattedSolution": "The chair is near the table.",
+      "id": "6712a5781fbd",
+      "priority": 2,
+      "group": "601efe99e84b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Постель є мягка.",
+      "meaningInSourceLanguage": "The bed is soft.",
+      "id": "e0ba8618bd91",
+      "priority": 0,
+      "group": "2cf934f56c53"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Постель є мягка.",
+      "meaning": "The bed is soft.",
+      "audio": "971e2d3de2bae4c9063c147551b55badff3e2abbccab73784e7c1f44f208e6bd",
+      "id": "3cc9bfbef960",
+      "priority": 1,
+      "group": "2cf934f56c53"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bed",
+          "definition": "undefined\nпостель"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "soft.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Постель",
+        "є",
+        "мягка",
+        "моє",
+        "ся"
+      ],
+      "solutions": [
+        [
+          "Постель",
+          "є",
+          "мягка"
+        ]
+      ],
+      "formattedSolution": "Постель є мягка.",
+      "id": "be532e4b47c6",
+      "priority": 2,
+      "group": "2cf934f56c53"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Постель",
+          "definition": "bed\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "мягка.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bed",
+        "is",
+        "soft",
+        "be",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bed",
+          "is",
+          "soft"
+        ]
+      ],
+      "formattedSolution": "The bed is soft.",
+      "id": "531c8521eb1f",
+      "priority": 2,
+      "group": "2cf934f56c53"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Окно є отворене.",
+      "meaningInSourceLanguage": "The window is open.",
+      "id": "8f131e9bd826",
+      "priority": 0,
+      "group": "e928dafdd8a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Окно є отворене.",
+      "meaning": "The window is open.",
+      "audio": "b35750ce0e3001419f04db6a95a5cbf37c9ca22b99f5eaa386016a728026183e",
+      "id": "451bafdc09a0",
+      "priority": 1,
+      "group": "e928dafdd8a1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "window",
+          "definition": "undefined\nокно"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "open.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Окно",
+        "є",
+        "отворене",
+        "не",
+        "Он"
+      ],
+      "solutions": [
+        [
+          "Окно",
+          "є",
+          "отворене"
+        ]
+      ],
+      "formattedSolution": "Окно є отворене.",
+      "id": "af1c11eb86ca",
+      "priority": 2,
+      "group": "e928dafdd8a1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Окно",
+          "definition": "undefined\nwindow"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "отворене.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "window",
+        "is",
+        "open",
+        "in",
+        "on",
+        "pen"
+      ],
+      "solutions": [
+        [
+          "The",
+          "window",
+          "is",
+          "open"
+        ]
+      ],
+      "formattedSolution": "The window is open.",
+      "id": "d8baf3ff96f7",
+      "priority": 2,
+      "group": "e928dafdd8a1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Дверї суть закрыті.",
+      "meaningInSourceLanguage": "The doors are closed.",
+      "id": "84f050c1c585",
+      "priority": 0,
+      "group": "3cd9055755d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Дверї суть закрыті.",
+      "meaning": "The doors are closed.",
+      "audio": "81d6ccb26f4e85241d8b758225a451d1426d6a981477138fd8559a5bb27387a0",
+      "id": "1908ddc1fcd5",
+      "priority": 1,
+      "group": "3cd9055755d2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "doors",
+          "definition": "undefined\nдверї"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nсме\nсуть\nсьте\nєс"
+        },
+        {
+          "word": "closed.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Дверї",
+        "суть",
+        "закрыті",
+        "авто",
+        "путь"
+      ],
+      "solutions": [
+        [
+          "Дверї",
+          "суть",
+          "закрыті"
+        ]
+      ],
+      "formattedSolution": "Дверї суть закрыті.",
+      "id": "c6085d603b5d",
+      "priority": 2,
+      "group": "3cd9055755d2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Дверї",
+          "definition": "doors\nundefined"
+        },
+        {
+          "word": "суть",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "закрыті.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "doors",
+        "are",
+        "closed",
+        "Are",
+        "does",
+        "more"
+      ],
+      "solutions": [
+        [
+          "The",
+          "doors",
+          "are",
+          "closed"
+        ]
+      ],
+      "formattedSolution": "The doors are closed.",
+      "id": "9e359c868fb2",
+      "priority": 2,
+      "group": "3cd9055755d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Шіфоньер має много одїня.",
+      "meaningInSourceLanguage": "The wardrobe has many clothes.",
+      "id": "bb1a979b664e",
+      "priority": 0,
+      "group": "011f840b69d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Шіфоньер має много одїня.",
+      "meaning": "The wardrobe has many clothes.",
+      "audio": "19e976236b18ae77f526d49b1c0bfb7ed3b909bc4907509d10e593e9704939a3",
+      "id": "b7ce6bc4f4bf",
+      "priority": 1,
+      "group": "011f840b69d7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "wardrobe",
+          "definition": "undefined\nшіфоньер"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "many",
+          "definition": "undefined"
+        },
+        {
+          "word": "clothes.",
+          "definition": "undefined\nодїня"
+        }
+      ],
+      "chips": [
+        "Шіфоньер",
+        "має",
+        "много",
+        "одїня",
+        "моя",
+        "моє",
+        "імня"
+      ],
+      "solutions": [
+        [
+          "Шіфоньер",
+          "має",
+          "много",
+          "одїня"
+        ]
+      ],
+      "formattedSolution": "Шіфоньер має много одїня.",
+      "id": "a5345c899672",
+      "priority": 2,
+      "group": "011f840b69d7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Шіфоньер",
+          "definition": "undefined\nwardrobe"
+        },
+        {
+          "word": "має",
+          "definition": "undefined"
+        },
+        {
+          "word": "много",
+          "definition": "undefined"
+        },
+        {
+          "word": "одїня.",
+          "definition": "clothes\nundefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "wardrobe",
+        "has",
+        "many",
+        "clothes",
+        "are",
+        "the",
+        "made",
+        "had"
+      ],
+      "solutions": [
+        [
+          "The",
+          "wardrobe",
+          "has",
+          "many",
+          "clothes"
+        ]
+      ],
+      "formattedSolution": "The wardrobe has many clothes.",
+      "id": "1276c59ca20d",
+      "priority": 2,
+      "group": "011f840b69d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Скриня є под постельов.",
+      "meaningInSourceLanguage": "The chest is under the bed.",
+      "id": "39be50e6024d",
+      "priority": 0,
+      "group": "dd7555373c06"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Скриня є под постельов.",
+      "meaning": "The chest is under the bed.",
+      "audio": "0393afb4cc007013168c741e506b58f198d1a51b916472e9c3c74b1bf0d6f175",
+      "id": "8fa2e4099707",
+      "priority": 1,
+      "group": "dd7555373c06"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "chest",
+          "definition": "undefined\nскриня"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "under",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "bed.",
+          "definition": "undefined\nпостель"
+        }
+      ],
+      "chips": [
+        "Скриня",
+        "є",
+        "под",
+        "постельов",
+        "по",
+        "пиє",
+        "но"
+      ],
+      "solutions": [
+        [
+          "Скриня",
+          "є",
+          "под",
+          "постельов"
+        ]
+      ],
+      "formattedSolution": "Скриня є под постельов.",
+      "id": "067fea10c472",
+      "priority": 2,
+      "group": "dd7555373c06"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Скриня",
+          "definition": "chest\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "под",
+          "definition": "undefined"
+        },
+        {
+          "word": "постельов.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "chest",
+        "is",
+        "under",
+        "the",
+        "bed",
+        "She",
+        "her",
+        "be",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "chest",
+          "is",
+          "under",
+          "the",
+          "bed"
+        ]
+      ],
+      "formattedSolution": "The chest is under the bed.",
+      "id": "4e174120f7f2",
+      "priority": 2,
+      "group": "dd7555373c06"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Полка держить кнїгы.",
+      "meaningInSourceLanguage": "The shelf holds books.",
+      "id": "1001d56aabd6",
+      "priority": 0,
+      "group": "e1508f386b20"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Полка держить кнїгы.",
+      "meaning": "The shelf holds books.",
+      "audio": "cbcb88e5db574880e53a7ace315867ef6ae03ab549f80c438647b69db145f2db",
+      "id": "76236ea9a8d5",
+      "priority": 1,
+      "group": "e1508f386b20"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "shelf",
+          "definition": "undefined\nполка"
+        },
+        {
+          "word": "holds",
+          "definition": "undefined"
+        },
+        {
+          "word": "books.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Полка",
+        "держить",
+        "кнїгы",
+        "кнїгу",
+        "Кнїга"
+      ],
+      "solutions": [
+        [
+          "Полка",
+          "держить",
+          "кнїгы"
+        ]
+      ],
+      "formattedSolution": "Полка держить кнїгы.",
+      "id": "6e8d6d24cbd6",
+      "priority": 2,
+      "group": "e1508f386b20"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Полка",
+          "definition": "shelf\nundefined"
+        },
+        {
+          "word": "держить",
+          "definition": "undefined"
+        },
+        {
+          "word": "кнїгы.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "shelf",
+        "holds",
+        "books",
+        "does",
+        "goes",
+        "old"
+      ],
+      "solutions": [
+        [
+          "The",
+          "shelf",
+          "holds",
+          "books"
+        ]
+      ],
+      "formattedSolution": "The shelf holds books.",
+      "id": "950a69b50967",
+      "priority": 2,
+      "group": "e1508f386b20"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Лампа світить над столом.",
+      "meaningInSourceLanguage": "The lamp shines above the table.",
+      "id": "28e8355c63a1",
+      "priority": 0,
+      "group": "7e2e3b70df30"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Лампа світить над столом.",
+      "meaning": "The lamp shines above the table.",
+      "audio": "41571893654a076911e7bac33d4ce3cd52802df4decf6c42239358270c5147c5",
+      "id": "cbbb36d4ddd0",
+      "priority": 1,
+      "group": "7e2e3b70df30"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "lamp",
+          "definition": "undefined\nлампа"
+        },
+        {
+          "word": "shines",
+          "definition": "undefined"
+        },
+        {
+          "word": "above",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "table.",
+          "definition": "undefined\nстол"
+        }
+      ],
+      "chips": [
+        "Лампа",
+        "світить",
+        "над",
+        "столом",
+        "там",
+        "сам",
+        "стол"
+      ],
+      "solutions": [
+        [
+          "Лампа",
+          "світить",
+          "над",
+          "столом"
+        ]
+      ],
+      "formattedSolution": "Лампа світить над столом.",
+      "id": "a0e9d4e26cfe",
+      "priority": 2,
+      "group": "7e2e3b70df30"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Лампа",
+          "definition": "lamp\nundefined"
+        },
+        {
+          "word": "світить",
+          "definition": "undefined"
+        },
+        {
+          "word": "над",
+          "definition": "undefined"
+        },
+        {
+          "word": "столом.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "lamp",
+        "shines",
+        "above",
+        "the",
+        "table",
+        "She",
+        "are",
+        "shoe",
+        "age",
+        "have"
+      ],
+      "solutions": [
+        [
+          "The",
+          "lamp",
+          "shines",
+          "above",
+          "the",
+          "table"
+        ]
+      ],
+      "formattedSolution": "The lamp shines above the table.",
+      "id": "d6145101947f",
+      "priority": 2,
+      "group": "7e2e3b70df30"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Комната має дві окна.",
+      "meaningInSourceLanguage": "The room has two windows.",
+      "id": "72b2d7ae5a8c",
+      "priority": 0,
+      "group": "1bbe282246da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Комната має дві окна.",
+      "meaning": "The room has two windows.",
+      "audio": "90fec0ff23ab4622ef24ec111dc3169ccab9903e18ba8fde272114d5fe53cc78",
+      "id": "e2b48b39ca97",
+      "priority": 1,
+      "group": "1bbe282246da"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "room",
+          "definition": "undefined\nкомната"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "two",
+          "definition": "undefined\nдва\nдві"
+        },
+        {
+          "word": "windows.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Комната",
+        "має",
+        "дві",
+        "окна",
+        "Она",
+        "маю",
+        "мала"
+      ],
+      "solutions": [
+        [
+          "Комната",
+          "має",
+          "дві",
+          "окна"
+        ]
+      ],
+      "formattedSolution": "Комната має дві окна.",
+      "id": "42d1cebc5b9a",
+      "priority": 2,
+      "group": "1bbe282246da"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Комната",
+          "definition": "room\nundefined"
+        },
+        {
+          "word": "має",
+          "definition": "undefined"
+        },
+        {
+          "word": "дві",
+          "definition": "two\nundefined"
+        },
+        {
+          "word": "окна.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "room",
+        "has",
+        "two",
+        "windows",
+        "too",
+        "Who",
+        "To",
+        "his"
+      ],
+      "solutions": [
+        [
+          "The",
+          "room",
+          "has",
+          "two",
+          "windows"
+        ]
+      ],
+      "formattedSolution": "The room has two windows.",
+      "id": "d5bfff2c9fb8",
+      "priority": 2,
+      "group": "1bbe282246da"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "На столї лежить кнїга.",
+      "meaningInSourceLanguage": "A book is lying on the table.",
+      "id": "33dac63b8698",
+      "priority": 0,
+      "group": "c430a2fc0792"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "На столї лежить кнїга.",
+      "meaning": "A book is lying on the table.",
+      "audio": "f873cc71dbea141b7dfe38ddca829f72630036cf8c8ad13ef1e5073f2d621b4a",
+      "id": "607fba662a2d",
+      "priority": 1,
+      "group": "c430a2fc0792"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "book",
+          "definition": "undefined\nкнїга"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "lying",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "table.",
+          "definition": "undefined\nстол"
+        }
+      ],
+      "chips": [
+        "На",
+        "столї",
+        "лежить",
+        "кнїга",
+        "ли",
+        "на",
+        "стола"
+      ],
+      "solutions": [
+        [
+          "На",
+          "столї",
+          "лежить",
+          "кнїга"
+        ]
+      ],
+      "formattedSolution": "На столї лежить кнїга.",
+      "id": "ade50d609402",
+      "priority": 2,
+      "group": "c430a2fc0792"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "На",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "столї",
+          "definition": "undefined"
+        },
+        {
+          "word": "лежить",
+          "definition": "undefined"
+        },
+        {
+          "word": "кнїга.",
+          "definition": "book\nundefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "book",
+        "is",
+        "lying",
+        "on",
+        "the",
+        "table",
+        "in",
+        "be",
+        "an",
+        "by",
+        "We",
+        "a"
+      ],
+      "solutions": [
+        [
+          "A",
+          "book",
+          "is",
+          "lying",
+          "on",
+          "the",
+          "table"
+        ]
+      ],
+      "formattedSolution": "A book is lying on the table.",
+      "id": "ab98c3a2ee5c",
+      "priority": 2,
+      "group": "c430a2fc0792"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Штолїк є старый, но удобный.",
+      "meaningInSourceLanguage": "The chair is old, but comfortable.",
+      "id": "6895630ed695",
+      "priority": 0,
+      "group": "1f28c92e740e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Штолїк є старый, но удобный.",
+      "meaning": "The chair is old, but comfortable.",
+      "audio": "98ee25030f58d07aa9f2c9b8b81cde7a674bbd2473267ed6c87b2836673f69d2",
+      "id": "ce4a30f70765",
+      "priority": 1,
+      "group": "1f28c92e740e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "chair",
+          "definition": "undefined\nштолїк"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "old,",
+          "definition": "undefined\nстарый"
+        },
+        {
+          "word": "but",
+          "definition": "undefined"
+        },
+        {
+          "word": "comfortable.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Штолїк",
+        "є",
+        "старый",
+        "но",
+        "удобный",
+        "той",
+        "то",
+        "ты",
+        "Што"
+      ],
+      "solutions": [
+        [
+          "Штолїк",
+          "є",
+          "старый",
+          "но",
+          "удобный"
+        ]
+      ],
+      "formattedSolution": "Штолїк є старый, но удобный.",
+      "id": "91275b64803f",
+      "priority": 2,
+      "group": "1f28c92e740e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Штолїк",
+          "definition": "chair\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "старый,",
+          "definition": "old\nundefined"
+        },
+        {
+          "word": "но",
+          "definition": "undefined"
+        },
+        {
+          "word": "удобный.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "chair",
+        "is",
+        "old",
+        "but",
+        "comfortable",
+        "car",
+        "the",
+        "it",
+        "our",
+        "cat"
+      ],
+      "solutions": [
+        [
+          "The",
+          "chair",
+          "is",
+          "old",
+          "but",
+          "comfortable"
+        ]
+      ],
+      "formattedSolution": "The chair is old, but comfortable.",
+      "id": "92d4efaab2a1",
+      "priority": 2,
+      "group": "1f28c92e740e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Постель є нова.",
+      "meaningInSourceLanguage": "The bed is new.",
+      "id": "197df45d119c",
+      "priority": 0,
+      "group": "685ed366f2f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Постель є нова.",
+      "meaning": "The bed is new.",
+      "audio": "baeea3bbb14cd324f95e421dc0a5a8b0b829df921ba95aa53ac85ea1f08fcb47",
+      "id": "54e8e27e6696",
+      "priority": 1,
+      "group": "685ed366f2f9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "bed",
+          "definition": "undefined\nпостель"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "new.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Постель",
+        "є",
+        "нова",
+        "но",
+        "о"
+      ],
+      "solutions": [
+        [
+          "Постель",
+          "є",
+          "нова"
+        ]
+      ],
+      "formattedSolution": "Постель є нова.",
+      "id": "82734d7dae3a",
+      "priority": 2,
+      "group": "685ed366f2f9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Постель",
+          "definition": "bed\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "нова.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "bed",
+        "is",
+        "new",
+        "be",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "The",
+          "bed",
+          "is",
+          "new"
+        ]
+      ],
+      "formattedSolution": "The bed is new.",
+      "id": "31cd74043bf8",
+      "priority": 2,
+      "group": "685ed366f2f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Дверї ведуть до кухнї.",
+      "meaningInSourceLanguage": "The doors lead to the kitchen.",
+      "id": "a6e1e7456198",
+      "priority": 0,
+      "group": "aa0556832b46"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Дверї ведуть до кухнї.",
+      "meaning": "The doors lead to the kitchen.",
+      "audio": "6dfee6d831e748d9fc8eb3407aa153f7fd062525cc70cd2b54bd7e1b8d839637",
+      "id": "655162091610",
+      "priority": 1,
+      "group": "aa0556832b46"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "doors",
+          "definition": "undefined\nдверї"
+        },
+        {
+          "word": "lead",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "kitchen.",
+          "definition": "undefined\nкухня"
+        }
+      ],
+      "chips": [
+        "Дверї",
+        "ведуть",
+        "до",
+        "кухнї",
+        "веде",
+        "дух",
+        "не"
+      ],
+      "solutions": [
+        [
+          "Дверї",
+          "ведуть",
+          "до",
+          "кухнї"
+        ]
+      ],
+      "formattedSolution": "Дверї ведуть до кухнї.",
+      "id": "1bc37c01b68e",
+      "priority": 2,
+      "group": "aa0556832b46"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Дверї",
+          "definition": "doors\nundefined"
+        },
+        {
+          "word": "ведуть",
+          "definition": "undefined"
+        },
+        {
+          "word": "до",
+          "definition": "undefined"
+        },
+        {
+          "word": "кухнї.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "doors",
+        "lead",
+        "to",
+        "the",
+        "kitchen",
+        "then",
+        "She",
+        "too",
+        "her",
+        "tea"
+      ],
+      "solutions": [
+        [
+          "The",
+          "doors",
+          "lead",
+          "to",
+          "the",
+          "kitchen"
+        ]
+      ],
+      "formattedSolution": "The doors lead to the kitchen.",
+      "id": "7a8c7c0c4258",
+      "priority": 2,
+      "group": "aa0556832b46"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Шіфоньер є повный.",
+      "meaningInSourceLanguage": "The wardrobe is full.",
+      "id": "9ba484248f18",
+      "priority": 0,
+      "group": "5817b5c7bea8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Шіфоньер є повный.",
+      "meaning": "The wardrobe is full.",
+      "audio": "197eec0fbe6632a1043caed6d225e64f448e0a1c529e31371f07527dfbe4e54f",
+      "id": "15b7e539be0a",
+      "priority": 1,
+      "group": "5817b5c7bea8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "wardrobe",
+          "definition": "undefined\nшіфоньер"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "full.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Шіфоньер",
+        "є",
+        "повный",
+        "не",
+        "по"
+      ],
+      "solutions": [
+        [
+          "Шіфоньер",
+          "є",
+          "повный"
+        ]
+      ],
+      "formattedSolution": "Шіфоньер є повный.",
+      "id": "fd10f55b931f",
+      "priority": 2,
+      "group": "5817b5c7bea8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Шіфоньер",
+          "definition": "undefined\nwardrobe"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "повный.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "wardrobe",
+        "is",
+        "full",
+        "are",
+        "be",
+        "wise"
+      ],
+      "solutions": [
+        [
+          "The",
+          "wardrobe",
+          "is",
+          "full"
+        ]
+      ],
+      "formattedSolution": "The wardrobe is full.",
+      "id": "c7caace64f76",
+      "priority": 2,
+      "group": "5817b5c7bea8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Скриня є з дерева.",
+      "meaningInSourceLanguage": "The chest is made of wood.",
+      "id": "ffbe75396f71",
+      "priority": 0,
+      "group": "b6d98c7c4091"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Скриня є з дерева.",
+      "meaning": "The chest is made of wood.",
+      "audio": "531489cdb7e252fa52b02eedf4177377761117ac85a9cd76339717d38d9e9e38",
+      "id": "747a034844ef",
+      "priority": 1,
+      "group": "b6d98c7c4091"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "chest",
+          "definition": "undefined\nскриня"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "made",
+          "definition": "undefined"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "wood.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Скриня",
+        "є",
+        "з",
+        "дерева",
+        "в",
+        "а",
+        "Я"
+      ],
+      "solutions": [
+        [
+          "Скриня",
+          "є",
+          "з",
+          "дерева"
+        ]
+      ],
+      "formattedSolution": "Скриня є з дерева.",
+      "id": "3644d4afca3a",
+      "priority": 2,
+      "group": "b6d98c7c4091"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Скриня",
+          "definition": "chest\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "з",
+          "definition": "undefined"
+        },
+        {
+          "word": "дерева.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "chest",
+        "is",
+        "made",
+        "of",
+        "wood",
+        "me",
+        "She",
+        "We",
+        "He",
+        "the"
+      ],
+      "solutions": [
+        [
+          "The",
+          "chest",
+          "is",
+          "made",
+          "of",
+          "wood"
+        ]
+      ],
+      "formattedSolution": "The chest is made of wood.",
+      "id": "186f4b361ca5",
+      "priority": 2,
+      "group": "b6d98c7c4091"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Полка висить на стїні.",
+      "meaningInSourceLanguage": "The shelf hangs on the wall.",
+      "id": "cdea7e7a3a9e",
+      "priority": 0,
+      "group": "af558af54a4e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Полка висить на стїні.",
+      "meaning": "The shelf hangs on the wall.",
+      "audio": "de632fdd7e7b4b58f6ed7f26a48cc44125f26148666dd3e23347d1a8d101bf3a",
+      "id": "9c238f71e972",
+      "priority": 1,
+      "group": "af558af54a4e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "shelf",
+          "definition": "undefined\nполка"
+        },
+        {
+          "word": "hangs",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "wall.",
+          "definition": "undefined\nстїна"
+        }
+      ],
+      "chips": [
+        "Полка",
+        "висить",
+        "на",
+        "стїні",
+        "сна",
+        "вина",
+        "сока"
+      ],
+      "solutions": [
+        [
+          "Полка",
+          "висить",
+          "на",
+          "стїні"
+        ]
+      ],
+      "formattedSolution": "Полка висить на стїні.",
+      "id": "6d948a4d269e",
+      "priority": 2,
+      "group": "af558af54a4e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Полка",
+          "definition": "shelf\nundefined"
+        },
+        {
+          "word": "висить",
+          "definition": "undefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "стїні.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "shelf",
+        "hangs",
+        "on",
+        "the",
+        "wall",
+        "She",
+        "then",
+        "age",
+        "when",
+        "are"
+      ],
+      "solutions": [
+        [
+          "The",
+          "shelf",
+          "hangs",
+          "on",
+          "the",
+          "wall"
+        ]
+      ],
+      "formattedSolution": "The shelf hangs on the wall.",
+      "id": "02dad98efdeb",
+      "priority": 2,
+      "group": "af558af54a4e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Лампа дає світло.",
+      "meaningInSourceLanguage": "The lamp gives light.",
+      "id": "faa641fc2ca4",
+      "priority": 0,
+      "group": "a000e4cb6662"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Лампа дає світло.",
+      "meaning": "The lamp gives light.",
+      "audio": "5f652fe8ad401a0a2106f66741ef65c22d74093df2a80cb3388635dbea8a417d",
+      "id": "41f27abf30b6",
+      "priority": 1,
+      "group": "a000e4cb6662"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "lamp",
+          "definition": "undefined\nлампа"
+        },
+        {
+          "word": "gives",
+          "definition": "undefined"
+        },
+        {
+          "word": "light.",
+          "definition": "undefined\nсвітлый"
+        }
+      ],
+      "chips": [
+        "Лампа",
+        "дає",
+        "світло",
+        "там",
+        "сам"
+      ],
+      "solutions": [
+        [
+          "Лампа",
+          "дає",
+          "світло"
+        ]
+      ],
+      "formattedSolution": "Лампа дає світло.",
+      "id": "eeb3a2423dd2",
+      "priority": 2,
+      "group": "a000e4cb6662"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Лампа",
+          "definition": "lamp\nundefined"
+        },
+        {
+          "word": "дає",
+          "definition": "undefined"
+        },
+        {
+          "word": "світло.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "lamp",
+        "gives",
+        "light",
+        "lies",
+        "live",
+        "lives"
+      ],
+      "solutions": [
+        [
+          "The",
+          "lamp",
+          "gives",
+          "light"
+        ]
+      ],
+      "formattedSolution": "The lamp gives light.",
+      "id": "1746cf0d47d8",
+      "priority": 2,
+      "group": "a000e4cb6662"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "В комнатї є спокій.",
+      "meaningInSourceLanguage": "It is quiet in the room.",
+      "id": "5fd50787b668",
+      "priority": 0,
+      "group": "4d19b8b4e5a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "В комнатї є спокій.",
+      "meaning": "It is quiet in the room.",
+      "audio": "1f0faa641793eaee8c41bf5deab58b20dac2071181fcc18a78b86d0666fc9c53",
+      "id": "bfe1fb561636",
+      "priority": 1,
+      "group": "4d19b8b4e5a1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "undefined\nоно"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nє"
+        },
+        {
+          "word": "quiet",
+          "definition": "undefined\nтихый"
+        },
+        {
+          "word": "in",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "room.",
+          "definition": "undefined\nкомната"
+        }
+      ],
+      "chips": [
+        "В",
+        "комнатї",
+        "є",
+        "спокій",
+        "о",
+        "по",
+        "а"
+      ],
+      "solutions": [
+        [
+          "В",
+          "комнатї",
+          "є",
+          "спокій"
+        ]
+      ],
+      "formattedSolution": "В комнатї є спокій.",
+      "id": "7cf601388a99",
+      "priority": 2,
+      "group": "4d19b8b4e5a1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "В",
+          "definition": "undefined"
+        },
+        {
+          "word": "комнатї",
+          "definition": "undefined"
+        },
+        {
+          "word": "є",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "спокій.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "It",
+        "is",
+        "quiet",
+        "in",
+        "the",
+        "room",
+        "it",
+        "We",
+        "He",
+        "Is",
+        "me"
+      ],
+      "solutions": [
+        [
+          "It",
+          "is",
+          "quiet",
+          "in",
+          "the",
+          "room"
+        ]
+      ],
+      "formattedSolution": "It is quiet in the room.",
+      "id": "b5d160e567d8",
+      "priority": 2,
+      "group": "4d19b8b4e5a1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "комната",
+      "meaningInSourceLanguage": "room",
+      "id": "cb770b04c7f7",
+      "priority": 0,
+      "group": "7c19c1da9422"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "комната"
+      ],
+      "phrase": [
+        {
+          "word": "room",
+          "definition": "undefined\nкомната"
+        }
+      ],
+      "id": "46bf0e6415df",
+      "priority": 1,
+      "group": "7c19c1da9422"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "комната",
+      "meaning": "room",
+      "audio": "2a93464ffdad99938f2fcdcc71de8e8a2a00adab8492824c2dd90b3f72bd9f99",
+      "id": "b69d45759714",
+      "priority": 1,
+      "group": "7c19c1da9422"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "стол",
+      "meaningInSourceLanguage": "table",
+      "id": "d8c7d540a4c6",
+      "priority": 0,
+      "group": "e38f39c2ce0d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "стол"
+      ],
+      "phrase": [
+        {
+          "word": "table",
+          "definition": "undefined\nстол"
+        }
+      ],
+      "id": "e391b8adf258",
+      "priority": 1,
+      "group": "e38f39c2ce0d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "стол",
+      "meaning": "table",
+      "audio": "53d3102ce2c620a0b1399a386ca96836dddc74c4505a456e1647817907b5be4a",
+      "id": "63c693c84412",
+      "priority": 1,
+      "group": "e38f39c2ce0d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "штолїк",
+      "meaningInSourceLanguage": "chair",
+      "id": "219dd28ec289",
+      "priority": 0,
+      "group": "89491b7f4d37"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "штолїк"
+      ],
+      "phrase": [
+        {
+          "word": "chair",
+          "definition": "undefined\nштолїк"
+        }
+      ],
+      "id": "95d9efe2bea6",
+      "priority": 1,
+      "group": "89491b7f4d37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "штолїк",
+      "meaning": "chair",
+      "audio": "6edc5660f877d10cc7e239a6dea20ea476bb0ec23bcfaaeb4b130a02934b6c20",
+      "id": "c4cde75c57d8",
+      "priority": 1,
+      "group": "89491b7f4d37"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "подушка",
+      "meaningInSourceLanguage": "pillow",
+      "id": "f9c591c6b2ce",
+      "priority": 0,
+      "group": "e839ffe5afa3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "подушка"
+      ],
+      "phrase": [
+        {
+          "word": "pillow",
+          "definition": "undefined\nподушка"
+        }
+      ],
+      "id": "cacebab8afbd",
+      "priority": 1,
+      "group": "e839ffe5afa3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "подушка",
+      "meaning": "pillow",
+      "audio": "05f995c7129f3dbca8b9a3935603788a85d1968d2511a8f79ca98b455c7006c3",
+      "id": "4c07b3e716e4",
+      "priority": 1,
+      "group": "e839ffe5afa3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "постель",
+      "meaningInSourceLanguage": "bed",
+      "id": "a03b0e947008",
+      "priority": 0,
+      "group": "4d52a73494ad"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "постель"
+      ],
+      "phrase": [
+        {
+          "word": "bed",
+          "definition": "undefined\nпостель"
+        }
+      ],
+      "id": "54a1f0722d4f",
+      "priority": 1,
+      "group": "4d52a73494ad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "постель",
+      "meaning": "bed",
+      "audio": "01f932731acce1842b7e618d5f37ffee7bdab32abf16b6bcabaf6fdd86128e73",
+      "id": "7a64595ef73a",
+      "priority": 1,
+      "group": "4d52a73494ad"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "окно",
+      "meaningInSourceLanguage": "window",
+      "id": "8adac208ee9a",
+      "priority": 0,
+      "group": "245c8d465180"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "окно"
+      ],
+      "phrase": [
+        {
+          "word": "window",
+          "definition": "undefined\nокно"
+        }
+      ],
+      "id": "d906316b4ffd",
+      "priority": 1,
+      "group": "245c8d465180"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "окно",
+      "meaning": "window",
+      "audio": "d88a887f30bdfccf08affe46b8eeef664d5ba59aa6ef03c74cf206ada3007783",
+      "id": "76651509e704",
+      "priority": 1,
+      "group": "245c8d465180"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "дверї",
+      "meaningInSourceLanguage": "doors",
+      "id": "7148153b1085",
+      "priority": 0,
+      "group": "ecb2b4291a72"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "дверї"
+      ],
+      "phrase": [
+        {
+          "word": "doors",
+          "definition": "undefined\nдверї"
+        }
+      ],
+      "id": "d1dfc7a3799e",
+      "priority": 1,
+      "group": "ecb2b4291a72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дверї",
+      "meaning": "doors",
+      "audio": "be88375bb5c7526d620907ecf6485d284b617b31b4e82291abad21371a7c863b",
+      "id": "a8403f58d713",
+      "priority": 1,
+      "group": "ecb2b4291a72"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "шіфоньер",
+      "meaningInSourceLanguage": "wardrobe",
+      "id": "5d7ab0cdeab4",
+      "priority": 0,
+      "group": "79fa82b73ece"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "шіфоньер"
+      ],
+      "phrase": [
+        {
+          "word": "wardrobe",
+          "definition": "undefined\nшіфоньер"
+        }
+      ],
+      "id": "c4c6f49a1bc5",
+      "priority": 1,
+      "group": "79fa82b73ece"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "шіфоньер",
+      "meaning": "wardrobe",
+      "audio": "37a279d619ff4158fcf7e86ff38cecda3c1971ee922352f45e8b3e01ef35225f",
+      "id": "9d97080e7f84",
+      "priority": 1,
+      "group": "79fa82b73ece"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "скриня",
+      "meaningInSourceLanguage": "chest",
+      "id": "1707f41b7686",
+      "priority": 0,
+      "group": "85c3ddec3056"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "скриня"
+      ],
+      "phrase": [
+        {
+          "word": "chest",
+          "definition": "undefined\nскриня"
+        }
+      ],
+      "id": "a0aa78656343",
+      "priority": 1,
+      "group": "85c3ddec3056"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "скриня",
+      "meaning": "chest",
+      "audio": "e2d4d246b2d8fed44229361ca7c65482ed3dcd0b5d6730a1ac4aaa4a0c842c98",
+      "id": "c484e09e6708",
+      "priority": 1,
+      "group": "85c3ddec3056"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "полка",
+      "meaningInSourceLanguage": "shelf",
+      "id": "ff6d2b8e95e1",
+      "priority": 0,
+      "group": "a25ce8b5f62e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "полка"
+      ],
+      "phrase": [
+        {
+          "word": "shelf",
+          "definition": "undefined\nполка"
+        }
+      ],
+      "id": "f10f119e9088",
+      "priority": 1,
+      "group": "a25ce8b5f62e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "полка",
+      "meaning": "shelf",
+      "audio": "3a1ecb366bdb17f332633b27b83f070d0e4d46ef2fe549c3cf888d6ca273333b",
+      "id": "ad9338024781",
+      "priority": 1,
+      "group": "a25ce8b5f62e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "держати (держить)",
+      "meaningInSourceLanguage": "to hold",
+      "id": "d5ec2cb61fee",
+      "priority": 0,
+      "group": "aec4ab09c4b7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "держати (держить)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "hold",
+          "definition": "undefined"
+        }
+      ],
+      "id": "abb1088e8d50",
+      "priority": 1,
+      "group": "aec4ab09c4b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "держати (держить)",
+      "meaning": "to hold",
+      "audio": "51970b1afffc48fb19f2e485f0b46d7f0c32f0e25f23ca1f7d1bbeb87e7c21e9",
+      "id": "3ec33da9fa8d",
+      "priority": 1,
+      "group": "aec4ab09c4b7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "висїти (висить)",
+      "meaningInSourceLanguage": "to hang",
+      "id": "d3f7ef48a39f",
+      "priority": 0,
+      "group": "2bcaf7e404c3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "висїти (висить)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "hang",
+          "definition": "undefined"
+        }
+      ],
+      "id": "6e1bea249fba",
+      "priority": 1,
+      "group": "2bcaf7e404c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "висїти (висить)",
+      "meaning": "to hang",
+      "audio": "602666066b1595c0cf13f8282217f34ef7190eb5866f25fefd4dccde199ffa54",
+      "id": "8fe6cee6e036",
+      "priority": 1,
+      "group": "2bcaf7e404c3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "стїна",
+      "meaningInSourceLanguage": "wall",
+      "id": "1c2fa256507e",
+      "priority": 0,
+      "group": "d0b934b4a40d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "стїна"
+      ],
+      "phrase": [
+        {
+          "word": "wall",
+          "definition": "undefined\nстїна"
+        }
+      ],
+      "id": "86ce07ca5758",
+      "priority": 1,
+      "group": "d0b934b4a40d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "стїна",
+      "meaning": "wall",
+      "audio": "13d4ec838347bed081938c0c700377a453081246445a809ee05f1d648379b72a",
+      "id": "f1f9ac7b2447",
+      "priority": 1,
+      "group": "d0b934b4a40d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "лампа",
+      "meaningInSourceLanguage": "lamp",
+      "id": "9e4ec76f4551",
+      "priority": 0,
+      "group": "be726db728aa"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "лампа"
+      ],
+      "phrase": [
+        {
+          "word": "lamp",
+          "definition": "undefined\nлампа"
+        }
+      ],
+      "id": "40a8f9f4ac71",
+      "priority": 1,
+      "group": "be726db728aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "лампа",
+      "meaning": "lamp",
+      "audio": "42cb0bedb6e31b7df5c9a7d8edee5bf0d07c3e4192cc2fa33afa52cd3eb59a84",
+      "id": "4cc20d769a60",
+      "priority": 1,
+      "group": "be726db728aa"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "давати",
+      "meaningInSourceLanguage": "to give",
+      "id": "d172ba6933ca",
+      "priority": 0,
+      "group": "2326411c9198"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "давати"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "give",
+          "definition": "undefined"
+        }
+      ],
+      "id": "c3fe01e57ff1",
+      "priority": 1,
+      "group": "2326411c9198"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "давати",
+      "meaning": "to give",
+      "audio": "1d0cbf21f6dc60bb4117cffe7ef42f3bbba5712d66e39c8f28b819c27f2b0c5f",
+      "id": "bdb3dc2e1da3",
+      "priority": 1,
+      "group": "2326411c9198"
+    }
+  ]
+}

@@ -1,0 +1,2581 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ја читам книгу.",
+      "meaningInSourceLanguage": "I am reading a book.",
+      "id": "d73f24319efb",
+      "priority": 0,
+      "group": "4b2b0c59a42f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ја читам книгу.",
+      "meaning": "I am reading a book.",
+      "audio": "e3b0705ac425669e25e42e1b6aaac41acfe0cbd2c6a7dd397f2c58d1980dc4d0",
+      "id": "493580728ff0",
+      "priority": 1,
+      "group": "4b2b0c59a42f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "ја"
+        },
+        {
+          "word": "am",
+          "definition": "undefined\nјесам"
+        },
+        {
+          "word": "reading",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "book.",
+          "definition": "undefined\nкнига"
+        }
+      ],
+      "chips": [
+        "Ја",
+        "читам",
+        "книгу",
+        "чита",
+        "ким"
+      ],
+      "solutions": [
+        [
+          "Ја",
+          "читам",
+          "книгу"
+        ]
+      ],
+      "formattedSolution": "Ја читам книгу.",
+      "id": "255e94706a87",
+      "priority": 2,
+      "group": "4b2b0c59a42f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ја",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "читам",
+          "definition": "undefined"
+        },
+        {
+          "word": "книгу.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "reading",
+        "a",
+        "book",
+        "an",
+        "at",
+        "as",
+        "in"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "reading",
+          "a",
+          "book"
+        ]
+      ],
+      "formattedSolution": "I am reading a book.",
+      "id": "af462dd51aff",
+      "priority": 2,
+      "group": "4b2b0c59a42f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она пише писма.",
+      "meaningInSourceLanguage": "She is writing letters.",
+      "id": "0ea15cec8c3b",
+      "priority": 0,
+      "group": "fd62ed201cd7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она пише писма.",
+      "meaning": "She is writing letters.",
+      "audio": "84b44880a47df36f562090f65605e36eec40630de965b1f8879c8eb01ce8ec21",
+      "id": "435fe1ac0e37",
+      "priority": 1,
+      "group": "fd62ed201cd7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "writing",
+          "definition": "undefined"
+        },
+        {
+          "word": "letters.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Она",
+        "пише",
+        "писма",
+        "пива",
+        "има"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "пише",
+          "писма"
+        ]
+      ],
+      "formattedSolution": "Она пише писма.",
+      "id": "4aaea117036a",
+      "priority": 2,
+      "group": "fd62ed201cd7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "пише",
+          "definition": "undefined"
+        },
+        {
+          "word": "писма.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "is",
+        "writing",
+        "letters",
+        "the",
+        "it",
+        "lies"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is",
+          "writing",
+          "letters"
+        ]
+      ],
+      "formattedSolution": "She is writing letters.",
+      "id": "7315e258acf1",
+      "priority": 2,
+      "group": "fd62ed201cd7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он игра в фудбал.",
+      "meaningInSourceLanguage": "He is playing football.",
+      "id": "48fb6ca5eab8",
+      "priority": 0,
+      "group": "69fc7c31ed56"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он игра в фудбал.",
+      "meaning": "He is playing football.",
+      "audio": "25bc825ea663f211cd392ac8518b5c049d179e46d72e3b0a1c1fbcd126405382",
+      "id": "c5acf73802f9",
+      "priority": 1,
+      "group": "69fc7c31ed56"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "playing",
+          "definition": "undefined"
+        },
+        {
+          "word": "football.",
+          "definition": "undefined\nфудбал"
+        }
+      ],
+      "chips": [
+        "Он",
+        "игра",
+        "в",
+        "фудбал",
+        "а",
+        "Ја",
+        "Она"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "игра",
+          "в",
+          "фудбал"
+        ]
+      ],
+      "formattedSolution": "Он игра в фудбал.",
+      "id": "f1a8d4e9a69e",
+      "priority": 2,
+      "group": "69fc7c31ed56"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "игра",
+          "definition": "game\nundefined"
+        },
+        {
+          "word": "в",
+          "definition": "undefined"
+        },
+        {
+          "word": "фудбал.",
+          "definition": "football\nundefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "playing",
+        "football",
+        "it",
+        "in",
+        "an"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "playing",
+          "football"
+        ]
+      ],
+      "formattedSolution": "He is playing football.",
+      "id": "61fd702d961f",
+      "priority": 2,
+      "group": "69fc7c31ed56"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ми гледемо филм.",
+      "meaningInSourceLanguage": "We are watching a film.",
+      "id": "5c0cf9c075bf",
+      "priority": 0,
+      "group": "7c4e48ab83cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ми гледемо филм.",
+      "meaning": "We are watching a film.",
+      "audio": "904b1d03c24db6fce3a6cbc604985a945bd4466094a80f920a23673395dd8ff1",
+      "id": "7753d598b57b",
+      "priority": 1,
+      "group": "7c4e48ab83cd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nми"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nсут\nјеси\nјесмо\nјесте"
+        },
+        {
+          "word": "watching",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "film.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ми",
+        "гледемо",
+        "филм",
+        "ли",
+        "ким"
+      ],
+      "solutions": [
+        [
+          "Ми",
+          "гледемо",
+          "филм"
+        ]
+      ],
+      "formattedSolution": "Ми гледемо филм.",
+      "id": "7c58fedc5f88",
+      "priority": 2,
+      "group": "7c4e48ab83cd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ми",
+          "definition": "undefined\nwe"
+        },
+        {
+          "word": "гледемо",
+          "definition": "undefined"
+        },
+        {
+          "word": "филм.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "watching",
+        "a",
+        "film",
+        "am",
+        "at",
+        "an",
+        "in"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "watching",
+          "a",
+          "film"
+        ]
+      ],
+      "formattedSolution": "We are watching a film.",
+      "id": "05ae2c8bfc3c",
+      "priority": 2,
+      "group": "7c4e48ab83cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Они слушају музику.",
+      "meaningInSourceLanguage": "They are listening to music.",
+      "id": "2a932e07867b",
+      "priority": 0,
+      "group": "6be82e000307"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Они слушају музику.",
+      "meaning": "They are listening to music.",
+      "audio": "330d16295bcf7a7f4f540c895e7a098bdfd989b0db211ec326eb8bdba2a004a4",
+      "id": "af9a864305c9",
+      "priority": 1,
+      "group": "6be82e000307"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "undefined\nоне\nони"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nсут\nјеси\nјесмо\nјесте"
+        },
+        {
+          "word": "listening",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "music.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Они",
+        "слушају",
+        "музику",
+        "руку",
+        "музика"
+      ],
+      "solutions": [
+        [
+          "Они",
+          "слушају",
+          "музику"
+        ]
+      ],
+      "formattedSolution": "Они слушају музику.",
+      "id": "3814b7ac891e",
+      "priority": 2,
+      "group": "6be82e000307"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Они",
+          "definition": "they\nundefined"
+        },
+        {
+          "word": "слушају",
+          "definition": "undefined"
+        },
+        {
+          "word": "музику.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "They",
+        "are",
+        "listening",
+        "to",
+        "music",
+        "me",
+        "the",
+        "see",
+        "ten"
+      ],
+      "solutions": [
+        [
+          "They",
+          "are",
+          "listening",
+          "to",
+          "music"
+        ]
+      ],
+      "formattedSolution": "They are listening to music.",
+      "id": "b0da5e6b949f",
+      "priority": 2,
+      "group": "6be82e000307"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она седи и чита.",
+      "meaningInSourceLanguage": "She is sitting and reading.",
+      "id": "1c03034e85ae",
+      "priority": 0,
+      "group": "256699b4505d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она седи и чита.",
+      "meaning": "She is sitting and reading.",
+      "audio": "49a6575c9c46a680fb80e8c5d8c466236ed129a164bc804068f9117e9322b52d",
+      "id": "f0abcfd242aa",
+      "priority": 1,
+      "group": "256699b4505d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "sitting",
+          "definition": "undefined"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "reading.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Она",
+        "седи",
+        "и",
+        "чита",
+        "Ми",
+        "Ви",
+        "ти"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "седи",
+          "и",
+          "чита"
+        ]
+      ],
+      "formattedSolution": "Она седи и чита.",
+      "id": "98906d3d8961",
+      "priority": 2,
+      "group": "256699b4505d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "седи",
+          "definition": "undefined"
+        },
+        {
+          "word": "и",
+          "definition": "undefined"
+        },
+        {
+          "word": "чита.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "is",
+        "sitting",
+        "and",
+        "reading",
+        "in",
+        "an",
+        "ink",
+        "it"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is",
+          "sitting",
+          "and",
+          "reading"
+        ]
+      ],
+      "formattedSolution": "She is sitting and reading.",
+      "id": "ec1a7f106d99",
+      "priority": 2,
+      "group": "256699b4505d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ја малјујем образ.",
+      "meaningInSourceLanguage": "I am painting a picture.",
+      "id": "132354955cc3",
+      "priority": 0,
+      "group": "50cb5db12643"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ја малјујем образ.",
+      "meaning": "I am painting a picture.",
+      "audio": "99e213ba377d63184e49131c84f1260cc8bd85341af05854227447101df26840",
+      "id": "cc51e17951bb",
+      "priority": 1,
+      "group": "50cb5db12643"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "ја"
+        },
+        {
+          "word": "am",
+          "definition": "undefined\nјесам"
+        },
+        {
+          "word": "painting",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "picture.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ја",
+        "малјујем",
+        "образ",
+        "Та",
+        "Тај"
+      ],
+      "solutions": [
+        [
+          "Ја",
+          "малјујем",
+          "образ"
+        ]
+      ],
+      "formattedSolution": "Ја малјујем образ.",
+      "id": "6d10515555e2",
+      "priority": 2,
+      "group": "50cb5db12643"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ја",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "малјујем",
+          "definition": "undefined"
+        },
+        {
+          "word": "образ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "painting",
+        "a",
+        "picture",
+        "at",
+        "it",
+        "an",
+        "in"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "painting",
+          "a",
+          "picture"
+        ]
+      ],
+      "formattedSolution": "I am painting a picture.",
+      "id": "2c4e0882d1ea",
+      "priority": 2,
+      "group": "50cb5db12643"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он пева пешње.",
+      "meaningInSourceLanguage": "He is singing songs.",
+      "id": "851844a14c49",
+      "priority": 0,
+      "group": "06a303d2a154"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он пева пешње.",
+      "meaning": "He is singing songs.",
+      "audio": "eacd4e2411c9acd1881962276dfb7e9fb00d90eaf1b390ee281faa837f069bc4",
+      "id": "f9a5c62b2ec3",
+      "priority": 1,
+      "group": "06a303d2a154"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "singing",
+          "definition": "undefined"
+        },
+        {
+          "word": "songs.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Он",
+        "пева",
+        "пешње",
+        "пес",
+        "пет"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "пева",
+          "пешње"
+        ]
+      ],
+      "formattedSolution": "Он пева пешње.",
+      "id": "ae8f0299e51c",
+      "priority": 2,
+      "group": "06a303d2a154"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "пева",
+          "definition": "undefined"
+        },
+        {
+          "word": "пешње.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "singing",
+        "songs",
+        "in",
+        "so",
+        "son"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "singing",
+          "songs"
+        ]
+      ],
+      "formattedSolution": "He is singing songs.",
+      "id": "2ae56a44e479",
+      "priority": 2,
+      "group": "06a303d2a154"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ви учите се језика.",
+      "meaningInSourceLanguage": "You are learning a language.",
+      "id": "c767c86839ab",
+      "priority": 0,
+      "group": "74f1a183bc14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ви учите се језика.",
+      "meaning": "You are learning a language.",
+      "audio": "f9257bbd19fb08785c10deaa6d60c1ef4fc91c9f23b13d58038162a74a40d8c2",
+      "id": "e2e349fe2c1c",
+      "priority": 1,
+      "group": "74f1a183bc14"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You",
+          "definition": "undefined\nви\nти"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nсут\nјеси\nјесмо\nјесте"
+        },
+        {
+          "word": "learning",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "language.",
+          "definition": "undefined\nјезик"
+        }
+      ],
+      "chips": [
+        "Ви",
+        "учите",
+        "се",
+        "језика",
+        "је",
+        "Ми",
+        "ти"
+      ],
+      "solutions": [
+        [
+          "Ви",
+          "учите",
+          "се",
+          "језика"
+        ]
+      ],
+      "formattedSolution": "Ви учите се језика.",
+      "id": "eef2dd2df273",
+      "priority": 2,
+      "group": "74f1a183bc14"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ви",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "учите",
+          "definition": "undefined"
+        },
+        {
+          "word": "се",
+          "definition": "undefined"
+        },
+        {
+          "word": "језика.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "You",
+        "are",
+        "learning",
+        "a",
+        "language",
+        "an",
+        "age",
+        "ear",
+        "am"
+      ],
+      "solutions": [
+        [
+          "You",
+          "are",
+          "learning",
+          "a",
+          "language"
+        ]
+      ],
+      "formattedSolution": "You are learning a language.",
+      "id": "6c0937db8e78",
+      "priority": 2,
+      "group": "74f1a183bc14"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ја шијем одежду.",
+      "meaningInSourceLanguage": "I am sewing clothes.",
+      "id": "9708332a5315",
+      "priority": 0,
+      "group": "5b900cfebec3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ја шијем одежду.",
+      "meaning": "I am sewing clothes.",
+      "audio": "54b26fbb78dd16406e4b793013eaca768cfa792fbd851bbfe52df6a7b3817273",
+      "id": "e49a57f39900",
+      "priority": 1,
+      "group": "5b900cfebec3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "ја"
+        },
+        {
+          "word": "am",
+          "definition": "undefined\nјесам"
+        },
+        {
+          "word": "sewing",
+          "definition": "undefined"
+        },
+        {
+          "word": "clothes.",
+          "definition": "undefined\nодеж"
+        }
+      ],
+      "chips": [
+        "Ја",
+        "шијем",
+        "одежду",
+        "иде",
+        "је"
+      ],
+      "solutions": [
+        [
+          "Ја",
+          "шијем",
+          "одежду"
+        ]
+      ],
+      "formattedSolution": "Ја шијем одежду.",
+      "id": "2900f20188c8",
+      "priority": 2,
+      "group": "5b900cfebec3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ја",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "шијем",
+          "definition": "undefined"
+        },
+        {
+          "word": "одежду.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "sewing",
+        "clothes",
+        "is",
+        "We",
+        "a"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "sewing",
+          "clothes"
+        ]
+      ],
+      "formattedSolution": "I am sewing clothes.",
+      "id": "9b315a8b6a02",
+      "priority": 2,
+      "group": "5b900cfebec3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ти гледеш серију?",
+      "meaningInSourceLanguage": "Are you watching a series?",
+      "id": "325bfc08ecdf",
+      "priority": 0,
+      "group": "d9e44644aae0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ти гледеш серију?",
+      "meaning": "Are you watching a series?",
+      "audio": "4c05daadc4d959e007f7c80bc5a3ae61151dccafcab4e80adecb8fe809ca6dc3",
+      "id": "87afe847cba2",
+      "priority": 1,
+      "group": "d9e44644aae0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "undefined\nсут\nјеси\nјесмо\nјесте"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nви\nти"
+        },
+        {
+          "word": "watching",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "series?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ти",
+        "гледеш",
+        "серију",
+        "седи",
+        "ли"
+      ],
+      "solutions": [
+        [
+          "Ти",
+          "гледеш",
+          "серију"
+        ]
+      ],
+      "formattedSolution": "Ти гледеш серију?",
+      "id": "9d940f792ad0",
+      "priority": 2,
+      "group": "d9e44644aae0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ти",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "гледеш",
+          "definition": "undefined"
+        },
+        {
+          "word": "серију?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Are",
+        "you",
+        "watching",
+        "a",
+        "series",
+        "are",
+        "is",
+        "the",
+        "his"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "you",
+          "watching",
+          "a",
+          "series"
+        ]
+      ],
+      "formattedSolution": "Are you watching a series?",
+      "id": "3c8f6eb13a82",
+      "priority": 2,
+      "group": "d9e44644aae0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ми играмо в шах.",
+      "meaningInSourceLanguage": "We are playing chess.",
+      "id": "984d7047faa4",
+      "priority": 0,
+      "group": "082297b0f83d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ми играмо в шах.",
+      "meaning": "We are playing chess.",
+      "audio": "328093953a2384440f516a414966390d3010e014e97db205de4027820066deb9",
+      "id": "0a43fb26f12c",
+      "priority": 1,
+      "group": "082297b0f83d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nми"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nсут\nјеси\nјесмо\nјесте"
+        },
+        {
+          "word": "playing",
+          "definition": "undefined"
+        },
+        {
+          "word": "chess.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ми",
+        "играмо",
+        "в",
+        "шах",
+        "а",
+        "Ја",
+        "Та"
+      ],
+      "solutions": [
+        [
+          "Ми",
+          "играмо",
+          "в",
+          "шах"
+        ]
+      ],
+      "formattedSolution": "Ми играмо в шах.",
+      "id": "d513643b1bd4",
+      "priority": 2,
+      "group": "082297b0f83d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ми",
+          "definition": "undefined\nwe"
+        },
+        {
+          "word": "играмо",
+          "definition": "undefined"
+        },
+        {
+          "word": "в",
+          "definition": "undefined"
+        },
+        {
+          "word": "шах.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "playing",
+        "chess",
+        "age",
+        "She",
+        "Are"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "playing",
+          "chess"
+        ]
+      ],
+      "formattedSolution": "We are playing chess.",
+      "id": "3f80438edc52",
+      "priority": 2,
+      "group": "082297b0f83d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Они слушају радио.",
+      "meaningInSourceLanguage": "They are listening to the radio.",
+      "id": "a7efdf5fd62e",
+      "priority": 0,
+      "group": "3b7134f9f0d5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Они слушају радио.",
+      "meaning": "They are listening to the radio.",
+      "audio": "cf8de6f604a39ac7598bf842711ba40f547dc99e1ebdeb1dad0ffeec3f8befbe",
+      "id": "31f27d856738",
+      "priority": 1,
+      "group": "3b7134f9f0d5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "undefined\nоне\nони"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nсут\nјеси\nјесмо\nјесте"
+        },
+        {
+          "word": "listening",
+          "definition": "undefined"
+        },
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "radio.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Они",
+        "слушају",
+        "радио",
+        "рази",
+        "али"
+      ],
+      "solutions": [
+        [
+          "Они",
+          "слушају",
+          "радио"
+        ]
+      ],
+      "formattedSolution": "Они слушају радио.",
+      "id": "6fafc4413825",
+      "priority": 2,
+      "group": "3b7134f9f0d5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Они",
+          "definition": "they\nundefined"
+        },
+        {
+          "word": "слушају",
+          "definition": "undefined"
+        },
+        {
+          "word": "радио.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "They",
+        "are",
+        "listening",
+        "to",
+        "the",
+        "radio",
+        "The",
+        "She",
+        "then",
+        "ten",
+        "they"
+      ],
+      "solutions": [
+        [
+          "They",
+          "are",
+          "listening",
+          "to",
+          "the",
+          "radio"
+        ]
+      ],
+      "formattedSolution": "They are listening to the radio.",
+      "id": "d0a66b30553f",
+      "priority": 2,
+      "group": "3b7134f9f0d5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Читаш ти романе?",
+      "meaningInSourceLanguage": "Do you read novels?",
+      "id": "dde9855b2a51",
+      "priority": 0,
+      "group": "864208bd1e3a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Читаш ти романе?",
+      "meaning": "Do you read novels?",
+      "audio": "b570db29c72b406322c1291251bb85f7104eb7ec2b9bc7fb3e3c2149d467ebf4",
+      "id": "c58e82d9094f",
+      "priority": 1,
+      "group": "864208bd1e3a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Do",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nви\nти"
+        },
+        {
+          "word": "read",
+          "definition": "undefined"
+        },
+        {
+          "word": "novels?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Читаш",
+        "ти",
+        "романе",
+        "чита",
+        "имаш"
+      ],
+      "solutions": [
+        [
+          "Читаш",
+          "ти",
+          "романе"
+        ]
+      ],
+      "formattedSolution": "Читаш ти романе?",
+      "id": "063e84e0723f",
+      "priority": 2,
+      "group": "864208bd1e3a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Читаш",
+          "definition": "undefined"
+        },
+        {
+          "word": "ти",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "романе?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Do",
+        "you",
+        "read",
+        "novels",
+        "You",
+        "not",
+        "To"
+      ],
+      "solutions": [
+        [
+          "Do",
+          "you",
+          "read",
+          "novels"
+        ]
+      ],
+      "formattedSolution": "Do you read novels?",
+      "id": "ad3754e9dcda",
+      "priority": 2,
+      "group": "864208bd1e3a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Он пише дневник.",
+      "meaningInSourceLanguage": "He is writing a diary.",
+      "id": "f64c70488000",
+      "priority": 0,
+      "group": "afa679eeb1e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Он пише дневник.",
+      "meaning": "He is writing a diary.",
+      "audio": "6dc38dd9d2f6127b3f7897555e048b521f2ad4abcb60806723647db39f6c99d0",
+      "id": "b9d308847f7d",
+      "priority": 1,
+      "group": "afa679eeb1e1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nон"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "writing",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "diary.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Он",
+        "пише",
+        "дневник",
+        "Оне",
+        "не"
+      ],
+      "solutions": [
+        [
+          "Он",
+          "пише",
+          "дневник"
+        ]
+      ],
+      "formattedSolution": "Он пише дневник.",
+      "id": "b96d7286f945",
+      "priority": 2,
+      "group": "afa679eeb1e1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Он",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "пише",
+          "definition": "undefined"
+        },
+        {
+          "word": "дневник.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "writing",
+        "a",
+        "diary",
+        "it",
+        "in",
+        "at",
+        "an"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "writing",
+          "a",
+          "diary"
+        ]
+      ],
+      "formattedSolution": "He is writing a diary.",
+      "id": "6d02c8952c31",
+      "priority": 2,
+      "group": "afa679eeb1e1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Учимо се ту.",
+      "meaningInSourceLanguage": "We are learning here.",
+      "id": "537eea934d8e",
+      "priority": 0,
+      "group": "1e4f99e39bd6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Учимо се ту.",
+      "meaning": "We are learning here.",
+      "audio": "730b393db94dab8eee5ffb404244dd0a693f29c4c49a2cbdfee14b14858e5795",
+      "id": "239547b9917d",
+      "priority": 1,
+      "group": "1e4f99e39bd6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nми"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nсут\nјеси\nјесмо\nјесте"
+        },
+        {
+          "word": "learning",
+          "definition": "undefined"
+        },
+        {
+          "word": "here.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Учимо",
+        "се",
+        "ту",
+        "ти",
+        "им"
+      ],
+      "solutions": [
+        [
+          "Учимо",
+          "се",
+          "ту"
+        ]
+      ],
+      "formattedSolution": "Учимо се ту.",
+      "id": "115f85fb844f",
+      "priority": 2,
+      "group": "1e4f99e39bd6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Учимо",
+          "definition": "undefined"
+        },
+        {
+          "word": "се",
+          "definition": "undefined"
+        },
+        {
+          "word": "ту.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "learning",
+        "here",
+        "Are",
+        "her",
+        "Here"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "learning",
+          "here"
+        ]
+      ],
+      "formattedSolution": "We are learning here.",
+      "id": "0a22ba89fc17",
+      "priority": 2,
+      "group": "1e4f99e39bd6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Малјујемо с пријатељами образи.",
+      "meaningInSourceLanguage": "We are painting pictures with friends.",
+      "id": "aece67dadef2",
+      "priority": 0,
+      "group": "74c669b44c47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Малјујемо с пријатељами образи.",
+      "meaning": "We are painting pictures with friends.",
+      "audio": "51f152a23ddb5113d7c717a1afaa4abab687c7377a955ff1e3c26fba4b506629",
+      "id": "f427532c80ea",
+      "priority": 1,
+      "group": "74c669b44c47"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nми"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nсут\nјеси\nјесмо\nјесте"
+        },
+        {
+          "word": "painting",
+          "definition": "undefined"
+        },
+        {
+          "word": "pictures",
+          "definition": "undefined"
+        },
+        {
+          "word": "with",
+          "definition": "undefined"
+        },
+        {
+          "word": "friends.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Малјујемо",
+        "с",
+        "пријатељами",
+        "образи",
+        "рази",
+        "јесам",
+        "јеси"
+      ],
+      "solutions": [
+        [
+          "Малјујемо",
+          "с",
+          "пријатељами",
+          "образи"
+        ]
+      ],
+      "formattedSolution": "Малјујемо с пријатељами образи.",
+      "id": "6461c9d3c29a",
+      "priority": 2,
+      "group": "74c669b44c47"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Малјујемо",
+          "definition": "undefined"
+        },
+        {
+          "word": "с",
+          "definition": "undefined"
+        },
+        {
+          "word": "пријатељами",
+          "definition": "undefined"
+        },
+        {
+          "word": "образи.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "are",
+        "painting",
+        "pictures",
+        "with",
+        "friends",
+        "it",
+        "wine",
+        "lies",
+        "nine",
+        "is"
+      ],
+      "solutions": [
+        [
+          "We",
+          "are",
+          "painting",
+          "pictures",
+          "with",
+          "friends"
+        ]
+      ],
+      "formattedSolution": "We are painting pictures with friends.",
+      "id": "d627e920db27",
+      "priority": 2,
+      "group": "74c669b44c47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ти шијеш?",
+      "meaningInSourceLanguage": "Are you sewing?",
+      "id": "fe5859bb825a",
+      "priority": 0,
+      "group": "ff274257f570"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ти шијеш?",
+      "meaning": "Are you sewing?",
+      "audio": "4a426b74bbb3abe373d0af77dcef2a5d63a3d624db61ba935cdf3af43dbf6939",
+      "id": "5652a174b095",
+      "priority": 1,
+      "group": "ff274257f570"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "undefined\nсут\nјеси\nјесмо\nјесте"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nви\nти"
+        },
+        {
+          "word": "sewing?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ти",
+        "шијеш",
+        "Ми",
+        "Ви"
+      ],
+      "solutions": [
+        [
+          "Ти",
+          "шијеш"
+        ]
+      ],
+      "formattedSolution": "Ти шијеш?",
+      "id": "9490c54a2936",
+      "priority": 2,
+      "group": "ff274257f570"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ти",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "шијеш?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Are",
+        "you",
+        "sewing",
+        "son",
+        "see"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "you",
+          "sewing"
+        ]
+      ],
+      "formattedSolution": "Are you sewing?",
+      "id": "25ec257a9f7c",
+      "priority": 2,
+      "group": "ff274257f570"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ја певам с групоју.",
+      "meaningInSourceLanguage": "I am singing with a group.",
+      "id": "4585f7b4646b",
+      "priority": 0,
+      "group": "3ca211e08212"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ја певам с групоју.",
+      "meaning": "I am singing with a group.",
+      "audio": "afec35c27ff9bf39e93015b864f1275b933a10ebe49617392681501aac98deac",
+      "id": "27eebdb4ebc3",
+      "priority": 1,
+      "group": "3ca211e08212"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "ја"
+        },
+        {
+          "word": "am",
+          "definition": "undefined\nјесам"
+        },
+        {
+          "word": "singing",
+          "definition": "undefined"
+        },
+        {
+          "word": "with",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "group.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ја",
+        "певам",
+        "с",
+        "групоју",
+        "ја",
+        "по",
+        "а"
+      ],
+      "solutions": [
+        [
+          "Ја",
+          "певам",
+          "с",
+          "групоју"
+        ]
+      ],
+      "formattedSolution": "Ја певам с групоју.",
+      "id": "18f314a83672",
+      "priority": 2,
+      "group": "3ca211e08212"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ја",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "певам",
+          "definition": "undefined"
+        },
+        {
+          "word": "с",
+          "definition": "undefined"
+        },
+        {
+          "word": "групоју.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "singing",
+        "with",
+        "a",
+        "group",
+        "it",
+        "in",
+        "at",
+        "an",
+        "is"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "singing",
+          "with",
+          "a",
+          "group"
+        ]
+      ],
+      "formattedSolution": "I am singing with a group.",
+      "id": "56fb5639051e",
+      "priority": 2,
+      "group": "3ca211e08212"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ја танцујем много",
+      "meaningInSourceLanguage": "I dance a lot",
+      "id": "ccd3b423b015",
+      "priority": 0,
+      "group": "420358681e71"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ја танцујем много",
+      "meaning": "I dance a lot",
+      "audio": "11d6ee50f0116b19e1d3ab8d786aa9edc9d8fce9be733165ceed5762b5b72c4a",
+      "id": "c23f29efae9c",
+      "priority": 1,
+      "group": "420358681e71"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "ја"
+        },
+        {
+          "word": "dance",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "lot",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ја",
+        "танцујем",
+        "много",
+        "не",
+        "но"
+      ],
+      "solutions": [
+        [
+          "Ја",
+          "танцујем",
+          "много"
+        ]
+      ],
+      "formattedSolution": "Ја танцујем много",
+      "id": "91a56ac6892a",
+      "priority": 2,
+      "group": "420358681e71"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ја",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "танцујем",
+          "definition": "undefined"
+        },
+        {
+          "word": "много",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "dance",
+        "a",
+        "lot",
+        "at",
+        "an",
+        "da"
+      ],
+      "solutions": [
+        [
+          "I",
+          "dance",
+          "a",
+          "lot"
+        ]
+      ],
+      "formattedSolution": "I dance a lot",
+      "id": "955b859f8685",
+      "priority": 2,
+      "group": "420358681e71"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она игра на гитару.",
+      "meaningInSourceLanguage": "She is playing the guitar.",
+      "id": "40a6e2b8043a",
+      "priority": 0,
+      "group": "bff295fa241f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она игра на гитару.",
+      "meaning": "She is playing the guitar.",
+      "audio": "8011cc36eec3655d4d995c0138dc511b55f726459a67ac581b01ff8edbbe5f28",
+      "id": "b55146c7efd7",
+      "priority": 1,
+      "group": "bff295fa241f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nјест"
+        },
+        {
+          "word": "playing",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "guitar.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Она",
+        "игра",
+        "на",
+        "гитару",
+        "има",
+        "зна",
+        "сна"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "игра",
+          "на",
+          "гитару"
+        ]
+      ],
+      "formattedSolution": "Она игра на гитару.",
+      "id": "2b798a8df598",
+      "priority": 2,
+      "group": "bff295fa241f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "игра",
+          "definition": "game\nundefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "гитару.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "is",
+        "playing",
+        "the",
+        "guitar",
+        "it",
+        "in",
+        "air",
+        "are"
+      ],
+      "solutions": [
+        [
+          "She",
+          "is",
+          "playing",
+          "the",
+          "guitar"
+        ]
+      ],
+      "formattedSolution": "She is playing the guitar.",
+      "id": "bf38c9d00d04",
+      "priority": 2,
+      "group": "bff295fa241f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "читати",
+      "meaningInSourceLanguage": "to read",
+      "id": "2d33d15cd329",
+      "priority": 0,
+      "group": "1b3ebb934567"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "читати"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "read",
+          "definition": "undefined"
+        }
+      ],
+      "id": "a5dc6e322843",
+      "priority": 1,
+      "group": "1b3ebb934567"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "читати",
+      "meaning": "to read",
+      "audio": "2fa84ace9cfe4f829db841c9220e7dbf44acc5a966794921682669d8170eb55c",
+      "id": "a263b4aa0693",
+      "priority": 1,
+      "group": "1b3ebb934567"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "писати(пише)",
+      "meaningInSourceLanguage": "to write",
+      "id": "d01df76a847e",
+      "priority": 0,
+      "group": "f99191ceae33"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "писати(пише)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "write",
+          "definition": "undefined"
+        }
+      ],
+      "id": "4239d85387be",
+      "priority": 1,
+      "group": "f99191ceae33"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "писати(пише)",
+      "meaning": "to write",
+      "audio": "949776581123c31b57e503251be35b5d2128dc0e19918a4180e32a9f1994fc70",
+      "id": "d0162d19bfd2",
+      "priority": 1,
+      "group": "f99191ceae33"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "играти",
+      "meaningInSourceLanguage": "to play",
+      "id": "545a8d3483c9",
+      "priority": 0,
+      "group": "e12a8bd8648c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "играти"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "play",
+          "definition": "undefined"
+        }
+      ],
+      "id": "d799c7c79141",
+      "priority": 1,
+      "group": "e12a8bd8648c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "играти",
+      "meaning": "to play",
+      "audio": "f07162d0b48ab11b414670f96b201550c050ac6046b7e03870cea5c2bae34d0a",
+      "id": "5a47910d02f8",
+      "priority": 1,
+      "group": "e12a8bd8648c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "гледети",
+      "meaningInSourceLanguage": "to watch",
+      "id": "bec8f238c8a8",
+      "priority": 0,
+      "group": "87ad375c9831"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "гледети"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "watch",
+          "definition": "undefined"
+        }
+      ],
+      "id": "52b4f210c326",
+      "priority": 1,
+      "group": "87ad375c9831"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "гледети",
+      "meaning": "to watch",
+      "audio": "c50ad693ce7da4407c9e35e73e385df6657599337ca4db4e27b4266491ece6ef",
+      "id": "0a816a1a67c8",
+      "priority": 1,
+      "group": "87ad375c9831"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "слушати",
+      "meaningInSourceLanguage": "to listen",
+      "id": "b0c2da46afd0",
+      "priority": 0,
+      "group": "aa046cdfab47"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "слушати"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "listen",
+          "definition": "undefined"
+        }
+      ],
+      "id": "43e1e9337507",
+      "priority": 1,
+      "group": "aa046cdfab47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "слушати",
+      "meaning": "to listen",
+      "audio": "af88003daf37c9d84a9e18d6f5e5f18d26b506894e45a50a082b7423ee8d0816",
+      "id": "22a3f78b6ac8",
+      "priority": 1,
+      "group": "aa046cdfab47"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "малјовати",
+      "meaningInSourceLanguage": "to paint",
+      "id": "f6c5ded389c7",
+      "priority": 0,
+      "group": "bffa98454019"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "малјовати"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "paint",
+          "definition": "undefined"
+        }
+      ],
+      "id": "a61e84f04a44",
+      "priority": 1,
+      "group": "bffa98454019"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "малјовати",
+      "meaning": "to paint",
+      "audio": "0c10e82b98c6ddb5b0f8dd17aac6cb5c4036a6d8a89864f84ab7c1cd5ac037bc",
+      "id": "26cc3033fa3a",
+      "priority": 1,
+      "group": "bffa98454019"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "певати",
+      "meaningInSourceLanguage": "to sing",
+      "id": "627318d7c200",
+      "priority": 0,
+      "group": "a9a60d2964b8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "певати"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "sing",
+          "definition": "undefined"
+        }
+      ],
+      "id": "030f6f214e41",
+      "priority": 1,
+      "group": "a9a60d2964b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "певати",
+      "meaning": "to sing",
+      "audio": "52b1c974f7f668187232583fcb73820b7c38cf9fb720df24962adf3401c7c8d3",
+      "id": "5f13379ba592",
+      "priority": 1,
+      "group": "a9a60d2964b8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "учити се",
+      "meaningInSourceLanguage": "to learn",
+      "id": "7b8effc91a17",
+      "priority": 0,
+      "group": "0309c0642155"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "учити се"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "learn",
+          "definition": "undefined"
+        }
+      ],
+      "id": "906119e2cc80",
+      "priority": 1,
+      "group": "0309c0642155"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "учити се",
+      "meaning": "to learn",
+      "audio": "cdba73dcbec30cd035392278ea3290b32bf95ac5005ed0ae9642710d375e1c70",
+      "id": "a26cbac3044b",
+      "priority": 1,
+      "group": "0309c0642155"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "седети(седи)",
+      "meaningInSourceLanguage": "to sit",
+      "id": "aa4ed20cb209",
+      "priority": 0,
+      "group": "2582593f0678"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "седети(седи)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "sit",
+          "definition": "undefined"
+        }
+      ],
+      "id": "c56a26d5b1d6",
+      "priority": 1,
+      "group": "2582593f0678"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "седети(седи)",
+      "meaning": "to sit",
+      "audio": "9b7f88a4ea5b54d522c7a0a27e18d480b606671eaf05ec0dc0e1d7ac9659beda",
+      "id": "024c8664eec2",
+      "priority": 1,
+      "group": "2582593f0678"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "шити (шије)",
+      "meaningInSourceLanguage": "to sew",
+      "id": "1001c6ee0582",
+      "priority": 0,
+      "group": "5e4d2f49f785"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "шити (шије)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "sew",
+          "definition": "undefined"
+        }
+      ],
+      "id": "9524217b4155",
+      "priority": 1,
+      "group": "5e4d2f49f785"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "шити (шије)",
+      "meaning": "to sew",
+      "audio": "72a28b3b6b6fade1e07c0f1cef37727736700e8bc2eb13e2ddd1da2c2be83547",
+      "id": "fecc856350a7",
+      "priority": 1,
+      "group": "5e4d2f49f785"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "танцевати",
+      "meaningInSourceLanguage": "to dance",
+      "id": "4d5ce7b0c85b",
+      "priority": 0,
+      "group": "49956da80d8b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "танцевати"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "dance",
+          "definition": "undefined"
+        }
+      ],
+      "id": "01f513aa49aa",
+      "priority": 1,
+      "group": "49956da80d8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "танцевати",
+      "meaning": "to dance",
+      "audio": "70e1d9e5d17ed64441ad0f14032aeb5f8a7eff46e6f9c50625f6694be4dc2a52",
+      "id": "50a4bc8f6b4a",
+      "priority": 1,
+      "group": "49956da80d8b"
+    }
+  ]
+}

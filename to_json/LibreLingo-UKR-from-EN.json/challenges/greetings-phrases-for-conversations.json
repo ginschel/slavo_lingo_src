@@ -1,0 +1,3538 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 12,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Доброго ранку!",
+      "meaningInSourceLanguage": "Good morning!",
+      "id": "6a4cc32d5adc",
+      "priority": 0,
+      "group": "5cd2d5a5c1c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Доброго ранку!",
+      "meaning": "Good morning!",
+      "audio": "5bae45b076f1f27218d02d727b7207f8ba0abb92f6762b1bb9550416837eabd9",
+      "id": "d2de43e880f7",
+      "priority": 1,
+      "group": "5cd2d5a5c1c1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "undefined\nдобрий"
+        },
+        {
+          "word": "morning!",
+          "definition": "undefined\nранок"
+        }
+      ],
+      "chips": [
+        "Доброго",
+        "ранку",
+        "ранок",
+        "Дорога"
+      ],
+      "solutions": [
+        [
+          "Доброго",
+          "ранку"
+        ]
+      ],
+      "formattedSolution": "Доброго ранку!",
+      "id": "2d7cf2a37649",
+      "priority": 2,
+      "group": "5cd2d5a5c1c1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Доброго",
+          "definition": "undefined"
+        },
+        {
+          "word": "ранку!",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Good",
+        "morning",
+        "moon",
+        "good"
+      ],
+      "solutions": [
+        [
+          "Good",
+          "morning"
+        ]
+      ],
+      "formattedSolution": "Good morning!",
+      "id": "86c42b924a0b",
+      "priority": 2,
+      "group": "5cd2d5a5c1c1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Добрий вечір!",
+      "meaningInSourceLanguage": "Good evening!",
+      "id": "eb79a6169d4b",
+      "priority": 0,
+      "group": "6cd390e5a2ab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Добрий вечір!",
+      "meaning": "Good evening!",
+      "audio": "fcee7b9a7340f673e86c8b4d33cbdb45ae0b14587802bf0dfd95ba1c76ef0ebb",
+      "id": "7f77310c9078",
+      "priority": 1,
+      "group": "6cd390e5a2ab"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "undefined\nдобрий"
+        },
+        {
+          "word": "evening!",
+          "definition": "undefined\nвечір"
+        }
+      ],
+      "chips": [
+        "Добрий",
+        "вечір",
+        "добрий",
+        "обрис"
+      ],
+      "solutions": [
+        [
+          "Добрий",
+          "вечір"
+        ]
+      ],
+      "formattedSolution": "Добрий вечір!",
+      "id": "4a45338884cf",
+      "priority": 2,
+      "group": "6cd390e5a2ab"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Добрий",
+          "definition": "good\nundefined"
+        },
+        {
+          "word": "вечір!",
+          "definition": "evening\nundefined"
+        }
+      ],
+      "chips": [
+        "Good",
+        "evening",
+        "good",
+        "kind"
+      ],
+      "solutions": [
+        [
+          "Good",
+          "evening"
+        ]
+      ],
+      "formattedSolution": "Good evening!",
+      "id": "98b4d134a424",
+      "priority": 2,
+      "group": "6cd390e5a2ab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Добрий день!",
+      "meaningInSourceLanguage": "Good day!",
+      "id": "c7b25a4c0495",
+      "priority": 0,
+      "group": "99d76f52df46"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Добрий день!",
+      "meaning": "Good day!",
+      "audio": "d8cc7b39f933834320746900ab012829a8e4b55880cf1f3d45bb4d291d28e5e1",
+      "id": "e7e7df2b3d2d",
+      "priority": 1,
+      "group": "99d76f52df46"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "undefined\nдобрий"
+        },
+        {
+          "word": "day!",
+          "definition": "undefined\nдень"
+        }
+      ],
+      "chips": [
+        "Добрий",
+        "день",
+        "добрий",
+        "добра"
+      ],
+      "solutions": [
+        [
+          "Добрий",
+          "день"
+        ]
+      ],
+      "formattedSolution": "Добрий день!",
+      "id": "6d77f9870666",
+      "priority": 2,
+      "group": "99d76f52df46"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Добрий",
+          "definition": "good\nundefined"
+        },
+        {
+          "word": "день!",
+          "definition": "day\nundefined"
+        }
+      ],
+      "chips": [
+        "Good",
+        "day",
+        "God",
+        "good"
+      ],
+      "solutions": [
+        [
+          "Good",
+          "day"
+        ]
+      ],
+      "formattedSolution": "Good day!",
+      "id": "2e2eb64dbc66",
+      "priority": 2,
+      "group": "99d76f52df46"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Добра ніч!",
+      "meaningInSourceLanguage": "Good night!",
+      "id": "68c5162a6be7",
+      "priority": 0,
+      "group": "cab144dc7fe0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Добра ніч!",
+      "meaning": "Good night!",
+      "audio": "a5f55bac9bb2b6833876a8297d2362b2787ab2114ee2a46903cd66851fd610df",
+      "id": "6630b0376941",
+      "priority": 1,
+      "group": "cab144dc7fe0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "undefined\nдобрий"
+        },
+        {
+          "word": "night!",
+          "definition": "undefined\nніч"
+        }
+      ],
+      "chips": [
+        "Добра",
+        "ніч",
+        "добра",
+        "обід"
+      ],
+      "solutions": [
+        [
+          "Добра",
+          "ніч"
+        ]
+      ],
+      "formattedSolution": "Добра ніч!",
+      "id": "2723d4347752",
+      "priority": 2,
+      "group": "cab144dc7fe0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Добра",
+          "definition": "undefined"
+        },
+        {
+          "word": "ніч!",
+          "definition": "night\nundefined"
+        }
+      ],
+      "chips": [
+        "Good",
+        "night",
+        "good",
+        "not"
+      ],
+      "solutions": [
+        [
+          "Good",
+          "night"
+        ]
+      ],
+      "formattedSolution": "Good night!",
+      "id": "5b68880c5256",
+      "priority": 2,
+      "group": "cab144dc7fe0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Як ти є?",
+      "meaningInSourceLanguage": "How are you?",
+      "id": "f81b19cc51e5",
+      "priority": 0,
+      "group": "ef7e219bc64d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Як ти є?",
+      "meaning": "How are you?",
+      "audio": "970a114108302c8b4b91ab7b2fac92a311537875ccde6e9437d6105cbecfb672",
+      "id": "50c411907f7b",
+      "priority": 1,
+      "group": "ef7e219bc64d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "How",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nви є\nвони є\nми є\nти є"
+        },
+        {
+          "word": "you?",
+          "definition": "undefined\nви\nти"
+        }
+      ],
+      "chips": [
+        "Як",
+        "ти",
+        "є",
+        "Я",
+        "Ми"
+      ],
+      "solutions": [
+        [
+          "Як",
+          "ти",
+          "є"
+        ]
+      ],
+      "formattedSolution": "Як ти є?",
+      "id": "dc968c56c3e4",
+      "priority": 2,
+      "group": "ef7e219bc64d"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Як",
+          "definition": "undefined"
+        },
+        {
+          "word": "ти",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "є?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "How",
+        "are",
+        "you",
+        "You",
+        "how"
+      ],
+      "solutions": [
+        [
+          "How",
+          "are",
+          "you"
+        ]
+      ],
+      "formattedSolution": "How are you?",
+      "id": "678b16a0ac94",
+      "priority": 2,
+      "group": "ef7e219bc64d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я є добрий, дякую!",
+      "meaningInSourceLanguage": "I am well, thank you!",
+      "id": "4185fb4f4895",
+      "priority": 0,
+      "group": "5b83fb6163c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я є добрий, дякую!",
+      "meaning": "I am well, thank you!",
+      "audio": "75dffe40da70e4a8afffcd848232560c0f5754b4836803fadff8b7283503efb2",
+      "id": "975e4d9635fa",
+      "priority": 1,
+      "group": "5b83fb6163c1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "am",
+          "definition": "undefined\nя є"
+        },
+        {
+          "word": "well,",
+          "definition": "undefined"
+        },
+        {
+          "word": "thank",
+          "definition": "undefined"
+        },
+        {
+          "word": "you!",
+          "definition": "undefined\nви\nти"
+        }
+      ],
+      "chips": [
+        "Я",
+        "є",
+        "добрий",
+        "дякую",
+        "я",
+        "до",
+        "о"
+      ],
+      "solutions": [
+        [
+          "Я",
+          "є",
+          "добрий",
+          "дякую"
+        ]
+      ],
+      "formattedSolution": "Я є добрий, дякую!",
+      "id": "8c4acc4cad54",
+      "priority": 2,
+      "group": "5b83fb6163c1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Я",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "є",
+          "definition": "undefined"
+        },
+        {
+          "word": "добрий,",
+          "definition": "good\nundefined"
+        },
+        {
+          "word": "дякую!",
+          "definition": "thanks\nundefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "well",
+        "thank",
+        "you",
+        "a",
+        "an",
+        "at",
+        "on"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "well",
+          "thank",
+          "you"
+        ]
+      ],
+      "formattedSolution": "I am well, thank you!",
+      "id": "727bbadb76f1",
+      "priority": 2,
+      "group": "5b83fb6163c1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "А ти?",
+      "meaningInSourceLanguage": "And you?",
+      "id": "8b5519cadfcc",
+      "priority": 0,
+      "group": "20b67b2949ce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "А ти?",
+      "meaning": "And you?",
+      "audio": "5669bad2fc549e906a0dd1485a0cd3dd0fb20daa34b838e9e6bc558ca1d50285",
+      "id": "8447c4abbd7d",
+      "priority": 1,
+      "group": "20b67b2949ce"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "And",
+          "definition": "undefined"
+        },
+        {
+          "word": "you?",
+          "definition": "undefined\nви\nти"
+        }
+      ],
+      "chips": [
+        "А",
+        "ти",
+        "Я",
+        "є"
+      ],
+      "solutions": [
+        [
+          "А",
+          "ти"
+        ]
+      ],
+      "formattedSolution": "А ти?",
+      "id": "56883c8d87d2",
+      "priority": 2,
+      "group": "20b67b2949ce"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "А",
+          "definition": "undefined"
+        },
+        {
+          "word": "ти?",
+          "definition": "undefined\nyou"
+        }
+      ],
+      "chips": [
+        "And",
+        "you",
+        "You",
+        "God"
+      ],
+      "solutions": [
+        [
+          "And",
+          "you"
+        ]
+      ],
+      "formattedSolution": "And you?",
+      "id": "5dd803984414",
+      "priority": 2,
+      "group": "20b67b2949ce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Дякую тобі дуже.",
+      "meaningInSourceLanguage": "Thank you very much.",
+      "id": "4171175e0172",
+      "priority": 0,
+      "group": "db2499b4e9c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Дякую тобі дуже.",
+      "meaning": "Thank you very much.",
+      "audio": "bb8dfc7d04c043295b730c6a54747b5ea5b5109783b1a90b76a72831a75d2caf",
+      "id": "05fa6c713112",
+      "priority": 1,
+      "group": "db2499b4e9c5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Thank",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nви\nти"
+        },
+        {
+          "word": "very",
+          "definition": "undefined"
+        },
+        {
+          "word": "much.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Дякую",
+        "тобі",
+        "дуже",
+        "дякую",
+        "тебе"
+      ],
+      "solutions": [
+        [
+          "Дякую",
+          "тобі",
+          "дуже"
+        ]
+      ],
+      "formattedSolution": "Дякую тобі дуже.",
+      "id": "9bda720cfd2f",
+      "priority": 2,
+      "group": "db2499b4e9c5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Дякую",
+          "definition": "thanks\nundefined"
+        },
+        {
+          "word": "тобі",
+          "definition": "undefined"
+        },
+        {
+          "word": "дуже.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Thank",
+        "you",
+        "very",
+        "much",
+        "man",
+        "mean",
+        "her"
+      ],
+      "solutions": [
+        [
+          "Thank",
+          "you",
+          "very",
+          "much"
+        ]
+      ],
+      "formattedSolution": "Thank you very much.",
+      "id": "d2d6a083be94",
+      "priority": 2,
+      "group": "db2499b4e9c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Перепрошую, не розумію.",
+      "meaningInSourceLanguage": "Excuse me, I don't understand.",
+      "id": "1fc1f9bb26e0",
+      "priority": 0,
+      "group": "d92c6a99b4c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Перепрошую, не розумію.",
+      "meaning": "Excuse me, I don't understand.",
+      "audio": "f6652d7b96f1c1b4ce897ee0d470461fd4153b34a195f572e9b9dcd2c16c5ccb",
+      "id": "66aaa01d6731",
+      "priority": 1,
+      "group": "d92c6a99b4c3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Excuse",
+          "definition": "undefined"
+        },
+        {
+          "word": "me,",
+          "definition": "undefined"
+        },
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "don't",
+          "definition": "undefined"
+        },
+        {
+          "word": "understand.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Перепрошую",
+        "не",
+        "розумію",
+        "прошу",
+        "ношу"
+      ],
+      "solutions": [
+        [
+          "Перепрошую",
+          "не",
+          "розумію"
+        ]
+      ],
+      "formattedSolution": "Перепрошую, не розумію.",
+      "id": "cb3e1be79456",
+      "priority": 2,
+      "group": "d92c6a99b4c3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Перепрошую,",
+          "definition": "pardon\nundefined"
+        },
+        {
+          "word": "не",
+          "definition": "undefined"
+        },
+        {
+          "word": "розумію.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Excuse",
+        "me",
+        "I",
+        "don't",
+        "understand",
+        "us",
+        "We",
+        "He",
+        "so"
+      ],
+      "solutions": [
+        [
+          "Excuse",
+          "me",
+          "I",
+          "don't",
+          "understand"
+        ]
+      ],
+      "formattedSolution": "Excuse me, I don't understand.",
+      "id": "acf5757d0c71",
+      "priority": 2,
+      "group": "d92c6a99b4c3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Привіт!",
+      "meaningInSourceLanguage": "Greetings!",
+      "id": "c8f1341eadce",
+      "priority": 0,
+      "group": "54648e197861"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Привіт!",
+      "meaning": "Greetings!",
+      "audio": "2c1d5242b9dce9ffd7b5b302044b54b09254c65f1d012b39c9038e4d9efafc5a",
+      "id": "6e56609d4e07",
+      "priority": 1,
+      "group": "54648e197861"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Привіт!",
+      "meaningInSourceLanguage": "Hello!",
+      "id": "8cd59426852a",
+      "priority": 0,
+      "group": "28bc292cb82a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Привіт!",
+      "meaning": "Hello!",
+      "audio": "2c1d5242b9dce9ffd7b5b302044b54b09254c65f1d012b39c9038e4d9efafc5a",
+      "id": "5c852296d68a",
+      "priority": 1,
+      "group": "28bc292cb82a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Добрий день, як ти є?",
+      "meaningInSourceLanguage": "Good day, how are you?",
+      "id": "cb65bee0c657",
+      "priority": 0,
+      "group": "8d32bed2e1ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Добрий день, як ти є?",
+      "meaning": "Good day, how are you?",
+      "audio": "7a6c24d5ccd590d1b0823542e340c30c189875da00807e69b4d667d46b80a82d",
+      "id": "5cddaefdb8a7",
+      "priority": 1,
+      "group": "8d32bed2e1ee"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Good",
+          "definition": "undefined\nдобрий"
+        },
+        {
+          "word": "day,",
+          "definition": "undefined\nдень"
+        },
+        {
+          "word": "how",
+          "definition": "undefined"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nви є\nвони є\nми є\nти є"
+        },
+        {
+          "word": "you?",
+          "definition": "undefined\nви\nти"
+        }
+      ],
+      "chips": [
+        "Добрий",
+        "день",
+        "як",
+        "ти",
+        "є",
+        "би",
+        "Ми",
+        "Ви",
+        "Ти"
+      ],
+      "solutions": [
+        [
+          "Добрий",
+          "день",
+          "як",
+          "ти",
+          "є"
+        ]
+      ],
+      "formattedSolution": "Добрий день, як ти є?",
+      "id": "01dbdaea630f",
+      "priority": 2,
+      "group": "8d32bed2e1ee"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Добрий",
+          "definition": "good\nundefined"
+        },
+        {
+          "word": "день,",
+          "definition": "day\nundefined"
+        },
+        {
+          "word": "як",
+          "definition": "undefined"
+        },
+        {
+          "word": "ти",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "є?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Good",
+        "day",
+        "how",
+        "are",
+        "you",
+        "God",
+        "You",
+        "How",
+        "too"
+      ],
+      "solutions": [
+        [
+          "Good",
+          "day",
+          "how",
+          "are",
+          "you"
+        ]
+      ],
+      "formattedSolution": "Good day, how are you?",
+      "id": "6cc748774c1b",
+      "priority": 2,
+      "group": "8d32bed2e1ee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ти є здоровий?",
+      "meaningInSourceLanguage": "Are you healthy?",
+      "id": "8558762bb71a",
+      "priority": 0,
+      "group": "e6ba1bba3541"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ти є здоровий?",
+      "meaning": "Are you healthy?",
+      "audio": "b64d1022fcb309bf44d26723b0e432ed0f4448d2e836160f7fac1fe081b22ff4",
+      "id": "357ce574aebb",
+      "priority": 1,
+      "group": "e6ba1bba3541"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "undefined\nви є\nвони є\nми є\nти є"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nви\nти"
+        },
+        {
+          "word": "healthy?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ти",
+        "є",
+        "здоровий",
+        "Ми",
+        "Ви"
+      ],
+      "solutions": [
+        [
+          "Ти",
+          "є",
+          "здоровий"
+        ]
+      ],
+      "formattedSolution": "Ти є здоровий?",
+      "id": "0c5b795c7858",
+      "priority": 2,
+      "group": "e6ba1bba3541"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ти",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "є",
+          "definition": "undefined"
+        },
+        {
+          "word": "здоровий?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Are",
+        "you",
+        "healthy",
+        "are",
+        "the"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "you",
+          "healthy"
+        ]
+      ],
+      "formattedSolution": "Are you healthy?",
+      "id": "52800834e456",
+      "priority": 2,
+      "group": "e6ba1bba3541"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ласкаво просимо!",
+      "meaningInSourceLanguage": "Welcome!",
+      "id": "b65a05fb7766",
+      "priority": 0,
+      "group": "c32c7086f760"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ласкаво просимо!",
+      "meaning": "Welcome!",
+      "audio": "4deb44c90f8cd99a37a2a5833b875b85c7ea1deef8be5c3e2b29b582eaa46126",
+      "id": "b844be649853",
+      "priority": 1,
+      "group": "c32c7086f760"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "На здоров'я!",
+      "meaningInSourceLanguage": "To your health!",
+      "id": "da8cc23f6862",
+      "priority": 0,
+      "group": "b2e5615800d1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "На здоров'я!",
+      "meaning": "To your health!",
+      "audio": "8f62739fe49d9e7daa36757b5d296395542e0c0d2b5d04aefa5bad9e2ea5502a",
+      "id": "750befba26b1",
+      "priority": 1,
+      "group": "b2e5615800d1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "To",
+          "definition": "undefined"
+        },
+        {
+          "word": "your",
+          "definition": "undefined"
+        },
+        {
+          "word": "health!",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "На",
+        "здоров'я",
+        "за",
+        "два"
+      ],
+      "solutions": [
+        [
+          "На",
+          "здоров'я"
+        ]
+      ],
+      "formattedSolution": "На здоров'я!",
+      "id": "a337065fd1de",
+      "priority": 2,
+      "group": "b2e5615800d1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "На",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "здоров'я!",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "To",
+        "your",
+        "health",
+        "you",
+        "to"
+      ],
+      "solutions": [
+        [
+          "To",
+          "your",
+          "health"
+        ]
+      ],
+      "formattedSolution": "To your health!",
+      "id": "616409ed2bdc",
+      "priority": 2,
+      "group": "b2e5615800d1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Привітай твою сестру.",
+      "meaningInSourceLanguage": "Greet your sister.",
+      "id": "3c99271b662a",
+      "priority": 0,
+      "group": "66bb0b159efa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Привітай твою сестру.",
+      "meaning": "Greet your sister.",
+      "audio": "5768256619707cfd956887dbb77589a7cce88566328a5dc66afd217a0aa4292b",
+      "id": "9184bfebc0dd",
+      "priority": 1,
+      "group": "66bb0b159efa"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Greet",
+          "definition": "undefined"
+        },
+        {
+          "word": "your",
+          "definition": "undefined"
+        },
+        {
+          "word": "sister.",
+          "definition": "undefined\nсестра"
+        }
+      ],
+      "chips": [
+        "Привітай",
+        "твою",
+        "сестру",
+        "твій",
+        "Привіт"
+      ],
+      "solutions": [
+        [
+          "Привітай",
+          "твою",
+          "сестру"
+        ]
+      ],
+      "formattedSolution": "Привітай твою сестру.",
+      "id": "1bd0021bf280",
+      "priority": 2,
+      "group": "66bb0b159efa"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Привітай",
+          "definition": "undefined"
+        },
+        {
+          "word": "твою",
+          "definition": "undefined"
+        },
+        {
+          "word": "сестру.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Greet",
+        "your",
+        "sister",
+        "beer",
+        "sour"
+      ],
+      "solutions": [
+        [
+          "Greet",
+          "your",
+          "sister"
+        ]
+      ],
+      "formattedSolution": "Greet your sister.",
+      "id": "da53f057d9c3",
+      "priority": 2,
+      "group": "66bb0b159efa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Як тебе звуть?",
+      "meaningInSourceLanguage": "What is your name?",
+      "id": "c0d860115477",
+      "priority": 0,
+      "group": "52c890f7d748"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Як тебе звуть?",
+      "meaning": "What is your name?",
+      "audio": "2cd0600a5affd4b554b4797c6a069ba1081afc1bb2e9e46ada8c42378fdcf95d",
+      "id": "30dbb85fc540",
+      "priority": 1,
+      "group": "52c890f7d748"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "What",
+          "definition": "undefined\nщо"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nвін/вона/воно є"
+        },
+        {
+          "word": "your",
+          "definition": "undefined"
+        },
+        {
+          "word": "name?",
+          "definition": "undefined\nім\\'я"
+        }
+      ],
+      "chips": [
+        "Як",
+        "тебе",
+        "звуть",
+        "те",
+        "ти"
+      ],
+      "solutions": [
+        [
+          "Як",
+          "тебе",
+          "звуть"
+        ]
+      ],
+      "formattedSolution": "Як тебе звуть?",
+      "id": "19c394ebc1e9",
+      "priority": 2,
+      "group": "52c890f7d748"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Як",
+          "definition": "undefined"
+        },
+        {
+          "word": "тебе",
+          "definition": "undefined"
+        },
+        {
+          "word": "звуть?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "What",
+        "is",
+        "your",
+        "name",
+        "am",
+        "at",
+        "has"
+      ],
+      "solutions": [
+        [
+          "What",
+          "is",
+          "your",
+          "name"
+        ]
+      ],
+      "formattedSolution": "What is your name?",
+      "id": "7e80002b29d6",
+      "priority": 2,
+      "group": "52c890f7d748"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мене звуть Бартек.",
+      "meaningInSourceLanguage": "My name is Bartek.",
+      "id": "8b2007ef842e",
+      "priority": 0,
+      "group": "045fdd1280ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мене звуть Бартек.",
+      "meaning": "My name is Bartek.",
+      "audio": "bbccb557e888ac27f04e8386343ad1ef928b4cc250853078f0eac144c4772a67",
+      "id": "0233d006c18f",
+      "priority": 1,
+      "group": "045fdd1280ea"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "My",
+          "definition": "undefined"
+        },
+        {
+          "word": "name",
+          "definition": "undefined\nім\\'я"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nвін/вона/воно є"
+        },
+        {
+          "word": "Bartek.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Мене",
+        "звуть",
+        "Бартек",
+        "авто",
+        "мене"
+      ],
+      "solutions": [
+        [
+          "Мене",
+          "звуть",
+          "Бартек"
+        ]
+      ],
+      "formattedSolution": "Мене звуть Бартек.",
+      "id": "35bbbbfa2f12",
+      "priority": 2,
+      "group": "045fdd1280ea"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Мене",
+          "definition": "undefined"
+        },
+        {
+          "word": "звуть",
+          "definition": "undefined"
+        },
+        {
+          "word": "Бартек.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "My",
+        "name",
+        "is",
+        "Bartek",
+        "am",
+        "are",
+        "me"
+      ],
+      "solutions": [
+        [
+          "My",
+          "name",
+          "is",
+          "Bartek"
+        ]
+      ],
+      "formattedSolution": "My name is Bartek.",
+      "id": "ceacf2c48962",
+      "priority": 2,
+      "group": "045fdd1280ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Дякую за бесіду.",
+      "meaningInSourceLanguage": "Thank you for the conversation.",
+      "id": "8b028a6d2e66",
+      "priority": 0,
+      "group": "e9f66ca3bef8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Дякую за бесіду.",
+      "meaning": "Thank you for the conversation.",
+      "audio": "1f0e3a245485e6e76a9855c5264a562f6d8e81eb555711804ba052b6aef386bc",
+      "id": "935bf1847dbd",
+      "priority": 1,
+      "group": "e9f66ca3bef8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Thank",
+          "definition": "undefined"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nви\nти"
+        },
+        {
+          "word": "for",
+          "definition": "undefined\nза"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "conversation.",
+          "definition": "undefined\nбесіда/розмова"
+        }
+      ],
+      "chips": [
+        "Дякую",
+        "за",
+        "бесіду",
+        "Йду",
+        "зі"
+      ],
+      "solutions": [
+        [
+          "Дякую",
+          "за",
+          "бесіду"
+        ]
+      ],
+      "formattedSolution": "Дякую за бесіду.",
+      "id": "0f829e4cab02",
+      "priority": 2,
+      "group": "e9f66ca3bef8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Дякую",
+          "definition": "thanks\nundefined"
+        },
+        {
+          "word": "за",
+          "definition": "for\nundefined"
+        },
+        {
+          "word": "бесіду.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Thank",
+        "you",
+        "for",
+        "the",
+        "conversation",
+        "son",
+        "too",
+        "her",
+        "The"
+      ],
+      "solutions": [
+        [
+          "Thank",
+          "you",
+          "for",
+          "the",
+          "conversation"
+        ]
+      ],
+      "formattedSolution": "Thank you for the conversation.",
+      "id": "59c8f2a92e4a",
+      "priority": 2,
+      "group": "e9f66ca3bef8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Так є.",
+      "meaningInSourceLanguage": "That is so.",
+      "id": "e8b3465d190c",
+      "priority": 0,
+      "group": "ad077da510f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Так є.",
+      "meaning": "That is so.",
+      "audio": "4bbf5d60c946220087989d776d70074bff35978f5dcac256d01c47d492dd1453",
+      "id": "aff63f5e25d9",
+      "priority": 1,
+      "group": "ad077da510f5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "That",
+          "definition": "undefined\nцей (чоловічий рід)"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nвін/вона/воно є"
+        },
+        {
+          "word": "so.",
+          "definition": "undefined\nтак/отже"
+        }
+      ],
+      "chips": [
+        "Так",
+        "є",
+        "Та",
+        "Я"
+      ],
+      "solutions": [
+        [
+          "Так",
+          "є"
+        ]
+      ],
+      "formattedSolution": "Так є.",
+      "id": "4607354a0b9c",
+      "priority": 2,
+      "group": "ad077da510f5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Так",
+          "definition": "undefined"
+        },
+        {
+          "word": "є.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "That",
+        "is",
+        "so",
+        "To",
+        "it"
+      ],
+      "solutions": [
+        [
+          "That",
+          "is",
+          "so"
+        ]
+      ],
+      "formattedSolution": "That is so.",
+      "id": "65fcd2b2fe26",
+      "priority": 2,
+      "group": "ad077da510f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Не так.",
+      "meaningInSourceLanguage": "Not so.",
+      "id": "9ad0c6fc6b44",
+      "priority": 0,
+      "group": "a603adcc7429"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Не так.",
+      "meaning": "Not so.",
+      "audio": "99acd2ea9c1754f9d1738f4eaade6154565ec5220c4a0e393b057b6252c865e7",
+      "id": "5618c9526525",
+      "priority": 1,
+      "group": "a603adcc7429"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Not",
+          "definition": "undefined"
+        },
+        {
+          "word": "so.",
+          "definition": "undefined\nтак/отже"
+        }
+      ],
+      "chips": [
+        "Не",
+        "так",
+        "На",
+        "те"
+      ],
+      "solutions": [
+        [
+          "Не",
+          "так"
+        ]
+      ],
+      "formattedSolution": "Не так.",
+      "id": "b647a158c700",
+      "priority": 2,
+      "group": "a603adcc7429"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Не",
+          "definition": "undefined"
+        },
+        {
+          "word": "так.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Not",
+        "so",
+        "No",
+        "not"
+      ],
+      "solutions": [
+        [
+          "Not",
+          "so"
+        ]
+      ],
+      "formattedSolution": "Not so.",
+      "id": "93954bdd7f15",
+      "priority": 2,
+      "group": "a603adcc7429"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Може бути.",
+      "meaningInSourceLanguage": "Maybe.",
+      "id": "8e139667cfd2",
+      "priority": 0,
+      "group": "eae23d414185"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Може бути.",
+      "meaning": "Maybe.",
+      "audio": "269f2f734f08a7404f2b392e112fe36f7c8e18581bc226c4d91cdd36765d44e4",
+      "id": "69518d400fbf",
+      "priority": 1,
+      "group": "eae23d414185"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Не можливо.",
+      "meaningInSourceLanguage": "Not possible.",
+      "id": "8a3c65cbd10e",
+      "priority": 0,
+      "group": "8e075cf82e50"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Не можливо.",
+      "meaning": "Not possible.",
+      "audio": "9a3dd7abf3c1b050a50493ac3e12ee2f27bb28bca6ff6b5cab094a22ff14bac2",
+      "id": "2131c3c9cce9",
+      "priority": 1,
+      "group": "8e075cf82e50"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Not",
+          "definition": "undefined"
+        },
+        {
+          "word": "possible.",
+          "definition": "undefined\nможливо"
+        }
+      ],
+      "chips": [
+        "Не",
+        "можливо",
+        "живе",
+        "Це"
+      ],
+      "solutions": [
+        [
+          "Не",
+          "можливо"
+        ]
+      ],
+      "formattedSolution": "Не можливо.",
+      "id": "51a08b44c509",
+      "priority": 2,
+      "group": "8e075cf82e50"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Не",
+          "definition": "undefined"
+        },
+        {
+          "word": "можливо.",
+          "definition": "possible\nundefined"
+        }
+      ],
+      "chips": [
+        "Not",
+        "possible",
+        "pot",
+        "not"
+      ],
+      "solutions": [
+        [
+          "Not",
+          "possible"
+        ]
+      ],
+      "formattedSolution": "Not possible.",
+      "id": "79db990bcd79",
+      "priority": 2,
+      "group": "8e075cf82e50"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Шкода!",
+      "meaningInSourceLanguage": "What a pity!",
+      "id": "2874e2df462a",
+      "priority": 0,
+      "group": "db5ac7d6b865"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Шкода!",
+      "meaning": "What a pity!",
+      "audio": "90db452bc0e33b559e0beeff91d855b0f3ca3f13175b8cf48f4a3362d93517f2",
+      "id": "b4a1327980bf",
+      "priority": 1,
+      "group": "db5ac7d6b865"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Добре!",
+      "meaningInSourceLanguage": "Good!",
+      "id": "f91d367f8b7b",
+      "priority": 0,
+      "group": "37ffe705eece"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Добре!",
+      "meaning": "Good!",
+      "audio": "e6b2375c9924147bfd6b3930f6176b91a742c2d4a031027f84b755f3a12b49da",
+      "id": "5404fd29b4c6",
+      "priority": 1,
+      "group": "37ffe705eece"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Недобре.",
+      "meaningInSourceLanguage": "Not good.",
+      "id": "953f7d2c2ff9",
+      "priority": 0,
+      "group": "146043cf6e3c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Недобре.",
+      "meaning": "Not good.",
+      "audio": "64cedb84013a0597553a56c50dde9032bfa1903cb2af827e75f7ac3660147e28",
+      "id": "31171ddf23b3",
+      "priority": 1,
+      "group": "146043cf6e3c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Це є краще.",
+      "meaningInSourceLanguage": "This is better.",
+      "id": "7bb47a5d5451",
+      "priority": 0,
+      "group": "3a5ddd9062f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Це є краще.",
+      "meaning": "This is better.",
+      "audio": "baadab14d5e989d3b828aa1c277f43bb21e79a497ab6e1bd7074a68d49c33465",
+      "id": "0a9a5a91d55d",
+      "priority": 1,
+      "group": "3a5ddd9062f2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nвін/вона/воно є"
+        },
+        {
+          "word": "better.",
+          "definition": "undefined\nкраще"
+        }
+      ],
+      "chips": [
+        "Це",
+        "є",
+        "краще",
+        "ще",
+        "не"
+      ],
+      "solutions": [
+        [
+          "Це",
+          "є",
+          "краще"
+        ]
+      ],
+      "formattedSolution": "Це є краще.",
+      "id": "6c37711a5963",
+      "priority": 2,
+      "group": "3a5ddd9062f2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Це",
+          "definition": "undefined"
+        },
+        {
+          "word": "є",
+          "definition": "undefined"
+        },
+        {
+          "word": "краще.",
+          "definition": "better\nundefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "better",
+        "this",
+        "his"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "better"
+        ]
+      ],
+      "formattedSolution": "This is better.",
+      "id": "cd89157af543",
+      "priority": 2,
+      "group": "3a5ddd9062f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Це не є краще.",
+      "meaningInSourceLanguage": "This is not better.",
+      "id": "bd24debdae3d",
+      "priority": 0,
+      "group": "e082fe7ec01c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Це не є краще.",
+      "meaning": "This is not better.",
+      "audio": "61a270b3d244e453f95dceb85ce3116986ec2117d689f7032ced1023b14059eb",
+      "id": "6d1fc8377b75",
+      "priority": 1,
+      "group": "e082fe7ec01c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nвін/вона/воно є"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "better.",
+          "definition": "undefined\nкраще"
+        }
+      ],
+      "chips": [
+        "Це",
+        "не",
+        "є",
+        "краще",
+        "ще",
+        "Не",
+        "це"
+      ],
+      "solutions": [
+        [
+          "Це",
+          "не",
+          "є",
+          "краще"
+        ]
+      ],
+      "formattedSolution": "Це не є краще.",
+      "id": "024d1633aeab",
+      "priority": 2,
+      "group": "e082fe7ec01c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Це",
+          "definition": "undefined"
+        },
+        {
+          "word": "не",
+          "definition": "undefined"
+        },
+        {
+          "word": "є",
+          "definition": "undefined"
+        },
+        {
+          "word": "краще.",
+          "definition": "better\nundefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "not",
+        "better",
+        "it",
+        "his",
+        "this"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "not",
+          "better"
+        ]
+      ],
+      "formattedSolution": "This is not better.",
+      "id": "1c5bce79a8d6",
+      "priority": 2,
+      "group": "e082fe7ec01c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Так, може.",
+      "meaningInSourceLanguage": "Yes, it is possible.",
+      "id": "310f3ce03afa",
+      "priority": 0,
+      "group": "54367981bb64"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Так, може.",
+      "meaning": "Yes, it is possible.",
+      "audio": "dbc54a9b27f3296083c5dbebfe04eb176535697fb071cf4dadf7a46813aac746",
+      "id": "74f9253966d3",
+      "priority": 1,
+      "group": "54367981bb64"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Yes,",
+          "definition": "undefined\nтак (ствердно)"
+        },
+        {
+          "word": "it",
+          "definition": "undefined\nвоно"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nвін/вона/воно є"
+        },
+        {
+          "word": "possible.",
+          "definition": "undefined\nможливо"
+        }
+      ],
+      "chips": [
+        "Так",
+        "може",
+        "моя",
+        "Та"
+      ],
+      "solutions": [
+        [
+          "Так",
+          "може"
+        ]
+      ],
+      "formattedSolution": "Так, може.",
+      "id": "ea18b4338725",
+      "priority": 2,
+      "group": "54367981bb64"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Так,",
+          "definition": "undefined"
+        },
+        {
+          "word": "може.",
+          "definition": "maybe/can\nundefined"
+        }
+      ],
+      "chips": [
+        "Yes",
+        "it",
+        "is",
+        "possible",
+        "Is",
+        "his",
+        "in"
+      ],
+      "solutions": [
+        [
+          "Yes",
+          "it",
+          "is",
+          "possible"
+        ]
+      ],
+      "formattedSolution": "Yes, it is possible.",
+      "id": "c0e546af4190",
+      "priority": 2,
+      "group": "54367981bb64"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ні, не можливо.",
+      "meaningInSourceLanguage": "No, it is not possible.",
+      "id": "fe890f880e8e",
+      "priority": 0,
+      "group": "cc8216d36313"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ні, не можливо.",
+      "meaning": "No, it is not possible.",
+      "audio": "9d08c584412c46f1913e7c8ea58367eb004555448ccaab258fb632a43f34157f",
+      "id": "d6b916b0dc39",
+      "priority": 1,
+      "group": "cc8216d36313"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "No,",
+          "definition": "undefined\nні"
+        },
+        {
+          "word": "it",
+          "definition": "undefined\nвоно"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nвін/вона/воно є"
+        },
+        {
+          "word": "not",
+          "definition": "undefined"
+        },
+        {
+          "word": "possible.",
+          "definition": "undefined\nможливо"
+        }
+      ],
+      "chips": [
+        "Ні",
+        "не",
+        "можливо",
+        "Не",
+        "ні"
+      ],
+      "solutions": [
+        [
+          "Ні",
+          "не",
+          "можливо"
+        ]
+      ],
+      "formattedSolution": "Ні, не можливо.",
+      "id": "d1d0fee4941a",
+      "priority": 2,
+      "group": "cc8216d36313"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ні,",
+          "definition": "no\nundefined"
+        },
+        {
+          "word": "не",
+          "definition": "undefined"
+        },
+        {
+          "word": "можливо.",
+          "definition": "possible\nundefined"
+        }
+      ],
+      "chips": [
+        "No",
+        "it",
+        "is",
+        "not",
+        "possible",
+        "no",
+        "To",
+        "so",
+        "Not"
+      ],
+      "solutions": [
+        [
+          "No",
+          "it",
+          "is",
+          "not",
+          "possible"
+        ]
+      ],
+      "formattedSolution": "No, it is not possible.",
+      "id": "f0453be98ffe",
+      "priority": 2,
+      "group": "cc8216d36313"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Чи це можливо?",
+      "meaningInSourceLanguage": "Is this possible?",
+      "id": "8761b990d4ec",
+      "priority": 0,
+      "group": "ef6e7c920695"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Чи це можливо?",
+      "meaning": "Is this possible?",
+      "audio": "9fcbf73b297517948c775d51a10f8ee308fd73ee146caf1732b78bfec9ff3a86",
+      "id": "18b8c173fc91",
+      "priority": 1,
+      "group": "ef6e7c920695"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Is",
+          "definition": "undefined\nвін/вона/воно є"
+        },
+        {
+          "word": "this",
+          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+        },
+        {
+          "word": "possible?",
+          "definition": "undefined\nможливо"
+        }
+      ],
+      "chips": [
+        "Чи",
+        "це",
+        "можливо",
+        "Ми",
+        "Ви"
+      ],
+      "solutions": [
+        [
+          "Чи",
+          "це",
+          "можливо"
+        ]
+      ],
+      "formattedSolution": "Чи це можливо?",
+      "id": "b5d1f40049ed",
+      "priority": 2,
+      "group": "ef6e7c920695"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Чи",
+          "definition": "undefined"
+        },
+        {
+          "word": "це",
+          "definition": "undefined"
+        },
+        {
+          "word": "можливо?",
+          "definition": "possible\nundefined"
+        }
+      ],
+      "chips": [
+        "Is",
+        "this",
+        "possible",
+        "is",
+        "his"
+      ],
+      "solutions": [
+        [
+          "Is",
+          "this",
+          "possible"
+        ]
+      ],
+      "formattedSolution": "Is this possible?",
+      "id": "1bb122738333",
+      "priority": 2,
+      "group": "ef6e7c920695"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Що це означає?",
+      "meaningInSourceLanguage": "What does this mean?",
+      "id": "cffcb38c2fda",
+      "priority": 0,
+      "group": "8c8946805a65"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Що це означає?",
+      "meaning": "What does this mean?",
+      "audio": "d234843fa5972f3c447a0bb702df108f84cdba8dc1b9dbb8e3c8f220c9051213",
+      "id": "f1070c23de17",
+      "priority": 1,
+      "group": "8c8946805a65"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "What",
+          "definition": "undefined\nщо"
+        },
+        {
+          "word": "does",
+          "definition": "undefined"
+        },
+        {
+          "word": "this",
+          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+        },
+        {
+          "word": "mean?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Що",
+        "це",
+        "означає",
+        "не",
+        "за"
+      ],
+      "solutions": [
+        [
+          "Що",
+          "це",
+          "означає"
+        ]
+      ],
+      "formattedSolution": "Що це означає?",
+      "id": "7deb0bcfca28",
+      "priority": 2,
+      "group": "8c8946805a65"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Що",
+          "definition": "undefined\nwhat"
+        },
+        {
+          "word": "це",
+          "definition": "undefined"
+        },
+        {
+          "word": "означає?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "What",
+        "does",
+        "this",
+        "mean",
+        "has",
+        "than",
+        "This"
+      ],
+      "solutions": [
+        [
+          "What",
+          "does",
+          "this",
+          "mean"
+        ]
+      ],
+      "formattedSolution": "What does this mean?",
+      "id": "8b58260e844e",
+      "priority": 2,
+      "group": "8c8946805a65"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Також я.",
+      "meaningInSourceLanguage": "Me too.",
+      "id": "72561e7f24a9",
+      "priority": 0,
+      "group": "e04ed3b923fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Також я.",
+      "meaning": "Me too.",
+      "audio": "ff405a20db3652203773e02c4d7417c3a327b0f968f5dddf917715c2d10ac084",
+      "id": "6240ca17e22a",
+      "priority": 1,
+      "group": "e04ed3b923fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Me",
+          "definition": "undefined"
+        },
+        {
+          "word": "too.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Також",
+        "я",
+        "Та",
+        "Так"
+      ],
+      "solutions": [
+        [
+          "Також",
+          "я"
+        ]
+      ],
+      "formattedSolution": "Також я.",
+      "id": "7e7586265f49",
+      "priority": 2,
+      "group": "e04ed3b923fc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Також",
+          "definition": "also\nundefined"
+        },
+        {
+          "word": "я.",
+          "definition": "I\nundefined"
+        }
+      ],
+      "chips": [
+        "Me",
+        "too",
+        "We",
+        "He"
+      ],
+      "solutions": [
+        [
+          "Me",
+          "too"
+        ]
+      ],
+      "formattedSolution": "Me too.",
+      "id": "af9daafa7984",
+      "priority": 2,
+      "group": "e04ed3b923fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "З Богом!",
+      "meaningInSourceLanguage": "Go with God!",
+      "id": "6437c4d6a9a2",
+      "priority": 0,
+      "group": "d93a591ab0b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "З Богом!",
+      "meaning": "Go with God!",
+      "audio": "ad2f01a96f8bc402ea3692227a975c6edfb26508710e4df1bbc05f23df682edb",
+      "id": "6579476608d0",
+      "priority": 1,
+      "group": "d93a591ab0b4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Go",
+          "definition": "undefined"
+        },
+        {
+          "word": "with",
+          "definition": "undefined"
+        },
+        {
+          "word": "God!",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "З",
+        "Богом",
+        "о",
+        "Я"
+      ],
+      "solutions": [
+        [
+          "З",
+          "Богом"
+        ]
+      ],
+      "formattedSolution": "З Богом!",
+      "id": "a306f8967a23",
+      "priority": 2,
+      "group": "d93a591ab0b4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "З",
+          "definition": "undefined"
+        },
+        {
+          "word": "Богом!",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Go",
+        "with",
+        "God",
+        "not",
+        "To"
+      ],
+      "solutions": [
+        [
+          "Go",
+          "with",
+          "God"
+        ]
+      ],
+      "formattedSolution": "Go with God!",
+      "id": "54ecdf883702",
+      "priority": 2,
+      "group": "d93a591ab0b4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Не знаю.",
+      "meaningInSourceLanguage": "I don't know.",
+      "id": "5667da5aefca",
+      "priority": 0,
+      "group": "d93f03b387b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Не знаю.",
+      "meaning": "I don't know.",
+      "audio": "35792d84dbaa9b8e9628e961b04d5c11e17ea351559e54f875e76970beb21850",
+      "id": "2493c8c8058c",
+      "priority": 1,
+      "group": "d93f03b387b9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "don't",
+          "definition": "undefined"
+        },
+        {
+          "word": "know.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Не",
+        "знаю",
+        "не",
+        "На"
+      ],
+      "solutions": [
+        [
+          "Не",
+          "знаю"
+        ]
+      ],
+      "formattedSolution": "Не знаю.",
+      "id": "0e9d318bf5ef",
+      "priority": 2,
+      "group": "d93f03b387b9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Не",
+          "definition": "undefined"
+        },
+        {
+          "word": "знаю.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "don't",
+        "know",
+        "not",
+        "on"
+      ],
+      "solutions": [
+        [
+          "I",
+          "don't",
+          "know"
+        ]
+      ],
+      "formattedSolution": "I don't know.",
+      "id": "4e6444cddb3c",
+      "priority": 2,
+      "group": "d93f03b387b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Може.",
+      "meaningInSourceLanguage": "Perhaps.",
+      "id": "111a20b6cbc5",
+      "priority": 0,
+      "group": "a0084a105814"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Може.",
+      "meaning": "Perhaps.",
+      "audio": "ebb0cf692ef9521eae16eb6c3ba52528cd6193ff81550eeab5a77351a695ede2",
+      "id": "6f3a2663ed37",
+      "priority": 1,
+      "group": "a0084a105814"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Повтори. Не зрозумів.",
+      "meaningInSourceLanguage": "Repeat. I didn't understand.",
+      "id": "0fad87a06450",
+      "priority": 0,
+      "group": "6b0e8119efa0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Повтори. Не зрозумів.",
+      "meaning": "Repeat. I didn't understand.",
+      "audio": "012af0187c0df1bbdfb2a845a343224e52ceb1d2f4cd5dbec0c7317b97b0a11e",
+      "id": "536eab8f4f0a",
+      "priority": 1,
+      "group": "6b0e8119efa0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Repeat.",
+          "definition": "undefined"
+        },
+        {
+          "word": "I",
+          "definition": "я"
+        },
+        {
+          "word": "didn't",
+          "definition": "undefined"
+        },
+        {
+          "word": "understand.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Повтори",
+        "Не",
+        "зрозумів",
+        "то",
+        "три"
+      ],
+      "solutions": [
+        [
+          "Повтори",
+          "Не",
+          "зрозумів"
+        ]
+      ],
+      "formattedSolution": "Повтори. Не зрозумів.",
+      "id": "4b4c5cb11b2c",
+      "priority": 2,
+      "group": "6b0e8119efa0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Повтори.",
+          "definition": "undefined"
+        },
+        {
+          "word": "Не",
+          "definition": "undefined"
+        },
+        {
+          "word": "зрозумів.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Repeat",
+        "I",
+        "didn't",
+        "understand",
+        "eat",
+        "not",
+        "don't"
+      ],
+      "solutions": [
+        [
+          "Repeat",
+          "I",
+          "didn't",
+          "understand"
+        ]
+      ],
+      "formattedSolution": "Repeat. I didn't understand.",
+      "id": "0c089f1d2eb9",
+      "priority": 2,
+      "group": "6b0e8119efa0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ти є готовий?",
+      "meaningInSourceLanguage": "Are you ready?",
+      "id": "0626753271da",
+      "priority": 0,
+      "group": "3c86cfbdfe28"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ти є готовий?",
+      "meaning": "Are you ready?",
+      "audio": "f4828f23d71aa79a2801160e3d083fc9978febede760a98b088426fb555b4aac",
+      "id": "285db0e59849",
+      "priority": 1,
+      "group": "3c86cfbdfe28"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Are",
+          "definition": "undefined\nви є\nвони є\nми є\nти є"
+        },
+        {
+          "word": "you",
+          "definition": "undefined\nви\nти"
+        },
+        {
+          "word": "ready?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Ти",
+        "є",
+        "готовий",
+        "ти",
+        "Ми"
+      ],
+      "solutions": [
+        [
+          "Ти",
+          "є",
+          "готовий"
+        ]
+      ],
+      "formattedSolution": "Ти є готовий?",
+      "id": "57d79f05585e",
+      "priority": 2,
+      "group": "3c86cfbdfe28"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ти",
+          "definition": "undefined\nyou"
+        },
+        {
+          "word": "є",
+          "definition": "undefined"
+        },
+        {
+          "word": "готовий?",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Are",
+        "you",
+        "ready",
+        "red",
+        "are"
+      ],
+      "solutions": [
+        [
+          "Are",
+          "you",
+          "ready"
+        ]
+      ],
+      "formattedSolution": "Are you ready?",
+      "id": "93435f117fcb",
+      "priority": 2,
+      "group": "3c86cfbdfe28"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Давай!",
+      "meaningInSourceLanguage": "Let's go!",
+      "id": "0eae05aa5a29",
+      "priority": 0,
+      "group": "9dc19b76b61a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Давай!",
+      "meaning": "Let's go!",
+      "audio": "0c3fa64a719c4f8b57cf0c1aad175d6514f14878f0ea5428ad418cec92dcd020",
+      "id": "e93a01b2e48a",
+      "priority": 1,
+      "group": "9dc19b76b61a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "привітання",
+      "meaningInSourceLanguage": "greeting",
+      "id": "51c8e294b8f0",
+      "priority": 0,
+      "group": "eeb976679766"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "привітання"
+      ],
+      "phrase": [
+        {
+          "word": "greeting",
+          "definition": "undefined\nпривітання"
+        }
+      ],
+      "id": "882ff8e8bc57",
+      "priority": 1,
+      "group": "eeb976679766"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "привітання",
+      "meaning": "greeting",
+      "audio": "075a6815944d2d61c641eedc8eea0885bad0ae3a6f118c3ae24320331197a8ee",
+      "id": "1cdb3e195b42",
+      "priority": 1,
+      "group": "eeb976679766"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "здоровий/привіт",
+      "meaningInSourceLanguage": "healthy/hello",
+      "id": "60c1eece6dc8",
+      "priority": 0,
+      "group": "8b1cbb6c4751"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "здоровий/привіт"
+      ],
+      "phrase": [
+        {
+          "word": "healthy/hello",
+          "definition": "undefined\nздоровий/привіт"
+        }
+      ],
+      "id": "ddc8c40c48a3",
+      "priority": 1,
+      "group": "8b1cbb6c4751"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "здоровий/привіт",
+      "meaning": "healthy/hello",
+      "audio": "e6575f0fb068eb81ae5f4ca86a46888633f055072bfab17996169137d13ea9bd",
+      "id": "f0ba6826efd5",
+      "priority": 1,
+      "group": "8b1cbb6c4751"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "бесіда/розмова",
+      "meaningInSourceLanguage": "conversation",
+      "id": "1a46d5fbcad2",
+      "priority": 0,
+      "group": "d09c43cdfbe8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "бесіда/розмова"
+      ],
+      "phrase": [
+        {
+          "word": "conversation",
+          "definition": "undefined\nбесіда/розмова"
+        }
+      ],
+      "id": "5733487fbb25",
+      "priority": 1,
+      "group": "d09c43cdfbe8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "бесіда/розмова",
+      "meaning": "conversation",
+      "audio": "e615e2db1e34fc8daa6538068fef4e19af7a79c7a469ecd947ee527629d45102",
+      "id": "a7f4ddd1515e",
+      "priority": 1,
+      "group": "d09c43cdfbe8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ранок",
+      "meaningInSourceLanguage": "morning",
+      "id": "0540e22b1925",
+      "priority": 0,
+      "group": "e1e25ae4f92e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ранок"
+      ],
+      "phrase": [
+        {
+          "word": "morning",
+          "definition": "undefined\nранок"
+        }
+      ],
+      "id": "73ea948e7c66",
+      "priority": 1,
+      "group": "e1e25ae4f92e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ранок",
+      "meaning": "morning",
+      "audio": "718987dbdbfef612b742491d003e6e2754546adbf51d2f94945723b024256fd3",
+      "id": "9a22cdca4e9c",
+      "priority": 1,
+      "group": "e1e25ae4f92e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "вечір",
+      "meaningInSourceLanguage": "evening",
+      "id": "7e52bdfaf3b8",
+      "priority": 0,
+      "group": "0c90cef1046d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "вечір"
+      ],
+      "phrase": [
+        {
+          "word": "evening",
+          "definition": "undefined\nвечір"
+        }
+      ],
+      "id": "4269c3a28e75",
+      "priority": 1,
+      "group": "0c90cef1046d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "вечір",
+      "meaning": "evening",
+      "audio": "4cde736162c3b9f548c197a422475f35d60911a17114402d4c5e5d7fe009738f",
+      "id": "cceb1c2ed3c1",
+      "priority": 1,
+      "group": "0c90cef1046d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "день",
+      "meaningInSourceLanguage": "day",
+      "id": "05af254103af",
+      "priority": 0,
+      "group": "efe2316f3a8d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "день"
+      ],
+      "phrase": [
+        {
+          "word": "day",
+          "definition": "undefined\nдень"
+        }
+      ],
+      "id": "fe104092cabc",
+      "priority": 1,
+      "group": "efe2316f3a8d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "день",
+      "meaning": "day",
+      "audio": "a79d50655eb71755f0f421d889f14bb9443a3545d177752f6aedccb895e17409",
+      "id": "1ec4ce843592",
+      "priority": 1,
+      "group": "efe2316f3a8d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ніч",
+      "meaningInSourceLanguage": "night",
+      "id": "9a3f81651688",
+      "priority": 0,
+      "group": "fe7a16b308d8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ніч"
+      ],
+      "phrase": [
+        {
+          "word": "night",
+          "definition": "undefined\nніч"
+        }
+      ],
+      "id": "0736783a37b2",
+      "priority": 1,
+      "group": "fe7a16b308d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ніч",
+      "meaning": "night",
+      "audio": "1bcaded6ec68d2cfe9bec292bf10a61ac551a84eaa8765e425fa3cbea794a21d",
+      "id": "f49bf37ec195",
+      "priority": 1,
+      "group": "fe7a16b308d8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "дякую",
+      "meaningInSourceLanguage": "thanks",
+      "id": "72fa33c7ef06",
+      "priority": 0,
+      "group": "7a0db4121c30"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "дякую"
+      ],
+      "phrase": [
+        {
+          "word": "thanks",
+          "definition": "undefined\nдякую"
+        }
+      ],
+      "id": "31ef5c5bf282",
+      "priority": 1,
+      "group": "7a0db4121c30"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дякую",
+      "meaning": "thanks",
+      "audio": "878879e73503749a9d304e5b1d2bf066841121f7d7eda4446aa2ffdea6f79ba8",
+      "id": "d6779305a2e9",
+      "priority": 1,
+      "group": "7a0db4121c30"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "перепрошую",
+      "meaningInSourceLanguage": "pardon",
+      "id": "3628e6c4d443",
+      "priority": 0,
+      "group": "e99ee5223395"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "перепрошую"
+      ],
+      "phrase": [
+        {
+          "word": "pardon",
+          "definition": "undefined\nперепрошую"
+        }
+      ],
+      "id": "a4ecc81e5ed7",
+      "priority": 1,
+      "group": "e99ee5223395"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "перепрошую",
+      "meaning": "pardon",
+      "audio": "f0983153e16e710602b5c99e8026be910c8e7a64c19ec2b0327496a1f98aaa2b",
+      "id": "e4d1fbabac88",
+      "priority": 1,
+      "group": "e99ee5223395"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "вибач",
+      "meaningInSourceLanguage": "excuse me",
+      "id": "1471051cc573",
+      "priority": 0,
+      "group": "ed248f9db01b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "вибач"
+      ],
+      "phrase": [
+        {
+          "word": "excuse",
+          "definition": "undefined"
+        },
+        {
+          "word": "me",
+          "definition": "undefined"
+        }
+      ],
+      "id": "953b4931360e",
+      "priority": 1,
+      "group": "ed248f9db01b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "вибач",
+      "meaning": "excuse me",
+      "audio": "0b8e14fd4eb0d753e38333a34645db468899896904def2e4a23474fdc1237721",
+      "id": "62f023a66613",
+      "priority": 1,
+      "group": "ed248f9db01b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "добрий",
+      "meaningInSourceLanguage": "good",
+      "id": "3354fa1f83e2",
+      "priority": 0,
+      "group": "3d7c125cc508"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "добрий"
+      ],
+      "phrase": [
+        {
+          "word": "good",
+          "definition": "undefined\nдобрий"
+        }
+      ],
+      "id": "5ebc5f98c2d0",
+      "priority": 1,
+      "group": "3d7c125cc508"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "добрий",
+      "meaning": "good",
+      "audio": "3a9eeb6f11ea5142b4e7db41995d7adeb84e4c4a391489c1a6a89d81ee1257f7",
+      "id": "c82b55caa98f",
+      "priority": 1,
+      "group": "3d7c125cc508"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "краще",
+      "meaningInSourceLanguage": "better",
+      "id": "093f52f9c42a",
+      "priority": 0,
+      "group": "467a57544e87"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "краще"
+      ],
+      "phrase": [
+        {
+          "word": "better",
+          "definition": "undefined\nкраще"
+        }
+      ],
+      "id": "522ce0520e78",
+      "priority": 1,
+      "group": "467a57544e87"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "краще",
+      "meaning": "better",
+      "audio": "2966167e2256039b909e78a169930b95bd0d77bb81d6d8485abc980ef6662b49",
+      "id": "946795940968",
+      "priority": 1,
+      "group": "467a57544e87"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "можливо",
+      "meaningInSourceLanguage": "possible",
+      "id": "ff62cf9afa48",
+      "priority": 0,
+      "group": "f0d113ed6581"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "можливо"
+      ],
+      "phrase": [
+        {
+          "word": "possible",
+          "definition": "undefined\nможливо"
+        }
+      ],
+      "id": "f623a27afd16",
+      "priority": 1,
+      "group": "f0d113ed6581"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "можливо",
+      "meaning": "possible",
+      "audio": "bb5cf75f705651e9a51f9d6a81f69ebcbeac494bc1dc47598c562f42d97e0605",
+      "id": "cd1e550c048d",
+      "priority": 1,
+      "group": "f0d113ed6581"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "шкода",
+      "meaningInSourceLanguage": "pity",
+      "id": "b173e584c252",
+      "priority": 0,
+      "group": "b15a9522f985"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "шкода"
+      ],
+      "phrase": [
+        {
+          "word": "pity",
+          "definition": "undefined\nшкода"
+        }
+      ],
+      "id": "49bb774e9853",
+      "priority": 1,
+      "group": "b15a9522f985"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "шкода",
+      "meaning": "pity",
+      "audio": "792a6dc8f7dad3fa19d76ec64e273fc7a6178edc4e5ddeb57e37cbeb27ff91b6",
+      "id": "50a72588c365",
+      "priority": 1,
+      "group": "b15a9522f985"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "так/отже",
+      "meaningInSourceLanguage": "so",
+      "id": "687bd628d58e",
+      "priority": 0,
+      "group": "dafac3c6ccb2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "так/отже"
+      ],
+      "phrase": [
+        {
+          "word": "so",
+          "definition": "undefined\nтак/отже"
+        }
+      ],
+      "id": "25c6816b3a48",
+      "priority": 1,
+      "group": "dafac3c6ccb2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "так/отже",
+      "meaning": "so",
+      "audio": "64dff5cdebcf1dcbde45703d43490388adff254b186e7daf5ed4b46ddcc26526",
+      "id": "25e1652b5002",
+      "priority": 1,
+      "group": "dafac3c6ccb2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "що",
+      "meaningInSourceLanguage": "what",
+      "id": "ee6de1fcf650",
+      "priority": 0,
+      "group": "2873368d3d81"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "що"
+      ],
+      "phrase": [
+        {
+          "word": "what",
+          "definition": "undefined\nщо"
+        }
+      ],
+      "id": "b3fc0d626675",
+      "priority": 1,
+      "group": "2873368d3d81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "що",
+      "meaning": "what",
+      "audio": "670c96d11002baa698da78f8627fe23d91cbd76b05e20c3080160b215c6a32dc",
+      "id": "a858c54b43d1",
+      "priority": 1,
+      "group": "2873368d3d81"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ні",
+      "meaningInSourceLanguage": "no",
+      "id": "f6b28ec063d0",
+      "priority": 0,
+      "group": "3016ce877008"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ні"
+      ],
+      "phrase": [
+        {
+          "word": "no",
+          "definition": "undefined\nні"
+        }
+      ],
+      "id": "4240981d97a1",
+      "priority": 1,
+      "group": "3016ce877008"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ні",
+      "meaning": "no",
+      "audio": "841f19b451dc11bc916d58851065e25e93205ec1ebdbc3a12ac8ad064acbb82a",
+      "id": "1c8bf4b36120",
+      "priority": 1,
+      "group": "3016ce877008"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "так (ствердно)",
+      "meaningInSourceLanguage": "yes",
+      "id": "787c073ef88e",
+      "priority": 0,
+      "group": "e8fb63ac5aff"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "так (ствердно)"
+      ],
+      "phrase": [
+        {
+          "word": "yes",
+          "definition": "undefined\nтак (ствердно)"
+        }
+      ],
+      "id": "3c3726a043ea",
+      "priority": 1,
+      "group": "e8fb63ac5aff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "так (ствердно)",
+      "meaning": "yes",
+      "audio": "fbc73c6f88752efddf1d25825b3901a503a9810ac7761b02e0a736f27180c6dc",
+      "id": "be425ab17eb7",
+      "priority": 1,
+      "group": "e8fb63ac5aff"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "може",
+      "meaningInSourceLanguage": "maybe/can",
+      "id": "200496268420",
+      "priority": 0,
+      "group": "63fb5bd62cc2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "може"
+      ],
+      "phrase": [
+        {
+          "word": "maybe/can",
+          "definition": "undefined\nможе"
+        }
+      ],
+      "id": "9f3f341ef646",
+      "priority": 1,
+      "group": "63fb5bd62cc2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "може",
+      "meaning": "maybe/can",
+      "audio": "c7aa96a8b8e8797b858e8274a12d3a9b6c931622aa0cbec6617000a706d1c67c",
+      "id": "e70413145644",
+      "priority": 1,
+      "group": "63fb5bd62cc2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "давай",
+      "meaningInSourceLanguage": "let's go",
+      "id": "68963960c27c",
+      "priority": 0,
+      "group": "7fce2db0bebb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "давай"
+      ],
+      "phrase": [
+        {
+          "word": "let's",
+          "definition": "undefined"
+        },
+        {
+          "word": "go",
+          "definition": "undefined"
+        }
+      ],
+      "id": "1bb5f0328714",
+      "priority": 1,
+      "group": "7fce2db0bebb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "давай",
+      "meaning": "let's go",
+      "audio": "4d042f155e248bc277785aa2d324e81dfd3aa3791c55f11444006f957fcdd0b7",
+      "id": "7eb45ede927f",
+      "priority": 1,
+      "group": "7fce2db0bebb"
+    }
+  ]
+}

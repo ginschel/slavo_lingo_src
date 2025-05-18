@@ -1,0 +1,2783 @@
+{
+  "id": "d0bba2699bff",
+  "levels": 7,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сь ѥстъ крꙋгъ.",
+      "meaningInSourceLanguage": "This is a circle.",
+      "id": "4caf511d2de9",
+      "priority": 0,
+      "group": "c7725a11bdb3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сь ѥстъ крꙋгъ.",
+      "meaning": "This is a circle.",
+      "audio": "3152c333cf3e1c6790f3cd7a7d5eea3502084e71883c168a925a175c5f41be7c",
+      "id": "fdada8470935",
+      "priority": 1,
+      "group": "c7725a11bdb3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nси\nсь"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "circle.",
+          "definition": "undefined\nкрꙋгъ"
+        }
+      ],
+      "chips": [
+        "Сь",
+        "ѥстъ",
+        "крꙋгъ",
+        "тъ",
+        "Съ"
+      ],
+      "solutions": [
+        [
+          "Сь",
+          "ѥстъ",
+          "крꙋгъ"
+        ]
+      ],
+      "formattedSolution": "Сь ѥстъ крꙋгъ.",
+      "id": "6921ac70513b",
+      "priority": 2,
+      "group": "c7725a11bdb3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Сь",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "ѥстъ",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "крꙋгъ.",
+          "definition": "circle\nundefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "a",
+        "circle",
+        "his",
+        "it",
+        "in"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "a",
+          "circle"
+        ]
+      ],
+      "formattedSolution": "This is a circle.",
+      "id": "549c8ebe0132",
+      "priority": 2,
+      "group": "c7725a11bdb3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Квадратъ имаѥтъ чєтꙑрє странъ.",
+      "meaningInSourceLanguage": "A square has four sides.",
+      "id": "4bce622290d9",
+      "priority": 0,
+      "group": "a244e09ab1ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Квадратъ имаѥтъ чєтꙑрє странъ.",
+      "meaning": "A square has four sides.",
+      "audio": "5a12310241d461bd2f7a73a9e7660124ef358c98af5df3761b26612e9f5293a1",
+      "id": "72f8e06a553e",
+      "priority": 1,
+      "group": "a244e09ab1ca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "square",
+          "definition": "undefined\nквадратъ"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "four",
+          "definition": "undefined\nчєтꙑри\nчєтꙑрє"
+        },
+        {
+          "word": "sides.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Квадратъ",
+        "имаѥтъ",
+        "чєтꙑрє",
+        "странъ",
+        "братъ",
+        "имаѭтъ",
+        "стара"
+      ],
+      "solutions": [
+        [
+          "Квадратъ",
+          "имаѥтъ",
+          "чєтꙑрє",
+          "странъ"
+        ]
+      ],
+      "formattedSolution": "Квадратъ имаѥтъ чєтꙑрє странъ.",
+      "id": "706c39ef4faf",
+      "priority": 2,
+      "group": "a244e09ab1ca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Квадратъ",
+          "definition": "square\nundefined"
+        },
+        {
+          "word": "имаѥтъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "чєтꙑрє",
+          "definition": "four\nundefined"
+        },
+        {
+          "word": "странъ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "square",
+        "has",
+        "four",
+        "sides",
+        "our",
+        "sour",
+        "us",
+        "far"
+      ],
+      "solutions": [
+        [
+          "A",
+          "square",
+          "has",
+          "four",
+          "sides"
+        ]
+      ],
+      "formattedSolution": "A square has four sides.",
+      "id": "3bf905566ed0",
+      "priority": 2,
+      "group": "a244e09ab1ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Трикѫтьникъ имаѥтъ три странъ.",
+      "meaningInSourceLanguage": "A triangle has three sides.",
+      "id": "92d6a56dad9c",
+      "priority": 0,
+      "group": "15a48f8ffbb9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Трикѫтьникъ имаѥтъ три странъ.",
+      "meaning": "A triangle has three sides.",
+      "audio": "3c097256ebc2bb8a27defe6cc94a307ad7f172f819b62aab9a572e61c9403e07",
+      "id": "b256a9256c99",
+      "priority": 1,
+      "group": "15a48f8ffbb9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "triangle",
+          "definition": "undefined\nтрикѫтьникъ"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "three",
+          "definition": "undefined\nтри"
+        },
+        {
+          "word": "sides.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Трикѫтьникъ",
+        "имаѥтъ",
+        "три",
+        "странъ",
+        "братъ",
+        "тъ",
+        "стаи"
+      ],
+      "solutions": [
+        [
+          "Трикѫтьникъ",
+          "имаѥтъ",
+          "три",
+          "странъ"
+        ]
+      ],
+      "formattedSolution": "Трикѫтьникъ имаѥтъ три странъ.",
+      "id": "155c58c2e981",
+      "priority": 2,
+      "group": "15a48f8ffbb9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Трикѫтьникъ",
+          "definition": "triangle\nundefined"
+        },
+        {
+          "word": "имаѥтъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "три",
+          "definition": "three\nundefined"
+        },
+        {
+          "word": "странъ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "triangle",
+        "has",
+        "three",
+        "sides",
+        "the",
+        "his",
+        "tree",
+        "is"
+      ],
+      "solutions": [
+        [
+          "A",
+          "triangle",
+          "has",
+          "three",
+          "sides"
+        ]
+      ],
+      "formattedSolution": "A triangle has three sides.",
+      "id": "2241a6a9a7a2",
+      "priority": 2,
+      "group": "15a48f8ffbb9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Си линиꙗ ѥстъ дълъга.",
+      "meaningInSourceLanguage": "This line is long.",
+      "id": "b2cf32c41768",
+      "priority": 0,
+      "group": "8b9bbd3f16dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Си линиꙗ ѥстъ дълъга.",
+      "meaning": "This line is long.",
+      "audio": "40120979c15e249aa2727a008dcb0d3d06b9456d85b81d0697b66e1140ebc822",
+      "id": "714d8b4a8b49",
+      "priority": 1,
+      "group": "8b9bbd3f16dd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nси\nсь"
+        },
+        {
+          "word": "line",
+          "definition": "undefined\nлиниꙗ"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "long.",
+          "definition": "undefined\nдълъгъ"
+        }
+      ],
+      "chips": [
+        "Си",
+        "линиꙗ",
+        "ѥстъ",
+        "дълъга",
+        "ли",
+        "тъ",
+        "ѥси"
+      ],
+      "solutions": [
+        [
+          "Си",
+          "линиꙗ",
+          "ѥстъ",
+          "дълъга"
+        ]
+      ],
+      "formattedSolution": "Си линиꙗ ѥстъ дълъга.",
+      "id": "300b66faaf2f",
+      "priority": 2,
+      "group": "8b9bbd3f16dd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Си",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "линиꙗ",
+          "definition": "line\nundefined"
+        },
+        {
+          "word": "ѥстъ",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "дълъга.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "line",
+        "is",
+        "long",
+        "his",
+        "in",
+        "lies"
+      ],
+      "solutions": [
+        [
+          "This",
+          "line",
+          "is",
+          "long"
+        ]
+      ],
+      "formattedSolution": "This line is long.",
+      "id": "7abe5ee2f8af",
+      "priority": 2,
+      "group": "8b9bbd3f16dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сь ѥстъ моꙗ форма.",
+      "meaningInSourceLanguage": "This is my shape.",
+      "id": "62eb5b462d48",
+      "priority": 0,
+      "group": "61396643c013"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сь ѥстъ моꙗ форма.",
+      "meaning": "This is my shape.",
+      "audio": "0416e250fbec4f4766f7af0d58e434f29abf3fadf8f542f31544596034aa1c99",
+      "id": "cc8b755147e4",
+      "priority": 1,
+      "group": "61396643c013"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nси\nсь"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "my",
+          "definition": "undefined"
+        },
+        {
+          "word": "shape.",
+          "definition": "undefined\nобликъ\nформа"
+        }
+      ],
+      "chips": [
+        "Сь",
+        "ѥстъ",
+        "моꙗ",
+        "форма",
+        "мои",
+        "тъ",
+        "моѥ"
+      ],
+      "solutions": [
+        [
+          "Сь",
+          "ѥстъ",
+          "моꙗ",
+          "форма"
+        ]
+      ],
+      "formattedSolution": "Сь ѥстъ моꙗ форма.",
+      "id": "59371eec3543",
+      "priority": 2,
+      "group": "61396643c013"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Сь",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "ѥстъ",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "моꙗ",
+          "definition": "undefined"
+        },
+        {
+          "word": "форма.",
+          "definition": "shape\nundefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "my",
+        "shape",
+        "his",
+        "has",
+        "as"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "my",
+          "shape"
+        ]
+      ],
+      "formattedSolution": "This is my shape.",
+      "id": "46f16335241c",
+      "priority": 2,
+      "group": "61396643c013"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Линиꙗ ѥстъ равьна.",
+      "meaningInSourceLanguage": "The line is straight.",
+      "id": "93ee987ce217",
+      "priority": 0,
+      "group": "8ade24cf8def"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Линиꙗ ѥстъ равьна.",
+      "meaning": "The line is straight.",
+      "audio": "e4d210fcfe67ec542e45f22f7766659d401a353a54df7b804a529e2269062780",
+      "id": "c673afff2660",
+      "priority": 1,
+      "group": "8ade24cf8def"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "line",
+          "definition": "undefined\nлиниꙗ"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "straight.",
+          "definition": "undefined\nпрємо\nравьнъ"
+        }
+      ],
+      "chips": [
+        "Линиꙗ",
+        "ѥстъ",
+        "равьна",
+        "вина",
+        "вино"
+      ],
+      "solutions": [
+        [
+          "Линиꙗ",
+          "ѥстъ",
+          "равьна"
+        ]
+      ],
+      "formattedSolution": "Линиꙗ ѥстъ равьна.",
+      "id": "7d0c86ecda52",
+      "priority": 2,
+      "group": "8ade24cf8def"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Линиꙗ",
+          "definition": "line\nundefined"
+        },
+        {
+          "word": "ѥстъ",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "равьна.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "line",
+        "is",
+        "straight",
+        "the",
+        "it",
+        "in"
+      ],
+      "solutions": [
+        [
+          "The",
+          "line",
+          "is",
+          "straight"
+        ]
+      ],
+      "formattedSolution": "The line is straight.",
+      "id": "80bc40176314",
+      "priority": 2,
+      "group": "8ade24cf8def"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Точка тъ малъи пꙋнктъ.",
+      "meaningInSourceLanguage": "A point is a small dot.",
+      "id": "6a4177844dc0",
+      "priority": 0,
+      "group": "ad0c517f74ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Точка тъ малъи пꙋнктъ.",
+      "meaning": "A point is a small dot.",
+      "audio": "b5378ad773aa4c2b363e64ba75457b44b62d6bd0ae70d9b05d7492b158d01756",
+      "id": "4539c42b84e5",
+      "priority": 1,
+      "group": "ad0c517f74ca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "point",
+          "definition": "undefined\nточка"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "small",
+          "definition": "undefined\nмалъи"
+        },
+        {
+          "word": "dot.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Точка",
+        "тъ",
+        "малъи",
+        "пꙋнктъ",
+        "къ",
+        "отъ",
+        "сокъ"
+      ],
+      "solutions": [
+        [
+          "Точка",
+          "тъ",
+          "малъи",
+          "пꙋнктъ"
+        ]
+      ],
+      "formattedSolution": "Точка тъ малъи пꙋнктъ.",
+      "id": "2c89e7751525",
+      "priority": 2,
+      "group": "ad0c517f74ca"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Точка",
+          "definition": "point\nundefined"
+        },
+        {
+          "word": "тъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "малъи",
+          "definition": "small\nundefined"
+        },
+        {
+          "word": "пꙋнктъ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "point",
+        "is",
+        "a",
+        "small",
+        "dot",
+        "it",
+        "at",
+        "so",
+        "in",
+        "an"
+      ],
+      "solutions": [
+        [
+          "A",
+          "point",
+          "is",
+          "a",
+          "small",
+          "dot"
+        ]
+      ],
+      "formattedSolution": "A point is a small dot.",
+      "id": "44a54e49f393",
+      "priority": 2,
+      "group": "ad0c517f74ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Видимъ обрꙑсъ квадрата.",
+      "meaningInSourceLanguage": "We see the outline of a square.",
+      "id": "c28fd302f4fa",
+      "priority": 0,
+      "group": "aa3c1b3ea62c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Видимъ обрꙑсъ квадрата.",
+      "meaning": "We see the outline of a square.",
+      "audio": "088ccb2109214868f3bff3b41add293c7fe23910712c82ebad8834d0c2956196",
+      "id": "0fd019c573e5",
+      "priority": 1,
+      "group": "aa3c1b3ea62c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "undefined\nмꙑ"
+        },
+        {
+          "word": "see",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "outline",
+          "definition": "undefined\nобрꙑсъ"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "square.",
+          "definition": "undefined\nквадратъ"
+        }
+      ],
+      "chips": [
+        "Видимъ",
+        "обрꙑсъ",
+        "квадрата",
+        "видимъ",
+        "варитъ"
+      ],
+      "solutions": [
+        [
+          "Видимъ",
+          "обрꙑсъ",
+          "квадрата"
+        ]
+      ],
+      "formattedSolution": "Видимъ обрꙑсъ квадрата.",
+      "id": "9f6f3e5ab238",
+      "priority": 2,
+      "group": "aa3c1b3ea62c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Видимъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "обрꙑсъ",
+          "definition": "outline\nundefined"
+        },
+        {
+          "word": "квадрата.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "We",
+        "see",
+        "the",
+        "outline",
+        "of",
+        "a",
+        "square",
+        "are",
+        "He",
+        "me",
+        "be",
+        "we",
+        "age"
+      ],
+      "solutions": [
+        [
+          "We",
+          "see",
+          "the",
+          "outline",
+          "of",
+          "a",
+          "square"
+        ]
+      ],
+      "formattedSolution": "We see the outline of a square.",
+      "id": "04bf62e3402e",
+      "priority": 2,
+      "group": "aa3c1b3ea62c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Фигꙋра ѥстъ комплєксьна.",
+      "meaningInSourceLanguage": "The figure is complex.",
+      "id": "28dab4505b94",
+      "priority": 0,
+      "group": "3976498f38a9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Фигꙋра ѥстъ комплєксьна.",
+      "meaning": "The figure is complex.",
+      "audio": "3b56b3269814c50fd3e3c293d8c08d7e714fab2b59e64d062e85dccd37edcf24",
+      "id": "7f6265bd982c",
+      "priority": 1,
+      "group": "3976498f38a9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "figure",
+          "definition": "undefined\nфигꙋра"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "complex.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Фигꙋра",
+        "ѥстъ",
+        "комплєксьна",
+        "сєстра",
+        "письма"
+      ],
+      "solutions": [
+        [
+          "Фигꙋра",
+          "ѥстъ",
+          "комплєксьна"
+        ]
+      ],
+      "formattedSolution": "Фигꙋра ѥстъ комплєксьна.",
+      "id": "d512e74cd2ba",
+      "priority": 2,
+      "group": "3976498f38a9"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Фигꙋра",
+          "definition": "figure\nundefined"
+        },
+        {
+          "word": "ѥстъ",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "комплєксьна.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "figure",
+        "is",
+        "complex",
+        "me",
+        "wise",
+        "She"
+      ],
+      "solutions": [
+        [
+          "The",
+          "figure",
+          "is",
+          "complex"
+        ]
+      ],
+      "formattedSolution": "The figure is complex.",
+      "id": "770b62917027",
+      "priority": 2,
+      "group": "3976498f38a9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сь ѥстъ простъи обликъ.",
+      "meaningInSourceLanguage": "This is a simple shape.",
+      "id": "a40ef0297153",
+      "priority": 0,
+      "group": "7ea22b290c81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сь ѥстъ простъи обликъ.",
+      "meaning": "This is a simple shape.",
+      "audio": "f9c6b194b4967a44792e7d2a74da29e558b53257b1c025d3c23ce4070d1a1765",
+      "id": "1be4fb65c24b",
+      "priority": 1,
+      "group": "7ea22b290c81"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nси\nсь"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "simple",
+          "definition": "undefined"
+        },
+        {
+          "word": "shape.",
+          "definition": "undefined\nобликъ\nформа"
+        }
+      ],
+      "chips": [
+        "Сь",
+        "ѥстъ",
+        "простъи",
+        "обликъ",
+        "отъ",
+        "тъ",
+        "Ѥстъ"
+      ],
+      "solutions": [
+        [
+          "Сь",
+          "ѥстъ",
+          "простъи",
+          "обликъ"
+        ]
+      ],
+      "formattedSolution": "Сь ѥстъ простъи обликъ.",
+      "id": "57f58e5d2a27",
+      "priority": 2,
+      "group": "7ea22b290c81"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Сь",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "ѥстъ",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "простъи",
+          "definition": "undefined"
+        },
+        {
+          "word": "обликъ.",
+          "definition": "shape\nundefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "a",
+        "simple",
+        "shape",
+        "his",
+        "has",
+        "him",
+        "as"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "a",
+          "simple",
+          "shape"
+        ]
+      ],
+      "formattedSolution": "This is a simple shape.",
+      "id": "08f1b6af35e9",
+      "priority": 2,
+      "group": "7ea22b290c81"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Азъ малѥѭ вєликъи крꙋгъ.",
+      "meaningInSourceLanguage": "I am drawing a big circle.",
+      "id": "699c0eda6d46",
+      "priority": 0,
+      "group": "77ff41405cbc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Азъ малѥѭ вєликъи крꙋгъ.",
+      "meaning": "I am drawing a big circle.",
+      "audio": "202eba346486423f462f359189fd8eb7372f0bee61547051fc7ffe55e9a25e30",
+      "id": "0e3a3c2a774f",
+      "priority": 1,
+      "group": "77ff41405cbc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "азъ"
+        },
+        {
+          "word": "am",
+          "definition": "undefined\nѥсмь"
+        },
+        {
+          "word": "drawing",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "big",
+          "definition": "undefined"
+        },
+        {
+          "word": "circle.",
+          "definition": "undefined\nкрꙋгъ"
+        }
+      ],
+      "chips": [
+        "Азъ",
+        "малѥѭ",
+        "вєликъи",
+        "крꙋгъ",
+        "милъ",
+        "азъ",
+        "изъ"
+      ],
+      "solutions": [
+        [
+          "Азъ",
+          "малѥѭ",
+          "вєликъи",
+          "крꙋгъ"
+        ]
+      ],
+      "formattedSolution": "Азъ малѥѭ вєликъи крꙋгъ.",
+      "id": "c0fc443efa0a",
+      "priority": 2,
+      "group": "77ff41405cbc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Азъ",
+          "definition": "I\nundefined"
+        },
+        {
+          "word": "малѥѭ",
+          "definition": "undefined"
+        },
+        {
+          "word": "вєликъи",
+          "definition": "undefined"
+        },
+        {
+          "word": "крꙋгъ.",
+          "definition": "circle\nundefined"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "drawing",
+        "a",
+        "big",
+        "circle",
+        "in",
+        "an",
+        "air",
+        "is",
+        "it"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "drawing",
+          "a",
+          "big",
+          "circle"
+        ]
+      ],
+      "formattedSolution": "I am drawing a big circle.",
+      "id": "25ae1189c40f",
+      "priority": 2,
+      "group": "77ff41405cbc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Квадратъ и крꙋгъ сѫтъ основьнє формꙑ.",
+      "meaningInSourceLanguage": "Square and circle are basic shapes.",
+      "id": "fb66537b31a9",
+      "priority": 0,
+      "group": "31b4914c3806"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Квадратъ и крꙋгъ сѫтъ основьнє формꙑ.",
+      "meaning": "Square and circle are basic shapes.",
+      "audio": "383f6c27c8002df02c774b2a474bb74eb1422f13ca15208d8804b3799c7ed947",
+      "id": "ccf9d648d877",
+      "priority": 1,
+      "group": "31b4914c3806"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Square",
+          "definition": "undefined\nквадратъ"
+        },
+        {
+          "word": "and",
+          "definition": "undefined"
+        },
+        {
+          "word": "circle",
+          "definition": "undefined\nкрꙋгъ"
+        },
+        {
+          "word": "are",
+          "definition": "undefined\nсѫтъ\nѥси\nѥсмъ\nѥстє"
+        },
+        {
+          "word": "basic",
+          "definition": "undefined"
+        },
+        {
+          "word": "shapes.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Квадратъ",
+        "и",
+        "крꙋгъ",
+        "сѫтъ",
+        "основьнє",
+        "формꙑ",
+        "отъ",
+        "домъ",
+        "тъ",
+        "въ",
+        "сокъ"
+      ],
+      "solutions": [
+        [
+          "Квадратъ",
+          "и",
+          "крꙋгъ",
+          "сѫтъ",
+          "основьнє",
+          "формꙑ"
+        ]
+      ],
+      "formattedSolution": "Квадратъ и крꙋгъ сѫтъ основьнє формꙑ.",
+      "id": "b22022a16ebd",
+      "priority": 2,
+      "group": "31b4914c3806"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Квадратъ",
+          "definition": "square\nundefined"
+        },
+        {
+          "word": "и",
+          "definition": "undefined"
+        },
+        {
+          "word": "крꙋгъ",
+          "definition": "circle\nundefined"
+        },
+        {
+          "word": "сѫтъ",
+          "definition": "are\nundefined"
+        },
+        {
+          "word": "основьнє",
+          "definition": "undefined"
+        },
+        {
+          "word": "формꙑ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Square",
+        "and",
+        "circle",
+        "are",
+        "basic",
+        "shapes",
+        "age",
+        "have",
+        "air",
+        "face",
+        "Are"
+      ],
+      "solutions": [
+        [
+          "Square",
+          "and",
+          "circle",
+          "are",
+          "basic",
+          "shapes"
+        ]
+      ],
+      "formattedSolution": "Square and circle are basic shapes.",
+      "id": "8a3a60cbc38a",
+      "priority": 2,
+      "group": "31b4914c3806"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Линиꙗ идєтъ чрѣзъ странѫ.",
+      "meaningInSourceLanguage": "The line goes through the side.",
+      "id": "3fe4fa1b493f",
+      "priority": 0,
+      "group": "6a0c5398963a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Линиꙗ идєтъ чрѣзъ странѫ.",
+      "meaning": "The line goes through the side.",
+      "audio": "486e7ad90f02e810004fd6d32959d96d63a285b6337df06ea904c52e50900fdb",
+      "id": "2ea8e8a52b14",
+      "priority": 1,
+      "group": "6a0c5398963a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "line",
+          "definition": "undefined\nлиниꙗ"
+        },
+        {
+          "word": "goes",
+          "definition": "undefined\nидєтъ"
+        },
+        {
+          "word": "through",
+          "definition": "undefined\nчрѣзъ"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "side.",
+          "definition": "undefined\nстрана"
+        }
+      ],
+      "chips": [
+        "Линиꙗ",
+        "идєтъ",
+        "чрѣзъ",
+        "странѫ",
+        "Мразъ",
+        "братъ",
+        "срамъ"
+      ],
+      "solutions": [
+        [
+          "Линиꙗ",
+          "идєтъ",
+          "чрѣзъ",
+          "странѫ"
+        ]
+      ],
+      "formattedSolution": "Линиꙗ идєтъ чрѣзъ странѫ.",
+      "id": "1b22e44fa448",
+      "priority": 2,
+      "group": "6a0c5398963a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Линиꙗ",
+          "definition": "line\nundefined"
+        },
+        {
+          "word": "идєтъ",
+          "definition": "goes\nundefined"
+        },
+        {
+          "word": "чрѣзъ",
+          "definition": "through\nundefined"
+        },
+        {
+          "word": "странѫ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "line",
+        "goes",
+        "through",
+        "the",
+        "side",
+        "She",
+        "shoe",
+        "are",
+        "see",
+        "tree"
+      ],
+      "solutions": [
+        [
+          "The",
+          "line",
+          "goes",
+          "through",
+          "the",
+          "side"
+        ]
+      ],
+      "formattedSolution": "The line goes through the side.",
+      "id": "186f757bd03c",
+      "priority": 2,
+      "group": "6a0c5398963a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Точка лєжитъ на линиѥи.",
+      "meaningInSourceLanguage": "The point lies on the line.",
+      "id": "e2af92bc7e13",
+      "priority": 0,
+      "group": "33fb38e09aac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Точка лєжитъ на линиѥи.",
+      "meaning": "The point lies on the line.",
+      "audio": "0b476b523ceefedd75a131a666529b0809eaf48b19c618a73e1b47f896c3b026",
+      "id": "7880b81ab8c5",
+      "priority": 1,
+      "group": "33fb38e09aac"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "point",
+          "definition": "undefined\nточка"
+        },
+        {
+          "word": "lies",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "line.",
+          "definition": "undefined\nлиниꙗ"
+        }
+      ],
+      "chips": [
+        "Точка",
+        "лєжитъ",
+        "на",
+        "линиѥи",
+        "ли",
+        "вина",
+        "линиꙗ"
+      ],
+      "solutions": [
+        [
+          "Точка",
+          "лєжитъ",
+          "на",
+          "линиѥи"
+        ]
+      ],
+      "formattedSolution": "Точка лєжитъ на линиѥи.",
+      "id": "3113a19a0885",
+      "priority": 2,
+      "group": "33fb38e09aac"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Точка",
+          "definition": "point\nundefined"
+        },
+        {
+          "word": "лєжитъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "линиѥи.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "point",
+        "lies",
+        "on",
+        "the",
+        "line",
+        "in",
+        "One",
+        "She",
+        "wine",
+        "ink"
+      ],
+      "solutions": [
+        [
+          "The",
+          "point",
+          "lies",
+          "on",
+          "the",
+          "line"
+        ]
+      ],
+      "formattedSolution": "The point lies on the line.",
+      "id": "fea8ad87a6f1",
+      "priority": 2,
+      "group": "33fb38e09aac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она знаѥтъ въсѧкъи обрꙑсъ Аньглиѥ.",
+      "meaningInSourceLanguage": "She knows every outline of England.",
+      "id": "9da5b7603ee2",
+      "priority": 0,
+      "group": "b47fc8914f1c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она знаѥтъ въсѧкъи обрꙑсъ Аньглиѥ.",
+      "meaning": "She knows every outline of England.",
+      "audio": "9339293b0fe58f38765cd182515f21cd6e9f454cec9013103d3f8038664a98e3",
+      "id": "a6ce6401eb06",
+      "priority": 1,
+      "group": "b47fc8914f1c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "undefined\nона"
+        },
+        {
+          "word": "knows",
+          "definition": "undefined"
+        },
+        {
+          "word": "every",
+          "definition": "undefined"
+        },
+        {
+          "word": "outline",
+          "definition": "undefined\nобрꙑсъ"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "England.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Она",
+        "знаѥтъ",
+        "въсѧкъи",
+        "обрꙑсъ",
+        "Аньглиѥ",
+        "насъ",
+        "Онъ",
+        "знамъ",
+        "знаѭтъ"
+      ],
+      "solutions": [
+        [
+          "Она",
+          "знаѥтъ",
+          "въсѧкъи",
+          "обрꙑсъ",
+          "Аньглиѥ"
+        ]
+      ],
+      "formattedSolution": "Она знаѥтъ въсѧкъи обрꙑсъ Аньглиѥ.",
+      "id": "c1a75b6024c6",
+      "priority": 2,
+      "group": "b47fc8914f1c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Она",
+          "definition": "she\nundefined"
+        },
+        {
+          "word": "знаѥтъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "въсѧкъи",
+          "definition": "undefined"
+        },
+        {
+          "word": "обрꙑсъ",
+          "definition": "outline\nundefined"
+        },
+        {
+          "word": "Аньглиѥ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "She",
+        "knows",
+        "every",
+        "outline",
+        "of",
+        "England",
+        "on",
+        "old",
+        "One",
+        "not",
+        "the"
+      ],
+      "solutions": [
+        [
+          "She",
+          "knows",
+          "every",
+          "outline",
+          "of",
+          "England"
+        ]
+      ],
+      "formattedSolution": "She knows every outline of England.",
+      "id": "43883974eb0d",
+      "priority": 2,
+      "group": "b47fc8914f1c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сь ѥстъ простъи трикѫтьникъ.",
+      "meaningInSourceLanguage": "This is a simple triangle.",
+      "id": "a92cd06a4102",
+      "priority": 0,
+      "group": "c2e6f74ab165"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сь ѥстъ простъи трикѫтьникъ.",
+      "meaning": "This is a simple triangle.",
+      "audio": "4082f70e45c32e78bcd50e6e7ef558b45f44c7ba8bf4126f3bb1ffa6cf0bc070",
+      "id": "83618a5ddb00",
+      "priority": 1,
+      "group": "c2e6f74ab165"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "undefined\nси\nсь"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "simple",
+          "definition": "undefined"
+        },
+        {
+          "word": "triangle.",
+          "definition": "undefined\nтрикѫтьникъ"
+        }
+      ],
+      "chips": [
+        "Сь",
+        "ѥстъ",
+        "простъи",
+        "трикѫтьникъ",
+        "тъ",
+        "Ѥстъ",
+        "отъ"
+      ],
+      "solutions": [
+        [
+          "Сь",
+          "ѥстъ",
+          "простъи",
+          "трикѫтьникъ"
+        ]
+      ],
+      "formattedSolution": "Сь ѥстъ простъи трикѫтьникъ.",
+      "id": "dec0cf7af6a5",
+      "priority": 2,
+      "group": "c2e6f74ab165"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Сь",
+          "definition": "this\nundefined"
+        },
+        {
+          "word": "ѥстъ",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "простъи",
+          "definition": "undefined"
+        },
+        {
+          "word": "трикѫтьникъ.",
+          "definition": "triangle\nundefined"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "a",
+        "simple",
+        "triangle",
+        "his",
+        "in",
+        "it",
+        "him"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "a",
+          "simple",
+          "triangle"
+        ]
+      ],
+      "formattedSolution": "This is a simple triangle.",
+      "id": "62238126f104",
+      "priority": 2,
+      "group": "c2e6f74ab165"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Онъ малѥѥтъ фигꙋрꙑ на папирꙋ.",
+      "meaningInSourceLanguage": "He is drawing figures on paper.",
+      "id": "f90f7f4f1b79",
+      "priority": 0,
+      "group": "e9ba7eea4219"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Онъ малѥѥтъ фигꙋрꙑ на папирꙋ.",
+      "meaning": "He is drawing figures on paper.",
+      "audio": "3ee0c2dc42ecabed94681c5e04e1507e73f2926417ddc6371193222543ba1431",
+      "id": "a2f992af00b7",
+      "priority": 1,
+      "group": "e9ba7eea4219"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "undefined\nонъ"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "drawing",
+          "definition": "undefined"
+        },
+        {
+          "word": "figures",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "paper.",
+          "definition": "undefined\nпапиръ"
+        }
+      ],
+      "chips": [
+        "Онъ",
+        "малѥѥтъ",
+        "фигꙋрꙑ",
+        "на",
+        "папирꙋ",
+        "нъ",
+        "даръ",
+        "Она",
+        "тъ"
+      ],
+      "solutions": [
+        [
+          "Онъ",
+          "малѥѥтъ",
+          "фигꙋрꙑ",
+          "на",
+          "папирꙋ"
+        ]
+      ],
+      "formattedSolution": "Онъ малѥѥтъ фигꙋрꙑ на папирꙋ.",
+      "id": "dfe04bff9526",
+      "priority": 2,
+      "group": "e9ba7eea4219"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Онъ",
+          "definition": "he\nundefined"
+        },
+        {
+          "word": "малѥѥтъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "фигꙋрꙑ",
+          "definition": "undefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "папирꙋ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "He",
+        "is",
+        "drawing",
+        "figures",
+        "on",
+        "paper",
+        "in",
+        "an",
+        "air",
+        "or",
+        "as"
+      ],
+      "solutions": [
+        [
+          "He",
+          "is",
+          "drawing",
+          "figures",
+          "on",
+          "paper"
+        ]
+      ],
+      "formattedSolution": "He is drawing figures on paper.",
+      "id": "00e431d338c0",
+      "priority": 2,
+      "group": "e9ba7eea4219"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Форма ѥстъ интєрєсьна.",
+      "meaningInSourceLanguage": "The shape is interesting.",
+      "id": "a6a19b8d9f38",
+      "priority": 0,
+      "group": "7a641f5f6478"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Форма ѥстъ интєрєсьна.",
+      "meaning": "The shape is interesting.",
+      "audio": "dd2965d4a52b5df34e3e65d8b8785b22c543d2a6d6f29f3a1aedd346f07ddfbc",
+      "id": "30efc8b3eb19",
+      "priority": 1,
+      "group": "7a641f5f6478"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "shape",
+          "definition": "undefined\nобликъ\nформа"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "interesting.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "Форма",
+        "ѥстъ",
+        "интєрєсьна",
+        "ѥстє",
+        "форма"
+      ],
+      "solutions": [
+        [
+          "Форма",
+          "ѥстъ",
+          "интєрєсьна"
+        ]
+      ],
+      "formattedSolution": "Форма ѥстъ интєрєсьна.",
+      "id": "d6b5960fc2d1",
+      "priority": 2,
+      "group": "7a641f5f6478"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Форма",
+          "definition": "shape\nundefined"
+        },
+        {
+          "word": "ѥстъ",
+          "definition": "is\nundefined"
+        },
+        {
+          "word": "интєрєсьна.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "shape",
+        "is",
+        "interesting",
+        "the",
+        "She",
+        "are"
+      ],
+      "solutions": [
+        [
+          "The",
+          "shape",
+          "is",
+          "interesting"
+        ]
+      ],
+      "formattedSolution": "The shape is interesting.",
+      "id": "fef4e5b9aae4",
+      "priority": 2,
+      "group": "7a641f5f6478"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Столъ имаѥтъ обликъ квадрата.",
+      "meaningInSourceLanguage": "The table has the shape of a square.",
+      "id": "fab636836207",
+      "priority": 0,
+      "group": "230580bae599"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Столъ имаѥтъ обликъ квадрата.",
+      "meaning": "The table has the shape of a square.",
+      "audio": "5864fa0057ea4c551109c2dc5e2961718fbcca7f0910cbefdd5ab0b0cddb0048",
+      "id": "c66bd615548b",
+      "priority": 1,
+      "group": "230580bae599"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "undefined"
+        },
+        {
+          "word": "table",
+          "definition": "undefined\nстолъ"
+        },
+        {
+          "word": "has",
+          "definition": "undefined"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "shape",
+          "definition": "undefined\nобликъ\nформа"
+        },
+        {
+          "word": "of",
+          "definition": "undefined"
+        },
+        {
+          "word": "a",
+          "definition": "undefined"
+        },
+        {
+          "word": "square.",
+          "definition": "undefined\nквадратъ"
+        }
+      ],
+      "chips": [
+        "Столъ",
+        "имаѥтъ",
+        "обликъ",
+        "квадрата",
+        "братъ",
+        "имаѭтъ",
+        "даѥтъ"
+      ],
+      "solutions": [
+        [
+          "Столъ",
+          "имаѥтъ",
+          "обликъ",
+          "квадрата"
+        ]
+      ],
+      "formattedSolution": "Столъ имаѥтъ обликъ квадрата.",
+      "id": "552421d9bf66",
+      "priority": 2,
+      "group": "230580bae599"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Столъ",
+          "definition": "table\nundefined"
+        },
+        {
+          "word": "имаѥтъ",
+          "definition": "undefined"
+        },
+        {
+          "word": "обликъ",
+          "definition": "shape\nundefined"
+        },
+        {
+          "word": "квадрата.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "The",
+        "table",
+        "has",
+        "the",
+        "shape",
+        "of",
+        "a",
+        "square",
+        "are",
+        "age",
+        "She",
+        "be",
+        "as",
+        "am",
+        "We"
+      ],
+      "solutions": [
+        [
+          "The",
+          "table",
+          "has",
+          "the",
+          "shape",
+          "of",
+          "a",
+          "square"
+        ]
+      ],
+      "formattedSolution": "The table has the shape of a square.",
+      "id": "c4b84307c6bd",
+      "priority": 2,
+      "group": "230580bae599"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Красьна фигꙋра стои на столѣ.",
+      "meaningInSourceLanguage": "A beautiful figure is standing on the table.",
+      "id": "85e94a7a12c0",
+      "priority": 0,
+      "group": "4437ae08c919"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Красьна фигꙋра стои на столѣ.",
+      "meaning": "A beautiful figure is standing on the table.",
+      "audio": "90ced5b1adcc31758cf918d023bcee07d72db53bbe0ab1ff6c7e29571e117044",
+      "id": "55bc936ffd8a",
+      "priority": 1,
+      "group": "4437ae08c919"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "A",
+          "definition": "undefined"
+        },
+        {
+          "word": "beautiful",
+          "definition": "undefined\nкрасьнъ"
+        },
+        {
+          "word": "figure",
+          "definition": "undefined\nфигꙋра"
+        },
+        {
+          "word": "is",
+          "definition": "undefined\nѥстъ"
+        },
+        {
+          "word": "standing",
+          "definition": "undefined"
+        },
+        {
+          "word": "on",
+          "definition": "undefined\nна"
+        },
+        {
+          "word": "the",
+          "definition": "undefined"
+        },
+        {
+          "word": "table.",
+          "definition": "undefined\nстолъ"
+        }
+      ],
+      "chips": [
+        "Красьна",
+        "фигꙋра",
+        "стои",
+        "на",
+        "столѣ",
+        "стола",
+        "съна",
+        "сока",
+        "стара"
+      ],
+      "solutions": [
+        [
+          "Красьна",
+          "фигꙋра",
+          "стои",
+          "на",
+          "столѣ"
+        ]
+      ],
+      "formattedSolution": "Красьна фигꙋра стои на столѣ.",
+      "id": "88eb4966969a",
+      "priority": 2,
+      "group": "4437ae08c919"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Красьна",
+          "definition": "undefined"
+        },
+        {
+          "word": "фигꙋра",
+          "definition": "figure\nundefined"
+        },
+        {
+          "word": "стои",
+          "definition": "undefined"
+        },
+        {
+          "word": "на",
+          "definition": "on\nundefined"
+        },
+        {
+          "word": "столѣ.",
+          "definition": "undefined"
+        }
+      ],
+      "chips": [
+        "A",
+        "beautiful",
+        "figure",
+        "is",
+        "standing",
+        "on",
+        "the",
+        "table",
+        "in",
+        "be",
+        "an",
+        "big",
+        "air",
+        "We",
+        "are"
+      ],
+      "solutions": [
+        [
+          "A",
+          "beautiful",
+          "figure",
+          "is",
+          "standing",
+          "on",
+          "the",
+          "table"
+        ]
+      ],
+      "formattedSolution": "A beautiful figure is standing on the table.",
+      "id": "90b9dc129ba0",
+      "priority": 2,
+      "group": "4437ae08c919"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "крꙋгъ",
+      "meaningInSourceLanguage": "circle",
+      "id": "a9f40a431abc",
+      "priority": 0,
+      "group": "ed13e7a570f8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "крꙋгъ"
+      ],
+      "phrase": [
+        {
+          "word": "circle",
+          "definition": "undefined\nкрꙋгъ"
+        }
+      ],
+      "id": "c2609e541c9b",
+      "priority": 1,
+      "group": "ed13e7a570f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "крꙋгъ",
+      "meaning": "circle",
+      "audio": "33e415acc75839ed5096796041133b8fcf087e4ea3ed9e4752ad0b00ecd8cbc8",
+      "id": "ed4b1488bacf",
+      "priority": 1,
+      "group": "ed13e7a570f8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "квадратъ",
+      "meaningInSourceLanguage": "square",
+      "id": "b92a2393afd6",
+      "priority": 0,
+      "group": "e72eb412bd3c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "квадратъ"
+      ],
+      "phrase": [
+        {
+          "word": "square",
+          "definition": "undefined\nквадратъ"
+        }
+      ],
+      "id": "c24824f22d6b",
+      "priority": 1,
+      "group": "e72eb412bd3c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "квадратъ",
+      "meaning": "square",
+      "audio": "9fdc61c391de30094439c553e4ff3920ad610bf3b10c1e4274efe3aebef6636f",
+      "id": "86a25ecbe183",
+      "priority": 1,
+      "group": "e72eb412bd3c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "чєтꙑрє",
+      "meaningInSourceLanguage": "four",
+      "id": "89daabc2e289",
+      "priority": 0,
+      "group": "d20752937302"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "чєтꙑрє"
+      ],
+      "phrase": [
+        {
+          "word": "four",
+          "definition": "undefined\nчєтꙑри\nчєтꙑрє"
+        }
+      ],
+      "id": "b5fa181cbef0",
+      "priority": 1,
+      "group": "d20752937302"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "чєтꙑрє",
+      "meaning": "four",
+      "audio": "c8ea6c3bcfdf9954feb10de0b597cdaa2d62a12039ab9c4c3e3b79fcb55c49b3",
+      "id": "ccc179aa6885",
+      "priority": 1,
+      "group": "d20752937302"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "дълъгъ",
+      "meaningInSourceLanguage": "long",
+      "id": "6704badf2303",
+      "priority": 0,
+      "group": "e9855fc9e5f7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "дълъгъ"
+      ],
+      "phrase": [
+        {
+          "word": "long",
+          "definition": "undefined\nдълъгъ"
+        }
+      ],
+      "id": "5f444adca802",
+      "priority": 1,
+      "group": "e9855fc9e5f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дълъгъ",
+      "meaning": "long",
+      "audio": "1a040e54a0386ef28728de9dd4d7148af6f5fc7666affe99f1a42f540ce0c1ea",
+      "id": "051a4a0643ae",
+      "priority": 1,
+      "group": "e9855fc9e5f7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "три",
+      "meaningInSourceLanguage": "three",
+      "id": "356109ab5181",
+      "priority": 0,
+      "group": "d8d632fa52fa"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "три"
+      ],
+      "phrase": [
+        {
+          "word": "three",
+          "definition": "undefined\nтри"
+        }
+      ],
+      "id": "8af8f0e31584",
+      "priority": 1,
+      "group": "d8d632fa52fa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "три",
+      "meaning": "three",
+      "audio": "f5ab1a21077e5c495d66c2ad102e4ef108b7aba6459f80c46eb8dc5b5f64c924",
+      "id": "35df03399a0c",
+      "priority": 1,
+      "group": "d8d632fa52fa"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "трикѫтьникъ",
+      "meaningInSourceLanguage": "triangle",
+      "id": "714c65fa1197",
+      "priority": 0,
+      "group": "b0b0e57bf90b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "трикѫтьникъ"
+      ],
+      "phrase": [
+        {
+          "word": "triangle",
+          "definition": "undefined\nтрикѫтьникъ"
+        }
+      ],
+      "id": "53251124f9e5",
+      "priority": 1,
+      "group": "b0b0e57bf90b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "трикѫтьникъ",
+      "meaning": "triangle",
+      "audio": "46864099dfd865febf0ae6b7e3d823e9231855c548b1be708b4b37ea048102d7",
+      "id": "e78712691391",
+      "priority": 1,
+      "group": "b0b0e57bf90b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "стоꙗти (стои)",
+      "meaningInSourceLanguage": "to stand",
+      "id": "2a13f3a2df48",
+      "priority": 0,
+      "group": "f58eed6726c5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "стоꙗти (стои)"
+      ],
+      "phrase": [
+        {
+          "word": "to",
+          "definition": "undefined"
+        },
+        {
+          "word": "stand",
+          "definition": "undefined"
+        }
+      ],
+      "id": "b636b1226a0f",
+      "priority": 1,
+      "group": "f58eed6726c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "стоꙗти (стои)",
+      "meaning": "to stand",
+      "audio": "e2cff848de2f3d2cb31373e6fe2eb04d76f77a10692e83cc100341a2e9f8400b",
+      "id": "9375190d856f",
+      "priority": 1,
+      "group": "f58eed6726c5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "равьнъ",
+      "meaningInSourceLanguage": "straight",
+      "id": "e95787f15c28",
+      "priority": 0,
+      "group": "b9a594022dd3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "равьнъ"
+      ],
+      "phrase": [
+        {
+          "word": "straight",
+          "definition": "undefined\nпрємо\nравьнъ"
+        }
+      ],
+      "id": "caab62433cc8",
+      "priority": 1,
+      "group": "b9a594022dd3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "равьнъ",
+      "meaning": "straight",
+      "audio": "15ad18d0e66b32531e9af419d28e6df10454b120c9dc9834207870e173a5fdbf",
+      "id": "f1121265579c",
+      "priority": 1,
+      "group": "b9a594022dd3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "форма",
+      "meaningInSourceLanguage": "shape",
+      "id": "52f41017ecd6",
+      "priority": 0,
+      "group": "3c7a9e9c5f23"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "форма"
+      ],
+      "phrase": [
+        {
+          "word": "shape",
+          "definition": "undefined\nобликъ\nформа"
+        }
+      ],
+      "id": "ab3b05b8406f",
+      "priority": 1,
+      "group": "3c7a9e9c5f23"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "форма",
+      "meaning": "shape",
+      "audio": "f50d0c378a9d70736ff8b71125320b49a1157091446be7c18e5d4e9a9d28b3a9",
+      "id": "5a6a24c3ed70",
+      "priority": 1,
+      "group": "3c7a9e9c5f23"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "линиꙗ",
+      "meaningInSourceLanguage": "line",
+      "id": "0820887169ad",
+      "priority": 0,
+      "group": "aeb0f4fb88a5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "линиꙗ"
+      ],
+      "phrase": [
+        {
+          "word": "line",
+          "definition": "undefined\nлиниꙗ"
+        }
+      ],
+      "id": "b2e1414ca4cd",
+      "priority": 1,
+      "group": "aeb0f4fb88a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "линиꙗ",
+      "meaning": "line",
+      "audio": "dca6b1996adba5891e292037444034daef7e301eecacfe8e24428365262364ce",
+      "id": "670a728a56e3",
+      "priority": 1,
+      "group": "aeb0f4fb88a5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "точка",
+      "meaningInSourceLanguage": "point",
+      "id": "975f4468e0d4",
+      "priority": 0,
+      "group": "a9be51b0a953"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "точка"
+      ],
+      "phrase": [
+        {
+          "word": "point",
+          "definition": "undefined\nточка"
+        }
+      ],
+      "id": "ae68cd2ecdb7",
+      "priority": 1,
+      "group": "a9be51b0a953"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "точка",
+      "meaning": "point",
+      "audio": "7d4946ef34303372bff722c5059358a32c6d9ca697048e7bc4a72e99e11c7919",
+      "id": "45bb2966bc24",
+      "priority": 1,
+      "group": "a9be51b0a953"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "обрꙑсъ",
+      "meaningInSourceLanguage": "outline",
+      "id": "ebb29d5c60eb",
+      "priority": 0,
+      "group": "97c45a508be1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "обрꙑсъ"
+      ],
+      "phrase": [
+        {
+          "word": "outline",
+          "definition": "undefined\nобрꙑсъ"
+        }
+      ],
+      "id": "93675fb77a3b",
+      "priority": 1,
+      "group": "97c45a508be1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "обрꙑсъ",
+      "meaning": "outline",
+      "audio": "2209816baf57a298d6287911f3a24618752e1d3edff89c2eca3c2796eddffffb",
+      "id": "e42a9873b81f",
+      "priority": 1,
+      "group": "97c45a508be1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "страна",
+      "meaningInSourceLanguage": "side",
+      "id": "6ff836f35b5e",
+      "priority": 0,
+      "group": "f8a6b29e610f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "страна"
+      ],
+      "phrase": [
+        {
+          "word": "side",
+          "definition": "undefined\nстрана"
+        }
+      ],
+      "id": "a78087971722",
+      "priority": 1,
+      "group": "f8a6b29e610f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "страна",
+      "meaning": "side",
+      "audio": "922f8e598cbc2712bed15c777253615573b07f8e7c71883fb085f62ae2fc9c81",
+      "id": "55ed0dd2b663",
+      "priority": 1,
+      "group": "f8a6b29e610f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "фигꙋра",
+      "meaningInSourceLanguage": "figure",
+      "id": "4f6cff3a4ac7",
+      "priority": 0,
+      "group": "ee0bcc782360"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "фигꙋра"
+      ],
+      "phrase": [
+        {
+          "word": "figure",
+          "definition": "undefined\nфигꙋра"
+        }
+      ],
+      "id": "1b670fb2b181",
+      "priority": 1,
+      "group": "ee0bcc782360"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "фигꙋра",
+      "meaning": "figure",
+      "audio": "4f4aaf7320b769a3735af1deb5353d097df3e9d8ea56e2af3c98d7be90892d66",
+      "id": "1a8d915cd08d",
+      "priority": 1,
+      "group": "ee0bcc782360"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "обликъ",
+      "meaningInSourceLanguage": "shape",
+      "id": "a0982762deb3",
+      "priority": 0,
+      "group": "3c4b0da7ff50"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "обликъ"
+      ],
+      "phrase": [
+        {
+          "word": "shape",
+          "definition": "undefined\nобликъ\nформа"
+        }
+      ],
+      "id": "7c9012d8cb99",
+      "priority": 1,
+      "group": "3c4b0da7ff50"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "обликъ",
+      "meaning": "shape",
+      "audio": "e1145a743b7ab70d26795fbe8169fab52196b14257836cdc54c9ada1876818e0",
+      "id": "ff8b4cf78a24",
+      "priority": 1,
+      "group": "3c4b0da7ff50"
+    }
+  ]
+}
