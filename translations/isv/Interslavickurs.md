@@ -5,7 +5,7 @@ Phrases: [
     "Ja jesm mudry.",
     "To moja sestra.",
     "Ona mnogo mudra",
-    "My mnogo mudri",
+    "My jesmo mnogo mudri",
     "Vy tož mudri?",
     "To dobry človek.",
     "Ta žena jest dobra.",
@@ -297,7 +297,7 @@ Phrases: [
     "Ona zna rusky i slovjansky.",
     "To jest narod s bogatoju kulturoju.",
     "Ty jesi Angličaninom?",
-    "On govori každy język dobro.",
+    "On govori každym językom dobro.",
     "My učimo se ruskogo jezyka.",
     "Ona zna mnogo narodov."
 ]
@@ -399,7 +399,7 @@ Phrases: [
     "Voda ide do rěky.",
     "Polje jest za domom.",
     "Idemo k dubu.",
-    "Luna tutdenj krasna",
+    "Luna jest tutdenj krasna",
     "My stojimo na zemji.",
     "Oni gledajut v dolinu.",
     "Rěka ide medžu poljami."
@@ -522,7 +522,7 @@ New Words: [
 Phrases: [
     "Togo ne znam.",
     "O tom uže dolgo vae věm.",
-    "Kogo ty vidiš?.",
+    "Kogo ty vidiš?",
     "Tym ktori ležet se spati spokojnogo sna.",
     "O toj věči ja ničto ne znam.",
     "Govorim s toboju.",
@@ -574,10 +574,8 @@ Phrases:
 ]
 
 ## Professions
-
 New Words: [učitelj, doktor, inženjer, robotnik, pisar, prodavec, šofer, kuhar, policijnik, artist, pracovati, rabotati, rysovati, dělati]
-Phrases:
-[
+Phrases:[
     "Moj brat jest učiteljem.",
     "Ona jest doktorom.",
     "On jest inžiněrem v městu.",
@@ -626,7 +624,6 @@ Phrases:
     "Svetofor pokazuje zeleno."
 ]
 ## Buying in the Shop
-
 New Words: [kupiti, prodavati, cena, oděž, torba, kus, kupec, povratok, ček, pytati, svěži]
 Phrases:
 [
@@ -996,7 +993,7 @@ Phrases: [
     "Stari ljudi sut vyše mudri než my.",
     "Mlada ima mnogo energiji.",
     "Jego vlasy sut plave.",
-    "Oči sut vyše zelene než u njego.",
+    "Te oči sut vyše zelene než u njego.",
     "Koža jego jest běla.",
     "On ima dolge vlosy.",
     "Ona ima zelene oči.",

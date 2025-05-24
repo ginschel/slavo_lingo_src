@@ -5,7 +5,7 @@ Phrases: [
     "Ja jestem mądry.",
     "To moja siostra.",
     "Ona dużo mądra",
-    "My dużo mądrzy",
+    "My jesteśmy bardzo mądrzy",
     "Wy też mądrzy?",
     "To dobry człowiek.",
     "Ta kobieta jest dobra.",
@@ -25,26 +25,26 @@ Phrases: [
     "To nie twój dom.",
     "To dobre auto?",
     "To dobrzy przyjaciele?",
-    "One są dużo miłe.",
-    "Oni są dużo mili"
+    "One są bardzo miłe.",
+    "Oni są bardzo mili"
 ]
 
 ## Greetings & Phrases for conversations
-New Words: [pozdrowienie, zdrowy/cześć, rozmowa, rano, wieczór, dzień, noc, dziękuję, przepraszam, wybacz, dobry, lepiej, można, szkoda, tak, co, nie, tak (potwierdzenie), może, dawaj]
+New Words: [pozdrowienie, cześć, rozmowa, rano, wieczór, dzień, noc, dziękuję, przepraszam, wybacz, dobry, lepiej, można, szkoda, tak, co, nie, tak (potwierdzenie), może, dawaj]
 Phrases: [
-    "Dzień dobry (rano)!",
+    "Dzień dobry!",
     "Dobry wieczór!",
     "Dobry dzień!",
-    "Dobra noc!",
+    "Dobranoc!",
     "Jak się masz?",
     "Mam się dobrze, dziękuję!",
     "A ty?",
     "Dziękuję ci bardzo.",
     "Przepraszam, nie rozumiem.",
     "Cześć (na powitanie)!",
-    "Cześć (na powitanie)!",
+    "Witaj (na powitanie)!",
     "Dzień dobry, jak się masz?",
-    "Jesteś zdrowy/zdrowa?",
+    "Jesteś zdrowy?",
     "Witaj/Witajcie!",
     "Na zdrowie!",
     "Pozdrów twoją siostrę.",
@@ -74,14 +74,14 @@ Phrases: [
 ]
 
 ## Family (Instrumental case)
-New Words: [brat, dziadek, babcia, ciotka, wnuk, wnuczka, matka, ojciec, rodzina, syn, córka, stryj, mówi, idzie, idziemy, żyje]
+New Words: [brat, dziadek, babcia, ciocia, wnuk, wnuczka, matka, ojciec, rodzina, syn, córka, stryj, mówi, idzie, idziemy, żyje]
 Phrases: [
     "On jest moim bratem.",
     "On jest twoim ojcem",
     "Ona idzie z matką.",
-    "On mówi z dziadkiem.",
+    "On rozmawia z dziadkiem.",
     "My bawimy się z naszymi dziećmi.",
-    "Oni jadą z ciotką.",
+    "Oni jadą z ciocią.",
     "Rozmawiam z twoją siostrą.",
     "Idę do parku z rodziną.",
     "On jest z wnukiem.",
@@ -94,7 +94,7 @@ Phrases: [
     "Idziemy na spacer z braćmi.",
     "Idziemy z córką.",
     "Oni tu są z dziadkiem.",
-    "On żyje z ciotką i ze stryjem.",
+    "On żyje z ciocią i ze stryjem.",
     "Ona rozmawia z wnukiem często."
 ]
 
@@ -125,14 +125,14 @@ Phrases: [
 ]
 
 ## Sports (very basic accusative case + very basic locative)
-New Words: [piłka nożna, koszykówka, tenis, pływanie, pływać, bieganie, biegać, rano, lubić, hokej, sport, gra, trenować, stadion, szybko, ciężki/trudny]
+New Words: [piłka nożna, koszykówka, tenis, pływanie, pływać, bieganie, biegać, rano, lubić, hokej, sport, gra, trenować, stadion, szybko, ciężki]
 Phrases: [
     "Gram w piłkę nożną.",
     "Ona gra w koszykówkę.",
     "On gra w tenisa.",
     "My pływamy w rzece.",
     "Oni biegają rano.",
-    "On trenuje każdy dzień.",
+    "On trenuje codziennie.",
     "Sport jest ważny.",
     "Ona gra na stadionie.",
     "Trzeba trenować.",
@@ -151,7 +151,7 @@ Phrases: [
 
 # Module 2 – Food and Drinks
 ## Food (Accusative case)
-New Words: [chleb, gotować, nieść, jeść (je), masło, mleko, mięso, jajko, śniadanie, obiad, kupić, kolacja, danie/półmisek, książka, słodki, jedzenie]
+New Words: [chleb, gotować, nieść, jeść (je), masło, mleko, mięso, jajko, śniadanie, obiad, kupić, kolacja, danie, książka, słodki, jedzenie]
 Phrases: [
     "Ja jem chleb.",
     "Ona je mięso.",
@@ -168,7 +168,7 @@ Phrases: [
     "Czy czytasz książkę i jesz śniadanie?",
     "Widzę obiad na stole.",
     "Ty masz masło?",
-    "My gotujemy kolację każdy dzień.",
+    "My gotujemy kolację codziennie.",
     "Ja wiem, że ty lubisz jajka.",
     "On je słodkie jedzenie.",
     "Ona lubi gotować kolację.",
@@ -203,7 +203,7 @@ Phrases: [
 ]
 
 ## Fruits
-New Words: [jabłko, gruszka, banan, pomarańcza, wiśnia, truskawka, dojrzały, winogrona, śliwka, cytryna, kwaśny, słodki, melon]
+New Words: [jabłko, gruszka, banan, pomarańcza, wiśnia, truskawka, dojrzały, winogrona, śliwka, cytryna, kwaśny, słodki, arbuz]
 Phrases: [
     "Jabłko jest czerwone.",
     "Gruszka jest smaczna.",
@@ -214,7 +214,7 @@ Phrases: [
     "Winogrona rosną na winnicy.",
     "Śliwka jest ciemna.",
     "Cytryna jest kwaśna i żółta.",
-    "Melon jest duży i słodki.",
+    "Arbuz jest duży i słodki.",
     "On gotuje śliwowicę ze śliwek.",
     "Ona pije sok z pomarańczy.",
     "My kupujemy winogrona.",
@@ -224,7 +224,7 @@ Phrases: [
     "Cytrynę dodaje się do herbaty.",
     "Banan jest w torbie.",
     "Wiśnia rośnie na drzewie.",
-    "Melon jest bardzo smaczny."
+    "Arbuz jest bardzo smaczny."
 ]
 
 # Module 3 – Learning and Languages
@@ -299,7 +299,7 @@ Phrases: [
     "Ona zna rosyjski i słowiański.",
     "To jest naród z bogatą kulturą.",
     "Ty jesteś Anglikiem?",
-    "On mówi każdy język dobrze.",
+    "On mówi każdym językiem dobrze.",
     "My uczymy się języka rosyjskiego.",
     "Ona zna dużo narodów."
 ]
@@ -335,7 +335,7 @@ New Words: [nóż, widelec, łyżka, talerz, filiżanka/kubek, sól, pieprz, cuk
 Phrases: [
     "Nóż leży na stole.",
     "Widelec jest srebrny.",
-    "Łyżka jest w soli.",
+    "Łyżka jest napełniona solą.",
     "Talerz jest pełny jedzenia.",
     "Filiżanka jest napełniona wodą.",
     "Dam do herbaty cukier.",
@@ -367,7 +367,7 @@ Phrases: [
     "Ona niesie myszy ser.",
     "On pomaga niedźwiedziowi.",
     "My dajemy żabie chleb.",
-    "Oni dają zwierzęciu łapę.",
+    "Oni dają zwierzęciu rękę.",
     "Pomagamy wilkowi.",
     "Dasz mi rybę?",
     "Ja dam kotu imię.",
@@ -387,7 +387,7 @@ New Words: [rzeka, przez, góra, dolina, las, trawa, kwiat, róża, rosnąć (ro
 Phrases: [
     "Rzeka płynie przez dolinę.",
     "Góra jest wysoka.",
-    "My idziemy do lasu.",
+    "My idziemy w las.",
     "Trawa jest zielona.",
     "Kwiaty pięknie kwitną.",
     "On stoi na kamieniu.",
@@ -402,7 +402,7 @@ Phrases: [
     "Woda płynie do rzeki.",
     "Pole jest za domem.",
     "Idziemy do dębu.",
-    "Księżyc dzisiaj piękny",
+    "Księżyc jest dzisiaj piękny",
     "My stoimy na ziemi.",
     "Oni patrzą w dolinę.",
     "Rzeka płynie między polami."
@@ -505,7 +505,7 @@ Phrases: [
     "Ona rozmawia z mężem.",
     "Ona mówi o braciach.",
     "Ona daje prezent braciom.",
-    "Na polu dużo pracuję/pracujemy.",
+    "Na polu dużo pracuję.",
     "Jest dużo słońc we wszechświecie.",
     "I też jest dużo gwiazd.",
     "On lubi rozmawiać ze swoją żoną.",
@@ -520,14 +520,14 @@ Phrases: [
 ## Grammar revision pronouncs
 New Words: [
     "znać (fakty)",
-    "wiedzieć (znać kogoś/coś)",
+    "wiedzieć (wie)",
     "sen",
     "rzecz"
 ]
 Phrases: [
     "Tego nie znam.",
     "O tym już długo wiem.",
-    "Kogo widzisz?.",
+    "Kogo widzisz?",
     "Tym, którzy kładą się spać, spokojnego snu.",
     "O tej rzeczy ja nic nie wiem.",
     "Rozmawiam z tobą.",
@@ -550,11 +550,11 @@ Phrases: [
 
 # Module 7 – Living in the city and interactions with them
 ## City/Buildings
-New Words: [miasto, dom, plac/rynek, stacja, most, sklep, targowisko, biblioteka, kościół, ulica, prowadzić (prowadzi)]
+New Words: [miasto, dom, rynek, stacja, most, sklep, targowisko, biblioteka, kościół, ulica, prowadzić (prowadzi)]
 Phrases: [
     "To jest duże miasto.",
     "Dom stoi na ulicy.",
-    "Idziemy do placu/rynku.",
+    "Idziemy do rynku.",
     "Stacja jest blisko centrum.",
     "Most idzie przez rzekę.",
     "Kupujemy chleb w sklepie.",
@@ -566,7 +566,7 @@ Phrases: [
     "Sklep jest otwarty dzisiaj.",
     "Kościół stoi blisko biblioteki.",
     "Ulica prowadzi do placu/rynku.",
-    "Na placu/rynku stoi fontanna.",
+    "Na rynku stoi fontanna.",
     "Most jest piękny i nowy.",
     "To jest mój dom w mieście.",
     "Stacja ma dużo pociągów.",
@@ -575,13 +575,13 @@ Phrases: [
 ]
 
 ## Professions
-New Words: [nauczyciel, doktor, inżynier, robotnik, pisarz/urzędnik, sprzedawca, szofer/kierowca, kucharz, policjant, artysta, pracować, robić, rysować, robić]
+New Words: [nauczyciel, doktor, inżynier, robotnik, pisarz, sprzedawca, szofer/kierowca, kucharz, policjant, artysta, pracować, robić, rysować, robić]
 Phrases: [
     "Mój brat jest nauczycielem.",
     "Ona jest doktorem.",
     "On jest inżynierem w mieście.",
     "Robotnik pracuje na moście.",
-    "Pisarz/Urzędnik pisze w biurze.",
+    "Pisarz pisze w biurze.",
     "Sprzedawca pracuje w sklepie.",
     "Szofer/Kierowca prowadzi autobus.",
     "Mój ojciec jest kucharzem.",
@@ -591,22 +591,22 @@ Phrases: [
     "Doktor pomaga ludziom.",
     "Inżynier robi plan.",
     "Robotnik buduje dom.",
-    "Pisarz/Urzędnik pisze dokumenty.",
+    "Pisarz pisze dokumenty.",
     "Sprzedawca sprzedaje jedzenie.",
     "Szofer/Kierowca wiezie ludzi.",
     "Kucharz gotuje kolację.",
     "Policjant kontroluje sytuację.",
     "Artysta pokazuje swoją twórczość."
 ]
-
 ## Transport/Vehicles/Car
+
 New Words: [auto, autobus, pociąg, koło/rower, stacja, szofer/kierowca, droga, most, prędkość, światła drogowe, jechać (jedzie), usiąść (siada), połączyć (łączy), rozbity/zepsuty, ostrożny]
 Phrases: [
     "Auto stoi na ulicy.",
     "Autobus jedzie do centrum.",
     "Pociąg jedzie na stację.",
     "Tu jest siedzenie. Można usiąść.",
-    "Stacja jest duża.",
+    "Stacja jest wielka.",
     "Szofer/Kierowca jedzie szybko.",
     "Droga idzie przez las.",
     "Most łączy dwa miasta.",
@@ -656,8 +656,8 @@ Phrases: [
     "Idziemy w prawo.",
     "Potem w lewo.",
     "Idź prosto do mostu.",
-    "Prospekt jest blisko placu/rynku.",
-    "Biblioteka jest daleko.",
+    "Prospekt jest blisko rynku.",
+    "Biblioteka jest daleka.",
     "Pytam ich o drogę.",
     "Możecie pokazać drogę?",
     "Ulica idzie do centrum.",
@@ -666,7 +666,7 @@ Phrases: [
     "Idźcie prosto i potem w prawo.",
     "Stacja jest po lewej.",
     "Sklep jest blisko biblioteki.",
-    "Plac/Rynek jest daleko od hotelu.",
+    "Rynek jest daleko od hotelu.",
     "Pytam starą kobietę.",
     "On pokazuje mi drogę.",
     "Ulica jest długa.",
@@ -775,7 +775,7 @@ Phrases: [
 ]
 
 ## Ordinal Numbers
-New Words: [pierwszy, wtóry/drugi, trzeci, czwarty, piąty, szósty, siódmy, ósmy, dziewiąty, tysięczny, setny, piąty tysięczny, siódmy tysięczny, godzina (o pełnej godzinie)]
+New Words: [pierwszy, drugi, trzeci, czwarty, piąty, szósty, siódmy, ósmy, dziewiąty, tysięczny, setny, piąty tysięczny, siódmy tysięczny, godzina (o pełnej godzinie)]
 Phrases: [
     "o pierwszej godzinie dwadzieścia",
     "o drugiej godzinie dziesięć pięć",
@@ -801,9 +801,9 @@ Phrases: [
 
 # Module 9 – Time and the calendar
 ## Talking about Time (past tense)
-New Words: [czas, minuta, sekunda, godzina (trwania), dzisiaj, był, była, było, byli, szedł, szła, szło, szli, wczoraj, jutro, wieczór, północ, ile, spać (śpi), trwać]
+New Words: [czas, minuta, sekunda, godzina, dzisiaj, był, była, było, byli, szedł, szła, szło, szli, wczoraj, jutro, wieczór, północ, ile, spać (śpi), trwać]
 Phrases: [
-    "Która godzina?",
+    "Która jest godzina?",
     "On miał jedną godzinę.",
     "Jutro jest za późno.",
     "Wczoraj był poniedziałek.",
@@ -816,7 +816,7 @@ Phrases: [
     "Oni nic nie robili.",
     "Minuta jest małą jednostką czasu.",
     "Sekunda jest krótka.",
-    "Dzisiaj nie miałeś/miałaś na to czasu.",
+    "Dzisiaj nie miałeś na to czasu.",
     "Widzimy się wieczorem o dziewiątej godzinie.",
     "Wczoraj o pierwszej godzinie było lepiej.",
     "Ile minut trwa film?",
@@ -878,11 +878,11 @@ Phrases: [
 
 # Module 10 – Bodies, Clothes talking about people
 ## Clothes  (basic conjunctions)
-New Words: [koszula, nosić, spodnie, koszulka (T-shirt), szalik, czapka, płaszcz, rękawiczka, majtki/gacie, skarpetka, obuwie, odzież, brzydki, ubierać, piżama]
+New Words: [koszula, nosić, spodnie, koszulka (T-shirt), szalik, czapka, płaszcz, rękawiczka, majtki/gacie, skarpetka, buty, odzież, brzydki, ubierać, piżama]
 Phrases: [
     "On nosi niebieską koszulę.",
     "Ona ma czarne spodnie, a on białe.",
-    "Obuwie i płaszcz leżą przy drzwiach.",
+    "Buty i płaszcz leżą przy drzwiach.",
     "Szalik jest ciężki i ciepły.",
     "Zimą noszę zawsze czapkę, a w lecie nie.",
     "Majtki są ładne czy brzydkie?",
@@ -893,9 +893,9 @@ Phrases: [
     "Koszula jest w skrzyni.",
     "Czapka wisi na ścianie.",
     "On ubierał i nosił wczoraj o drugiej godzinie zieloną koszulkę czy koszulę. Ja nie jestem pewien teraz.",
-    "Chcesz szalik czy koszulę.",
+    "Ty chcesz szalik czy koszulę.",
     "Brzydkie rękawiczki leżą na stole, a piękny płaszcz noszę.",
-    "Ona kupiła ciepłe obuwie.",
+    "Ona kupiła ciepłe buty.",
     "On ubiera nową koszulę.",
     "Moje skarpetki są krótkie.",
     "W zimie będę potrzebować czapki i rękawiczek.",
@@ -913,11 +913,11 @@ Phrases: [
     "Nos jest czerwony od mrozu.",
     "Twarz jest podobna.",
     "Jej serce bije szybko.",
-    "Żołądek cię boli.",
+    "Żołądek ci boli.",
     "Ciało u mnie zdrowe.",
     "Ja mam dwie ręce i dwie nogi i też dwie stopy.",
     "Oczy patrzą w książkę.",
-    "Ucho słyszy muzykę.",
+    "Ucho słyszy muzyki.",
     "Jego mózg jest szybki.",
     "Jej twarz jest piękna.",
     "Serce jest symbolem miłości.",
@@ -935,9 +935,9 @@ Phrases: [
     "Silny duch jest ważny.",
     "On jest słaby w sporcie.",
     "Śmiały mówi prawdę.",
-    "Jak byś usłyszał/usłyszała, to oni byliby cicho.",
+    "Jak byś usłyszał, to oni byliby cisi.",
     "Mądry wie dużo.",
-    "Jak byś nie był/była głupi/głupia, to byś nie robił/robiła głupstw.",
+    "Jak byś nie był głupi, to byś nie robił głupstw.",
     "Szczery przyjaciel jest cenny.",
     "Jakby oni nie byli leniwi, to byśmy im pomagali.",
     "Ona jest dobra i szczera.",
@@ -949,15 +949,15 @@ Phrases: [
     "Leniwy nie chce nic robić.",
     "Szczery mówi co myśli.",
     "Mądry milczy, kiedy trzeba.",
-    "Gdybym był/była śmiały/śmiała, to bym się nie bał/bała."
+    "Gdybym był śmiały, to bym się nie bał."
 ]
 
 ## Emotions (adverbs)
 New Words: [radosny, żałosny/smutny, gniewny/zły, miłość, przestraszony, spokój, zazdrość, wstydliwy, wstyd, dumny, wesoły, drżenie/strach, czuć (czuje), ukrywać, uciekać]
 Phrases: [
     "Czuję się radośnie dzisiaj.",
-    "Żałośnie/Smutno on mówił.",
-    "On gniewnie/źle każe mu pracować.",
+    "Żałośnie on mówił.",
+    "On gniewnie każe jemu pracować.",
     "Miłość to silna emocja.",
     "Strach to naturalna reakcja.",
     "Spokój jest ważny dla duszy.",
@@ -971,7 +971,7 @@ Phrases: [
     "My czujemy spokój.",
     "Strach jest w nas.",
     "Przestraszony on uciekał.",
-    "Wstyd jest dużo silny.",
+    "Wstyd jest bardzo silny.",
     "Radośnie szedł do domu.",
     "Radość idzie z wewnątrz.",
     "Cierpieć chcemy tylko, kiedy kochamy."
@@ -980,15 +980,15 @@ Phrases: [
 ## Physical Appearance (Easy comparisons)
 New Words: [wysoki, niski, gruby, chudy, mały, piękny, brzydki, stary, młody, włosy, oczy, niż, wyżej, skóra, mniej, śmiać się (śmieje się), błyszczeć, gwiazda, jasny, ciemny]
 Phrases: [
-    "On jest wyżej/bardziej wysoki i silny niż on.",
-    "Ona jest niższa i chuda jak on.",
+    "On jest bardziej wysoki i silny niż on.",
+    "Ona jest niżska i chuda jak on.",
     "Gruby mąż idzie po ulicy.",
     "Chudy ma mniej masy ciała niż gruby.",
-    "To jest wyżej/bardziej piękny człowiek niż tamten.",
-    "Starzy ludzie są wyżej/bardziej mądrzy niż my.",
+    "To jest bardziej piękny człowiek niż tamten.",
+    "Starzy ludzie są bardziej mądrzy niż my.",
     "Młody ma dużo energii.",
     "Jego włosy są jasne/blond.",
-    "Oczy są wyżej/bardziej zielone niż u niego.",
+    "Te oczy są bardziej zielone niż u niego.",
     "Skóra jego jest biała.",
     "On ma długie włosy.",
     "Ona ma zielone oczy.",
@@ -998,7 +998,7 @@ Phrases: [
     "Gruby mąż śmieje się więcej niż tamten brzydki mąż.",
     "Niska dziewczyna idzie do domu.",
     "Piękne oczy błyszczą jak gwiazdy na niebie.",
-    "Chudy nosi wyżej/bardziej dużą koszulę niż ja.",
+    "Chudy nosi bardziej dużą koszulę niż ja.",
     "Jej włosy są jasne i długie.",
     "A jego piękne włosy są ciemne jak noc."
 ]
