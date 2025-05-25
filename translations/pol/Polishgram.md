@@ -57,7 +57,7 @@ The **Instrumental case** primarily indicates *with whom* or *with what* an acti
 * **Nouns:**
     * *Singular Masculine/Neuter:* ending **-em**. (e.g., z brat**em** - with a brother, z nauczyciel**em** - with a teacher, z miast**em** - with a city, z pol**em** - with a field)
     * *Singular Feminine:* ending **-ą**. (e.g., z siostr**ą** - with a sister, z ziemi**ą** - with the earth)
-    * *Plural (all genders):* ending **-ami**. (e.g., z brat**ami** - with brothers, z nauczyciel**ami** - with teachers, z siostr**ami** - with sisters, z miast**ami** - with cities)
+    * *Plural (all genders):* ending **-ami**. (e.g., z student**ami** - with students, z nauczyciel**ami** - with teachers, z siostr**ami** - with sisters, z miast**ami** - with cities)
 * **Adjectives:**
     * *Singular Masculine/Neuter:* ending **-ym** or **-im**. (e.g., z dobrym bratem - with a good brother, z ostatn**im** nauczycielem - with the last teacher)
     * *Singular Feminine:* ending **-ą**. (e.g., z dobrą siostrą - with a good sister, z ostatni**ą** ziemi**ą** - with the last piece of land)
@@ -118,7 +118,7 @@ The **Genitive case** indicates possession (like 'of' or 's), absence (with **be
 * **Nouns:** Endings vary based on gender, number, and hard/soft stem.
     * *Singular Masculine/Neuter:* ending **-a** or **-u**. (e.g., dom brat**a** - brother's house, książka nauczyciel**a** - teacher's book, okno miast**a** - city window, kwiat pol**a** - field flower)
     * *Singular Feminine:* ending **-y**, **-i**, or **-ej** (after a vowel). (e.g., książka siostr**y** - sister's book, głos ziem**i** - voice of the earth)
-    * *Plural (all genders):* Variable, often **-ów** (masculine), **-y** (feminine), or a **zero ending** (neuter and some feminines). (e.g., dom brat**ów** - brothers' house, książka nauczyciel**i** - teachers' book, książka kobiet**ø** - women's book, okno miast**ø** - city windows)
+    * *Plural (all genders):* Variable, often **-ów** (masculine), **-y** (feminine), or a **zero ending** (neuter and some feminines). (e.g., dom student**ów** - students' house, książka nauczyciel**i** - teachers' book, książka kobiet**ø** - women's book, okno miast**ø** - city windows)
 * **Adjectives:**
     * *Singular (all genders):* ending **-ego** (masculine/neuter), **-ej** (feminine). (e.g., dom dobr**ego** brata - house of a good brother, książka now**ej** nauczycielki - book of a new teacher, okno ostatni**ego** miast**a** - window of the last city)
     * *Plural (all genders):* ending **-ych** or **-ich**. (e.g., dom dobr**ych** braci - house of good brothers, książka ostatn**ich** nauczycieli - book of the last teachers)
@@ -150,7 +150,7 @@ The **Dative case** is used to indicate the indirect object of a verb – **to w
 * **Nouns:** Endings change based on gender, number, and hard/soft stem.
     * *Singular Masculine/Neuter:* ending **-u** or **-owi**. (e.g., bratu, daję nauczyciel**owi** - I give to a teacher, miast**u** - to a city, pol**u** - to a field).
     * *Singular Feminine:* ending **-e** (after hard consonant), **-i** (after soft consonant). (e.g., siostrz**e** - to a sister, ziem**i** - to the earth).
-    * *Plural (all genders):* ending **-om**. (e.g., brat**om** - to brothers, nauczyciel**om** - to teachers, siostr**om** - to sisters, miast**om** - to cities).
+    * *Plural (all genders):* ending **-om**. (e.g., student**om** - to students, nauczyciel**om** - to teachers, siostr**om** - to sisters, miast**om** - to cities).
 * **Adjectives:**
     * *Singular Masculine/Neuter:* ending **-emu**. (e.g., dobr**emu** bratu - to a good brother, ostatni**emu** nauczycielowi - to the last teacher)
     * *Singular Feminine:* ending **-ej**. (e.g., dobr**ej** siostrze - to a good sister, ostatn**iej** ziemi - to the last piece of land)
@@ -309,9 +309,8 @@ Adverbs modify verbs, adjectives, or other adverbs, telling us *how*, *when*, *w
 
 # Physical Appearance (Easy comparisons)
 
-## Easy Comparisons: Wyżej and Niż
+## Easy Comparisons: Bardziej and Niż
 
-To make simple comparisons meaning 'more than', you often use a comparative adjective (like 'better', 'bigger') followed by the word **niż** (than). The word **wyżej** literally means 'higher' or 'above' and can be used when comparing physical height or level, or sometimes more abstractly.
+To make simple comparisons meaning 'more than', you often use a comparative adjective (like 'better', 'bigger') followed by the word **niż** (than). The word **bardziej** literally means 'more/stronger' and can be used when comparing physical height or level, or sometimes more abstractly.
 
 * *Using niż:* Moja książka jest bardziej interesująca **niż** twoja (My book is more interesting than yours). On jest starszy **niż** ja (He is older than me).
-* *Using wyżej:* Ta góra jest **wyżej** niż tamten wzgórze (That mountain is higher than that hill). On skoczył **wyżej** niż limit (He jumped higher than the limit).
