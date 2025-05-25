@@ -25,23 +25,23 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "big",
-          "definition": "undefined"
+          "definition": "великий"
         },
         {
           "word": "city.",
-          "definition": "undefined\nмісто"
+          "definition": "місто"
         }
       ],
       "chips": [
@@ -72,19 +72,19 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "велике",
-          "definition": "undefined"
+          "definition": "big (neuter)"
         },
         {
           "word": "місто.",
-          "definition": "city\nundefined"
+          "definition": "city"
         }
       ],
       "chips": [
@@ -135,27 +135,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "house",
-          "definition": "undefined\nдім"
+          "definition": "будинок\nдім"
         },
         {
           "word": "stands",
-          "definition": "undefined"
+          "definition": "стоїть"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "street.",
-          "definition": "undefined\nвулиця"
+          "definition": "вулиця"
         }
       ],
       "chips": [
@@ -186,19 +186,19 @@
       "phrase": [
         {
           "word": "Дім",
-          "definition": "house\nundefined"
+          "definition": "house"
         },
         {
           "word": "стоїть",
-          "definition": "undefined"
+          "definition": "stands"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on\non, at"
         },
         {
           "word": "вулиці.",
-          "definition": "undefined"
+          "definition": "on the street"
         }
       ],
       "chips": [
@@ -231,20 +231,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Йдемо до площі/майдану.",
+      "formInTargetLanguage": "Йдемо до площі.",
       "meaningInSourceLanguage": "We are going to the square.",
-      "id": "5cf3c482e75f",
+      "id": "691e7042dad5",
       "priority": 0,
-      "group": "d0f2628ca444"
+      "group": "9d2d8962961c"
     },
     {
       "type": "listeningExercise",
-      "answer": "Йдемо до площі/майдану.",
+      "answer": "Йдемо до площі.",
       "meaning": "We are going to the square.",
-      "audio": "6ae49e2b0166c42a38c2d72cd0a82899c142380e4c01dbc492d0c3c8b9e09174",
-      "id": "ecdf22aa1d5a",
+      "audio": "eb62bd693f4c4ca68f671eadfc42230d8346bdb1286c7cf7c15122651cddbcf3",
+      "id": "5d7e1ff91e41",
       "priority": 1,
-      "group": "d0f2628ca444"
+      "group": "9d2d8962961c"
     },
     {
       "type": "chips",
@@ -252,47 +252,47 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nми"
+          "definition": "ми"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "going",
-          "definition": "undefined"
+          "definition": "йде"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "square.",
-          "definition": "undefined\nквадрат"
+          "definition": "квадрат"
         }
       ],
       "chips": [
         "Йдемо",
         "до",
-        "площі/майдану",
-        "йдемо",
-        "дім"
+        "площі",
+        "дощ",
+        "домі"
       ],
       "solutions": [
         [
           "Йдемо",
           "до",
-          "площі/майдану"
+          "площі"
         ]
       ],
-      "formattedSolution": "Йдемо до площі/майдану.",
-      "id": "1ee5f786a060",
+      "formattedSolution": "Йдемо до площі.",
+      "id": "f012ae5f1dcd",
       "priority": 2,
-      "group": "d0f2628ca444"
+      "group": "9d2d8962961c"
     },
     {
       "type": "chips",
@@ -300,15 +300,15 @@
       "phrase": [
         {
           "word": "Йдемо",
-          "definition": "undefined\nwe go"
+          "definition": "we go"
         },
         {
           "word": "до",
-          "definition": "undefined"
+          "definition": "to, until"
         },
         {
-          "word": "площі/майдану.",
-          "definition": "undefined"
+          "word": "площі.",
+          "definition": "on the square"
         }
       ],
       "chips": [
@@ -335,9 +335,9 @@
         ]
       ],
       "formattedSolution": "We are going to the square.",
-      "id": "8248eed670e8",
+      "id": "68601b87e096",
       "priority": 2,
-      "group": "d0f2628ca444"
+      "group": "9d2d8962961c"
     },
     {
       "type": "options",
@@ -362,27 +362,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "station",
-          "definition": "undefined\nстанція"
+          "definition": "станція"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "near",
-          "definition": "undefined\nблизько"
+          "definition": "близько\nбіля"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "center.",
-          "definition": "undefined"
+          "definition": "центр"
         }
       ],
       "chips": [
@@ -413,19 +413,19 @@
       "phrase": [
         {
           "word": "Станція",
-          "definition": "station\nundefined"
+          "definition": "station"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "близько",
-          "definition": "near\nundefined"
+          "definition": "near\nnear, close"
         },
         {
           "word": "центру.",
-          "definition": "undefined"
+          "definition": "of the center"
         }
       ],
       "chips": [
@@ -479,27 +479,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "bridge",
-          "definition": "undefined\nміст"
+          "definition": "міст"
         },
         {
           "word": "goes",
-          "definition": "undefined\nйде"
+          "definition": "йде"
         },
         {
           "word": "over",
-          "definition": "undefined"
+          "definition": "над"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "river.",
-          "definition": "undefined\nріка"
+          "definition": "ріка\nрічка"
         }
       ],
       "chips": [
@@ -530,19 +530,19 @@
       "phrase": [
         {
           "word": "Міст",
-          "definition": "bridge\nundefined"
+          "definition": "bridge"
         },
         {
           "word": "йде",
-          "definition": "goes\nundefined"
+          "definition": "goes"
         },
         {
           "word": "через",
-          "definition": "through\nundefined"
+          "definition": "through\nthrough, across"
         },
         {
           "word": "річку.",
-          "definition": "undefined"
+          "definition": "river (accusative)"
         }
       ],
       "chips": [
@@ -596,27 +596,27 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nми"
+          "definition": "ми"
         },
         {
           "word": "buy",
-          "definition": "undefined"
+          "definition": "купити"
         },
         {
           "word": "bread",
-          "definition": "undefined\nхліб"
+          "definition": "хліб"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "shop.",
-          "definition": "undefined"
+          "definition": "магазин"
         }
       ],
       "chips": [
@@ -647,19 +647,19 @@
       "phrase": [
         {
           "word": "Купуємо",
-          "definition": "undefined"
+          "definition": "we buy"
         },
         {
           "word": "хліб",
-          "definition": "bread\nundefined"
+          "definition": "bread"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in, at"
         },
         {
           "word": "магазині.",
-          "definition": "undefined"
+          "definition": "in the shop"
         }
       ],
       "chips": [
@@ -713,31 +713,31 @@
       "phrase": [
         {
           "word": "There",
-          "definition": "undefined"
+          "definition": "там"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "many",
-          "definition": "undefined"
+          "definition": "багато"
         },
         {
           "word": "people",
-          "definition": "undefined"
+          "definition": "люди"
         },
         {
           "word": "at",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "market.",
-          "definition": "undefined\nторговище"
+          "definition": "ринок\nторговище"
         }
       ],
       "chips": [
@@ -771,23 +771,23 @@
       "phrase": [
         {
           "word": "На",
-          "definition": "on\nundefined"
+          "definition": "on\non, at"
         },
         {
           "word": "торговищі",
-          "definition": "undefined"
+          "definition": "at the marketplace"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "багато",
-          "definition": "undefined"
+          "definition": "a lot, many, much"
         },
         {
           "word": "людей.",
-          "definition": "undefined"
+          "definition": "of people"
         }
       ],
       "chips": [
@@ -848,27 +848,27 @@
         },
         {
           "word": "read",
-          "definition": "undefined"
+          "definition": "читати"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "book",
-          "definition": "undefined\nкнижка"
+          "definition": "книга\nкнижка"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "library.",
-          "definition": "undefined\nбібліотека"
+          "definition": "бібліотека"
         }
       ],
       "chips": [
@@ -899,19 +899,19 @@
       "phrase": [
         {
           "word": "Читаю",
-          "definition": "undefined"
+          "definition": "I read"
         },
         {
           "word": "книжку",
-          "definition": "undefined"
+          "definition": "book (accusative)"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in, at"
         },
         {
           "word": "бібліотеці.",
-          "definition": "undefined"
+          "definition": "in the library"
         }
       ],
       "chips": [
@@ -968,27 +968,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "church",
-          "definition": "undefined\nцерква"
+          "definition": "церква"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "old",
-          "definition": "undefined\nстарий"
+          "definition": "старий"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "і"
         },
         {
           "word": "white.",
-          "definition": "undefined\nбілий"
+          "definition": "білий"
         }
       ],
       "chips": [
@@ -1022,23 +1022,23 @@
       "phrase": [
         {
           "word": "Церква",
-          "definition": "church\nundefined"
+          "definition": "church"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "стара",
-          "definition": "undefined"
+          "definition": "old (feminine)"
         },
         {
           "word": "і",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "біла.",
-          "definition": "undefined"
+          "definition": "white (feminine)"
         }
       ],
       "chips": [
@@ -1092,27 +1092,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "street",
-          "definition": "undefined\nвулиця"
+          "definition": "вулиця"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "long",
-          "definition": "undefined\nдовгий"
+          "definition": "довгий"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "і"
         },
         {
           "word": "warm.",
-          "definition": "undefined\nтепло"
+          "definition": "теплий\nтепло"
         }
       ],
       "chips": [
@@ -1146,23 +1146,23 @@
       "phrase": [
         {
           "word": "Вулиця",
-          "definition": "street\nundefined"
+          "definition": "street"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "довга",
-          "definition": "undefined"
+          "definition": "long (feminine)"
         },
         {
           "word": "і",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "тепла.",
-          "definition": "undefined"
+          "definition": "warm (feminine)"
         }
       ],
       "chips": [
@@ -1216,23 +1216,23 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "city",
-          "definition": "undefined\nмісто"
+          "definition": "місто"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "має"
         },
         {
           "word": "many",
-          "definition": "undefined"
+          "definition": "багато"
         },
         {
           "word": "houses.",
-          "definition": "undefined"
+          "definition": "будинки"
         }
       ],
       "chips": [
@@ -1263,19 +1263,19 @@
       "phrase": [
         {
           "word": "Місто",
-          "definition": "city\nundefined"
+          "definition": "city"
         },
         {
           "word": "має",
-          "definition": "undefined"
+          "definition": "has"
         },
         {
           "word": "багато",
-          "definition": "undefined"
+          "definition": "a lot, many, much"
         },
         {
           "word": "домів.",
-          "definition": "undefined"
+          "definition": "of houses"
         }
       ],
       "chips": [
@@ -1326,23 +1326,23 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "shop",
-          "definition": "undefined"
+          "definition": "магазин"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "open",
-          "definition": "undefined"
+          "definition": "відкритий"
         },
         {
           "word": "today.",
-          "definition": "undefined\nсьогодні"
+          "definition": "сьогодні"
         }
       ],
       "chips": [
@@ -1373,19 +1373,19 @@
       "phrase": [
         {
           "word": "Магазин",
-          "definition": "shop/store\nundefined"
+          "definition": "shop\nshop/store"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "відкритий",
-          "definition": "undefined"
+          "definition": "open (masculine)"
         },
         {
           "word": "сьогодні.",
-          "definition": "today\nundefined"
+          "definition": "today"
         }
       ],
       "chips": [
@@ -1436,27 +1436,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "church",
-          "definition": "undefined\nцерква"
+          "definition": "церква"
         },
         {
           "word": "stands",
-          "definition": "undefined"
+          "definition": "стоїть"
         },
         {
           "word": "near",
-          "definition": "undefined\nблизько"
+          "definition": "близько\nбіля"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "library.",
-          "definition": "undefined\nбібліотека"
+          "definition": "бібліотека"
         }
       ],
       "chips": [
@@ -1487,19 +1487,19 @@
       "phrase": [
         {
           "word": "Церква",
-          "definition": "church\nundefined"
+          "definition": "church"
         },
         {
           "word": "стоїть",
-          "definition": "undefined"
+          "definition": "stands"
         },
         {
           "word": "близько",
-          "definition": "near\nundefined"
+          "definition": "near\nnear, close"
         },
         {
           "word": "бібліотеки.",
-          "definition": "undefined"
+          "definition": "of the library"
         }
       ],
       "chips": [
@@ -1553,27 +1553,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "street",
-          "definition": "undefined\nвулиця"
+          "definition": "вулиця"
         },
         {
           "word": "leads",
-          "definition": "undefined"
+          "definition": "веде"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "square.",
-          "definition": "undefined\nквадрат"
+          "definition": "квадрат"
         }
       ],
       "chips": [
@@ -1604,19 +1604,19 @@
       "phrase": [
         {
           "word": "Вулиця",
-          "definition": "street\nundefined"
+          "definition": "street"
         },
         {
           "word": "веде",
-          "definition": "undefined"
+          "definition": "leads"
         },
         {
           "word": "до",
-          "definition": "undefined"
+          "definition": "to, until"
         },
         {
           "word": "площі/майдану.",
-          "definition": "undefined"
+          "definition": "of the square"
         }
       ],
       "chips": [
@@ -1649,20 +1649,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "На площі/майдані стоїть фонтан.",
+      "formInTargetLanguage": "На майдані стоїть фонтан.",
       "meaningInSourceLanguage": "A fountain stands in the square.",
-      "id": "a0676d48a9d7",
+      "id": "f1abd6b2fe42",
       "priority": 0,
-      "group": "4b267d4a0d39"
+      "group": "a03d05d6bd75"
     },
     {
       "type": "listeningExercise",
-      "answer": "На площі/майдані стоїть фонтан.",
+      "answer": "На майдані стоїть фонтан.",
       "meaning": "A fountain stands in the square.",
-      "audio": "5a15c5b6a797a35dae7b334c22e3cbfc57dfe0b0809362d99f565cfd70e17784",
-      "id": "bfc9d57569a4",
+      "audio": "43333a1bded329a0f0871ebfad7eb683ae4ef79831a787e5d985cd3ed88e8a63",
+      "id": "3634f0124b83",
       "priority": 1,
-      "group": "4b267d4a0d39"
+      "group": "a03d05d6bd75"
     },
     {
       "type": "chips",
@@ -1670,50 +1670,50 @@
       "phrase": [
         {
           "word": "A",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "fountain",
-          "definition": "undefined"
+          "definition": "фонтан"
         },
         {
           "word": "stands",
-          "definition": "undefined"
+          "definition": "стоїть"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "square.",
-          "definition": "undefined\nквадрат"
+          "definition": "квадрат"
         }
       ],
       "chips": [
         "На",
-        "площі/майдані",
+        "майдані",
         "стоїть",
         "фонтан",
+        "моста",
         "Вона",
-        "форма",
-        "Вода"
+        "на"
       ],
       "solutions": [
         [
           "На",
-          "площі/майдані",
+          "майдані",
           "стоїть",
           "фонтан"
         ]
       ],
-      "formattedSolution": "На площі/майдані стоїть фонтан.",
-      "id": "715e950bf9c4",
+      "formattedSolution": "На майдані стоїть фонтан.",
+      "id": "ef69313add2a",
       "priority": 2,
-      "group": "4b267d4a0d39"
+      "group": "a03d05d6bd75"
     },
     {
       "type": "chips",
@@ -1721,19 +1721,19 @@
       "phrase": [
         {
           "word": "На",
-          "definition": "on\nundefined"
+          "definition": "on\non, at"
         },
         {
-          "word": "площі/майдані",
-          "definition": "undefined"
+          "word": "майдані",
+          "definition": "in the square"
         },
         {
           "word": "стоїть",
-          "definition": "undefined"
+          "definition": "stands"
         },
         {
           "word": "фонтан.",
-          "definition": "undefined"
+          "definition": "fountain"
         }
       ],
       "chips": [
@@ -1760,9 +1760,9 @@
         ]
       ],
       "formattedSolution": "A fountain stands in the square.",
-      "id": "4fd3d6190d36",
+      "id": "eb9b50eae44f",
       "priority": 2,
-      "group": "4b267d4a0d39"
+      "group": "a03d05d6bd75"
     },
     {
       "type": "options",
@@ -1787,27 +1787,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "bridge",
-          "definition": "undefined\nміст"
+          "definition": "міст"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "beautiful",
-          "definition": "undefined\nкрасивий"
+          "definition": "красивий"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "і"
         },
         {
           "word": "new.",
-          "definition": "undefined"
+          "definition": "новий"
         }
       ],
       "chips": [
@@ -1841,23 +1841,23 @@
       "phrase": [
         {
           "word": "Міст",
-          "definition": "bridge\nundefined"
+          "definition": "bridge"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "красивий",
-          "definition": "beautiful\nundefined"
+          "definition": "beautiful\nbeautiful (masculine)"
         },
         {
           "word": "і",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "новий.",
-          "definition": "undefined"
+          "definition": "new (masculine)"
         }
       ],
       "chips": [
@@ -1911,31 +1911,31 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мій"
         },
         {
           "word": "house",
-          "definition": "undefined\nдім"
+          "definition": "будинок\nдім"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "city.",
-          "definition": "undefined\nмісто"
+          "definition": "місто"
         }
       ],
       "chips": [
@@ -1972,27 +1972,27 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "мій",
-          "definition": "undefined"
+          "definition": "my (masculine)"
         },
         {
           "word": "дім",
-          "definition": "house\nundefined"
+          "definition": "house"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in, at"
         },
         {
           "word": "місті.",
-          "definition": "undefined"
+          "definition": "in the city"
         }
       ],
       "chips": [
@@ -2049,23 +2049,23 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "station",
-          "definition": "undefined\nстанція"
+          "definition": "станція"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "має"
         },
         {
           "word": "many",
-          "definition": "undefined"
+          "definition": "багато"
         },
         {
           "word": "trains.",
-          "definition": "undefined"
+          "definition": "поїзди"
         }
       ],
       "chips": [
@@ -2096,19 +2096,19 @@
       "phrase": [
         {
           "word": "Станція",
-          "definition": "station\nundefined"
+          "definition": "station"
         },
         {
           "word": "має",
-          "definition": "undefined"
+          "definition": "has"
         },
         {
           "word": "багато",
-          "definition": "undefined"
+          "definition": "a lot, many, much"
         },
         {
           "word": "поїздів.",
-          "definition": "undefined"
+          "definition": "of trains"
         }
       ],
       "chips": [
@@ -2159,27 +2159,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "street",
-          "definition": "undefined\nвулиця"
+          "definition": "вулиця"
         },
         {
           "word": "goes",
-          "definition": "undefined\nйде"
+          "definition": "йде"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "shop.",
-          "definition": "undefined"
+          "definition": "магазин"
         }
       ],
       "chips": [
@@ -2210,19 +2210,19 @@
       "phrase": [
         {
           "word": "Вулиця",
-          "definition": "street\nundefined"
+          "definition": "street"
         },
         {
           "word": "йде",
-          "definition": "goes\nundefined"
+          "definition": "goes"
         },
         {
           "word": "до",
-          "definition": "undefined"
+          "definition": "to, until"
         },
         {
           "word": "магазину.",
-          "definition": "undefined"
+          "definition": "of the shop"
         }
       ],
       "chips": [
@@ -2276,27 +2276,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "square",
-          "definition": "undefined\nквадрат"
+          "definition": "квадрат"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "full",
-          "definition": "undefined"
+          "definition": "повний"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "people.",
-          "definition": "undefined"
+          "definition": "люди"
         }
       ],
       "chips": [
@@ -2327,19 +2327,19 @@
       "phrase": [
         {
           "word": "Площа/Майдан",
-          "definition": "square/market\nundefined"
+          "definition": "square\nsquare/market"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "повний",
-          "definition": "undefined"
+          "definition": "full (masculine)"
         },
         {
           "word": "людей.",
-          "definition": "undefined"
+          "definition": "of people"
         }
       ],
       "chips": [
@@ -2388,7 +2388,7 @@
       "phrase": [
         {
           "word": "city",
-          "definition": "undefined\nмісто"
+          "definition": "місто"
         }
       ],
       "id": "4b3d536f23bc",
@@ -2422,7 +2422,7 @@
       "phrase": [
         {
           "word": "house",
-          "definition": "undefined\nдім"
+          "definition": "будинок\nдім"
         }
       ],
       "id": "05362aa092ea",
@@ -2456,7 +2456,7 @@
       "phrase": [
         {
           "word": "square/market",
-          "definition": "undefined\nплоща/майдан"
+          "definition": "площа/майдан\nплоща/ринок"
         }
       ],
       "id": "54c9bde7f727",
@@ -2490,7 +2490,7 @@
       "phrase": [
         {
           "word": "station",
-          "definition": "undefined\nстанція"
+          "definition": "станція"
         }
       ],
       "id": "c8ee5b2d258f",
@@ -2524,7 +2524,7 @@
       "phrase": [
         {
           "word": "bridge",
-          "definition": "undefined\nміст"
+          "definition": "міст"
         }
       ],
       "id": "10ec0c011c3e",
@@ -2558,7 +2558,7 @@
       "phrase": [
         {
           "word": "shop/store",
-          "definition": "undefined\nмагазин"
+          "definition": "магазин\nмагазин/крамниця"
         }
       ],
       "id": "dd17a9b728ce",
@@ -2592,7 +2592,7 @@
       "phrase": [
         {
           "word": "market",
-          "definition": "undefined\nторговище"
+          "definition": "ринок\nторговище"
         }
       ],
       "id": "df6ccdfd6a53",
@@ -2626,7 +2626,7 @@
       "phrase": [
         {
           "word": "library",
-          "definition": "undefined\nбібліотека"
+          "definition": "бібліотека"
         }
       ],
       "id": "63e46f8e56b0",
@@ -2660,7 +2660,7 @@
       "phrase": [
         {
           "word": "church",
-          "definition": "undefined\nцерква"
+          "definition": "церква"
         }
       ],
       "id": "5bc0765a2a24",
@@ -2694,7 +2694,7 @@
       "phrase": [
         {
           "word": "street",
-          "definition": "undefined\nвулиця"
+          "definition": "вулиця"
         }
       ],
       "id": "4e02a969c362",
@@ -2728,11 +2728,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "lead",
-          "definition": "undefined"
+          "definition": "вести"
         }
       ],
       "id": "0d39ebbe4587",

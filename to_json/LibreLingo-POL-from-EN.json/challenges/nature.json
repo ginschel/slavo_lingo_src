@@ -25,27 +25,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "river",
-          "definition": "rzeka\nundefined"
+          "definition": "rzeka"
         },
         {
           "word": "flows",
-          "definition": "undefined"
+          "definition": "płynie"
         },
         {
           "word": "through",
-          "definition": "przez\nundefined"
+          "definition": "przez"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "valley.",
-          "definition": "dolina\nundefined"
+          "definition": "dolina"
         }
       ],
       "chips": [
@@ -76,19 +76,19 @@
       "phrase": [
         {
           "word": "Rzeka",
-          "definition": "river\nundefined"
+          "definition": "river"
         },
         {
           "word": "płynie",
-          "definition": "undefined"
+          "definition": "flows"
         },
         {
           "word": "przez",
-          "definition": "through\nundefined"
+          "definition": "through"
         },
         {
           "word": "dolinę.",
-          "definition": "undefined"
+          "definition": "valley"
         }
       ],
       "chips": [
@@ -142,19 +142,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "mountain",
-          "definition": "góra\nundefined"
+          "definition": "góra"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "high.",
-          "definition": "undefined"
+          "definition": "wysoki"
         }
       ],
       "chips": [
@@ -182,15 +182,15 @@
       "phrase": [
         {
           "word": "Góra",
-          "definition": "mountain\nundefined"
+          "definition": "mountain"
         },
         {
           "word": "jest",
-          "definition": "is\nundefined"
+          "definition": "is"
         },
         {
           "word": "wysoka.",
-          "definition": "undefined"
+          "definition": "high"
         }
       ],
       "chips": [
@@ -217,20 +217,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "My idziemy do lasu.",
+      "formInTargetLanguage": "My idziemy w las.",
       "meaningInSourceLanguage": "We are going to the forest.",
-      "id": "59e756163483",
+      "id": "81c27afd9c0c",
       "priority": 0,
-      "group": "3f8f68b000a7"
+      "group": "2348e5b2f993"
     },
     {
       "type": "listeningExercise",
-      "answer": "My idziemy do lasu.",
+      "answer": "My idziemy w las.",
       "meaning": "We are going to the forest.",
-      "audio": "a00edb13dfbee6823c73bb573d192449cebbcd1174cbfcb2cf6ab6be2c3aa90c",
-      "id": "d1835a34bb36",
+      "audio": "8c7e9e25862f5dd9a9670c8de230786ae72c3fc97418d30a1147d57808bf45b7",
+      "id": "1513d5863d23",
       "priority": 1,
-      "group": "3f8f68b000a7"
+      "group": "2348e5b2f993"
     },
     {
       "type": "chips",
@@ -238,50 +238,50 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my\nundefined"
+          "definition": "my"
         },
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "going",
-          "definition": "undefined"
+          "definition": "idzie"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "do"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "forest.",
-          "definition": "las\nundefined"
+          "definition": "las"
         }
       ],
       "chips": [
         "My",
         "idziemy",
-        "do",
-        "lasu",
-        "da",
+        "w",
+        "las",
         "my",
-        "Wy"
+        "Wy",
+        "ty"
       ],
       "solutions": [
         [
           "My",
           "idziemy",
-          "do",
-          "lasu"
+          "w",
+          "las"
         ]
       ],
-      "formattedSolution": "My idziemy do lasu.",
-      "id": "6683fbae510a",
+      "formattedSolution": "My idziemy w las.",
+      "id": "823fe31e90f5",
       "priority": 2,
-      "group": "3f8f68b000a7"
+      "group": "2348e5b2f993"
     },
     {
       "type": "chips",
@@ -289,19 +289,19 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "undefined\nwe"
+          "definition": "we"
         },
         {
           "word": "idziemy",
-          "definition": "undefined\nwe go"
+          "definition": "we go"
         },
         {
-          "word": "do",
-          "definition": "undefined"
+          "word": "w",
+          "definition": "in"
         },
         {
-          "word": "lasu.",
-          "definition": "undefined"
+          "word": "las.",
+          "definition": "forest"
         }
       ],
       "chips": [
@@ -328,9 +328,9 @@
         ]
       ],
       "formattedSolution": "We are going to the forest.",
-      "id": "39941f5cf740",
+      "id": "e608bec20c7f",
       "priority": 2,
-      "group": "3f8f68b000a7"
+      "group": "2348e5b2f993"
     },
     {
       "type": "options",
@@ -355,19 +355,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "grass",
-          "definition": "trawa\nundefined"
+          "definition": "trawa"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "green.",
-          "definition": "undefined\nzielony"
+          "definition": "zielony"
         }
       ],
       "chips": [
@@ -395,15 +395,15 @@
       "phrase": [
         {
           "word": "Trawa",
-          "definition": "grass\nundefined"
+          "definition": "grass"
         },
         {
           "word": "jest",
-          "definition": "is\nundefined"
+          "definition": "is"
         },
         {
           "word": "zielona.",
-          "definition": "undefined"
+          "definition": "green"
         }
       ],
       "chips": [
@@ -451,19 +451,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "flowers",
-          "definition": "undefined"
+          "definition": "kwiaty"
         },
         {
           "word": "bloom",
-          "definition": "undefined"
+          "definition": "kwitnąć"
         },
         {
           "word": "beautifully.",
-          "definition": "undefined"
+          "definition": "pięknie"
         }
       ],
       "chips": [
@@ -491,15 +491,15 @@
       "phrase": [
         {
           "word": "Kwiaty",
-          "definition": "undefined"
+          "definition": "flowers"
         },
         {
           "word": "pięknie",
-          "definition": "undefined"
+          "definition": "beautifully"
         },
         {
           "word": "kwitną.",
-          "definition": "undefined"
+          "definition": "bloom"
         }
       ],
       "chips": [
@@ -547,27 +547,27 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "standing",
-          "definition": "undefined"
+          "definition": "stojący"
         },
         {
           "word": "on",
-          "definition": "na\nundefined"
+          "definition": "na"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "stone.",
-          "definition": "kamień\nundefined"
+          "definition": "kamień"
         }
       ],
       "chips": [
@@ -598,19 +598,19 @@
       "phrase": [
         {
           "word": "On",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "stoi",
-          "definition": "undefined"
+          "definition": "stands"
         },
         {
           "word": "na",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "kamieniu.",
-          "definition": "undefined"
+          "definition": "stone"
         }
       ],
       "chips": [
@@ -664,19 +664,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "earth",
-          "definition": "undefined\nziemia"
+          "definition": "ziemia"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "wet.",
-          "definition": "undefined"
+          "definition": "mokry"
         }
       ],
       "chips": [
@@ -704,15 +704,15 @@
       "phrase": [
         {
           "word": "Ziemia",
-          "definition": "earth\nundefined"
+          "definition": "earth"
         },
         {
           "word": "jest",
-          "definition": "is\nundefined"
+          "definition": "is"
         },
         {
           "word": "mokra.",
-          "definition": "undefined"
+          "definition": "wet"
         }
       ],
       "chips": [
@@ -760,27 +760,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "rose",
-          "definition": "róża\nundefined"
+          "definition": "róża"
         },
         {
           "word": "grows",
-          "definition": "undefined"
+          "definition": "rośnie"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "w"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "field.",
-          "definition": "pole\nundefined"
+          "definition": "pole"
         }
       ],
       "chips": [
@@ -811,19 +811,19 @@
       "phrase": [
         {
           "word": "Róża",
-          "definition": "rose\nundefined"
+          "definition": "rose"
         },
         {
           "word": "rośnie",
-          "definition": "undefined"
+          "definition": "grows"
         },
         {
           "word": "na",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "polu.",
-          "definition": "undefined"
+          "definition": "field"
         }
       ],
       "chips": [
@@ -877,27 +877,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "valley",
-          "definition": "dolina\nundefined"
+          "definition": "dolina"
         },
         {
           "word": "lies",
-          "definition": "undefined"
+          "definition": "leży"
         },
         {
           "word": "between",
-          "definition": "między\nundefined"
+          "definition": "między"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "mountains.",
-          "definition": "undefined"
+          "definition": "górami"
         }
       ],
       "chips": [
@@ -928,19 +928,19 @@
       "phrase": [
         {
           "word": "Dolina",
-          "definition": "undefined\nvalley"
+          "definition": "valley"
         },
         {
           "word": "leży",
-          "definition": "undefined"
+          "definition": "lies"
         },
         {
           "word": "między",
-          "definition": "between\nundefined"
+          "definition": "between"
         },
         {
           "word": "górami.",
-          "definition": "undefined"
+          "definition": "mountains"
         }
       ],
       "chips": [
@@ -994,27 +994,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "field",
-          "definition": "pole\nundefined"
+          "definition": "pole"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "wide.",
-          "definition": "undefined"
+          "definition": "szeroki"
         }
       ],
       "chips": [
         "Pole",
         "jest",
         "szerokie",
-        "soli",
-        "zero"
+        "zero",
+        "pole"
       ],
       "solutions": [
         [
@@ -1034,15 +1034,15 @@
       "phrase": [
         {
           "word": "Pole",
-          "definition": "field\nundefined"
+          "definition": "field"
         },
         {
           "word": "jest",
-          "definition": "is\nundefined"
+          "definition": "is"
         },
         {
           "word": "szerokie.",
-          "definition": "undefined"
+          "definition": "wide"
         }
       ],
       "chips": [
@@ -1090,39 +1090,39 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "one\noni\nundefined"
+          "definition": "one\noni"
         },
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "going",
-          "definition": "undefined"
+          "definition": "idzie"
         },
         {
           "word": "through",
-          "definition": "przez\nundefined"
+          "definition": "przez"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "forest",
-          "definition": "las\nundefined"
+          "definition": "las"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "z"
         },
         {
           "word": "many",
-          "definition": "undefined"
+          "definition": "wiele"
         },
         {
           "word": "trees.",
-          "definition": "undefined"
+          "definition": "drzewa"
         }
       ],
       "chips": [
@@ -1162,31 +1162,31 @@
       "phrase": [
         {
           "word": "Oni",
-          "definition": "they\nundefined"
+          "definition": "they"
         },
         {
           "word": "idą",
-          "definition": "undefined"
+          "definition": "they go"
         },
         {
           "word": "przez",
-          "definition": "through\nundefined"
+          "definition": "through"
         },
         {
           "word": "las",
-          "definition": "forest\nundefined"
+          "definition": "forest"
         },
         {
           "word": "z",
-          "definition": "undefined"
+          "definition": "with"
         },
         {
           "word": "wieloma",
-          "definition": "undefined"
+          "definition": "many"
         },
         {
           "word": "drzewami.",
-          "definition": "undefined"
+          "definition": "trees"
         }
       ],
       "chips": [
@@ -1249,19 +1249,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "grass",
-          "definition": "trawa\nundefined"
+          "definition": "trawa"
         },
         {
           "word": "grows",
-          "definition": "undefined"
+          "definition": "rośnie"
         },
         {
           "word": "fast.",
-          "definition": "szybko\nundefined"
+          "definition": "szybki\nszybko"
         }
       ],
       "chips": [
@@ -1289,15 +1289,15 @@
       "phrase": [
         {
           "word": "Trawa",
-          "definition": "grass\nundefined"
+          "definition": "grass"
         },
         {
           "word": "rośnie",
-          "definition": "undefined"
+          "definition": "grows"
         },
         {
           "word": "szybko.",
-          "definition": "fast\nundefined"
+          "definition": "fast"
         }
       ],
       "chips": [
@@ -1345,19 +1345,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "stones",
-          "definition": "undefined"
+          "definition": "kamienie"
         },
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "heavy.",
-          "definition": "undefined"
+          "definition": "ciężki"
         }
       ],
       "chips": [
@@ -1385,15 +1385,15 @@
       "phrase": [
         {
           "word": "Kamienie",
-          "definition": "undefined"
+          "definition": "stones"
         },
         {
           "word": "są",
-          "definition": "are\nundefined"
+          "definition": "are"
         },
         {
           "word": "ciężkie.",
-          "definition": "undefined"
+          "definition": "heavy"
         }
       ],
       "chips": [
@@ -1441,27 +1441,27 @@
       "phrase": [
         {
           "word": "A",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "flower",
-          "definition": "kwiat\nundefined"
+          "definition": "kwiat"
         },
         {
           "word": "grows",
-          "definition": "undefined"
+          "definition": "rośnie"
         },
         {
           "word": "from",
-          "definition": "undefined\nz/ze (pochodzenie)"
+          "definition": "z\nz/ze (pochodzenie)"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "earth.",
-          "definition": "undefined\nziemia"
+          "definition": "ziemia"
         }
       ],
       "chips": [
@@ -1492,19 +1492,19 @@
       "phrase": [
         {
           "word": "Kwiat",
-          "definition": "flower\nundefined"
+          "definition": "flower"
         },
         {
           "word": "rośnie",
-          "definition": "undefined"
+          "definition": "grows"
         },
         {
           "word": "z",
-          "definition": "undefined"
+          "definition": "with"
         },
         {
           "word": "ziemi.",
-          "definition": "undefined"
+          "definition": "earth"
         }
       ],
       "chips": [
@@ -1558,23 +1558,23 @@
       "phrase": [
         {
           "word": "Water",
-          "definition": "undefined\nwoda"
+          "definition": "woda"
         },
         {
           "word": "goes",
-          "definition": "idzie\nundefined"
+          "definition": "idzie"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "do"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "river.",
-          "definition": "rzeka\nundefined"
+          "definition": "rzeka"
         }
       ],
       "chips": [
@@ -1605,19 +1605,19 @@
       "phrase": [
         {
           "word": "Woda",
-          "definition": "undefined\nwater"
+          "definition": "water"
         },
         {
           "word": "płynie",
-          "definition": "undefined"
+          "definition": "flows"
         },
         {
           "word": "do",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "rzeki.",
-          "definition": "undefined"
+          "definition": "river"
         }
       ],
       "chips": [
@@ -1668,27 +1668,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "field",
-          "definition": "pole\nundefined"
+          "definition": "pole"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "behind",
-          "definition": "undefined"
+          "definition": "za"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "house.",
-          "definition": "dom\nundefined"
+          "definition": "dom"
         }
       ],
       "chips": [
@@ -1719,19 +1719,19 @@
       "phrase": [
         {
           "word": "Pole",
-          "definition": "field\nundefined"
+          "definition": "field"
         },
         {
           "word": "jest",
-          "definition": "is\nundefined"
+          "definition": "is"
         },
         {
           "word": "za",
-          "definition": "for\nundefined"
+          "definition": "behind\nfor"
         },
         {
           "word": "domem.",
-          "definition": "undefined"
+          "definition": "home"
         }
       ],
       "chips": [
@@ -1785,27 +1785,27 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my\nundefined"
+          "definition": "my"
         },
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "going",
-          "definition": "undefined"
+          "definition": "idzie"
         },
         {
           "word": "towards",
-          "definition": "undefined"
+          "definition": "w stronę"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "oak.",
-          "definition": "dąb\nundefined"
+          "definition": "dąb"
         }
       ],
       "chips": [
@@ -1833,15 +1833,15 @@
       "phrase": [
         {
           "word": "Idziemy",
-          "definition": "undefined\nwe go"
+          "definition": "we go"
         },
         {
           "word": "do",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "dębu.",
-          "definition": "undefined"
+          "definition": "oak"
         }
       ],
       "chips": [
@@ -1874,20 +1874,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Księżyc dzisiaj piękny",
+      "formInTargetLanguage": "Księżyc jest dzisiaj piękny",
       "meaningInSourceLanguage": "The moon today is beautiful",
-      "id": "2aac87cada20",
+      "id": "bec48de36db3",
       "priority": 0,
-      "group": "a950140d46e0"
+      "group": "ca22b70ca119"
     },
     {
       "type": "listeningExercise",
-      "answer": "Księżyc dzisiaj piękny",
+      "answer": "Księżyc jest dzisiaj piękny",
       "meaning": "The moon today is beautiful",
-      "audio": "15d630c08292ce62c11724ca85eeed23367412ce30e39183d0af90e245c548b0",
-      "id": "2491b3ee724b",
+      "audio": "db2251511047e67525ba3657c5d2ff76e8732d9b8010fe30151a5c58e80715e2",
+      "id": "792d7861038e",
       "priority": 1,
-      "group": "a950140d46e0"
+      "group": "ca22b70ca119"
     },
     {
       "type": "chips",
@@ -1895,43 +1895,46 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "moon",
-          "definition": "księżyc\nundefined"
+          "definition": "księżyc"
         },
         {
           "word": "today",
-          "definition": "dzisiaj\nundefined"
+          "definition": "dzisiaj"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "beautiful",
-          "definition": "piękny\nundefined"
+          "definition": "piękna\npiękny"
         }
       ],
       "chips": [
         "Księżyc",
+        "jest",
         "dzisiaj",
         "piękny",
-        "piękne",
-        "zimny"
+        "się",
+        "listy",
+        "siwy"
       ],
       "solutions": [
         [
           "Księżyc",
+          "jest",
           "dzisiaj",
           "piękny"
         ]
       ],
-      "formattedSolution": "Księżyc dzisiaj piękny",
-      "id": "6ed179057655",
+      "formattedSolution": "Księżyc jest dzisiaj piękny",
+      "id": "a29d1928e356",
       "priority": 2,
-      "group": "a950140d46e0"
+      "group": "ca22b70ca119"
     },
     {
       "type": "chips",
@@ -1939,15 +1942,19 @@
       "phrase": [
         {
           "word": "Księżyc",
-          "definition": "moon\nundefined"
+          "definition": "moon"
+        },
+        {
+          "word": "jest",
+          "definition": "is"
         },
         {
           "word": "dzisiaj",
-          "definition": "today\nundefined"
+          "definition": "today"
         },
         {
           "word": "piękny",
-          "definition": "beautiful\nundefined"
+          "definition": "beautiful"
         }
       ],
       "chips": [
@@ -1971,9 +1978,9 @@
         ]
       ],
       "formattedSolution": "The moon today is beautiful",
-      "id": "ad842235d0e4",
+      "id": "3a7d22390fb5",
       "priority": 2,
-      "group": "a950140d46e0"
+      "group": "ca22b70ca119"
     },
     {
       "type": "options",
@@ -1998,27 +2005,27 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my\nundefined"
+          "definition": "my"
         },
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "standing",
-          "definition": "undefined"
+          "definition": "stojący"
         },
         {
           "word": "on",
-          "definition": "na\nundefined"
+          "definition": "na"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "earth.",
-          "definition": "undefined\nziemia"
+          "definition": "ziemia"
         }
       ],
       "chips": [
@@ -2049,19 +2056,19 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "undefined\nwe"
+          "definition": "we"
         },
         {
           "word": "stoimy",
-          "definition": "undefined"
+          "definition": "we stand"
         },
         {
           "word": "na",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "ziemi.",
-          "definition": "undefined"
+          "definition": "earth"
         }
       ],
       "chips": [
@@ -2115,27 +2122,27 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "one\noni\nundefined"
+          "definition": "one\noni"
         },
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "looking",
-          "definition": "undefined"
+          "definition": "patrzenie"
         },
         {
           "word": "into",
-          "definition": "undefined"
+          "definition": "do"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "valley.",
-          "definition": "dolina\nundefined"
+          "definition": "dolina"
         }
       ],
       "chips": [
@@ -2166,19 +2173,19 @@
       "phrase": [
         {
           "word": "Oni",
-          "definition": "they\nundefined"
+          "definition": "they"
         },
         {
           "word": "patrzą",
-          "definition": "undefined"
+          "definition": "they look"
         },
         {
           "word": "w",
-          "definition": "undefined"
+          "definition": "in"
         },
         {
           "word": "dolinę.",
-          "definition": "undefined"
+          "definition": "valley"
         }
       ],
       "chips": [
@@ -2232,27 +2239,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "river",
-          "definition": "rzeka\nundefined"
+          "definition": "rzeka"
         },
         {
           "word": "goes",
-          "definition": "idzie\nundefined"
+          "definition": "idzie"
         },
         {
           "word": "between",
-          "definition": "między\nundefined"
+          "definition": "między"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "fields.",
-          "definition": "undefined"
+          "definition": "pola"
         }
       ],
       "chips": [
@@ -2283,19 +2290,19 @@
       "phrase": [
         {
           "word": "Rzeka",
-          "definition": "river\nundefined"
+          "definition": "river"
         },
         {
           "word": "płynie",
-          "definition": "undefined"
+          "definition": "flows"
         },
         {
           "word": "między",
-          "definition": "between\nundefined"
+          "definition": "between"
         },
         {
           "word": "polami.",
-          "definition": "undefined"
+          "definition": "fields"
         }
       ],
       "chips": [
@@ -2344,7 +2351,7 @@
       "phrase": [
         {
           "word": "river",
-          "definition": "rzeka\nundefined"
+          "definition": "rzeka"
         }
       ],
       "id": "f8905277b275",
@@ -2378,7 +2385,7 @@
       "phrase": [
         {
           "word": "through",
-          "definition": "przez\nundefined"
+          "definition": "przez"
         }
       ],
       "id": "fde907cc48f9",
@@ -2412,7 +2419,7 @@
       "phrase": [
         {
           "word": "mountain",
-          "definition": "góra\nundefined"
+          "definition": "góra"
         }
       ],
       "id": "4669649e3b92",
@@ -2446,7 +2453,7 @@
       "phrase": [
         {
           "word": "valley",
-          "definition": "dolina\nundefined"
+          "definition": "dolina"
         }
       ],
       "id": "c9ff6f53d3a6",
@@ -2480,7 +2487,7 @@
       "phrase": [
         {
           "word": "forest",
-          "definition": "las\nundefined"
+          "definition": "las"
         }
       ],
       "id": "2cf635579eb8",
@@ -2514,7 +2521,7 @@
       "phrase": [
         {
           "word": "grass",
-          "definition": "trawa\nundefined"
+          "definition": "trawa"
         }
       ],
       "id": "711045037d5c",
@@ -2548,7 +2555,7 @@
       "phrase": [
         {
           "word": "flower",
-          "definition": "kwiat\nundefined"
+          "definition": "kwiat"
         }
       ],
       "id": "3b4b3a7be7fa",
@@ -2582,7 +2589,7 @@
       "phrase": [
         {
           "word": "rose",
-          "definition": "róża\nundefined"
+          "definition": "róża"
         }
       ],
       "id": "a31d59f7aa9b",
@@ -2616,11 +2623,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "do"
         },
         {
           "word": "grow",
-          "definition": "undefined"
+          "definition": "rosnąć"
         }
       ],
       "id": "7a6b2514492a",
@@ -2654,7 +2661,7 @@
       "phrase": [
         {
           "word": "earth",
-          "definition": "undefined\nziemia"
+          "definition": "ziemia"
         }
       ],
       "id": "fc2a9ac835f2",
@@ -2688,7 +2695,7 @@
       "phrase": [
         {
           "word": "stone",
-          "definition": "kamień\nundefined"
+          "definition": "kamień"
         }
       ],
       "id": "5c8c6809b8b9",
@@ -2722,7 +2729,7 @@
       "phrase": [
         {
           "word": "field",
-          "definition": "pole\nundefined"
+          "definition": "pole"
         }
       ],
       "id": "0e12090f97bc",
@@ -2756,7 +2763,7 @@
       "phrase": [
         {
           "word": "oak",
-          "definition": "dąb\nundefined"
+          "definition": "dąb"
         }
       ],
       "id": "76673b9b6e21",
@@ -2790,7 +2797,7 @@
       "phrase": [
         {
           "word": "moon",
-          "definition": "księżyc\nundefined"
+          "definition": "księżyc"
         }
       ],
       "id": "ece0ae5cb480",
@@ -2824,11 +2831,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "do"
         },
         {
           "word": "bloom",
-          "definition": "undefined"
+          "definition": "kwitnąć"
         }
       ],
       "id": "f39b5bed086e",
@@ -2862,7 +2869,7 @@
       "phrase": [
         {
           "word": "tree",
-          "definition": "drzewo\nundefined"
+          "definition": "drzewo"
         }
       ],
       "id": "fcc6f746700f",
@@ -2896,11 +2903,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "do"
         },
         {
           "word": "lie",
-          "definition": "undefined"
+          "definition": "leżeć"
         }
       ],
       "id": "de5819444b65",
@@ -2934,7 +2941,7 @@
       "phrase": [
         {
           "word": "between",
-          "definition": "między\nundefined"
+          "definition": "między"
         }
       ],
       "id": "ba8e9ac6a744",

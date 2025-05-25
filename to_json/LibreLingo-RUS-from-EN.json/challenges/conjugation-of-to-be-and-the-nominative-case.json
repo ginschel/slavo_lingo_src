@@ -4,20 +4,20 @@
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Я есмь мудрый.",
+      "formInTargetLanguage": "Я (есмь) мудрый.",
       "meaningInSourceLanguage": "I am wise.",
-      "id": "486d4e561e4e",
+      "id": "833831210be4",
       "priority": 0,
-      "group": "d0cced426b1b"
+      "group": "51bae7b52516"
     },
     {
       "type": "listeningExercise",
-      "answer": "Я есмь мудрый.",
+      "answer": "Я (есмь) мудрый.",
       "meaning": "I am wise.",
-      "audio": "cbf907c83ab227f93c80579a9c5c3d0ed24f48dda8bc4d42dfa3b0d85f4f8260",
-      "id": "a6ee33543620",
+      "audio": "7e6cf48a9117207be4177986240f694299e217eea4e5dfc40920d5c6e56f734e",
+      "id": "62f021fa7d24",
       "priority": 1,
-      "group": "d0cced426b1b"
+      "group": "51bae7b52516"
     },
     {
       "type": "chips",
@@ -29,11 +29,11 @@
         },
         {
           "word": "am",
-          "definition": "undefined\nя есмь"
+          "definition": "есть\nя есть/есмь"
         },
         {
           "word": "wise.",
-          "definition": "undefined\nмудрый"
+          "definition": "мудрый"
         }
       ],
       "chips": [
@@ -50,10 +50,10 @@
           "мудрый"
         ]
       ],
-      "formattedSolution": "Я есмь мудрый.",
-      "id": "fd07b697aaa4",
+      "formattedSolution": "Я (есмь) мудрый.",
+      "id": "8b607903faaa",
       "priority": 2,
-      "group": "d0cced426b1b"
+      "group": "51bae7b52516"
     },
     {
       "type": "chips",
@@ -61,15 +61,15 @@
       "phrase": [
         {
           "word": "Я",
-          "definition": "I\nundefined"
+          "definition": "I\ni"
         },
         {
-          "word": "есмь",
-          "definition": "undefined"
+          "word": "(есмь)",
+          "definition": "am"
         },
         {
           "word": "мудрый.",
-          "definition": "undefined\nwise"
+          "definition": "wise"
         }
       ],
       "chips": [
@@ -87,9 +87,9 @@
         ]
       ],
       "formattedSolution": "I am wise.",
-      "id": "934bd58dc25e",
+      "id": "d6822b3b37ff",
       "priority": 2,
-      "group": "d0cced426b1b"
+      "group": "51bae7b52516"
     },
     {
       "type": "options",
@@ -114,19 +114,19 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мой"
         },
         {
           "word": "sister.",
-          "definition": "undefined\nсестра"
+          "definition": "сестра"
         }
       ],
       "chips": [
@@ -154,15 +154,15 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "моя",
-          "definition": "undefined"
+          "definition": "my"
         },
         {
           "word": "сестра.",
-          "definition": "sister\nundefined"
+          "definition": "sister"
         }
       ],
       "chips": [
@@ -210,19 +210,19 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nона"
+          "definition": "она"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "very",
-          "definition": "undefined"
+          "definition": "очень"
         },
         {
           "word": "wise",
-          "definition": "undefined\nмудрый"
+          "definition": "мудрый"
         }
       ],
       "chips": [
@@ -250,15 +250,15 @@
       "phrase": [
         {
           "word": "Она",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "много",
-          "definition": "undefined"
+          "definition": "many"
         },
         {
           "word": "мудра",
-          "definition": "undefined"
+          "definition": "wise"
         }
       ],
       "chips": [
@@ -306,19 +306,19 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nмы"
+          "definition": "мы"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "very",
-          "definition": "undefined"
+          "definition": "очень"
         },
         {
           "word": "wise",
-          "definition": "undefined\nмудрый"
+          "definition": "мудрый"
         }
       ],
       "chips": [
@@ -346,15 +346,15 @@
       "phrase": [
         {
           "word": "Мы",
-          "definition": "undefined\nwe"
+          "definition": "we"
         },
         {
           "word": "много",
-          "definition": "undefined"
+          "definition": "many"
         },
         {
           "word": "мудры",
-          "definition": "undefined"
+          "definition": "wise"
         }
       ],
       "chips": [
@@ -402,19 +402,19 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         },
         {
           "word": "also",
-          "definition": "undefined\nтоже"
+          "definition": "также\nтоже"
         },
         {
           "word": "wise?",
-          "definition": "undefined\nмудрый"
+          "definition": "мудрый"
         }
       ],
       "chips": [
@@ -442,15 +442,15 @@
       "phrase": [
         {
           "word": "Вы",
-          "definition": "undefined\nyou"
+          "definition": "you"
         },
         {
           "word": "тоже",
-          "definition": "also\nundefined"
+          "definition": "also"
         },
         {
           "word": "мудры?",
-          "definition": "undefined"
+          "definition": "wise"
         }
       ],
       "chips": [
@@ -498,23 +498,23 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "good",
-          "definition": "undefined\nдобрый"
+          "definition": "добрый\nхороший"
         },
         {
           "word": "person.",
-          "definition": "undefined\nчеловек"
+          "definition": "человек"
         }
       ],
       "chips": [
@@ -542,15 +542,15 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "добрый",
-          "definition": "good\nundefined"
+          "definition": "good"
         },
         {
           "word": "человек.",
-          "definition": "person\nundefined"
+          "definition": "person"
         }
       ],
       "chips": [
@@ -601,19 +601,19 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "woman",
-          "definition": "undefined\nженщина"
+          "definition": "женщина"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "good.",
-          "definition": "undefined\nдобрый"
+          "definition": "добрый\nхороший"
         }
       ],
       "chips": [
@@ -644,19 +644,19 @@
       "phrase": [
         {
           "word": "Эта",
-          "definition": "undefined"
+          "definition": "that"
         },
         {
           "word": "женщина",
-          "definition": "undefined\nwoman"
+          "definition": "woman"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "добра.",
-          "definition": "undefined"
+          "definition": "good"
         }
       ],
       "chips": [
@@ -683,20 +683,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Это есть мой дом.",
+      "formInTargetLanguage": "Это (есть) мой дом.",
       "meaningInSourceLanguage": "This is my house.",
-      "id": "5a39719f8be0",
+      "id": "73765d172448",
       "priority": 0,
-      "group": "ed542d889ef7"
+      "group": "6932b052b640"
     },
     {
       "type": "listeningExercise",
-      "answer": "Это есть мой дом.",
+      "answer": "Это (есть) мой дом.",
       "meaning": "This is my house.",
-      "audio": "73ef5b6f2623474862b6b02e269e33ec1ad7cd4790343bc1921d2df79988b015",
-      "id": "91aabaf01146",
+      "audio": "ba92da4510e668724814f34836eeeab86d441206d8693f0fd6e672651eb9d8be",
+      "id": "170d910811fe",
       "priority": 1,
-      "group": "ed542d889ef7"
+      "group": "6932b052b640"
     },
     {
       "type": "chips",
@@ -704,19 +704,19 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мой"
         },
         {
           "word": "house.",
-          "definition": "undefined\nдом"
+          "definition": "дом"
         }
       ],
       "chips": [
@@ -736,10 +736,10 @@
           "дом"
         ]
       ],
-      "formattedSolution": "Это есть мой дом.",
-      "id": "add4a0c9ca37",
+      "formattedSolution": "Это (есть) мой дом.",
+      "id": "d584a7fd5269",
       "priority": 2,
-      "group": "ed542d889ef7"
+      "group": "6932b052b640"
     },
     {
       "type": "chips",
@@ -747,19 +747,19 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
-          "word": "есть",
-          "definition": "undefined"
+          "word": "(есть)",
+          "definition": "is"
         },
         {
           "word": "мой",
-          "definition": "undefined"
+          "definition": "my"
         },
         {
           "word": "дом.",
-          "definition": "house\nundefined"
+          "definition": "home\nhouse"
         }
       ],
       "chips": [
@@ -780,9 +780,9 @@
         ]
       ],
       "formattedSolution": "This is my house.",
-      "id": "bed6a557f161",
+      "id": "5a5e0b3d9da3",
       "priority": 2,
-      "group": "ed542d889ef7"
+      "group": "6932b052b640"
     },
     {
       "type": "options",
@@ -807,23 +807,23 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nон"
+          "definition": "он"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "good",
-          "definition": "undefined\nдобрый"
+          "definition": "добрый\nхороший"
         },
         {
           "word": "friend",
-          "definition": "undefined\nдруг"
+          "definition": "друг"
         }
       ],
       "chips": [
@@ -854,19 +854,19 @@
       "phrase": [
         {
           "word": "Он",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "тоже",
-          "definition": "also\nundefined"
+          "definition": "also"
         },
         {
           "word": "добрый",
-          "definition": "good\nundefined"
+          "definition": "good"
         },
         {
           "word": "друг",
-          "definition": "friend\nundefined"
+          "definition": "friend"
         }
       ],
       "chips": [
@@ -896,20 +896,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Вы есте добры.",
+      "formInTargetLanguage": "Вы (есте) добры.",
       "meaningInSourceLanguage": "You are good.",
-      "id": "e47d36d94b77",
+      "id": "f96fd735801c",
       "priority": 0,
-      "group": "cd94358e92d9"
+      "group": "fc423e1bbc75"
     },
     {
       "type": "listeningExercise",
-      "answer": "Вы есте добры.",
+      "answer": "Вы (есте) добры.",
       "meaning": "You are good.",
-      "audio": "9991c518fbdddd2a5292fee8cb10b57158f6fba5f64b3910261c5db98a0e8533",
-      "id": "5061f515e357",
+      "audio": "9c3bca5d720223c4f48ae9d3a9d8fb1b7cd990cf03ecc2e39e492757a49a16ac",
+      "id": "48afeef9f3a4",
       "priority": 1,
-      "group": "cd94358e92d9"
+      "group": "fc423e1bbc75"
     },
     {
       "type": "chips",
@@ -917,15 +917,15 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "good.",
-          "definition": "undefined\nдобрый"
+          "definition": "добрый\nхороший"
         }
       ],
       "chips": [
@@ -942,10 +942,10 @@
           "добры"
         ]
       ],
-      "formattedSolution": "Вы есте добры.",
-      "id": "13fbe3b47301",
+      "formattedSolution": "Вы (есте) добры.",
+      "id": "c602d7326b16",
       "priority": 2,
-      "group": "cd94358e92d9"
+      "group": "fc423e1bbc75"
     },
     {
       "type": "chips",
@@ -953,15 +953,15 @@
       "phrase": [
         {
           "word": "Вы",
-          "definition": "undefined\nyou"
+          "definition": "you"
         },
         {
-          "word": "есте",
-          "definition": "undefined"
+          "word": "(есте)",
+          "definition": "are"
         },
         {
           "word": "добры.",
-          "definition": "undefined"
+          "definition": "good"
         }
       ],
       "chips": [
@@ -979,26 +979,26 @@
         ]
       ],
       "formattedSolution": "You are good.",
-      "id": "1d52f1e9904a",
+      "id": "7ffca4d638bf",
       "priority": 2,
-      "group": "cd94358e92d9"
+      "group": "fc423e1bbc75"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Это суть друзья.",
+      "formInTargetLanguage": "Это (суть) друзья.",
       "meaningInSourceLanguage": "These are friends.",
-      "id": "8beed1e6c8d3",
+      "id": "5f827b4958a7",
       "priority": 0,
-      "group": "d69e973bf18b"
+      "group": "e0905bbbf65f"
     },
     {
       "type": "listeningExercise",
-      "answer": "Это суть друзья.",
+      "answer": "Это (суть) друзья.",
       "meaning": "These are friends.",
-      "audio": "4d324d9a2596724a33c1f8e65ae4756b785be18f5a7f2a2cd587018aace2a723",
-      "id": "4894f869d350",
+      "audio": "ebeee32594226fcb6c2749a7799a56609aff93a02a69589baffe401b25caaddd",
+      "id": "a81465237039",
       "priority": 1,
-      "group": "d69e973bf18b"
+      "group": "e0905bbbf65f"
     },
     {
       "type": "chips",
@@ -1006,15 +1006,15 @@
       "phrase": [
         {
           "word": "These",
-          "definition": "undefined"
+          "definition": "эти"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "friends.",
-          "definition": "undefined"
+          "definition": "друзья"
         }
       ],
       "chips": [
@@ -1031,10 +1031,10 @@
           "друзья"
         ]
       ],
-      "formattedSolution": "Это суть друзья.",
-      "id": "10d41729fee6",
+      "formattedSolution": "Это (суть) друзья.",
+      "id": "bfe2b11327d6",
       "priority": 2,
-      "group": "d69e973bf18b"
+      "group": "e0905bbbf65f"
     },
     {
       "type": "chips",
@@ -1042,15 +1042,15 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
-          "word": "суть",
-          "definition": "undefined"
+          "word": "(суть)",
+          "definition": "are"
         },
         {
           "word": "друзья.",
-          "definition": "undefined"
+          "definition": "friends"
         }
       ],
       "chips": [
@@ -1068,26 +1068,26 @@
         ]
       ],
       "formattedSolution": "These are friends.",
-      "id": "bf010477e8f8",
+      "id": "0792335e2db3",
       "priority": 2,
-      "group": "d69e973bf18b"
+      "group": "e0905bbbf65f"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Кто ты еси?",
+      "formInTargetLanguage": "Кто ты (еси)?",
       "meaningInSourceLanguage": "Who are you?",
-      "id": "da770bbe9f66",
+      "id": "f5aed21b480a",
       "priority": 0,
-      "group": "5f225eaae6f7"
+      "group": "d8a588dba955"
     },
     {
       "type": "listeningExercise",
-      "answer": "Кто ты еси?",
+      "answer": "Кто ты (еси)?",
       "meaning": "Who are you?",
-      "audio": "96e77fd2bd6dd651fa658964b18dc4ac8851c27c358881a585fb79bdbf00072a",
-      "id": "6f0bb7ff388a",
+      "audio": "623b04f78dacf33384fcc520b9a64b30b95e4164ea94ba15b8fcdc62a0e62752",
+      "id": "933e71cec62f",
       "priority": 1,
-      "group": "5f225eaae6f7"
+      "group": "d8a588dba955"
     },
     {
       "type": "chips",
@@ -1095,15 +1095,15 @@
       "phrase": [
         {
           "word": "Who",
-          "definition": "undefined\nкто"
+          "definition": "кто"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "you?",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         }
       ],
       "chips": [
@@ -1120,10 +1120,10 @@
           "еси"
         ]
       ],
-      "formattedSolution": "Кто ты еси?",
-      "id": "e2b2e3248083",
+      "formattedSolution": "Кто ты (еси)?",
+      "id": "bd27609b5504",
       "priority": 2,
-      "group": "5f225eaae6f7"
+      "group": "d8a588dba955"
     },
     {
       "type": "chips",
@@ -1131,15 +1131,15 @@
       "phrase": [
         {
           "word": "Кто",
-          "definition": "undefined\nwho"
+          "definition": "who"
         },
         {
           "word": "ты",
-          "definition": "undefined\nyou"
+          "definition": "you"
         },
         {
-          "word": "еси?",
-          "definition": "undefined"
+          "word": "(еси)?",
+          "definition": "are"
         }
       ],
       "chips": [
@@ -1157,9 +1157,9 @@
         ]
       ],
       "formattedSolution": "Who are you?",
-      "id": "36a86bcd2df0",
+      "id": "8c0020ff52bb",
       "priority": 2,
-      "group": "5f225eaae6f7"
+      "group": "d8a588dba955"
     },
     {
       "type": "options",
@@ -1184,19 +1184,19 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "undefined\nэтот (муж. р.)"
+          "definition": "что\nэтот (муж. р.)"
         },
         {
           "word": "man",
-          "definition": "undefined\nмужчина"
+          "definition": "мужчина"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "kind.",
-          "definition": "undefined"
+          "definition": "добрый"
         }
       ],
       "chips": [
@@ -1224,15 +1224,15 @@
       "phrase": [
         {
           "word": "Тот",
-          "definition": "undefined"
+          "definition": "that"
         },
         {
           "word": "мужчина",
-          "definition": "man\nundefined"
+          "definition": "man"
         },
         {
           "word": "милый.",
-          "definition": "undefined"
+          "definition": "dear"
         }
       ],
       "chips": [
@@ -1259,20 +1259,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Это есть приятный город.",
+      "formInTargetLanguage": "Это (есть) приятный город.",
       "meaningInSourceLanguage": "This is a pleasant city.",
-      "id": "79ef37b3d1f6",
+      "id": "0c90ee817c45",
       "priority": 0,
-      "group": "f9374d35955d"
+      "group": "1839332aab67"
     },
     {
       "type": "listeningExercise",
-      "answer": "Это есть приятный город.",
+      "answer": "Это (есть) приятный город.",
       "meaning": "This is a pleasant city.",
-      "audio": "329a3f7a5a3ffce4807dce0bef576f623b7cf0774fa40cf502d233baeae81c1e",
-      "id": "2aac094cb9f3",
+      "audio": "ec0df83b099be5379a01fc9c2d6710e8fc0fe6dba70ff71e7a193054bffc96b7",
+      "id": "8fcb3a10b62b",
       "priority": 1,
-      "group": "f9374d35955d"
+      "group": "1839332aab67"
     },
     {
       "type": "chips",
@@ -1280,23 +1280,23 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "pleasant",
-          "definition": "undefined"
+          "definition": "приятный"
         },
         {
           "word": "city.",
-          "definition": "undefined\nгород"
+          "definition": "город"
         }
       ],
       "chips": [
@@ -1316,10 +1316,10 @@
           "город"
         ]
       ],
-      "formattedSolution": "Это есть приятный город.",
-      "id": "5367a828e88b",
+      "formattedSolution": "Это (есть) приятный город.",
+      "id": "788db6637a1e",
       "priority": 2,
-      "group": "f9374d35955d"
+      "group": "1839332aab67"
     },
     {
       "type": "chips",
@@ -1327,19 +1327,19 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
-          "word": "есть",
-          "definition": "undefined"
+          "word": "(есть)",
+          "definition": "is"
         },
         {
           "word": "приятный",
-          "definition": "undefined"
+          "definition": "pleasant"
         },
         {
           "word": "город.",
-          "definition": "city\nundefined"
+          "definition": "city"
         }
       ],
       "chips": [
@@ -1363,26 +1363,26 @@
         ]
       ],
       "formattedSolution": "This is a pleasant city.",
-      "id": "a18179931a7c",
+      "id": "e7d773a9467f",
       "priority": 2,
-      "group": "f9374d35955d"
+      "group": "1839332aab67"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Та женщина есть высокая.",
+      "formInTargetLanguage": "Та женщина (есть) высокая.",
       "meaningInSourceLanguage": "That woman is tall.",
-      "id": "7cb5b1a651db",
+      "id": "c56ac478432f",
       "priority": 0,
-      "group": "af8a5fac6648"
+      "group": "795d8cd2e354"
     },
     {
       "type": "listeningExercise",
-      "answer": "Та женщина есть высокая.",
+      "answer": "Та женщина (есть) высокая.",
       "meaning": "That woman is tall.",
-      "audio": "5afad220a0e57b7a1c9594de5cb5e89e6658cf5a1d8bbb47acb40c5f7d394704",
-      "id": "ed914f18a0db",
+      "audio": "b7485c08603551b1afca2c43d482313c18b7e14ca7cb0b78690f6eb09b8ca3d7",
+      "id": "5a20d9c068d6",
       "priority": 1,
-      "group": "af8a5fac6648"
+      "group": "795d8cd2e354"
     },
     {
       "type": "chips",
@@ -1390,19 +1390,19 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "undefined\nэтот (муж. р.)"
+          "definition": "что\nэтот (муж. р.)"
         },
         {
           "word": "woman",
-          "definition": "undefined\nженщина"
+          "definition": "женщина"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "tall.",
-          "definition": "undefined\nвысокий"
+          "definition": "высокий"
         }
       ],
       "chips": [
@@ -1422,10 +1422,10 @@
           "высокая"
         ]
       ],
-      "formattedSolution": "Та женщина есть высокая.",
-      "id": "035cf09c7736",
+      "formattedSolution": "Та женщина (есть) высокая.",
+      "id": "53ecb0c58a1b",
       "priority": 2,
-      "group": "af8a5fac6648"
+      "group": "795d8cd2e354"
     },
     {
       "type": "chips",
@@ -1433,19 +1433,19 @@
       "phrase": [
         {
           "word": "Та",
-          "definition": "undefined"
+          "definition": "that"
         },
         {
           "word": "женщина",
-          "definition": "undefined\nwoman"
+          "definition": "woman"
         },
         {
-          "word": "есть",
-          "definition": "undefined"
+          "word": "(есть)",
+          "definition": "is"
         },
         {
           "word": "высокая.",
-          "definition": "undefined"
+          "definition": "high"
         }
       ],
       "chips": [
@@ -1466,26 +1466,26 @@
         ]
       ],
       "formattedSolution": "That woman is tall.",
-      "id": "b356c766ca0a",
+      "id": "4cc3bd41664c",
       "priority": 2,
-      "group": "af8a5fac6648"
+      "group": "795d8cd2e354"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Тот день есть холодный.",
+      "formInTargetLanguage": "Тот день (есть) холодный.",
       "meaningInSourceLanguage": "That day is cold.",
-      "id": "cb0c0bfd6832",
+      "id": "c5176442d065",
       "priority": 0,
-      "group": "9c4546834cc6"
+      "group": "b0a013360a1f"
     },
     {
       "type": "listeningExercise",
-      "answer": "Тот день есть холодный.",
+      "answer": "Тот день (есть) холодный.",
       "meaning": "That day is cold.",
-      "audio": "ac769b0ab6b78569beb58a9fa92163bffab31e667be5afc6bbcd758dea1e9754",
-      "id": "93b688189d71",
+      "audio": "6accf635da9ccc70e7d36d87540e335f045340a69520ab6f5baae1a51002c15a",
+      "id": "9c3921af3c0a",
       "priority": 1,
-      "group": "9c4546834cc6"
+      "group": "b0a013360a1f"
     },
     {
       "type": "chips",
@@ -1493,19 +1493,19 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "undefined\nэтот (муж. р.)"
+          "definition": "что\nэтот (муж. р.)"
         },
         {
           "word": "day",
-          "definition": "undefined\nдень"
+          "definition": "день"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "cold.",
-          "definition": "undefined\nхолодно"
+          "definition": "холодно\nхолодный"
         }
       ],
       "chips": [
@@ -1525,10 +1525,10 @@
           "холодный"
         ]
       ],
-      "formattedSolution": "Тот день есть холодный.",
-      "id": "ac221049ee53",
+      "formattedSolution": "Тот день (есть) холодный.",
+      "id": "2dff970d25d6",
       "priority": 2,
-      "group": "9c4546834cc6"
+      "group": "b0a013360a1f"
     },
     {
       "type": "chips",
@@ -1536,19 +1536,19 @@
       "phrase": [
         {
           "word": "Тот",
-          "definition": "undefined"
+          "definition": "that"
         },
         {
           "word": "день",
-          "definition": "day\nundefined"
+          "definition": "day"
         },
         {
-          "word": "есть",
-          "definition": "undefined"
+          "word": "(есть)",
+          "definition": "is"
         },
         {
           "word": "холодный.",
-          "definition": "undefined"
+          "definition": "cold"
         }
       ],
       "chips": [
@@ -1569,26 +1569,26 @@
         ]
       ],
       "formattedSolution": "That day is cold.",
-      "id": "23eeca67c1f9",
+      "id": "9c8fa80aef9d",
       "priority": 2,
-      "group": "9c4546834cc6"
+      "group": "b0a013360a1f"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Там тот дом есть красивый.",
+      "formInTargetLanguage": "Там тот дом (есть) красивый.",
       "meaningInSourceLanguage": "That house over there is beautiful.",
-      "id": "244d5b988d10",
+      "id": "c6fcad870bd6",
       "priority": 0,
-      "group": "43ab89227df5"
+      "group": "90686a2f16a4"
     },
     {
       "type": "listeningExercise",
-      "answer": "Там тот дом есть красивый.",
+      "answer": "Там тот дом (есть) красивый.",
       "meaning": "That house over there is beautiful.",
-      "audio": "1b3c2c8660edb9ae10287fc52978ce75cde1030539785af05425c53502b51555",
-      "id": "9786fb57c2bd",
+      "audio": "23910cc6824d58a1debe06409b07af0cd89cfd8237019e2945f151569abb45cb",
+      "id": "6fa7b0f687f4",
       "priority": 1,
-      "group": "43ab89227df5"
+      "group": "90686a2f16a4"
     },
     {
       "type": "chips",
@@ -1596,27 +1596,27 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "undefined\nэтот (муж. р.)"
+          "definition": "что\nэтот (муж. р.)"
         },
         {
           "word": "house",
-          "definition": "undefined\nдом"
+          "definition": "дом"
         },
         {
           "word": "over",
-          "definition": "undefined"
+          "definition": "над"
         },
         {
           "word": "there",
-          "definition": "undefined"
+          "definition": "там"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "beautiful.",
-          "definition": "undefined\nкрасивый"
+          "definition": "красивый"
         }
       ],
       "chips": [
@@ -1639,10 +1639,10 @@
           "красивый"
         ]
       ],
-      "formattedSolution": "Там тот дом есть красивый.",
-      "id": "99dec0da6572",
+      "formattedSolution": "Там тот дом (есть) красивый.",
+      "id": "2280ba14083f",
       "priority": 2,
-      "group": "43ab89227df5"
+      "group": "90686a2f16a4"
     },
     {
       "type": "chips",
@@ -1650,23 +1650,23 @@
       "phrase": [
         {
           "word": "Там",
-          "definition": "undefined"
+          "definition": "there"
         },
         {
           "word": "тот",
-          "definition": "undefined"
+          "definition": "that"
         },
         {
           "word": "дом",
-          "definition": "house\nundefined"
+          "definition": "home\nhouse"
         },
         {
-          "word": "есть",
-          "definition": "undefined"
+          "word": "(есть)",
+          "definition": "is"
         },
         {
           "word": "красивый.",
-          "definition": "beautiful\nundefined"
+          "definition": "beautiful"
         }
       ],
       "chips": [
@@ -1693,9 +1693,9 @@
         ]
       ],
       "formattedSolution": "That house over there is beautiful.",
-      "id": "c412fff76dc1",
+      "id": "b2b9020e271a",
       "priority": 2,
-      "group": "43ab89227df5"
+      "group": "90686a2f16a4"
     },
     {
       "type": "options",
@@ -1720,19 +1720,19 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мой"
         },
         {
           "word": "child.",
-          "definition": "undefined\nдитя"
+          "definition": "дитя\nребенок"
         }
       ],
       "chips": [
@@ -1760,15 +1760,15 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "моё",
-          "definition": "undefined"
+          "definition": "my"
         },
         {
           "word": "дитя.",
-          "definition": "child\nundefined"
+          "definition": "child"
         }
       ],
       "chips": [
@@ -1795,20 +1795,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Там то утро есть холодное.",
+      "formInTargetLanguage": "Там то утро (есть) холодное.",
       "meaningInSourceLanguage": "That morning over there is cold.",
-      "id": "0edc7c4d813a",
+      "id": "02737e4b4080",
       "priority": 0,
-      "group": "d8fd44e0fef7"
+      "group": "02f056b589c8"
     },
     {
       "type": "listeningExercise",
-      "answer": "Там то утро есть холодное.",
+      "answer": "Там то утро (есть) холодное.",
       "meaning": "That morning over there is cold.",
-      "audio": "9bb4df419c108efb7f3fb0b875ce7697f9fa2d9878bc95395890f4e33dac4ff2",
-      "id": "73bc75ebe8c5",
+      "audio": "013122a575c33d6e501f085d8b79d93ab54ad1b082d3f4089d06fb867c3c16dc",
+      "id": "8ce3acabd3c2",
       "priority": 1,
-      "group": "d8fd44e0fef7"
+      "group": "02f056b589c8"
     },
     {
       "type": "chips",
@@ -1816,27 +1816,27 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "undefined\nэтот (муж. р.)"
+          "definition": "что\nэтот (муж. р.)"
         },
         {
           "word": "morning",
-          "definition": "undefined\nутро"
+          "definition": "утро"
         },
         {
           "word": "over",
-          "definition": "undefined"
+          "definition": "над"
         },
         {
           "word": "there",
-          "definition": "undefined"
+          "definition": "там"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "cold.",
-          "definition": "undefined\nхолодно"
+          "definition": "холодно\nхолодный"
         }
       ],
       "chips": [
@@ -1859,10 +1859,10 @@
           "холодное"
         ]
       ],
-      "formattedSolution": "Там то утро есть холодное.",
-      "id": "ccf3e0071d7d",
+      "formattedSolution": "Там то утро (есть) холодное.",
+      "id": "e324ee849fe1",
       "priority": 2,
-      "group": "d8fd44e0fef7"
+      "group": "02f056b589c8"
     },
     {
       "type": "chips",
@@ -1870,23 +1870,23 @@
       "phrase": [
         {
           "word": "Там",
-          "definition": "undefined"
+          "definition": "there"
         },
         {
           "word": "то",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "утро",
-          "definition": "morning\nundefined"
+          "definition": "morning"
         },
         {
-          "word": "есть",
-          "definition": "undefined"
+          "word": "(есть)",
+          "definition": "is"
         },
         {
           "word": "холодное.",
-          "definition": "undefined"
+          "definition": "cold"
         }
       ],
       "chips": [
@@ -1913,9 +1913,9 @@
         ]
       ],
       "formattedSolution": "That morning over there is cold.",
-      "id": "cea7c207a3ab",
+      "id": "c70d7972f249",
       "priority": 2,
-      "group": "d8fd44e0fef7"
+      "group": "02f056b589c8"
     },
     {
       "type": "options",
@@ -1940,23 +1940,23 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мой"
         },
         {
           "word": "sister.",
-          "definition": "undefined\nсестра"
+          "definition": "сестра"
         }
       ],
       "chips": [
@@ -1987,19 +1987,19 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "no"
         },
         {
           "word": "моя",
-          "definition": "undefined"
+          "definition": "my"
         },
         {
           "word": "сестра.",
-          "definition": "sister\nundefined"
+          "definition": "sister"
         }
       ],
       "chips": [
@@ -2050,23 +2050,23 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "your",
-          "definition": "undefined"
+          "definition": "твой"
         },
         {
           "word": "house.",
-          "definition": "undefined\nдом"
+          "definition": "дом"
         }
       ],
       "chips": [
@@ -2097,19 +2097,19 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "no"
         },
         {
           "word": "твой",
-          "definition": "undefined"
+          "definition": "your"
         },
         {
           "word": "дом.",
-          "definition": "house\nundefined"
+          "definition": "home\nhouse"
         }
       ],
       "chips": [
@@ -2160,23 +2160,23 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "this",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "good",
-          "definition": "undefined\nдобрый"
+          "definition": "добрый\nхороший"
         },
         {
           "word": "car?",
-          "definition": "undefined\nавто"
+          "definition": "авто\nмашина"
         }
       ],
       "chips": [
@@ -2204,15 +2204,15 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "доброе",
-          "definition": "undefined"
+          "definition": "good"
         },
         {
           "word": "авто?",
-          "definition": "car\nundefined"
+          "definition": "car"
         }
       ],
       "chips": [
@@ -2263,19 +2263,19 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "these",
-          "definition": "undefined"
+          "definition": "эти"
         },
         {
           "word": "good",
-          "definition": "undefined\nдобрый"
+          "definition": "добрый\nхороший"
         },
         {
           "word": "friends?",
-          "definition": "undefined"
+          "definition": "друзья"
         }
       ],
       "chips": [
@@ -2303,15 +2303,15 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "добрые",
-          "definition": "undefined"
+          "definition": "good"
         },
         {
           "word": "друзья?",
-          "definition": "undefined"
+          "definition": "friends"
         }
       ],
       "chips": [
@@ -2338,20 +2338,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Они суть много милы.",
+      "formInTargetLanguage": "Они (суть) много милы.",
       "meaningInSourceLanguage": "They are very kind.",
-      "id": "e3c37f356099",
+      "id": "d28255137e59",
       "priority": 0,
-      "group": "d8a9ddb95f3c"
+      "group": "ee1fa068bff4"
     },
     {
       "type": "listeningExercise",
-      "answer": "Они суть много милы.",
+      "answer": "Они (суть) много милы.",
       "meaning": "They are very kind.",
-      "audio": "182d800db2452f78bbc3008a8fd394600bde428fca7f1a74e037df56d5532160",
-      "id": "420d098da169",
+      "audio": "b52b2bed5baf5e4f0de8e76b4f212a4acad19ab8bb14a84d18e07d13e1a2a62d",
+      "id": "1e43fea00f4b",
       "priority": 1,
-      "group": "d8a9ddb95f3c"
+      "group": "ee1fa068bff4"
     },
     {
       "type": "chips",
@@ -2359,19 +2359,19 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "undefined\nони (жен. р.)\nони (муж. р.)"
+          "definition": "они\nони (жен. р.)\nони (муж. р.)"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "very",
-          "definition": "undefined"
+          "definition": "очень"
         },
         {
           "word": "kind.",
-          "definition": "undefined"
+          "definition": "добрый"
         }
       ],
       "chips": [
@@ -2391,10 +2391,10 @@
           "милы"
         ]
       ],
-      "formattedSolution": "Они суть много милы.",
-      "id": "f7186fdd4a25",
+      "formattedSolution": "Они (суть) много милы.",
+      "id": "125b43e11d66",
       "priority": 2,
-      "group": "d8a9ddb95f3c"
+      "group": "ee1fa068bff4"
     },
     {
       "type": "chips",
@@ -2402,19 +2402,19 @@
       "phrase": [
         {
           "word": "Они",
-          "definition": "undefined"
+          "definition": "they"
         },
         {
-          "word": "суть",
-          "definition": "undefined"
+          "word": "(суть)",
+          "definition": "are"
         },
         {
           "word": "много",
-          "definition": "undefined"
+          "definition": "many"
         },
         {
           "word": "милы.",
-          "definition": "undefined"
+          "definition": "dear"
         }
       ],
       "chips": [
@@ -2435,26 +2435,26 @@
         ]
       ],
       "formattedSolution": "They are very kind.",
-      "id": "d2fa45545187",
+      "id": "470ae11b3c7c",
       "priority": 2,
-      "group": "d8a9ddb95f3c"
+      "group": "ee1fa068bff4"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Они суть много милы",
+      "formInTargetLanguage": "Они (суть) много милы",
       "meaningInSourceLanguage": "They are very kind",
-      "id": "34c3d17e57e9",
+      "id": "e0dbb89b6ac8",
       "priority": 0,
-      "group": "76d02c99db3b"
+      "group": "2478902c8d1d"
     },
     {
       "type": "listeningExercise",
-      "answer": "Они суть много милы",
+      "answer": "Они (суть) много милы",
       "meaning": "They are very kind",
-      "audio": "04951a6878a3c6a15d3b9667217911facbf9ed399bb14eb41232b9e640a73685",
-      "id": "cd1daeae6bf6",
+      "audio": "87355cf607f3d8a9b970bba578a9729125816afca05004605cce5c612a3352b5",
+      "id": "63701026d3e3",
       "priority": 1,
-      "group": "76d02c99db3b"
+      "group": "2478902c8d1d"
     },
     {
       "type": "chips",
@@ -2462,19 +2462,19 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "undefined\nони (жен. р.)\nони (муж. р.)"
+          "definition": "они\nони (жен. р.)\nони (муж. р.)"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "very",
-          "definition": "undefined"
+          "definition": "очень"
         },
         {
           "word": "kind",
-          "definition": "undefined"
+          "definition": "добрый"
         }
       ],
       "chips": [
@@ -2494,10 +2494,10 @@
           "милы"
         ]
       ],
-      "formattedSolution": "Они суть много милы",
-      "id": "acd1bc29624d",
+      "formattedSolution": "Они (суть) много милы",
+      "id": "2866b7c00254",
       "priority": 2,
-      "group": "76d02c99db3b"
+      "group": "2478902c8d1d"
     },
     {
       "type": "chips",
@@ -2505,19 +2505,19 @@
       "phrase": [
         {
           "word": "Они",
-          "definition": "undefined"
+          "definition": "they"
         },
         {
-          "word": "суть",
-          "definition": "undefined"
+          "word": "(суть)",
+          "definition": "are"
         },
         {
           "word": "много",
-          "definition": "undefined"
+          "definition": "many"
         },
         {
           "word": "милы",
-          "definition": "undefined"
+          "definition": "dear"
         }
       ],
       "chips": [
@@ -2538,9 +2538,9 @@
         ]
       ],
       "formattedSolution": "They are very kind",
-      "id": "44963d675fea",
+      "id": "c5aeeec849cc",
       "priority": 2,
-      "group": "76d02c99db3b"
+      "group": "2478902c8d1d"
     },
     {
       "type": "cards",
@@ -2560,7 +2560,7 @@
       "phrase": [
         {
           "word": "this",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         }
       ],
       "id": "2b7ea81df7bf",
@@ -2594,7 +2594,7 @@
       "phrase": [
         {
           "word": "this",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         }
       ],
       "id": "c994fd0fd40b",
@@ -2628,7 +2628,7 @@
       "phrase": [
         {
           "word": "that",
-          "definition": "undefined\nэтот (муж. р.)"
+          "definition": "что\nэтот (муж. р.)"
         }
       ],
       "id": "366e9f394bdd",
@@ -2662,15 +2662,15 @@
       "phrase": [
         {
           "word": "that",
-          "definition": "undefined\nэтот (муж. р.)"
+          "definition": "что\nэтот (муж. р.)"
         },
         {
           "word": "over",
-          "definition": "undefined"
+          "definition": "над"
         },
         {
           "word": "there",
-          "definition": "undefined"
+          "definition": "там"
         }
       ],
       "id": "11f8e0bb7283",
@@ -2704,15 +2704,15 @@
       "phrase": [
         {
           "word": "that",
-          "definition": "undefined\nэтот (муж. р.)"
+          "definition": "что\nэтот (муж. р.)"
         },
         {
           "word": "over",
-          "definition": "undefined"
+          "definition": "над"
         },
         {
           "word": "there",
-          "definition": "undefined"
+          "definition": "там"
         }
       ],
       "id": "ba243723d458",
@@ -2731,70 +2731,70 @@
     {
       "type": "cards",
       "pictures": null,
-      "formInTargetLanguage": "я есмь",
+      "formInTargetLanguage": "я есть/есмь",
       "meaningInSourceLanguage": "am",
-      "id": "1aafb6cbf6f2",
+      "id": "fffc34c908b4",
       "priority": 0,
-      "group": "fce29b52396b"
+      "group": "a99836991113"
     },
     {
       "type": "shortInput",
       "pictures": null,
       "formInTargetLanguage": [
-        "я есмь"
+        "я есть/есмь"
       ],
       "phrase": [
         {
           "word": "am",
-          "definition": "undefined\nя есмь"
+          "definition": "есть\nя есть/есмь"
         }
       ],
-      "id": "5a2f28c007fd",
+      "id": "e06e9f05d69b",
       "priority": 1,
-      "group": "fce29b52396b"
+      "group": "a99836991113"
     },
     {
       "type": "listeningExercise",
-      "answer": "я есмь",
+      "answer": "я есть/есмь",
       "meaning": "am",
-      "audio": "3dc3e09d7da3651141c957326262ae34488400ee7d8c646bb0046fa3f045d060",
-      "id": "83d78d65aa84",
+      "audio": "705d1b3c40e6fd5d7a5a85c2814f13a2ec306292779ff11d01782a7463dcaf18",
+      "id": "d29635459790",
       "priority": 1,
-      "group": "fce29b52396b"
+      "group": "a99836991113"
     },
     {
       "type": "cards",
       "pictures": null,
-      "formInTargetLanguage": "ты еси",
+      "formInTargetLanguage": "ты есть/еси",
       "meaningInSourceLanguage": "are",
-      "id": "11eaaa340f32",
+      "id": "1d3829fbac7b",
       "priority": 0,
-      "group": "71b9f44f04c8"
+      "group": "9bf593a9e0dc"
     },
     {
       "type": "shortInput",
       "pictures": null,
       "formInTargetLanguage": [
-        "ты еси"
+        "ты есть/еси"
       ],
       "phrase": [
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         }
       ],
-      "id": "b2ac63317569",
+      "id": "858238263a27",
       "priority": 1,
-      "group": "71b9f44f04c8"
+      "group": "9bf593a9e0dc"
     },
     {
       "type": "listeningExercise",
-      "answer": "ты еси",
+      "answer": "ты есть/еси",
       "meaning": "are",
-      "audio": "6b0ad3cf45f7f500f036d256fa0f96ba89115f4d15852d874e148d7a5f6eed49",
-      "id": "cef92887ea6c",
+      "audio": "db9049cd9ea1039914ed03e50a93a784b6e793c42dbad91bfba387a8e4d30bf7",
+      "id": "4e4d6aa32975",
       "priority": 1,
-      "group": "71b9f44f04c8"
+      "group": "9bf593a9e0dc"
     },
     {
       "type": "cards",
@@ -2814,7 +2814,7 @@
       "phrase": [
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         }
       ],
       "id": "b218b7ba9078",
@@ -2833,104 +2833,104 @@
     {
       "type": "cards",
       "pictures": null,
-      "formInTargetLanguage": "мы есмы",
+      "formInTargetLanguage": "мы есть/есмы",
       "meaningInSourceLanguage": "are",
-      "id": "5bd7a6ad67a2",
+      "id": "c357ef0df839",
       "priority": 0,
-      "group": "f0fd7265d057"
+      "group": "46481249223c"
     },
     {
       "type": "shortInput",
       "pictures": null,
       "formInTargetLanguage": [
-        "мы есмы"
+        "мы есть/есмы"
       ],
       "phrase": [
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         }
       ],
-      "id": "2753668e9a68",
+      "id": "21e985c94e79",
       "priority": 1,
-      "group": "f0fd7265d057"
+      "group": "46481249223c"
     },
     {
       "type": "listeningExercise",
-      "answer": "мы есмы",
+      "answer": "мы есть/есмы",
       "meaning": "are",
-      "audio": "bf84d994da081689188a0feb4dc447981552f4d40a95d7395a74f9a043b905c3",
-      "id": "08262ed53f02",
+      "audio": "2955cdbe7f46f5d61838a32cd3946f724f71b982d27e094cc498fafe7ce01552",
+      "id": "aa572358bdd7",
       "priority": 1,
-      "group": "f0fd7265d057"
+      "group": "46481249223c"
     },
     {
       "type": "cards",
       "pictures": null,
-      "formInTargetLanguage": "вы есте",
+      "formInTargetLanguage": "вы есть/есте",
       "meaningInSourceLanguage": "are",
-      "id": "69f5f14e9678",
+      "id": "b2d3568f0678",
       "priority": 0,
-      "group": "deb23801b57d"
+      "group": "9def02946246"
     },
     {
       "type": "shortInput",
       "pictures": null,
       "formInTargetLanguage": [
-        "вы есте"
+        "вы есть/есте"
       ],
       "phrase": [
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         }
       ],
-      "id": "119efcfac4bb",
+      "id": "1643a5a9e5a1",
       "priority": 1,
-      "group": "deb23801b57d"
+      "group": "9def02946246"
     },
     {
       "type": "listeningExercise",
-      "answer": "вы есте",
+      "answer": "вы есть/есте",
       "meaning": "are",
-      "audio": "11118f29aa4144b19a3552b23675fb08d9695cbcc63a847407960f20a8c7e5f1",
-      "id": "4338d73ac4f1",
+      "audio": "fb18cd6c80ea2bde3902ce088be979f798459b9ec3c9e2ffc207a77e6cf23145",
+      "id": "0ed31c81296a",
       "priority": 1,
-      "group": "deb23801b57d"
+      "group": "9def02946246"
     },
     {
       "type": "cards",
       "pictures": null,
-      "formInTargetLanguage": "они суть",
+      "formInTargetLanguage": "они есть/суть",
       "meaningInSourceLanguage": "are",
-      "id": "b4564ef0a644",
+      "id": "73421463b400",
       "priority": 0,
-      "group": "48038c51fc52"
+      "group": "28228cdfe642"
     },
     {
       "type": "shortInput",
       "pictures": null,
       "formInTargetLanguage": [
-        "они суть"
+        "они есть/суть"
       ],
       "phrase": [
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         }
       ],
-      "id": "882fa47d5bad",
+      "id": "619d9fdc2e75",
       "priority": 1,
-      "group": "48038c51fc52"
+      "group": "28228cdfe642"
     },
     {
       "type": "listeningExercise",
-      "answer": "они суть",
+      "answer": "они есть/суть",
       "meaning": "are",
-      "audio": "0024750ca6a623a9fe65a4e692831d04bca1291586afbd41a1f42b7556b6b5ff",
-      "id": "a3d51d59a75b",
+      "audio": "d09f7e6290758a0f8a09c1d7710175b6fd1141dc869544f9246cfbccc16390f4",
+      "id": "68b590cc1a6c",
       "priority": 1,
-      "group": "48038c51fc52"
+      "group": "28228cdfe642"
     },
     {
       "type": "cards",
@@ -2984,7 +2984,7 @@
       "phrase": [
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         }
       ],
       "id": "d1c906a4663e",
@@ -3018,7 +3018,7 @@
       "phrase": [
         {
           "word": "he",
-          "definition": "undefined\nон"
+          "definition": "он"
         }
       ],
       "id": "65853f22743f",
@@ -3052,7 +3052,7 @@
       "phrase": [
         {
           "word": "she",
-          "definition": "undefined\nона"
+          "definition": "она"
         }
       ],
       "id": "491abf205e71",
@@ -3086,7 +3086,7 @@
       "phrase": [
         {
           "word": "it",
-          "definition": "undefined\nоно"
+          "definition": "оно\nэто"
         }
       ],
       "id": "7adc1a5fefbf",
@@ -3120,7 +3120,7 @@
       "phrase": [
         {
           "word": "we",
-          "definition": "undefined\nмы"
+          "definition": "мы"
         }
       ],
       "id": "660cbfffd841",
@@ -3154,7 +3154,7 @@
       "phrase": [
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         }
       ],
       "id": "a8642688445c",
@@ -3188,7 +3188,7 @@
       "phrase": [
         {
           "word": "they",
-          "definition": "undefined\nони (жен. р.)\nони (муж. р.)"
+          "definition": "они\nони (жен. р.)\nони (муж. р.)"
         }
       ],
       "id": "c48b841aad73",
@@ -3222,7 +3222,7 @@
       "phrase": [
         {
           "word": "they",
-          "definition": "undefined\nони (жен. р.)\nони (муж. р.)"
+          "definition": "они\nони (жен. р.)\nони (муж. р.)"
         }
       ],
       "id": "fd02d04777ab",
@@ -3256,7 +3256,7 @@
       "phrase": [
         {
           "word": "person",
-          "definition": "undefined\nчеловек"
+          "definition": "человек"
         }
       ],
       "id": "f57636a9b21a",
@@ -3290,7 +3290,7 @@
       "phrase": [
         {
           "word": "woman",
-          "definition": "undefined\nженщина"
+          "definition": "женщина"
         }
       ],
       "id": "7b5917217672",
@@ -3324,7 +3324,7 @@
       "phrase": [
         {
           "word": "man",
-          "definition": "undefined\nмужчина"
+          "definition": "мужчина"
         }
       ],
       "id": "f19d39106c4e",
@@ -3358,7 +3358,7 @@
       "phrase": [
         {
           "word": "child",
-          "definition": "undefined\nдитя"
+          "definition": "дитя\nребенок"
         }
       ],
       "id": "4dd49777e5c2",
@@ -3392,7 +3392,7 @@
       "phrase": [
         {
           "word": "friend",
-          "definition": "undefined\nдруг"
+          "definition": "друг"
         }
       ],
       "id": "246d7cef1b93",
@@ -3426,7 +3426,7 @@
       "phrase": [
         {
           "word": "sister",
-          "definition": "undefined\nсестра"
+          "definition": "сестра"
         }
       ],
       "id": "a5272cc0b07e",
@@ -3460,7 +3460,7 @@
       "phrase": [
         {
           "word": "parent",
-          "definition": "undefined\nродитель"
+          "definition": "родитель"
         }
       ],
       "id": "1f230ed07b87",
@@ -3494,7 +3494,7 @@
       "phrase": [
         {
           "word": "house",
-          "definition": "undefined\nдом"
+          "definition": "дом"
         }
       ],
       "id": "2022818b4da0",
@@ -3528,7 +3528,7 @@
       "phrase": [
         {
           "word": "city",
-          "definition": "undefined\nгород"
+          "definition": "город"
         }
       ],
       "id": "e67d2b3f24a5",
@@ -3562,7 +3562,7 @@
       "phrase": [
         {
           "word": "day",
-          "definition": "undefined\nдень"
+          "definition": "день"
         }
       ],
       "id": "fe104092cabc",
@@ -3596,7 +3596,7 @@
       "phrase": [
         {
           "word": "also",
-          "definition": "undefined\nтоже"
+          "definition": "также\nтоже"
         }
       ],
       "id": "7decaaf5ac92",
@@ -3630,7 +3630,7 @@
       "phrase": [
         {
           "word": "who",
-          "definition": "undefined\nкто"
+          "definition": "кто"
         }
       ],
       "id": "3e6a9ebd78e3",

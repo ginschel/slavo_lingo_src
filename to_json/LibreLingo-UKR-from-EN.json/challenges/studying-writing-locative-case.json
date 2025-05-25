@@ -25,19 +25,19 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мій"
         },
         {
           "word": "school.",
-          "definition": "undefined\nшкола"
+          "definition": "школа"
         }
       ],
       "chips": [
@@ -65,15 +65,15 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "моя",
-          "definition": "undefined"
+          "definition": "my (feminine)"
         },
         {
           "word": "школа.",
-          "definition": "school\nundefined"
+          "definition": "school"
         }
       ],
       "chips": [
@@ -100,20 +100,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Вона є вчителькою.",
+      "formInTargetLanguage": "Вона вчителькою.",
       "meaningInSourceLanguage": "She is a teacher.",
-      "id": "b0ce6004d280",
+      "id": "5d6699d9cd49",
       "priority": 0,
-      "group": "a64cf9ce6e3f"
+      "group": "d214283cc97a"
     },
     {
       "type": "listeningExercise",
-      "answer": "Вона є вчителькою.",
+      "answer": "Вона вчителькою.",
       "meaning": "She is a teacher.",
-      "audio": "06b53a8d5333a2fc38cf1fdcbcbeaf8d2f75d7d086dca5088f49601c8f7dbf3a",
-      "id": "ff77affe3477",
+      "audio": "43f2b8ff8f964939391632d393c544cd5a15e521bfb7008d9f65479821880736",
+      "id": "24c9d85814f0",
       "priority": 1,
-      "group": "a64cf9ce6e3f"
+      "group": "d214283cc97a"
     },
     {
       "type": "chips",
@@ -121,39 +121,37 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "teacher.",
-          "definition": "undefined\nвчитель"
+          "definition": "вчитель"
         }
       ],
       "chips": [
         "Вона",
-        "є",
         "вчителькою",
-        "то",
-        "о"
+        "читаю",
+        "вина"
       ],
       "solutions": [
         [
           "Вона",
-          "є",
           "вчителькою"
         ]
       ],
-      "formattedSolution": "Вона є вчителькою.",
-      "id": "e1140aa888b2",
+      "formattedSolution": "Вона вчителькою.",
+      "id": "b034f720d216",
       "priority": 2,
-      "group": "a64cf9ce6e3f"
+      "group": "d214283cc97a"
     },
     {
       "type": "chips",
@@ -161,15 +159,11 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "she"
         },
         {
           "word": "вчителькою.",
-          "definition": "undefined"
+          "definition": "with a female teacher"
         }
       ],
       "chips": [
@@ -190,26 +184,26 @@
         ]
       ],
       "formattedSolution": "She is a teacher.",
-      "id": "58193e3ced32",
+      "id": "f79d20ce3718",
       "priority": 2,
-      "group": "a64cf9ce6e3f"
+      "group": "d214283cc97a"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Він є учнем.",
+      "formInTargetLanguage": "Він учнем.",
       "meaningInSourceLanguage": "He is a student.",
-      "id": "54a468d0fc4b",
+      "id": "1dbd6365bf2f",
       "priority": 0,
-      "group": "2ca9ae3ff4d7"
+      "group": "de8ab8f712ab"
     },
     {
       "type": "listeningExercise",
-      "answer": "Він є учнем.",
+      "answer": "Він учнем.",
       "meaning": "He is a student.",
-      "audio": "948c0973489c617504366b41a816387b6dd5154fab20df9d3a9db2ea9b39e46a",
-      "id": "970ea6a4d9c1",
+      "audio": "654fc8cdc7d405bbff250497aa0cec3b171ca7cd06214c3505e2e0d281c38edc",
+      "id": "983fff18b9b5",
       "priority": 1,
-      "group": "2ca9ae3ff4d7"
+      "group": "de8ab8f712ab"
     },
     {
       "type": "chips",
@@ -217,39 +211,37 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "student.",
-          "definition": "undefined\nучень"
+          "definition": "студент\nучень"
         }
       ],
       "chips": [
         "Він",
-        "є",
         "учнем",
-        "не",
-        "і"
+        "він",
+        "учням"
       ],
       "solutions": [
         [
           "Він",
-          "є",
           "учнем"
         ]
       ],
-      "formattedSolution": "Він є учнем.",
-      "id": "76a34af08d14",
+      "formattedSolution": "Він учнем.",
+      "id": "ccbb0862c2bd",
       "priority": 2,
-      "group": "2ca9ae3ff4d7"
+      "group": "de8ab8f712ab"
     },
     {
       "type": "chips",
@@ -257,15 +249,11 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "he"
         },
         {
           "word": "учнем.",
-          "definition": "undefined"
+          "definition": "with a student"
         }
       ],
       "chips": [
@@ -286,9 +274,9 @@
         ]
       ],
       "formattedSolution": "He is a student.",
-      "id": "5df179bda0af",
+      "id": "584a04f6f227",
       "priority": 2,
-      "group": "2ca9ae3ff4d7"
+      "group": "de8ab8f712ab"
     },
     {
       "type": "options",
@@ -313,27 +301,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "book",
-          "definition": "undefined\nкнижка"
+          "definition": "книга\nкнижка"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "table.",
-          "definition": "undefined\nстіл"
+          "definition": "стіл"
         }
       ],
       "chips": [
@@ -364,19 +352,19 @@
       "phrase": [
         {
           "word": "Книжка",
-          "definition": "book\nundefined"
+          "definition": "book"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on\non, at"
         },
         {
           "word": "столі.",
-          "definition": "undefined"
+          "definition": "on the table"
         }
       ],
       "chips": [
@@ -434,15 +422,15 @@
         },
         {
           "word": "have",
-          "definition": "undefined"
+          "definition": "мати"
         },
         {
           "word": "an",
-          "definition": "undefined"
+          "definition": "ан"
         },
         {
           "word": "assignment.",
-          "definition": "undefined\nзавдання"
+          "definition": "завдання"
         }
       ],
       "chips": [
@@ -470,15 +458,15 @@
       "phrase": [
         {
           "word": "Я",
-          "definition": "I\nundefined"
+          "definition": "I"
         },
         {
           "word": "маю",
-          "definition": "undefined"
+          "definition": "I have"
         },
         {
           "word": "завдання.",
-          "definition": "assignment\nundefined"
+          "definition": "assignment\ntask, assignment"
         }
       ],
       "chips": [
@@ -505,20 +493,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Туш є ще мокрий.",
+      "formInTargetLanguage": "Туш ще мокрий.",
       "meaningInSourceLanguage": "The ink is still wet.",
-      "id": "911de7ecf792",
+      "id": "7ed561bc2394",
       "priority": 0,
-      "group": "114b0ba1a540"
+      "group": "643be132ddd0"
     },
     {
       "type": "listeningExercise",
-      "answer": "Туш є ще мокрий.",
+      "answer": "Туш ще мокрий.",
       "meaning": "The ink is still wet.",
-      "audio": "00958440d31d57f55f4f7a6a42961d1508c8d800e3793aee7a849e5c55c9376a",
-      "id": "cafb85a965f9",
+      "audio": "e95348becb642907f7f12e2ef502d12e88f5639c10ffab78cbccc6721d00fc1e",
+      "id": "42d2b89aaa58",
       "priority": 1,
-      "group": "114b0ba1a540"
+      "group": "643be132ddd0"
     },
     {
       "type": "chips",
@@ -526,46 +514,43 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "ink",
-          "definition": "undefined\nтуш"
+          "definition": "туш\nчорнило"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "still",
-          "definition": "undefined"
+          "definition": "ще"
         },
         {
           "word": "wet.",
-          "definition": "undefined"
+          "definition": "мокрий"
         }
       ],
       "chips": [
         "Туш",
-        "є",
         "ще",
         "мокрий",
-        "о",
-        "Я",
+        "Той",
         "Це"
       ],
       "solutions": [
         [
           "Туш",
-          "є",
           "ще",
           "мокрий"
         ]
       ],
-      "formattedSolution": "Туш є ще мокрий.",
-      "id": "2fa900c60d47",
+      "formattedSolution": "Туш ще мокрий.",
+      "id": "6a77dc5eca96",
       "priority": 2,
-      "group": "114b0ba1a540"
+      "group": "643be132ddd0"
     },
     {
       "type": "chips",
@@ -573,19 +558,15 @@
       "phrase": [
         {
           "word": "Туш",
-          "definition": "ink\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "ink"
         },
         {
           "word": "ще",
-          "definition": "undefined"
+          "definition": "still, yet"
         },
         {
           "word": "мокрий.",
-          "definition": "undefined"
+          "definition": "wet (masculine)"
         }
       ],
       "chips": [
@@ -609,9 +590,9 @@
         ]
       ],
       "formattedSolution": "The ink is still wet.",
-      "id": "83c0b2010738",
+      "id": "f5fd3388f17a",
       "priority": 2,
-      "group": "114b0ba1a540"
+      "group": "643be132ddd0"
     },
     {
       "type": "options",
@@ -636,19 +617,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "paper",
-          "definition": "undefined\nпапір"
+          "definition": "папір"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "white.",
-          "definition": "undefined\nбілий"
+          "definition": "білий"
         }
       ],
       "chips": [
@@ -676,15 +657,15 @@
       "phrase": [
         {
           "word": "Папір",
-          "definition": "paper\nundefined"
+          "definition": "paper"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "білий.",
-          "definition": "undefined\nwhite"
+          "definition": "white\nwhite (masculine)"
         }
       ],
       "chips": [
@@ -732,19 +713,19 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "subject",
-          "definition": "undefined\nпредмет"
+          "definition": "предмет"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "mathematics.",
-          "definition": "undefined"
+          "definition": "математика"
         }
       ],
       "chips": [
@@ -775,19 +756,19 @@
       "phrase": [
         {
           "word": "Той",
-          "definition": "undefined"
+          "definition": "that (masculine)"
         },
         {
           "word": "предмет",
-          "definition": "subject\nundefined"
+          "definition": "subject"
         },
         {
           "word": "то",
-          "definition": "undefined"
+          "definition": "then, that is"
         },
         {
           "word": "математика.",
-          "definition": "undefined"
+          "definition": "mathematics"
         }
       ],
       "chips": [
@@ -814,20 +795,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Та метод є добра.",
+      "formInTargetLanguage": "Той метод є добрий.",
       "meaningInSourceLanguage": "This method is good.",
-      "id": "551a5ebd4124",
+      "id": "be86a4435226",
       "priority": 0,
-      "group": "11e7c8b7e223"
+      "group": "d4df01366286"
     },
     {
       "type": "listeningExercise",
-      "answer": "Та метод є добра.",
+      "answer": "Той метод є добрий.",
       "meaning": "This method is good.",
-      "audio": "078fbe4809a4b6389b2446e54bf5de9072bcad6559b5586e1bc58dddeab041a6",
-      "id": "076a42096b30",
+      "audio": "745074e0a68c8629289f7dda70592861e7dbe79c2fc7880b01e8ee896fb1d6e3",
+      "id": "2932f06cc53d",
       "priority": 1,
-      "group": "11e7c8b7e223"
+      "group": "d4df01366286"
     },
     {
       "type": "chips",
@@ -835,62 +816,62 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "method",
-          "definition": "undefined\nметод"
+          "definition": "метод"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "good.",
-          "definition": "undefined\nдобрий"
+          "definition": "добрий"
         }
       ],
       "chips": [
-        "Та",
+        "Той",
         "метод",
         "є",
-        "добра",
-        "то",
-        "до",
-        "о"
+        "добрий",
+        "той",
+        "моє",
+        "то"
       ],
       "solutions": [
         [
-          "Та",
+          "Той",
           "метод",
           "є",
-          "добра"
+          "добрий"
         ]
       ],
-      "formattedSolution": "Та метод є добра.",
-      "id": "9b7e1fbd203e",
+      "formattedSolution": "Той метод є добрий.",
+      "id": "3b03c3d1ebc8",
       "priority": 2,
-      "group": "11e7c8b7e223"
+      "group": "d4df01366286"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Та",
-          "definition": "undefined"
+          "word": "Той",
+          "definition": "that (masculine)"
         },
         {
           "word": "метод",
-          "definition": "method\nundefined"
+          "definition": "method"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
-          "word": "добра.",
-          "definition": "undefined"
+          "word": "добрий.",
+          "definition": "good\ngood (masculine)"
         }
       ],
       "chips": [
@@ -911,9 +892,9 @@
         ]
       ],
       "formattedSolution": "This method is good.",
-      "id": "b64bd49a95fd",
+      "id": "8713740c7fb7",
       "priority": 2,
-      "group": "11e7c8b7e223"
+      "group": "d4df01366286"
     },
     {
       "type": "options",
@@ -938,23 +919,23 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "student",
-          "definition": "undefined\nучень"
+          "definition": "студент\nучень"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "має"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "book.",
-          "definition": "undefined\nкнижка"
+          "definition": "книга\nкнижка"
         }
       ],
       "chips": [
@@ -982,15 +963,15 @@
       "phrase": [
         {
           "word": "Учень",
-          "definition": "student\nundefined"
+          "definition": "student"
         },
         {
           "word": "має",
-          "definition": "undefined"
+          "definition": "has"
         },
         {
           "word": "книжку.",
-          "definition": "undefined"
+          "definition": "book (accusative)"
         }
       ],
       "chips": [
@@ -1020,20 +1001,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Це є мій стіл.",
+      "formInTargetLanguage": "Це мій стіл.",
       "meaningInSourceLanguage": "This is my desk.",
-      "id": "322ea2ca899c",
+      "id": "1fccc4dbea9d",
       "priority": 0,
-      "group": "91e2a8474403"
+      "group": "b74c7dd65655"
     },
     {
       "type": "listeningExercise",
-      "answer": "Це є мій стіл.",
+      "answer": "Це мій стіл.",
       "meaning": "This is my desk.",
-      "audio": "cb7f7bbf13f09b8781d15015c8bcb6e126ece9d3dce9241d3f0ba923969ad9ce",
-      "id": "ef017ec710f0",
+      "audio": "da76b52a6dd3b2c531d04af82e3d0c44d2b44710ff0480fc099c10e742c2cb18",
+      "id": "b7f3dc90d1bc",
       "priority": 1,
-      "group": "91e2a8474403"
+      "group": "b74c7dd65655"
     },
     {
       "type": "chips",
@@ -1041,42 +1022,39 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мій"
         },
         {
           "word": "desk.",
-          "definition": "undefined"
+          "definition": "стіл"
         }
       ],
       "chips": [
         "Це",
-        "є",
         "мій",
         "стіл",
-        "і",
         "Ці",
         "Ні"
       ],
       "solutions": [
         [
           "Це",
-          "є",
           "мій",
           "стіл"
         ]
       ],
-      "formattedSolution": "Це є мій стіл.",
-      "id": "9291f2f1b415",
+      "formattedSolution": "Це мій стіл.",
+      "id": "87b194978188",
       "priority": 2,
-      "group": "91e2a8474403"
+      "group": "b74c7dd65655"
     },
     {
       "type": "chips",
@@ -1084,19 +1062,15 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "мій",
-          "definition": "undefined"
+          "definition": "my (masculine)"
         },
         {
           "word": "стіл.",
-          "definition": "table\nundefined"
+          "definition": "table"
         }
       ],
       "chips": [
@@ -1117,26 +1091,26 @@
         ]
       ],
       "formattedSolution": "This is my desk.",
-      "id": "50d22cd0d163",
+      "id": "75188092ef6d",
       "priority": 2,
-      "group": "91e2a8474403"
+      "group": "b74c7dd65655"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Мій записник є повний записів з пером",
+      "formInTargetLanguage": "Мій записник повний записів з пером",
       "meaningInSourceLanguage": "My notebook is full of notes with a pen",
-      "id": "e42cd722f0a7",
+      "id": "8123c5851e4d",
       "priority": 0,
-      "group": "489008c29e38"
+      "group": "9e95b0ba73e0"
     },
     {
       "type": "listeningExercise",
-      "answer": "Мій записник є повний записів з пером",
+      "answer": "Мій записник повний записів з пером",
       "meaning": "My notebook is full of notes with a pen",
-      "audio": "fd4fa61d656d564b8849c3d79dd35841ddf8882e58ea7b116a17cd4a062dad80",
-      "id": "2b406b7cabff",
+      "audio": "87fbfc241f4ea3a2f8899df7a9a5f22740e49c49b94ad4347637abda8dfe6527",
+      "id": "965279a1c178",
       "priority": 1,
-      "group": "489008c29e38"
+      "group": "9e95b0ba73e0"
     },
     {
       "type": "chips",
@@ -1144,71 +1118,68 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "undefined"
+          "definition": "мій"
         },
         {
           "word": "notebook",
-          "definition": "undefined\nзаписник/зошит"
+          "definition": "записник/зошит\nзошит"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "full",
-          "definition": "undefined"
+          "definition": "повний"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "notes",
-          "definition": "undefined"
+          "definition": "нотатки"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "pen",
-          "definition": "undefined\nперо"
+          "definition": "перо\nручка"
         }
       ],
       "chips": [
         "Мій",
         "записник",
-        "є",
         "повний",
         "записів",
         "з",
         "пером",
+        "пес",
         "по",
         "за",
         "зі",
-        "пє",
-        "пес",
-        "Ми"
+        "пиво"
       ],
       "solutions": [
         [
           "Мій",
           "записник",
-          "є",
           "повний",
           "записів",
           "з",
           "пером"
         ]
       ],
-      "formattedSolution": "Мій записник є повний записів з пером",
-      "id": "7781acfea44b",
+      "formattedSolution": "Мій записник повний записів з пером",
+      "id": "0c6bb15c81d5",
       "priority": 2,
-      "group": "489008c29e38"
+      "group": "9e95b0ba73e0"
     },
     {
       "type": "chips",
@@ -1216,31 +1187,27 @@
       "phrase": [
         {
           "word": "Мій",
-          "definition": "undefined"
+          "definition": "my (masculine)"
         },
         {
           "word": "записник",
-          "definition": "undefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "notebook"
         },
         {
           "word": "повний",
-          "definition": "undefined"
+          "definition": "full (masculine)"
         },
         {
           "word": "записів",
-          "definition": "undefined"
+          "definition": "of notes"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "пером",
-          "definition": "undefined"
+          "definition": "with a pen"
         }
       ],
       "chips": [
@@ -1276,9 +1243,9 @@
         ]
       ],
       "formattedSolution": "My notebook is full of notes with a pen",
-      "id": "f3462b6dafda",
+      "id": "9ee030a18dd0",
       "priority": 2,
-      "group": "489008c29e38"
+      "group": "9e95b0ba73e0"
     },
     {
       "type": "options",
@@ -1307,31 +1274,31 @@
         },
         {
           "word": "am",
-          "definition": "undefined\nя є"
+          "definition": "я є\nє"
         },
         {
           "word": "writing",
-          "definition": "undefined"
+          "definition": "написання"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "paper",
-          "definition": "undefined\nпапір"
+          "definition": "папір"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "pen.",
-          "definition": "undefined\nперо"
+          "definition": "перо\nручка"
         }
       ],
       "chips": [
@@ -1362,19 +1329,19 @@
       "phrase": [
         {
           "word": "Пишу",
-          "definition": "undefined"
+          "definition": "I write"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on\non, at"
         },
         {
           "word": "папері",
-          "definition": "undefined"
+          "definition": "on paper"
         },
         {
           "word": "пером.",
-          "definition": "undefined"
+          "definition": "with a pen"
         }
       ],
       "chips": [
@@ -1434,27 +1401,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "school",
-          "definition": "undefined\nшкола"
+          "definition": "школа"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "center.",
-          "definition": "undefined"
+          "definition": "центр"
         }
       ],
       "chips": [
@@ -1485,19 +1452,19 @@
       "phrase": [
         {
           "word": "Школа",
-          "definition": "school\nundefined"
+          "definition": "school"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in, at"
         },
         {
           "word": "центрі.",
-          "definition": "undefined"
+          "definition": "in the center"
         }
       ],
       "chips": [
@@ -1551,23 +1518,23 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nми"
+          "definition": "ми"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "writing",
-          "definition": "undefined"
+          "definition": "написання"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "assignment.",
-          "definition": "undefined\nзавдання"
+          "definition": "завдання"
         }
       ],
       "chips": [
@@ -1595,15 +1562,15 @@
       "phrase": [
         {
           "word": "Ми",
-          "definition": "undefined\nwe"
+          "definition": "we"
         },
         {
           "word": "пишемо",
-          "definition": "undefined"
+          "definition": "we write"
         },
         {
           "word": "завдання.",
-          "definition": "assignment\nundefined"
+          "definition": "assignment\ntask, assignment"
         }
       ],
       "chips": [
@@ -1654,27 +1621,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "teacher",
-          "definition": "undefined\nвчитель"
+          "definition": "вчитель"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "talking",
-          "definition": "undefined"
+          "definition": "говорить"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "students.",
-          "definition": "undefined"
+          "definition": "студенти"
         }
       ],
       "chips": [
@@ -1705,19 +1672,19 @@
       "phrase": [
         {
           "word": "Вчитель",
-          "definition": "male teacher\nteacher\nundefined"
+          "definition": "male teacher\nteacher"
         },
         {
           "word": "говорить",
-          "definition": "speaks\nundefined"
+          "definition": "speaks"
         },
         {
           "word": "зі",
-          "definition": "undefined"
+          "definition": "with"
         },
         {
           "word": "студентами.",
-          "definition": "undefined"
+          "definition": "with students"
         }
       ],
       "chips": [
@@ -1771,19 +1738,19 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "має"
         },
         {
           "word": "many",
-          "definition": "undefined"
+          "definition": "багато"
         },
         {
           "word": "assignments.",
-          "definition": "undefined"
+          "definition": "завдання"
         }
       ],
       "chips": [
@@ -1814,19 +1781,19 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "має",
-          "definition": "undefined"
+          "definition": "has"
         },
         {
           "word": "багато",
-          "definition": "undefined"
+          "definition": "a lot, many, much"
         },
         {
           "word": "завдань.",
-          "definition": "undefined"
+          "definition": "of tasks"
         }
       ],
       "chips": [
@@ -1878,27 +1845,27 @@
         },
         {
           "word": "am",
-          "definition": "undefined\nя є"
+          "definition": "я є\nє"
         },
         {
           "word": "writing",
-          "definition": "undefined"
+          "definition": "написання"
         },
         {
           "word": "quickly",
-          "definition": "undefined"
+          "definition": "швидко"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "this",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "pen.",
-          "definition": "undefined\nперо"
+          "definition": "перо\nручка"
         }
       ],
       "chips": [
@@ -1932,23 +1899,23 @@
       "phrase": [
         {
           "word": "Я",
-          "definition": "I\nundefined"
+          "definition": "I"
         },
         {
           "word": "швидко",
-          "definition": "fast\nundefined"
+          "definition": "fast\nfast, quickly"
         },
         {
           "word": "пишу",
-          "definition": "undefined"
+          "definition": "I write"
         },
         {
           "word": "цим",
-          "definition": "undefined"
+          "definition": "with this"
         },
         {
           "word": "пером.",
-          "definition": "undefined"
+          "definition": "with a pen"
         }
       ],
       "chips": [
@@ -1984,20 +1951,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Предмет є складний.",
+      "formInTargetLanguage": "Предмет складний.",
       "meaningInSourceLanguage": "The subject is complex.",
-      "id": "2eb23f337949",
+      "id": "89f0597e624f",
       "priority": 0,
-      "group": "2f9f0004a655"
+      "group": "b48ed9054803"
     },
     {
       "type": "listeningExercise",
-      "answer": "Предмет є складний.",
+      "answer": "Предмет складний.",
       "meaning": "The subject is complex.",
-      "audio": "b5a445d3b99a30a7cd6b1a637c22cec6403cabe9a9efbba751c56d1b98fa60b4",
-      "id": "f9b1d475928c",
+      "audio": "b4b8a4d0f8d647a06ca0ecd68ae87cf58201bb1d85edc83a11ecf442b0916fcc",
+      "id": "8377dbdfed8c",
       "priority": 1,
-      "group": "2f9f0004a655"
+      "group": "b48ed9054803"
     },
     {
       "type": "chips",
@@ -2005,39 +1972,37 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "subject",
-          "definition": "undefined\nпредмет"
+          "definition": "предмет"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "complex.",
-          "definition": "undefined"
+          "definition": "складний"
         }
       ],
       "chips": [
         "Предмет",
-        "є",
         "складний",
-        "де",
-        "не"
+        "предмет",
+        "холодний"
       ],
       "solutions": [
         [
           "Предмет",
-          "є",
           "складний"
         ]
       ],
-      "formattedSolution": "Предмет є складний.",
-      "id": "3fd5042a25b0",
+      "formattedSolution": "Предмет складний.",
+      "id": "14676a6c839f",
       "priority": 2,
-      "group": "2f9f0004a655"
+      "group": "b48ed9054803"
     },
     {
       "type": "chips",
@@ -2045,15 +2010,11 @@
       "phrase": [
         {
           "word": "Предмет",
-          "definition": "subject\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "subject"
         },
         {
           "word": "складний.",
-          "definition": "undefined"
+          "definition": "difficult, complex"
         }
       ],
       "chips": [
@@ -2074,26 +2035,26 @@
         ]
       ],
       "formattedSolution": "The subject is complex.",
-      "id": "7964e3a6113c",
+      "id": "f954f8d910db",
       "priority": 2,
-      "group": "2f9f0004a655"
+      "group": "b48ed9054803"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Книжка є нова.",
+      "formInTargetLanguage": "Книжка нова.",
       "meaningInSourceLanguage": "The book is new.",
-      "id": "bc1e08548526",
+      "id": "e33b9a3f3ed1",
       "priority": 0,
-      "group": "9546c41b9d79"
+      "group": "72788419c318"
     },
     {
       "type": "listeningExercise",
-      "answer": "Книжка є нова.",
+      "answer": "Книжка нова.",
       "meaning": "The book is new.",
-      "audio": "36051b7ee05cdf03d419bab803403bb5a3639b9aae2bfe2861623326cfe92c6e",
-      "id": "da51033d43e6",
+      "audio": "87ac0d45ba106547a7c2149552ef60451a3c9ac2c477c4b52048d1e20d2f333d",
+      "id": "56aa6beae143",
       "priority": 1,
-      "group": "9546c41b9d79"
+      "group": "72788419c318"
     },
     {
       "type": "chips",
@@ -2101,39 +2062,37 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "book",
-          "definition": "undefined\nкнижка"
+          "definition": "книга\nкнижка"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "new.",
-          "definition": "undefined"
+          "definition": "новий"
         }
       ],
       "chips": [
         "Книжка",
-        "є",
         "нова",
-        "Та",
-        "не"
+        "книжка",
+        "пива"
       ],
       "solutions": [
         [
           "Книжка",
-          "є",
           "нова"
         ]
       ],
-      "formattedSolution": "Книжка є нова.",
-      "id": "4b87685c56b6",
+      "formattedSolution": "Книжка нова.",
+      "id": "e2f28c293288",
       "priority": 2,
-      "group": "9546c41b9d79"
+      "group": "72788419c318"
     },
     {
       "type": "chips",
@@ -2141,15 +2100,11 @@
       "phrase": [
         {
           "word": "Книжка",
-          "definition": "book\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "book"
         },
         {
           "word": "нова.",
-          "definition": "undefined"
+          "definition": "new (feminine)"
         }
       ],
       "chips": [
@@ -2170,26 +2125,26 @@
         ]
       ],
       "formattedSolution": "The book is new.",
-      "id": "ac1a088cf841",
+      "id": "28ebbf21399f",
       "priority": 2,
-      "group": "9546c41b9d79"
+      "group": "72788419c318"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Він є моїм вчителем.",
+      "formInTargetLanguage": "Він моїм вчителем.",
       "meaningInSourceLanguage": "He is my teacher.",
-      "id": "4d156430e040",
+      "id": "7bcc7e83603b",
       "priority": 0,
-      "group": "8f8f1194fcad"
+      "group": "8fd914e9ceab"
     },
     {
       "type": "listeningExercise",
-      "answer": "Він є моїм вчителем.",
+      "answer": "Він моїм вчителем.",
       "meaning": "He is my teacher.",
-      "audio": "8652ebfb5111d0d28685dfbea7063a351462eeceb6bc65475acb8c13b1b9c26f",
-      "id": "0a5913bcabf3",
+      "audio": "967ff9aa740bd7fdb016a670fdf0d4ea950d6959e18f4d41dbbd565a61e0fc07",
+      "id": "feac7183f6db",
       "priority": 1,
-      "group": "8f8f1194fcad"
+      "group": "8fd914e9ceab"
     },
     {
       "type": "chips",
@@ -2197,42 +2152,39 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мій"
         },
         {
           "word": "teacher.",
-          "definition": "undefined\nвчитель"
+          "definition": "вчитель"
         }
       ],
       "chips": [
         "Він",
-        "є",
         "моїм",
         "вчителем",
-        "їм",
-        "Ви",
-        "дім"
+        "дім",
+        "ким"
       ],
       "solutions": [
         [
           "Він",
-          "є",
           "моїм",
           "вчителем"
         ]
       ],
-      "formattedSolution": "Він є моїм вчителем.",
-      "id": "38e747fc26cc",
+      "formattedSolution": "Він моїм вчителем.",
+      "id": "04ad274fab81",
       "priority": 2,
-      "group": "8f8f1194fcad"
+      "group": "8fd914e9ceab"
     },
     {
       "type": "chips",
@@ -2240,19 +2192,15 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "he"
         },
         {
           "word": "моїм",
-          "definition": "undefined"
+          "definition": "with my"
         },
         {
           "word": "вчителем.",
-          "definition": "undefined"
+          "definition": "with a teacher"
         }
       ],
       "chips": [
@@ -2273,9 +2221,9 @@
         ]
       ],
       "formattedSolution": "He is my teacher.",
-      "id": "35b8ce6151ba",
+      "id": "667c2a94d1fe",
       "priority": 2,
-      "group": "8f8f1194fcad"
+      "group": "8fd914e9ceab"
     },
     {
       "type": "cards",
@@ -2295,7 +2243,7 @@
       "phrase": [
         {
           "word": "school",
-          "definition": "undefined\nшкола"
+          "definition": "школа"
         }
       ],
       "id": "79af903530b7",
@@ -2329,11 +2277,11 @@
       "phrase": [
         {
           "word": "female",
-          "definition": "undefined"
+          "definition": "жіночий"
         },
         {
           "word": "teacher",
-          "definition": "undefined\nвчитель"
+          "definition": "вчитель"
         }
       ],
       "id": "246e0caac3f9",
@@ -2367,11 +2315,11 @@
       "phrase": [
         {
           "word": "male",
-          "definition": "undefined"
+          "definition": "чоловічий"
         },
         {
           "word": "teacher",
-          "definition": "undefined\nвчитель"
+          "definition": "вчитель"
         }
       ],
       "id": "1a872c8f17a2",
@@ -2405,7 +2353,7 @@
       "phrase": [
         {
           "word": "note",
-          "definition": "undefined\nзапис"
+          "definition": "запис\nпримітка"
         }
       ],
       "id": "51235ddb6455",
@@ -2439,7 +2387,7 @@
       "phrase": [
         {
           "word": "student",
-          "definition": "undefined\nучень"
+          "definition": "студент\nучень"
         }
       ],
       "id": "245da7fa0645",
@@ -2473,7 +2421,7 @@
       "phrase": [
         {
           "word": "book",
-          "definition": "undefined\nкнижка"
+          "definition": "книга\nкнижка"
         }
       ],
       "id": "de95505a2ca4",
@@ -2507,7 +2455,7 @@
       "phrase": [
         {
           "word": "assignment",
-          "definition": "undefined\nзавдання"
+          "definition": "завдання"
         }
       ],
       "id": "653b325d4652",
@@ -2541,7 +2489,7 @@
       "phrase": [
         {
           "word": "table",
-          "definition": "undefined\nстіл"
+          "definition": "стіл"
         }
       ],
       "id": "ebdfa7a1c19b",
@@ -2575,7 +2523,7 @@
       "phrase": [
         {
           "word": "ink",
-          "definition": "undefined\nтуш"
+          "definition": "туш\nчорнило"
         }
       ],
       "id": "db01184bd31a",
@@ -2609,7 +2557,7 @@
       "phrase": [
         {
           "word": "paper",
-          "definition": "undefined\nпапір"
+          "definition": "папір"
         }
       ],
       "id": "a33de278cbf0",
@@ -2643,7 +2591,7 @@
       "phrase": [
         {
           "word": "subject",
-          "definition": "undefined\nпредмет"
+          "definition": "предмет"
         }
       ],
       "id": "e9a29049cb1d",
@@ -2677,7 +2625,7 @@
       "phrase": [
         {
           "word": "method",
-          "definition": "undefined\nметод"
+          "definition": "метод"
         }
       ],
       "id": "19f82f5b6c8c",
@@ -2711,7 +2659,7 @@
       "phrase": [
         {
           "word": "pen",
-          "definition": "undefined\nперо"
+          "definition": "перо\nручка"
         }
       ],
       "id": "58922dda20bd",
@@ -2745,7 +2693,7 @@
       "phrase": [
         {
           "word": "notebook",
-          "definition": "undefined\nзаписник/зошит"
+          "definition": "записник/зошит\nзошит"
         }
       ],
       "id": "17c730408077",
@@ -2779,7 +2727,7 @@
       "phrase": [
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         }
       ],
       "id": "e0dd9bbecabf",

@@ -25,15 +25,15 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nон"
+          "definition": "он"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "Slav.",
@@ -65,15 +65,15 @@
       "phrase": [
         {
           "word": "Он",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "славянином.",
-          "definition": "undefined"
+          "definition": "slav"
         }
       ],
       "chips": [
@@ -121,23 +121,23 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nона"
+          "definition": "она"
         },
         {
           "word": "speaks",
-          "definition": "undefined\nговорит"
+          "definition": "говорит"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "Slavic",
-          "definition": "undefined"
+          "definition": "славянский"
         },
         {
           "word": "language.",
-          "definition": "undefined\nязык"
+          "definition": "язык"
         }
       ],
       "chips": [
@@ -171,23 +171,23 @@
       "phrase": [
         {
           "word": "Она",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "говорит",
-          "definition": "speaks\nundefined"
+          "definition": "says\nspeaks"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "славянском",
-          "definition": "undefined"
+          "definition": "slavic"
         },
         {
           "word": "языке.",
-          "definition": "undefined"
+          "definition": "language"
         }
       ],
       "chips": [
@@ -217,20 +217,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Это есть мой язык.",
+      "formInTargetLanguage": "Это мой язык.",
       "meaningInSourceLanguage": "This is my language.",
-      "id": "0f2361533107",
+      "id": "1a5ea09d63d6",
       "priority": 0,
-      "group": "6d5d6591c6af"
+      "group": "65fef8c51a33"
     },
     {
       "type": "listeningExercise",
-      "answer": "Это есть мой язык.",
+      "answer": "Это мой язык.",
       "meaning": "This is my language.",
-      "audio": "79ffec6ea8b8686dfb0da4e558441338961f3347fdf2952e1602e1e29b777361",
-      "id": "8337bf1737a9",
+      "audio": "e875919a730e30ef3dc068d0377c56bb465eac1c3e3ca2f2d955e850af6fc555",
+      "id": "f4a9cd87910c",
       "priority": 1,
-      "group": "6d5d6591c6af"
+      "group": "65fef8c51a33"
     },
     {
       "type": "chips",
@@ -238,42 +238,39 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мой"
         },
         {
           "word": "language.",
-          "definition": "undefined\nязык"
+          "definition": "язык"
         }
       ],
       "chips": [
         "Это",
-        "есть",
         "мой",
         "язык",
         "то",
-        "сто",
-        "Эта"
+        "той"
       ],
       "solutions": [
         [
           "Это",
-          "есть",
           "мой",
           "язык"
         ]
       ],
-      "formattedSolution": "Это есть мой язык.",
-      "id": "65aa1c2e7a87",
+      "formattedSolution": "Это мой язык.",
+      "id": "e1075f93c4c9",
       "priority": 2,
-      "group": "6d5d6591c6af"
+      "group": "65fef8c51a33"
     },
     {
       "type": "chips",
@@ -281,19 +278,15 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
-        },
-        {
-          "word": "есть",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "мой",
-          "definition": "undefined"
+          "definition": "my"
         },
         {
           "word": "язык.",
-          "definition": "language\nundefined"
+          "definition": "language"
         }
       ],
       "chips": [
@@ -314,9 +307,9 @@
         ]
       ],
       "formattedSolution": "This is my language.",
-      "id": "6d374e9389b2",
+      "id": "ab938ab8dc46",
       "priority": 2,
-      "group": "6d5d6591c6af"
+      "group": "65fef8c51a33"
     },
     {
       "type": "options",
@@ -341,19 +334,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "country",
-          "definition": "undefined\nдержава/государство"
+          "definition": "держава/государство\nстрана"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "Poland.",
-          "definition": "undefined"
+          "definition": "польша"
         }
       ],
       "chips": [
@@ -361,7 +354,7 @@
         "есть",
         "Польша",
         "суть",
-        "Есть"
+        "кость"
       ],
       "solutions": [
         [
@@ -381,15 +374,15 @@
       "phrase": [
         {
           "word": "Государством",
-          "definition": "undefined"
+          "definition": "state"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "Польша.",
-          "definition": "undefined"
+          "definition": "poland"
         }
       ],
       "chips": [
@@ -416,20 +409,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Я есмь поляком.",
+      "formInTargetLanguage": "Я поляком.",
       "meaningInSourceLanguage": "I am a Pole.",
-      "id": "5e8ac28a985e",
+      "id": "f13e9953979d",
       "priority": 0,
-      "group": "eac5d8b01bfe"
+      "group": "f0217528c5b3"
     },
     {
       "type": "listeningExercise",
-      "answer": "Я есмь поляком.",
+      "answer": "Я поляком.",
       "meaning": "I am a Pole.",
-      "audio": "7edb07efab53a6b913debd0c581f9004eb297d3198f2ce927270e6f441e3d6c0",
-      "id": "70e61c5a010b",
+      "audio": "85fe144c019af06cdb7fd88e8c504f3515b28a54d822a02a5343d1a73cc2f548",
+      "id": "c9276ea09729",
       "priority": 1,
-      "group": "eac5d8b01bfe"
+      "group": "f0217528c5b3"
     },
     {
       "type": "chips",
@@ -441,11 +434,11 @@
         },
         {
           "word": "am",
-          "definition": "undefined\nя есмь"
+          "definition": "есть\nя есть/есмь"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "Pole.",
@@ -454,22 +447,20 @@
       ],
       "chips": [
         "Я",
-        "есмь",
         "поляком",
-        "ем",
-        "дом"
+        "я",
+        "к"
       ],
       "solutions": [
         [
           "Я",
-          "есмь",
           "поляком"
         ]
       ],
-      "formattedSolution": "Я есмь поляком.",
-      "id": "b76998bb7621",
+      "formattedSolution": "Я поляком.",
+      "id": "00c825bcf82d",
       "priority": 2,
-      "group": "eac5d8b01bfe"
+      "group": "f0217528c5b3"
     },
     {
       "type": "chips",
@@ -477,15 +468,11 @@
       "phrase": [
         {
           "word": "Я",
-          "definition": "I\nundefined"
-        },
-        {
-          "word": "есмь",
-          "definition": "undefined"
+          "definition": "I\ni"
         },
         {
           "word": "поляком.",
-          "definition": "undefined"
+          "definition": "pole"
         }
       ],
       "chips": [
@@ -506,9 +493,9 @@
         ]
       ],
       "formattedSolution": "I am a Pole.",
-      "id": "5eaf1121343b",
+      "id": "f0d3b021eb1b",
       "priority": 2,
-      "group": "eac5d8b01bfe"
+      "group": "f0217528c5b3"
     },
     {
       "type": "options",
@@ -533,15 +520,15 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nона"
+          "definition": "она"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "Croat.",
@@ -573,15 +560,15 @@
       "phrase": [
         {
           "word": "Она",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "хорваткою.",
-          "definition": "undefined"
+          "definition": "croat"
         }
       ],
       "chips": [
@@ -629,15 +616,15 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nон"
+          "definition": "он"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "Russian.",
@@ -669,15 +656,15 @@
       "phrase": [
         {
           "word": "Он",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "русским.",
-          "definition": "undefined"
+          "definition": "russian"
         }
       ],
       "chips": [
@@ -725,19 +712,19 @@
       "phrase": [
         {
           "word": "Do",
-          "definition": "undefined"
+          "definition": "делать"
         },
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         },
         {
           "word": "speak",
-          "definition": "undefined"
+          "definition": "говорить"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "German",
@@ -745,7 +732,7 @@
         },
         {
           "word": "language?",
-          "definition": "undefined\nязык"
+          "definition": "язык"
         }
       ],
       "chips": [
@@ -779,23 +766,23 @@
       "phrase": [
         {
           "word": "Говоришь",
-          "definition": "undefined"
+          "definition": "talk"
         },
         {
           "word": "ли",
-          "definition": "undefined"
+          "definition": "whether"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "немецком",
-          "definition": "undefined"
+          "definition": "german"
         },
         {
           "word": "языке?",
-          "definition": "undefined"
+          "definition": "language"
         }
       ],
       "chips": [
@@ -849,7 +836,7 @@
       "phrase": [
         {
           "word": "An",
-          "definition": "undefined"
+          "definition": "an"
         },
         {
           "word": "Englishman",
@@ -857,19 +844,19 @@
         },
         {
           "word": "speaks",
-          "definition": "undefined\nговорит"
+          "definition": "говорит"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "English",
-          "definition": "undefined"
+          "definition": "английский"
         },
         {
           "word": "language.",
-          "definition": "undefined\nязык"
+          "definition": "язык"
         }
       ],
       "chips": [
@@ -903,23 +890,23 @@
       "phrase": [
         {
           "word": "Англичанин",
-          "definition": "Englishman\nundefined"
+          "definition": "Englishman"
         },
         {
           "word": "говорит",
-          "definition": "speaks\nundefined"
+          "definition": "says\nspeaks"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "английском",
-          "definition": "undefined"
+          "definition": "english"
         },
         {
           "word": "языке.",
-          "definition": "undefined"
+          "definition": "language"
         }
       ],
       "chips": [
@@ -973,19 +960,19 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nмы"
+          "definition": "мы"
         },
         {
           "word": "love",
-          "definition": "undefined\nлюбовь"
+          "definition": "любовь"
         },
         {
           "word": "our",
-          "definition": "undefined"
+          "definition": "наш"
         },
         {
           "word": "nation.",
-          "definition": "undefined\nнарод"
+          "definition": "народ\nнация"
         }
       ],
       "chips": [
@@ -1016,19 +1003,19 @@
       "phrase": [
         {
           "word": "Мы",
-          "definition": "undefined\nwe"
+          "definition": "we"
         },
         {
           "word": "любим",
-          "definition": "undefined"
+          "definition": "love"
         },
         {
           "word": "свой",
-          "definition": "undefined"
+          "definition": "his/her/its own"
         },
         {
           "word": "народ.",
-          "definition": "nation\nundefined"
+          "definition": "nation"
         }
       ],
       "chips": [
@@ -1076,31 +1063,31 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "name",
-          "definition": "undefined\nимя"
+          "definition": "имя"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "из"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мой"
         },
         {
           "word": "country.",
-          "definition": "undefined\nдержава/государство"
+          "definition": "держава/государство\nстрана"
         }
       ],
       "chips": [
@@ -1134,23 +1121,23 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "имя",
-          "definition": "name\nundefined"
+          "definition": "name"
         },
         {
           "word": "моего",
-          "definition": "undefined"
+          "definition": "my"
         },
         {
           "word": "государства.",
-          "definition": "undefined"
+          "definition": "state"
         }
       ],
       "chips": [
@@ -1207,19 +1194,19 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nон"
+          "definition": "он"
         },
         {
           "word": "knows",
-          "definition": "undefined"
+          "definition": "знает"
         },
         {
           "word": "three",
-          "definition": "undefined\nтри"
+          "definition": "три"
         },
         {
           "word": "languages.",
-          "definition": "undefined"
+          "definition": "языки"
         }
       ],
       "chips": [
@@ -1250,19 +1237,19 @@
       "phrase": [
         {
           "word": "Он",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "знает",
-          "definition": "undefined"
+          "definition": "knows"
         },
         {
           "word": "три",
-          "definition": "three\nundefined"
+          "definition": "three"
         },
         {
           "word": "языка.",
-          "definition": "undefined"
+          "definition": "language"
         }
       ],
       "chips": [
@@ -1310,7 +1297,7 @@
       "phrase": [
         {
           "word": "A",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "Croat",
@@ -1318,19 +1305,19 @@
         },
         {
           "word": "speaks",
-          "definition": "undefined\nговорит"
+          "definition": "говорит"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "Croatian",
-          "definition": "undefined"
+          "definition": "хорватский"
         },
         {
           "word": "language.",
-          "definition": "undefined\nязык"
+          "definition": "язык"
         }
       ],
       "chips": [
@@ -1364,23 +1351,23 @@
       "phrase": [
         {
           "word": "Хорват",
-          "definition": "undefined"
+          "definition": "croat"
         },
         {
           "word": "говорит",
-          "definition": "speaks\nundefined"
+          "definition": "says\nspeaks"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "хорватском",
-          "definition": "undefined"
+          "definition": "croatian"
         },
         {
           "word": "языке.",
-          "definition": "undefined"
+          "definition": "language"
         }
       ],
       "chips": [
@@ -1434,7 +1421,7 @@
       "phrase": [
         {
           "word": "A",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "German",
@@ -1442,15 +1429,15 @@
         },
         {
           "word": "lives",
-          "definition": "undefined\nживёт"
+          "definition": "живет\nживёт"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "Germany.",
-          "definition": "undefined"
+          "definition": "германия"
         }
       ],
       "chips": [
@@ -1481,19 +1468,19 @@
       "phrase": [
         {
           "word": "Немец",
-          "definition": "German\nundefined"
+          "definition": "German"
         },
         {
           "word": "живёт",
-          "definition": "lives\nundefined"
+          "definition": "lives"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in"
         },
         {
           "word": "Германии.",
-          "definition": "undefined"
+          "definition": "germany"
         }
       ],
       "chips": [
@@ -1544,11 +1531,11 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nона"
+          "definition": "она"
         },
         {
           "word": "knows",
-          "definition": "undefined"
+          "definition": "знает"
         },
         {
           "word": "Russian",
@@ -1556,11 +1543,11 @@
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "и"
         },
         {
           "word": "Slavic.",
-          "definition": "undefined"
+          "definition": "славянский"
         }
       ],
       "chips": [
@@ -1594,23 +1581,23 @@
       "phrase": [
         {
           "word": "Она",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "знает",
-          "definition": "undefined"
+          "definition": "knows"
         },
         {
           "word": "русский",
-          "definition": "Russian\nundefined"
+          "definition": "Russian"
         },
         {
           "word": "и",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "славянский.",
-          "definition": "undefined"
+          "definition": "slavic"
         }
       ],
       "chips": [
@@ -1661,35 +1648,35 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "nation",
-          "definition": "undefined\nнарод"
+          "definition": "народ\nнация"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "с"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "rich",
-          "definition": "undefined"
+          "definition": "богатый"
         },
         {
           "word": "culture.",
-          "definition": "undefined"
+          "definition": "культура"
         }
       ],
       "chips": [
@@ -1702,8 +1689,8 @@
         "сто",
         "то",
         "Кто",
-        "это",
-        "Что"
+        "Что",
+        "это"
       ],
       "solutions": [
         [
@@ -1726,27 +1713,27 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "народ",
-          "definition": "nation\nundefined"
+          "definition": "nation"
         },
         {
           "word": "с",
-          "definition": "undefined"
+          "definition": "with"
         },
         {
           "word": "богатою",
-          "definition": "undefined"
+          "definition": "rich"
         },
         {
           "word": "культурою.",
-          "definition": "undefined"
+          "definition": "culture"
         }
       ],
       "chips": [
@@ -1785,20 +1772,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ты еси англичанином?",
+      "formInTargetLanguage": "Ты англичанином?",
       "meaningInSourceLanguage": "Are you an Englishman?",
-      "id": "4097227002af",
+      "id": "5d09fec45c39",
       "priority": 0,
-      "group": "9475cd14a078"
+      "group": "a17ddc04a21b"
     },
     {
       "type": "listeningExercise",
-      "answer": "Ты еси англичанином?",
+      "answer": "Ты англичанином?",
       "meaning": "Are you an Englishman?",
-      "audio": "e53645393f090cccbec6fceb1d971e82f48c92f2881246f91374e62bc3d49eb2",
-      "id": "d7d8b964b545",
+      "audio": "645c28aa943977592614578b5d55b4d19b061a65ddb393fd05552e107242395c",
+      "id": "ed68c8878dec",
       "priority": 1,
-      "group": "9475cd14a078"
+      "group": "a17ddc04a21b"
     },
     {
       "type": "chips",
@@ -1806,15 +1793,15 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         },
         {
           "word": "an",
-          "definition": "undefined"
+          "definition": "an"
         },
         {
           "word": "Englishman?",
@@ -1823,22 +1810,20 @@
       ],
       "chips": [
         "Ты",
-        "еси",
         "англичанином",
-        "ли",
-        "Та"
+        "Та",
+        "Там"
       ],
       "solutions": [
         [
           "Ты",
-          "еси",
           "англичанином"
         ]
       ],
-      "formattedSolution": "Ты еси англичанином?",
-      "id": "d92c76a85853",
+      "formattedSolution": "Ты англичанином?",
+      "id": "b0b425136825",
       "priority": 2,
-      "group": "9475cd14a078"
+      "group": "a17ddc04a21b"
     },
     {
       "type": "chips",
@@ -1846,15 +1831,11 @@
       "phrase": [
         {
           "word": "Ты",
-          "definition": "undefined\nyou"
-        },
-        {
-          "word": "еси",
-          "definition": "undefined"
+          "definition": "you"
         },
         {
           "word": "англичанином?",
-          "definition": "undefined"
+          "definition": "englishman"
         }
       ],
       "chips": [
@@ -1875,26 +1856,26 @@
         ]
       ],
       "formattedSolution": "Are you an Englishman?",
-      "id": "01bf4dc60811",
+      "id": "a3c97601687d",
       "priority": 2,
-      "group": "9475cd14a078"
+      "group": "a17ddc04a21b"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Он говорит каждый язык добро.",
+      "formInTargetLanguage": "Он говорит каждый язык хорошо.",
       "meaningInSourceLanguage": "He speaks every language well.",
-      "id": "e8709ae70ff1",
+      "id": "820b542954e1",
       "priority": 0,
-      "group": "8d621226601f"
+      "group": "68c5b5d72550"
     },
     {
       "type": "listeningExercise",
-      "answer": "Он говорит каждый язык добро.",
+      "answer": "Он говорит каждый язык хорошо.",
       "meaning": "He speaks every language well.",
-      "audio": "d6ce61d4131a5ef13aa338a938b2f94ed1c0998deaf660e71649aafb40809af6",
-      "id": "df3f6d1f0d6d",
+      "audio": "257ff4b2543ade2e6a5182169b365a20ded17d307a857ec6f3ed99859a4df576",
+      "id": "574f60bf704e",
       "priority": 1,
-      "group": "8d621226601f"
+      "group": "68c5b5d72550"
     },
     {
       "type": "chips",
@@ -1902,23 +1883,23 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nон"
+          "definition": "он"
         },
         {
           "word": "speaks",
-          "definition": "undefined\nговорит"
+          "definition": "говорит"
         },
         {
           "word": "every",
-          "definition": "undefined"
+          "definition": "каждый"
         },
         {
           "word": "language",
-          "definition": "undefined\nязык"
+          "definition": "язык"
         },
         {
           "word": "well.",
-          "definition": "undefined"
+          "definition": "хорошо"
         }
       ],
       "chips": [
@@ -1926,11 +1907,11 @@
         "говорит",
         "каждый",
         "язык",
-        "добро",
+        "хорошо",
+        "воды",
         "до",
-        "дом",
-        "добры",
-        "воды"
+        "сыр",
+        "Оно"
       ],
       "solutions": [
         [
@@ -1938,13 +1919,13 @@
           "говорит",
           "каждый",
           "язык",
-          "добро"
+          "хорошо"
         ]
       ],
-      "formattedSolution": "Он говорит каждый язык добро.",
-      "id": "672889d54866",
+      "formattedSolution": "Он говорит каждый язык хорошо.",
+      "id": "cf151dc00d52",
       "priority": 2,
-      "group": "8d621226601f"
+      "group": "68c5b5d72550"
     },
     {
       "type": "chips",
@@ -1952,23 +1933,23 @@
       "phrase": [
         {
           "word": "Он",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "говорит",
-          "definition": "speaks\nundefined"
+          "definition": "says\nspeaks"
         },
         {
           "word": "каждый",
-          "definition": "undefined"
+          "definition": "every"
         },
         {
           "word": "язык",
-          "definition": "language\nundefined"
+          "definition": "language"
         },
         {
-          "word": "добро.",
-          "definition": "undefined"
+          "word": "хорошо.",
+          "definition": "good"
         }
       ],
       "chips": [
@@ -1992,9 +1973,9 @@
         ]
       ],
       "formattedSolution": "He speaks every language well.",
-      "id": "6342c33b7502",
+      "id": "53b36eff595e",
       "priority": 2,
-      "group": "8d621226601f"
+      "group": "68c5b5d72550"
     },
     {
       "type": "options",
@@ -2019,19 +2000,19 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nмы"
+          "definition": "мы"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "learning",
-          "definition": "undefined"
+          "definition": "учится"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "Russian",
@@ -2039,7 +2020,7 @@
         },
         {
           "word": "language.",
-          "definition": "undefined\nязык"
+          "definition": "язык"
         }
       ],
       "chips": [
@@ -2070,19 +2051,19 @@
       "phrase": [
         {
           "word": "Мы",
-          "definition": "undefined\nwe"
+          "definition": "we"
         },
         {
           "word": "учимся",
-          "definition": "undefined"
+          "definition": "learn"
         },
         {
           "word": "русского",
-          "definition": "undefined"
+          "definition": "russian"
         },
         {
           "word": "языка.",
-          "definition": "undefined"
+          "definition": "language"
         }
       ],
       "chips": [
@@ -2136,19 +2117,19 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nона"
+          "definition": "она"
         },
         {
           "word": "knows",
-          "definition": "undefined"
+          "definition": "знает"
         },
         {
           "word": "many",
-          "definition": "undefined"
+          "definition": "много"
         },
         {
           "word": "nations.",
-          "definition": "undefined"
+          "definition": "нации"
         }
       ],
       "chips": [
@@ -2179,19 +2160,19 @@
       "phrase": [
         {
           "word": "Она",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "знает",
-          "definition": "undefined"
+          "definition": "knows"
         },
         {
           "word": "много",
-          "definition": "undefined"
+          "definition": "many"
         },
         {
           "word": "народов.",
-          "definition": "undefined"
+          "definition": "nations"
         }
       ],
       "chips": [
@@ -2268,7 +2249,7 @@
       "phrase": [
         {
           "word": "language",
-          "definition": "undefined\nязык"
+          "definition": "язык"
         }
       ],
       "id": "874f51db1353",
@@ -2302,7 +2283,7 @@
       "phrase": [
         {
           "word": "country",
-          "definition": "undefined\nдержава/государство"
+          "definition": "держава/государство\nстрана"
         }
       ],
       "id": "b434cea47872",
@@ -2336,7 +2317,7 @@
       "phrase": [
         {
           "word": "nation",
-          "definition": "undefined\nнарод"
+          "definition": "народ\nнация"
         }
       ],
       "id": "ca31b5008f86",
@@ -2370,7 +2351,7 @@
       "phrase": [
         {
           "word": "name",
-          "definition": "undefined\nимя"
+          "definition": "имя"
         }
       ],
       "id": "9b37d20fa6cf",

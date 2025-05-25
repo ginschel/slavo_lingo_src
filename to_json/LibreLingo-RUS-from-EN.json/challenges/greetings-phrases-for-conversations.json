@@ -25,18 +25,18 @@
       "phrase": [
         {
           "word": "Good",
-          "definition": "undefined\nдобрый"
+          "definition": "добрый\nхороший"
         },
         {
           "word": "morning!",
-          "definition": "undefined\nутро"
+          "definition": "утро"
         }
       ],
       "chips": [
         "Доброе",
         "утро",
-        "доброе",
-        "Доброй"
+        "Добро",
+        "доброе"
       ],
       "solutions": [
         [
@@ -55,11 +55,11 @@
       "phrase": [
         {
           "word": "Доброе",
-          "definition": "undefined"
+          "definition": "good"
         },
         {
           "word": "утро!",
-          "definition": "morning\nundefined"
+          "definition": "morning"
         }
       ],
       "chips": [
@@ -102,11 +102,11 @@
       "phrase": [
         {
           "word": "Good",
-          "definition": "undefined\nдобрый"
+          "definition": "добрый\nхороший"
         },
         {
           "word": "evening!",
-          "definition": "undefined\nвечер"
+          "definition": "вечер"
         }
       ],
       "chips": [
@@ -132,11 +132,11 @@
       "phrase": [
         {
           "word": "Добрый",
-          "definition": "good\nundefined"
+          "definition": "good"
         },
         {
           "word": "вечер!",
-          "definition": "evening\nundefined"
+          "definition": "evening"
         }
       ],
       "chips": [
@@ -179,11 +179,11 @@
       "phrase": [
         {
           "word": "Good",
-          "definition": "undefined\nдобрый"
+          "definition": "добрый\nхороший"
         },
         {
           "word": "day!",
-          "definition": "undefined\nдень"
+          "definition": "день"
         }
       ],
       "chips": [
@@ -209,11 +209,11 @@
       "phrase": [
         {
           "word": "Добрый",
-          "definition": "good\nundefined"
+          "definition": "good"
         },
         {
           "word": "день!",
-          "definition": "day\nundefined"
+          "definition": "day"
         }
       ],
       "chips": [
@@ -256,17 +256,17 @@
       "phrase": [
         {
           "word": "Good",
-          "definition": "undefined\nдобрый"
+          "definition": "добрый\nхороший"
         },
         {
           "word": "night!",
-          "definition": "undefined\nночь"
+          "definition": "ночь"
         }
       ],
       "chips": [
         "Доброй",
         "ночи",
-        "добро",
+        "Добро",
         "ножи"
       ],
       "solutions": [
@@ -286,11 +286,11 @@
       "phrase": [
         {
           "word": "Доброй",
-          "definition": "undefined"
+          "definition": "good"
         },
         {
           "word": "ночи!",
-          "definition": "undefined"
+          "definition": "night"
         }
       ],
       "chips": [
@@ -312,20 +312,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Как ты есть?",
+      "formInTargetLanguage": "Как дела?",
       "meaningInSourceLanguage": "How are you?",
-      "id": "529d166bbbae",
+      "id": "5943dffe9d3b",
       "priority": 0,
-      "group": "d41cfd67710d"
+      "group": "b88d0b0252c0"
     },
     {
       "type": "listeningExercise",
-      "answer": "Как ты есть?",
+      "answer": "Как дела?",
       "meaning": "How are you?",
-      "audio": "884aeb6567467baf00fbf4c6d7bd9cb1897fce03bace4ec6a3e9be8ad8a2a384",
-      "id": "280979283e29",
+      "audio": "f3a3a95c484364bc7ed7e7c5092cfc7c00d4d56d899bb928775bb3d34299a623",
+      "id": "c1f333eb8a87",
       "priority": 1,
-      "group": "d41cfd67710d"
+      "group": "b88d0b0252c0"
     },
     {
       "type": "chips",
@@ -333,35 +333,33 @@
       "phrase": [
         {
           "word": "How",
-          "definition": "undefined"
+          "definition": "как"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "you?",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         }
       ],
       "chips": [
         "Как",
-        "ты",
-        "есть",
-        "Кто",
-        "то"
+        "дела",
+        "Та",
+        "как"
       ],
       "solutions": [
         [
           "Как",
-          "ты",
-          "есть"
+          "дела"
         ]
       ],
-      "formattedSolution": "Как ты есть?",
-      "id": "385ffe3068b9",
+      "formattedSolution": "Как дела?",
+      "id": "6b08618568b1",
       "priority": 2,
-      "group": "d41cfd67710d"
+      "group": "b88d0b0252c0"
     },
     {
       "type": "chips",
@@ -369,15 +367,11 @@
       "phrase": [
         {
           "word": "Как",
-          "definition": "undefined"
+          "definition": "as"
         },
         {
-          "word": "ты",
-          "definition": "undefined\nyou"
-        },
-        {
-          "word": "есть?",
-          "definition": "undefined"
+          "word": "дела?",
+          "definition": "affairs"
         }
       ],
       "chips": [
@@ -395,26 +389,26 @@
         ]
       ],
       "formattedSolution": "How are you?",
-      "id": "e03f5c5d0bd0",
+      "id": "b38a81a020c2",
       "priority": 2,
-      "group": "d41cfd67710d"
+      "group": "b88d0b0252c0"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Есмь добро, спасибо!",
+      "formInTargetLanguage": "Всё хорошо, спасибо!",
       "meaningInSourceLanguage": "I am well, thank you!",
-      "id": "dfea47e8b760",
+      "id": "9a916c504c4b",
       "priority": 0,
-      "group": "ff21f3a36aa5"
+      "group": "6960c366136b"
     },
     {
       "type": "listeningExercise",
-      "answer": "Есмь добро, спасибо!",
+      "answer": "Всё хорошо, спасибо!",
       "meaning": "I am well, thank you!",
-      "audio": "5a325b11947193023a31a4b3a4a18e9991697fa253f78ae7a43d7d1aa0437bf9",
-      "id": "de8a27d33449",
+      "audio": "fb838ef85f80f0ab98f5a595530a0efe962af57a48c66342f9c1bde564bbbb7b",
+      "id": "3b64d3812f70",
       "priority": 1,
-      "group": "ff21f3a36aa5"
+      "group": "6960c366136b"
     },
     {
       "type": "chips",
@@ -426,55 +420,55 @@
         },
         {
           "word": "am",
-          "definition": "undefined\nя есмь"
+          "definition": "есть\nя есть/есмь"
         },
         {
           "word": "well,",
-          "definition": "undefined"
+          "definition": "хорошо"
         },
         {
           "word": "thank",
-          "definition": "undefined"
+          "definition": "благодарить"
         },
         {
           "word": "you!",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         }
       ],
       "chips": [
-        "Есмь",
-        "добро",
+        "Всё",
+        "хорошо",
         "спасибо",
-        "есмь",
-        "Добро"
+        "со",
+        "еси"
       ],
       "solutions": [
         [
-          "Есмь",
-          "добро",
+          "Всё",
+          "хорошо",
           "спасибо"
         ]
       ],
-      "formattedSolution": "Есмь добро, спасибо!",
-      "id": "382c3e122e96",
+      "formattedSolution": "Всё хорошо, спасибо!",
+      "id": "22666b0944c4",
       "priority": 2,
-      "group": "ff21f3a36aa5"
+      "group": "6960c366136b"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Есмь",
-          "definition": "undefined"
+          "word": "Всё",
+          "definition": "everything"
         },
         {
-          "word": "добро,",
-          "definition": "undefined"
+          "word": "хорошо,",
+          "definition": "good"
         },
         {
           "word": "спасибо!",
-          "definition": "thanks\nundefined"
+          "definition": "thanks"
         }
       ],
       "chips": [
@@ -498,9 +492,9 @@
         ]
       ],
       "formattedSolution": "I am well, thank you!",
-      "id": "8dff6f5a292e",
+      "id": "b65f0444948c",
       "priority": 2,
-      "group": "ff21f3a36aa5"
+      "group": "6960c366136b"
     },
     {
       "type": "options",
@@ -525,11 +519,11 @@
       "phrase": [
         {
           "word": "And",
-          "definition": "undefined"
+          "definition": "и"
         },
         {
           "word": "you?",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         }
       ],
       "chips": [
@@ -555,11 +549,11 @@
       "phrase": [
         {
           "word": "И",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "ты?",
-          "definition": "undefined\nyou"
+          "definition": "you"
         }
       ],
       "chips": [
@@ -602,27 +596,27 @@
       "phrase": [
         {
           "word": "Thank",
-          "definition": "undefined"
+          "definition": "благодарить"
         },
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         },
         {
           "word": "very",
-          "definition": "undefined"
+          "definition": "очень"
         },
         {
           "word": "much.",
-          "definition": "undefined"
+          "definition": "много"
         }
       ],
       "chips": [
         "Спасибо",
         "тебе",
         "много",
-        "Небо",
-        "себе"
+        "него",
+        "Небо"
       ],
       "solutions": [
         [
@@ -642,15 +636,15 @@
       "phrase": [
         {
           "word": "Спасибо",
-          "definition": "thanks\nundefined"
+          "definition": "thanks"
         },
         {
           "word": "тебе",
-          "definition": "undefined"
+          "definition": "you"
         },
         {
           "word": "много.",
-          "definition": "undefined"
+          "definition": "many"
         }
       ],
       "chips": [
@@ -677,20 +671,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Пардон, не понимаю.",
+      "formInTargetLanguage": "Извини, не понимаю.",
       "meaningInSourceLanguage": "Excuse me, I don't understand.",
-      "id": "d3cfb3931c56",
+      "id": "4dd3894af903",
       "priority": 0,
-      "group": "a2b07c73db7c"
+      "group": "c261a5c9beec"
     },
     {
       "type": "listeningExercise",
-      "answer": "Пардон, не понимаю.",
+      "answer": "Извини, не понимаю.",
       "meaning": "Excuse me, I don't understand.",
-      "audio": "77b9839619231e886f9b2986832c96a8532b22eac6ca3bb75f87eff5993ff930",
-      "id": "0b747a151e4d",
+      "audio": "83f6c45b77f4c9c958ab0e68529d1d05cdbe48722461f9cea3a13c643a518796",
+      "id": "a06d2ff0fc30",
       "priority": 1,
-      "group": "a2b07c73db7c"
+      "group": "c261a5c9beec"
     },
     {
       "type": "chips",
@@ -698,11 +692,11 @@
       "phrase": [
         {
           "word": "Excuse",
-          "definition": "undefined"
+          "definition": "извините"
         },
         {
           "word": "me,",
-          "definition": "undefined"
+          "definition": "меня"
         },
         {
           "word": "I",
@@ -710,47 +704,47 @@
         },
         {
           "word": "don't",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "understand.",
-          "definition": "undefined"
+          "definition": "понимать"
         }
       ],
       "chips": [
-        "Пардон",
+        "Извини",
         "не",
         "понимаю",
-        "над",
-        "дом"
+        "Они",
+        "вина"
       ],
       "solutions": [
         [
-          "Пардон",
+          "Извини",
           "не",
           "понимаю"
         ]
       ],
-      "formattedSolution": "Пардон, не понимаю.",
-      "id": "89fe720ee049",
+      "formattedSolution": "Извини, не понимаю.",
+      "id": "562b6aeca200",
       "priority": 2,
-      "group": "a2b07c73db7c"
+      "group": "c261a5c9beec"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Пардон,",
-          "definition": "pardon\nundefined"
+          "word": "Извини,",
+          "definition": "excuse me"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "no"
         },
         {
           "word": "понимаю.",
-          "definition": "undefined"
+          "definition": "understand"
         }
       ],
       "chips": [
@@ -774,9 +768,9 @@
         ]
       ],
       "formattedSolution": "Excuse me, I don't understand.",
-      "id": "a21c42462ba5",
+      "id": "101a91e54e6e",
       "priority": 2,
-      "group": "a2b07c73db7c"
+      "group": "c261a5c9beec"
     },
     {
       "type": "options",
@@ -814,20 +808,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Добрый день, как ты есть?",
+      "formInTargetLanguage": "Добрый день, как дела?",
       "meaningInSourceLanguage": "Good day, how are you?",
-      "id": "ee0ac3f2aed2",
+      "id": "1523bc2b2aaf",
       "priority": 0,
-      "group": "5cb326008c8a"
+      "group": "f62a182d1ea3"
     },
     {
       "type": "listeningExercise",
-      "answer": "Добрый день, как ты есть?",
+      "answer": "Добрый день, как дела?",
       "meaning": "Good day, how are you?",
-      "audio": "478b2f3f6b8d8e9ed8dab8d5c86db2dd35b00e01deed5da9aab1fba363d0b228",
-      "id": "bc830b99a09c",
+      "audio": "cf745f4cab738795b7a14418f85f7e8dd4e584dfc69c2fcbe38064e99718d2f0",
+      "id": "7b7b2cdde99b",
       "priority": 1,
-      "group": "5cb326008c8a"
+      "group": "f62a182d1ea3"
     },
     {
       "type": "chips",
@@ -835,49 +829,46 @@
       "phrase": [
         {
           "word": "Good",
-          "definition": "undefined\nдобрый"
+          "definition": "добрый\nхороший"
         },
         {
           "word": "day,",
-          "definition": "undefined\nдень"
+          "definition": "день"
         },
         {
           "word": "how",
-          "definition": "undefined"
+          "definition": "как"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "you?",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         }
       ],
       "chips": [
         "Добрый",
         "день",
         "как",
-        "ты",
-        "есть",
-        "то",
-        "ест",
-        "ешь",
-        "еды"
+        "дела",
+        "дар",
+        "дом",
+        "Да"
       ],
       "solutions": [
         [
           "Добрый",
           "день",
           "как",
-          "ты",
-          "есть"
+          "дела"
         ]
       ],
-      "formattedSolution": "Добрый день, как ты есть?",
-      "id": "253f947d8f30",
+      "formattedSolution": "Добрый день, как дела?",
+      "id": "5b1c434e160f",
       "priority": 2,
-      "group": "5cb326008c8a"
+      "group": "f62a182d1ea3"
     },
     {
       "type": "chips",
@@ -885,23 +876,19 @@
       "phrase": [
         {
           "word": "Добрый",
-          "definition": "good\nundefined"
+          "definition": "good"
         },
         {
           "word": "день,",
-          "definition": "day\nundefined"
+          "definition": "day"
         },
         {
           "word": "как",
-          "definition": "undefined"
+          "definition": "as"
         },
         {
-          "word": "ты",
-          "definition": "undefined\nyou"
-        },
-        {
-          "word": "есть?",
-          "definition": "undefined"
+          "word": "дела?",
+          "definition": "affairs"
         }
       ],
       "chips": [
@@ -925,26 +912,26 @@
         ]
       ],
       "formattedSolution": "Good day, how are you?",
-      "id": "c52aeb067639",
+      "id": "d3146e3bdcba",
       "priority": 2,
-      "group": "5cb326008c8a"
+      "group": "f62a182d1ea3"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Еси ли ты здоров?",
+      "formInTargetLanguage": "Ты здоров?",
       "meaningInSourceLanguage": "Are you healthy?",
-      "id": "e081afb7afaa",
+      "id": "2a8017498ae7",
       "priority": 0,
-      "group": "a24707692095"
+      "group": "92d7912d01a7"
     },
     {
       "type": "listeningExercise",
-      "answer": "Еси ли ты здоров?",
+      "answer": "Ты здоров?",
       "meaning": "Are you healthy?",
-      "audio": "c7aaf504e5883451d3790697667d904f650582caf3bad2d2a8a463d12b6b9775",
-      "id": "a00372b5f9c1",
+      "audio": "a99c8b74dbb81bfabbe00f27fcce8730006315b495ee1b826dc57afc6edf1c67",
+      "id": "f20c1cb21ca2",
       "priority": 1,
-      "group": "a24707692095"
+      "group": "92d7912d01a7"
     },
     {
       "type": "chips",
@@ -952,58 +939,45 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         },
         {
           "word": "healthy?",
-          "definition": "undefined"
+          "definition": "здоровый"
         }
       ],
       "chips": [
-        "Еси",
-        "ли",
-        "ты",
+        "Ты",
         "здоров",
-        "то",
-        "со",
-        "три"
+        "до",
+        "Мы"
       ],
       "solutions": [
         [
-          "Еси",
-          "ли",
-          "ты",
+          "Ты",
           "здоров"
         ]
       ],
-      "formattedSolution": "Еси ли ты здоров?",
-      "id": "5d929a4187be",
+      "formattedSolution": "Ты здоров?",
+      "id": "e79892e6d98f",
       "priority": 2,
-      "group": "a24707692095"
+      "group": "92d7912d01a7"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Еси",
-          "definition": "undefined"
-        },
-        {
-          "word": "ли",
-          "definition": "undefined"
-        },
-        {
-          "word": "ты",
-          "definition": "undefined\nyou"
+          "word": "Ты",
+          "definition": "you"
         },
         {
           "word": "здоров?",
-          "definition": "undefined"
+          "definition": "healthy"
         }
       ],
       "chips": [
@@ -1021,9 +995,9 @@
         ]
       ],
       "formattedSolution": "Are you healthy?",
-      "id": "534aac7f19de",
+      "id": "3604910dbedc",
       "priority": 2,
-      "group": "a24707692095"
+      "group": "92d7912d01a7"
     },
     {
       "type": "options",
@@ -1065,15 +1039,15 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "your",
-          "definition": "undefined"
+          "definition": "твой"
         },
         {
           "word": "health!",
-          "definition": "undefined"
+          "definition": "здоровье"
         }
       ],
       "chips": [
@@ -1099,11 +1073,11 @@
       "phrase": [
         {
           "word": "На",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "здоровье!",
-          "definition": "undefined"
+          "definition": "health"
         }
       ],
       "chips": [
@@ -1148,15 +1122,15 @@
       "phrase": [
         {
           "word": "Greet",
-          "definition": "undefined"
+          "definition": "приветствовать"
         },
         {
           "word": "your",
-          "definition": "undefined"
+          "definition": "твой"
         },
         {
           "word": "sister.",
-          "definition": "undefined\nсестра"
+          "definition": "сестра"
         }
       ],
       "chips": [
@@ -1184,15 +1158,15 @@
       "phrase": [
         {
           "word": "Приветствуй",
-          "definition": "undefined"
+          "definition": "greet"
         },
         {
           "word": "твою",
-          "definition": "undefined"
+          "definition": "your"
         },
         {
           "word": "сестру.",
-          "definition": "undefined"
+          "definition": "sister"
         }
       ],
       "chips": [
@@ -1237,19 +1211,19 @@
       "phrase": [
         {
           "word": "What",
-          "definition": "undefined\nчто"
+          "definition": "что"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "your",
-          "definition": "undefined"
+          "definition": "твой"
         },
         {
           "word": "name?",
-          "definition": "undefined\nимя"
+          "definition": "имя"
         }
       ],
       "chips": [
@@ -1277,15 +1251,15 @@
       "phrase": [
         {
           "word": "Как",
-          "definition": "undefined"
+          "definition": "as"
         },
         {
           "word": "тебя",
-          "definition": "undefined"
+          "definition": "you"
         },
         {
           "word": "зовут?",
-          "definition": "undefined"
+          "definition": "call"
         }
       ],
       "chips": [
@@ -1333,19 +1307,19 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "undefined"
+          "definition": "мой"
         },
         {
           "word": "name",
-          "definition": "undefined\nимя"
+          "definition": "имя"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "Bartek.",
-          "definition": "undefined"
+          "definition": "бартек"
         }
       ],
       "chips": [
@@ -1373,15 +1347,15 @@
       "phrase": [
         {
           "word": "Меня",
-          "definition": "undefined"
+          "definition": "me"
         },
         {
           "word": "зовут",
-          "definition": "undefined"
+          "definition": "call"
         },
         {
           "word": "Бартек.",
-          "definition": "undefined"
+          "definition": "bartek"
         }
       ],
       "chips": [
@@ -1429,23 +1403,23 @@
       "phrase": [
         {
           "word": "Thank",
-          "definition": "undefined"
+          "definition": "благодарить"
         },
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         },
         {
           "word": "for",
-          "definition": "undefined\nза"
+          "definition": "для\nза"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "conversation.",
-          "definition": "undefined\nбеседа"
+          "definition": "беседа\nразговор"
         }
       ],
       "chips": [
@@ -1473,15 +1447,15 @@
       "phrase": [
         {
           "word": "Благодарю",
-          "definition": "undefined"
+          "definition": "thank"
         },
         {
           "word": "за",
-          "definition": "for\nundefined"
+          "definition": "behind\nfor"
         },
         {
           "word": "беседу.",
-          "definition": "undefined"
+          "definition": "conversation"
         }
       ],
       "chips": [
@@ -1532,15 +1506,15 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "undefined\nэтот (муж. р.)"
+          "definition": "что\nэтот (муж. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "so.",
-          "definition": "undefined\nтак"
+          "definition": "так"
         }
       ],
       "chips": [
@@ -1566,11 +1540,11 @@
       "phrase": [
         {
           "word": "Так",
-          "definition": "so\nundefined"
+          "definition": "so"
         },
         {
           "word": "есть.",
-          "definition": "undefined"
+          "definition": "is"
         }
       ],
       "chips": [
@@ -1615,11 +1589,11 @@
       "phrase": [
         {
           "word": "Not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "so.",
-          "definition": "undefined\nтак"
+          "definition": "так"
         }
       ],
       "chips": [
@@ -1645,11 +1619,11 @@
       "phrase": [
         {
           "word": "Не",
-          "definition": "undefined"
+          "definition": "no"
         },
         {
           "word": "так.",
-          "definition": "so\nundefined"
+          "definition": "so"
         }
       ],
       "chips": [
@@ -1739,20 +1713,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Не добро.",
+      "formInTargetLanguage": "Не хорошо.",
       "meaningInSourceLanguage": "Not good.",
-      "id": "feeb98077cf3",
+      "id": "daa5c0d5494f",
       "priority": 0,
-      "group": "8ca25243a341"
+      "group": "6f43bad35f70"
     },
     {
       "type": "listeningExercise",
-      "answer": "Не добро.",
+      "answer": "Не хорошо.",
       "meaning": "Not good.",
-      "audio": "e6d0e4311ebefd4378a0116d21644edfcc2d3793aef4edc981c4b40542bdbbc3",
-      "id": "6a47356edcf6",
+      "audio": "8e7f81ba79d6bdbec8f38ddf971763402da64e2a28b58e222bddebd265823bb1",
+      "id": "e5561fa37bee",
       "priority": 1,
-      "group": "8ca25243a341"
+      "group": "6f43bad35f70"
     },
     {
       "type": "chips",
@@ -1760,29 +1734,29 @@
       "phrase": [
         {
           "word": "Not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "good.",
-          "definition": "undefined\nдобрый"
+          "definition": "добрый\nхороший"
         }
       ],
       "chips": [
         "Не",
-        "добро",
-        "до",
-        "Небо"
+        "хорошо",
+        "то",
+        "не"
       ],
       "solutions": [
         [
           "Не",
-          "добро"
+          "хорошо"
         ]
       ],
-      "formattedSolution": "Не добро.",
-      "id": "3d9a434e3503",
+      "formattedSolution": "Не хорошо.",
+      "id": "b761f386f548",
       "priority": 2,
-      "group": "8ca25243a341"
+      "group": "6f43bad35f70"
     },
     {
       "type": "chips",
@@ -1790,11 +1764,11 @@
       "phrase": [
         {
           "word": "Не",
-          "definition": "undefined"
+          "definition": "no"
         },
         {
-          "word": "добро.",
-          "definition": "undefined"
+          "word": "хорошо.",
+          "definition": "good"
         }
       ],
       "chips": [
@@ -1810,9 +1784,9 @@
         ]
       ],
       "formattedSolution": "Not good.",
-      "id": "de071ad81ee6",
+      "id": "bec9afe64c3f",
       "priority": 2,
-      "group": "8ca25243a341"
+      "group": "6f43bad35f70"
     },
     {
       "type": "options",
@@ -1837,15 +1811,15 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "better.",
-          "definition": "undefined\nлучше"
+          "definition": "лучше"
         }
       ],
       "chips": [
@@ -1873,15 +1847,15 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "лучше.",
-          "definition": "better\nundefined"
+          "definition": "better"
         }
       ],
       "chips": [
@@ -1905,20 +1879,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Это не есть лучше.",
+      "formInTargetLanguage": "Это не лучше.",
       "meaningInSourceLanguage": "This is not better.",
-      "id": "8ef2f8a5cf68",
+      "id": "d06e0fad31ff",
       "priority": 0,
-      "group": "592b81d647ee"
+      "group": "b0a4f6a10ceb"
     },
     {
       "type": "listeningExercise",
-      "answer": "Это не есть лучше.",
+      "answer": "Это не лучше.",
       "meaning": "This is not better.",
-      "audio": "8c0b50e17dced4fd88085dbda8d85faf10578558ec774d7989794b25dd775827",
-      "id": "18d8438ac4c6",
+      "audio": "c2ec46dcb78cdaf3494682ed23497994e9afdad280e2f3d9724caf503dc22423",
+      "id": "066da480c195",
       "priority": 1,
-      "group": "592b81d647ee"
+      "group": "b0a4f6a10ceb"
     },
     {
       "type": "chips",
@@ -1926,42 +1900,39 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "better.",
-          "definition": "undefined\nлучше"
+          "definition": "лучше"
         }
       ],
       "chips": [
         "Это",
         "не",
-        "есть",
         "лучше",
-        "есте",
         "то",
-        "сто"
+        "Не"
       ],
       "solutions": [
         [
           "Это",
           "не",
-          "есть",
           "лучше"
         ]
       ],
-      "formattedSolution": "Это не есть лучше.",
-      "id": "d48e5ac71ac6",
+      "formattedSolution": "Это не лучше.",
+      "id": "81dec55becf2",
       "priority": 2,
-      "group": "592b81d647ee"
+      "group": "b0a4f6a10ceb"
     },
     {
       "type": "chips",
@@ -1969,19 +1940,15 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "не",
-          "definition": "undefined"
-        },
-        {
-          "word": "есть",
-          "definition": "undefined"
+          "definition": "no"
         },
         {
           "word": "лучше.",
-          "definition": "better\nundefined"
+          "definition": "better"
         }
       ],
       "chips": [
@@ -2002,9 +1969,9 @@
         ]
       ],
       "formattedSolution": "This is not better.",
-      "id": "aad81b3a934b",
+      "id": "3d3afe6c8798",
       "priority": 2,
-      "group": "592b81d647ee"
+      "group": "b0a4f6a10ceb"
     },
     {
       "type": "options",
@@ -2029,19 +1996,19 @@
       "phrase": [
         {
           "word": "Yes,",
-          "definition": "undefined\nда"
+          "definition": "да"
         },
         {
           "word": "it",
-          "definition": "undefined\nоно"
+          "definition": "оно\nэто"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "possible.",
-          "definition": "undefined\nможно"
+          "definition": "возможно\nможно"
         }
       ],
       "chips": [
@@ -2067,11 +2034,11 @@
       "phrase": [
         {
           "word": "Да,",
-          "definition": "undefined\nyes"
+          "definition": "yes"
         },
         {
           "word": "может.",
-          "definition": "undefined"
+          "definition": "can"
         }
       ],
       "chips": [
@@ -2119,23 +2086,23 @@
       "phrase": [
         {
           "word": "No,",
-          "definition": "undefined\nнет"
+          "definition": "нет"
         },
         {
           "word": "it",
-          "definition": "undefined\nоно"
+          "definition": "оно\nэто"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "possible.",
-          "definition": "undefined\nможно"
+          "definition": "возможно\nможно"
         }
       ],
       "chips": [
@@ -2161,11 +2128,11 @@
       "phrase": [
         {
           "word": "Нет,",
-          "definition": "no\nundefined"
+          "definition": "no"
         },
         {
           "word": "невозможно.",
-          "definition": "undefined"
+          "definition": "impossible"
         }
       ],
       "chips": [
@@ -2195,20 +2162,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Есть ли это возможно?",
+      "formInTargetLanguage": "Это возможно?",
       "meaningInSourceLanguage": "Is this possible?",
-      "id": "ea53fbd84906",
+      "id": "1c5486f5f05b",
       "priority": 0,
-      "group": "91adfe8f5f1f"
+      "group": "8a4a40e324cb"
     },
     {
       "type": "listeningExercise",
-      "answer": "Есть ли это возможно?",
+      "answer": "Это возможно?",
       "meaning": "Is this possible?",
-      "audio": "e597563371760ad5b98bdba1a79ef6990f132d0e546d7b92a33eb721b033e1f6",
-      "id": "f5163369d4ae",
+      "audio": "952e214b3f6139a53e381cc09b07e32e2e7bafd8dafe8e9eaa6c81cde973fa76",
+      "id": "e180f91d2167",
       "priority": 1,
-      "group": "91adfe8f5f1f"
+      "group": "8a4a40e324cb"
     },
     {
       "type": "chips",
@@ -2216,58 +2183,45 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "this",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "possible?",
-          "definition": "undefined\nможно"
+          "definition": "возможно\nможно"
         }
       ],
       "chips": [
-        "Есть",
-        "ли",
-        "это",
+        "Это",
         "возможно",
-        "то",
-        "сто",
-        "Это"
+        "можно",
+        "Кто"
       ],
       "solutions": [
         [
-          "Есть",
-          "ли",
-          "это",
+          "Это",
           "возможно"
         ]
       ],
-      "formattedSolution": "Есть ли это возможно?",
-      "id": "197cb4c6df9c",
+      "formattedSolution": "Это возможно?",
+      "id": "da440821a566",
       "priority": 2,
-      "group": "91adfe8f5f1f"
+      "group": "8a4a40e324cb"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Есть",
-          "definition": "undefined"
-        },
-        {
-          "word": "ли",
-          "definition": "undefined"
-        },
-        {
-          "word": "это",
-          "definition": "undefined"
+          "word": "Это",
+          "definition": "it"
         },
         {
           "word": "возможно?",
-          "definition": "undefined"
+          "definition": "perhaps"
         }
       ],
       "chips": [
@@ -2285,9 +2239,9 @@
         ]
       ],
       "formattedSolution": "Is this possible?",
-      "id": "4652642748eb",
+      "id": "6cd57e46c464",
       "priority": 2,
-      "group": "91adfe8f5f1f"
+      "group": "8a4a40e324cb"
     },
     {
       "type": "options",
@@ -2312,19 +2266,19 @@
       "phrase": [
         {
           "word": "What",
-          "definition": "undefined\nчто"
+          "definition": "что"
         },
         {
           "word": "does",
-          "definition": "undefined"
+          "definition": "делает"
         },
         {
           "word": "this",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "mean?",
-          "definition": "undefined"
+          "definition": "означать"
         }
       ],
       "chips": [
@@ -2352,15 +2306,15 @@
       "phrase": [
         {
           "word": "Что",
-          "definition": "undefined\nwhat"
+          "definition": "what"
         },
         {
           "word": "это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "значит?",
-          "definition": "undefined"
+          "definition": "means"
         }
       ],
       "chips": [
@@ -2408,11 +2362,11 @@
       "phrase": [
         {
           "word": "Me",
-          "definition": "undefined"
+          "definition": "меня"
         },
         {
           "word": "too.",
-          "definition": "undefined"
+          "definition": "тоже"
         }
       ],
       "chips": [
@@ -2438,11 +2392,11 @@
       "phrase": [
         {
           "word": "Тоже",
-          "definition": "also\nundefined"
+          "definition": "also"
         },
         {
           "word": "я.",
-          "definition": "I\nundefined"
+          "definition": "I\ni"
         }
       ],
       "chips": [
@@ -2485,15 +2439,15 @@
       "phrase": [
         {
           "word": "Go",
-          "definition": "undefined"
+          "definition": "идти"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "с"
         },
         {
           "word": "God!",
-          "definition": "undefined"
+          "definition": "бог"
         }
       ],
       "chips": [
@@ -2519,11 +2473,11 @@
       "phrase": [
         {
           "word": "С",
-          "definition": "undefined"
+          "definition": "with"
         },
         {
           "word": "Богом!",
-          "definition": "undefined"
+          "definition": "god"
         }
       ],
       "chips": [
@@ -2572,11 +2526,11 @@
         },
         {
           "word": "don't",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "know.",
-          "definition": "undefined"
+          "definition": "знать"
         }
       ],
       "chips": [
@@ -2602,11 +2556,11 @@
       "phrase": [
         {
           "word": "Не",
-          "definition": "undefined"
+          "definition": "no"
         },
         {
           "word": "знаю.",
-          "definition": "undefined"
+          "definition": "know"
         }
       ],
       "chips": [
@@ -2668,7 +2622,7 @@
       "phrase": [
         {
           "word": "Repeat.",
-          "definition": "undefined"
+          "definition": "повторять"
         },
         {
           "word": "I",
@@ -2676,11 +2630,11 @@
         },
         {
           "word": "didn't",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "understand.",
-          "definition": "undefined"
+          "definition": "понимать"
         }
       ],
       "chips": [
@@ -2708,15 +2662,15 @@
       "phrase": [
         {
           "word": "Повтори.",
-          "definition": "undefined"
+          "definition": "repeat"
         },
         {
           "word": "Не",
-          "definition": "undefined"
+          "definition": "no"
         },
         {
           "word": "понял.",
-          "definition": "undefined"
+          "definition": "understood"
         }
       ],
       "chips": [
@@ -2743,20 +2697,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Еси ли готов?",
+      "formInTargetLanguage": "Ти готов?",
       "meaningInSourceLanguage": "Are you ready?",
-      "id": "3307a501829e",
+      "id": "bc803796bd54",
       "priority": 0,
-      "group": "1e04eb95e8c3"
+      "group": "f9c3400449a3"
     },
     {
       "type": "listeningExercise",
-      "answer": "Еси ли готов?",
+      "answer": "Ти готов?",
       "meaning": "Are you ready?",
-      "audio": "12b2ea8afa540727360be72e7b478dc6dead2640da7f6c75ff5147009f38e66a",
-      "id": "fae53734aede",
+      "audio": "b7a48857a11e67adfcf390793f75baa731944bda4461ef76f97b38f90b8457cc",
+      "id": "a174e29a0097",
       "priority": 1,
-      "group": "1e04eb95e8c3"
+      "group": "f9c3400449a3"
     },
     {
       "type": "chips",
@@ -2764,51 +2718,45 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         },
         {
           "word": "ready?",
-          "definition": "undefined"
+          "definition": "готовый"
         }
       ],
       "chips": [
-        "Еси",
-        "ли",
+        "Ти",
         "готов",
-        "еси",
+        "Тот",
         "то"
       ],
       "solutions": [
         [
-          "Еси",
-          "ли",
+          "Ти",
           "готов"
         ]
       ],
-      "formattedSolution": "Еси ли готов?",
-      "id": "e98f6fa57f66",
+      "formattedSolution": "Ти готов?",
+      "id": "d9f5efcb47d5",
       "priority": 2,
-      "group": "1e04eb95e8c3"
+      "group": "f9c3400449a3"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Еси",
-          "definition": "undefined"
-        },
-        {
-          "word": "ли",
-          "definition": "undefined"
+          "word": "Ти",
+          "definition": "you"
         },
         {
           "word": "готов?",
-          "definition": "undefined"
+          "definition": "ready"
         }
       ],
       "chips": [
@@ -2826,9 +2774,9 @@
         ]
       ],
       "formattedSolution": "Are you ready?",
-      "id": "033b8f2bcac9",
+      "id": "581c0731fc55",
       "priority": 2,
-      "group": "1e04eb95e8c3"
+      "group": "f9c3400449a3"
     },
     {
       "type": "options",
@@ -2865,7 +2813,7 @@
       "phrase": [
         {
           "word": "greeting",
-          "definition": "undefined\nприветствие"
+          "definition": "приветствие"
         }
       ],
       "id": "7fd9a5cfd3a5",
@@ -2884,36 +2832,36 @@
     {
       "type": "cards",
       "pictures": null,
-      "formInTargetLanguage": "здоровый/привет",
+      "formInTargetLanguage": "Здравствуй/привет",
       "meaningInSourceLanguage": "healthy/hello",
-      "id": "fe3399d6675e",
+      "id": "fa8f03e4aae8",
       "priority": 0,
-      "group": "15ba74872790"
+      "group": "653285b23c35"
     },
     {
       "type": "shortInput",
       "pictures": null,
       "formInTargetLanguage": [
-        "здоровый/привет"
+        "Здравствуй/привет"
       ],
       "phrase": [
         {
           "word": "healthy/hello",
-          "definition": "undefined\nздоровый/привет"
+          "definition": "Здравствуй/привет\nздравствуйте"
         }
       ],
-      "id": "e9fdfe055626",
+      "id": "5a6d21a21a5b",
       "priority": 1,
-      "group": "15ba74872790"
+      "group": "653285b23c35"
     },
     {
       "type": "listeningExercise",
-      "answer": "здоровый/привет",
+      "answer": "Здравствуй/привет",
       "meaning": "healthy/hello",
-      "audio": "d94388bb7659f462e8092f0613f061a15b69a89eea51c04076ef6f87c054f262",
-      "id": "9d762af43e03",
+      "audio": "dc8ae1359a1ea7aa995fff3a0a7692cb5764b3421afc795b56c46d73d7dd2e39",
+      "id": "ab5932d1a3a3",
       "priority": 1,
-      "group": "15ba74872790"
+      "group": "653285b23c35"
     },
     {
       "type": "cards",
@@ -2933,7 +2881,7 @@
       "phrase": [
         {
           "word": "conversation",
-          "definition": "undefined\nбеседа"
+          "definition": "беседа\nразговор"
         }
       ],
       "id": "2fe52d59a2ae",
@@ -2967,7 +2915,7 @@
       "phrase": [
         {
           "word": "morning",
-          "definition": "undefined\nутро"
+          "definition": "утро"
         }
       ],
       "id": "ef335fb5a732",
@@ -3001,7 +2949,7 @@
       "phrase": [
         {
           "word": "evening",
-          "definition": "undefined\nвечер"
+          "definition": "вечер"
         }
       ],
       "id": "d5b5f1620684",
@@ -3035,7 +2983,7 @@
       "phrase": [
         {
           "word": "day",
-          "definition": "undefined\nдень"
+          "definition": "день"
         }
       ],
       "id": "fe104092cabc",
@@ -3069,7 +3017,7 @@
       "phrase": [
         {
           "word": "night",
-          "definition": "undefined\nночь"
+          "definition": "ночь"
         }
       ],
       "id": "ec7f7e8f61f6",
@@ -3103,7 +3051,7 @@
       "phrase": [
         {
           "word": "thanks",
-          "definition": "undefined\nспасибо"
+          "definition": "спасибо"
         }
       ],
       "id": "4d7cc3aa77d9",
@@ -3137,7 +3085,7 @@
       "phrase": [
         {
           "word": "pardon",
-          "definition": "undefined\nпардон"
+          "definition": "пардон\nпростите"
         }
       ],
       "id": "22e5e7540bde",
@@ -3171,11 +3119,11 @@
       "phrase": [
         {
           "word": "excuse",
-          "definition": "undefined"
+          "definition": "извините"
         },
         {
           "word": "me",
-          "definition": "undefined"
+          "definition": "меня"
         }
       ],
       "id": "68c0aca20d63",
@@ -3209,7 +3157,7 @@
       "phrase": [
         {
           "word": "good",
-          "definition": "undefined\nдобрый"
+          "definition": "добрый\nхороший"
         }
       ],
       "id": "fa6f6d24ecf8",
@@ -3243,7 +3191,7 @@
       "phrase": [
         {
           "word": "better",
-          "definition": "undefined\nлучше"
+          "definition": "лучше"
         }
       ],
       "id": "4c08b5cae192",
@@ -3277,7 +3225,7 @@
       "phrase": [
         {
           "word": "possible",
-          "definition": "undefined\nможно"
+          "definition": "возможно\nможно"
         }
       ],
       "id": "7344ee6cb801",
@@ -3311,7 +3259,7 @@
       "phrase": [
         {
           "word": "pity",
-          "definition": "undefined\nжаль"
+          "definition": "жаль"
         }
       ],
       "id": "37ae00aa02ce",
@@ -3345,7 +3293,7 @@
       "phrase": [
         {
           "word": "so",
-          "definition": "undefined\nтак"
+          "definition": "так"
         }
       ],
       "id": "655fbd8fdcbc",
@@ -3379,7 +3327,7 @@
       "phrase": [
         {
           "word": "what",
-          "definition": "undefined\nчто"
+          "definition": "что"
         }
       ],
       "id": "5cb292c5d2de",
@@ -3413,7 +3361,7 @@
       "phrase": [
         {
           "word": "no",
-          "definition": "undefined\nнет"
+          "definition": "нет"
         }
       ],
       "id": "403cd2b7c650",
@@ -3447,7 +3395,7 @@
       "phrase": [
         {
           "word": "yes",
-          "definition": "undefined\nда"
+          "definition": "да"
         }
       ],
       "id": "bb9aca8a5f4f",
@@ -3481,7 +3429,7 @@
       "phrase": [
         {
           "word": "maybe/can",
-          "definition": "undefined\nможет быть"
+          "definition": "может быть"
         }
       ],
       "id": "2e7f33b1c456",
@@ -3515,11 +3463,11 @@
       "phrase": [
         {
           "word": "let's",
-          "definition": "undefined"
+          "definition": "давайте"
         },
         {
           "word": "go",
-          "definition": "undefined"
+          "definition": "идти"
         }
       ],
       "id": "1bb5f0328714",

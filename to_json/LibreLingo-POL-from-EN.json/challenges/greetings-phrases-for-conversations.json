@@ -4,20 +4,20 @@
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Dzień dobry (rano)!",
+      "formInTargetLanguage": "Dzień dobry!",
       "meaningInSourceLanguage": "Good morning!",
-      "id": "95dc35fd97e3",
+      "id": "ac9b770d8f89",
       "priority": 0,
-      "group": "fc1d572296ab"
+      "group": "2241b5734d82"
     },
     {
       "type": "listeningExercise",
-      "answer": "Dzień dobry (rano)!",
+      "answer": "Dzień dobry!",
       "meaning": "Good morning!",
-      "audio": "74b2613683bab795f1bacff662693f02a23bb06873682790ceb89354038fa28e",
-      "id": "5c26672b8fb2",
+      "audio": "48a9e4386bbb5cfdb564b762e6b15b5a4ef307cbc8ef6cb6bd3150cb1ff9f835",
+      "id": "8d7a3c71435a",
       "priority": 1,
-      "group": "fc1d572296ab"
+      "group": "2241b5734d82"
     },
     {
       "type": "chips",
@@ -25,31 +25,29 @@
       "phrase": [
         {
           "word": "Good",
-          "definition": "dobry\nundefined"
+          "definition": "dobry"
         },
         {
           "word": "morning!",
-          "definition": "rano\nundefined"
+          "definition": "ranek\nrano"
         }
       ],
       "chips": [
         "Dzień",
         "dobry",
-        "rano",
         "dzień",
         "Dobry"
       ],
       "solutions": [
         [
           "Dzień",
-          "dobry",
-          "rano"
+          "dobry"
         ]
       ],
-      "formattedSolution": "Dzień dobry (rano)!",
-      "id": "7fa46d6b36f7",
+      "formattedSolution": "Dzień dobry!",
+      "id": "0f97243452e8",
       "priority": 2,
-      "group": "fc1d572296ab"
+      "group": "2241b5734d82"
     },
     {
       "type": "chips",
@@ -57,15 +55,11 @@
       "phrase": [
         {
           "word": "Dzień",
-          "definition": "day\nundefined"
+          "definition": "day"
         },
         {
-          "word": "dobry",
-          "definition": "good\nundefined"
-        },
-        {
-          "word": "(rano)!",
-          "definition": "in the morning\nmorning\nundefined"
+          "word": "dobry!",
+          "definition": "good"
         }
       ],
       "chips": [
@@ -81,9 +75,9 @@
         ]
       ],
       "formattedSolution": "Good morning!",
-      "id": "ccb6d44c8ac8",
+      "id": "5565285a662b",
       "priority": 2,
-      "group": "fc1d572296ab"
+      "group": "2241b5734d82"
     },
     {
       "type": "options",
@@ -108,11 +102,11 @@
       "phrase": [
         {
           "word": "Good",
-          "definition": "dobry\nundefined"
+          "definition": "dobry"
         },
         {
           "word": "evening!",
-          "definition": "undefined\nwieczór"
+          "definition": "wieczór"
         }
       ],
       "chips": [
@@ -138,11 +132,11 @@
       "phrase": [
         {
           "word": "Dobry",
-          "definition": "good\nundefined"
+          "definition": "good"
         },
         {
           "word": "wieczór!",
-          "definition": "evening\nundefined"
+          "definition": "evening"
         }
       ],
       "chips": [
@@ -185,11 +179,11 @@
       "phrase": [
         {
           "word": "Good",
-          "definition": "dobry\nundefined"
+          "definition": "dobry"
         },
         {
           "word": "day!",
-          "definition": "dzień\nundefined"
+          "definition": "dzień"
         }
       ],
       "chips": [
@@ -215,11 +209,11 @@
       "phrase": [
         {
           "word": "Dobry",
-          "definition": "good\nundefined"
+          "definition": "good"
         },
         {
           "word": "dzień!",
-          "definition": "day\nundefined"
+          "definition": "day"
         }
       ],
       "chips": [
@@ -241,80 +235,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Dobra noc!",
+      "formInTargetLanguage": "Dobranoc!",
       "meaningInSourceLanguage": "Good night!",
-      "id": "1ca6218ac22d",
+      "id": "e57afef130c6",
       "priority": 0,
-      "group": "e7318a79f41a"
+      "group": "926249d1b626"
     },
     {
       "type": "listeningExercise",
-      "answer": "Dobra noc!",
+      "answer": "Dobranoc!",
       "meaning": "Good night!",
-      "audio": "45d3fb53936bd846cb5843e62637f8282d559d45965b601c8b11208a3cab0ff6",
-      "id": "54533ab3ce5c",
+      "audio": "b303bd933a16d993420a7960a1fff86dd8af2da4b36e60dbc657e4a489ab6cd8",
+      "id": "69df16383376",
       "priority": 1,
-      "group": "e7318a79f41a"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "Good",
-          "definition": "dobry\nundefined"
-        },
-        {
-          "word": "night!",
-          "definition": "noc\nundefined"
-        }
-      ],
-      "chips": [
-        "Dobra",
-        "noc",
-        "dobra",
-        "nowa"
-      ],
-      "solutions": [
-        [
-          "Dobra",
-          "noc"
-        ]
-      ],
-      "formattedSolution": "Dobra noc!",
-      "id": "aaff5ffcae12",
-      "priority": 2,
-      "group": "e7318a79f41a"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "Dobra",
-          "definition": "undefined"
-        },
-        {
-          "word": "noc!",
-          "definition": "night\nundefined"
-        }
-      ],
-      "chips": [
-        "Good",
-        "night",
-        "good",
-        "not"
-      ],
-      "solutions": [
-        [
-          "Good",
-          "night"
-        ]
-      ],
-      "formattedSolution": "Good night!",
-      "id": "abca1ee19851",
-      "priority": 2,
-      "group": "e7318a79f41a"
+      "group": "926249d1b626"
     },
     {
       "type": "options",
@@ -339,15 +273,15 @@
       "phrase": [
         {
           "word": "How",
-          "definition": "undefined"
+          "definition": "jak"
         },
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "you?",
-          "definition": "ty\nundefined\nwy"
+          "definition": "ty\nwy"
         }
       ],
       "chips": [
@@ -375,15 +309,15 @@
       "phrase": [
         {
           "word": "Jak",
-          "definition": "undefined"
+          "definition": "how"
         },
         {
           "word": "się",
-          "definition": "undefined"
+          "definition": "oneself"
         },
         {
           "word": "masz?",
-          "definition": "undefined"
+          "definition": "you have"
         }
       ],
       "chips": [
@@ -432,19 +366,19 @@
         },
         {
           "word": "am",
-          "definition": "jestem\nundefined"
+          "definition": "jestem"
         },
         {
           "word": "well,",
-          "definition": "undefined"
+          "definition": "dobrze"
         },
         {
           "word": "thank",
-          "definition": "undefined"
+          "definition": "dziękować"
         },
         {
           "word": "you!",
-          "definition": "ty\nundefined\nwy"
+          "definition": "ty\nwy"
         }
       ],
       "chips": [
@@ -475,19 +409,19 @@
       "phrase": [
         {
           "word": "Mam",
-          "definition": "undefined"
+          "definition": "I have"
         },
         {
           "word": "się",
-          "definition": "undefined"
+          "definition": "oneself"
         },
         {
           "word": "dobrze,",
-          "definition": "undefined"
+          "definition": "good"
         },
         {
           "word": "dziękuję!",
-          "definition": "thanks\nundefined"
+          "definition": "thanks"
         }
       ],
       "chips": [
@@ -538,11 +472,11 @@
       "phrase": [
         {
           "word": "And",
-          "definition": "undefined"
+          "definition": "i"
         },
         {
           "word": "you?",
-          "definition": "ty\nundefined\nwy"
+          "definition": "ty\nwy"
         }
       ],
       "chips": [
@@ -568,11 +502,11 @@
       "phrase": [
         {
           "word": "A",
-          "definition": "undefined"
+          "definition": "a"
         },
         {
           "word": "ty?",
-          "definition": "undefined\nyou"
+          "definition": "you"
         }
       ],
       "chips": [
@@ -615,19 +549,19 @@
       "phrase": [
         {
           "word": "Thank",
-          "definition": "undefined"
+          "definition": "dziękować"
         },
         {
           "word": "you",
-          "definition": "ty\nundefined\nwy"
+          "definition": "ty\nwy"
         },
         {
           "word": "very",
-          "definition": "undefined"
+          "definition": "bardzo"
         },
         {
           "word": "much.",
-          "definition": "undefined"
+          "definition": "dużo"
         }
       ],
       "chips": [
@@ -655,15 +589,15 @@
       "phrase": [
         {
           "word": "Dziękuję",
-          "definition": "thanks\nundefined"
+          "definition": "thanks"
         },
         {
           "word": "ci",
-          "definition": "undefined"
+          "definition": "these"
         },
         {
           "word": "bardzo.",
-          "definition": "undefined"
+          "definition": "very"
         }
       ],
       "chips": [
@@ -711,11 +645,11 @@
       "phrase": [
         {
           "word": "Excuse",
-          "definition": "undefined"
+          "definition": "przepraszam"
         },
         {
           "word": "me,",
-          "definition": "undefined"
+          "definition": "mnie"
         },
         {
           "word": "I",
@@ -723,11 +657,11 @@
         },
         {
           "word": "don't",
-          "definition": "undefined"
+          "definition": "nie"
         },
         {
           "word": "understand.",
-          "definition": "undefined"
+          "definition": "rozumieć"
         }
       ],
       "chips": [
@@ -755,15 +689,15 @@
       "phrase": [
         {
           "word": "Przepraszam,",
-          "definition": "pardon\nundefined"
+          "definition": "pardon"
         },
         {
           "word": "nie",
-          "definition": "no\nundefined"
+          "definition": "no"
         },
         {
           "word": "rozumiem.",
-          "definition": "undefined"
+          "definition": "I understand"
         }
       ],
       "chips": [
@@ -810,20 +744,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Cześć (na powitanie)!",
+      "formInTargetLanguage": "Witaj (na powitanie)!",
       "meaningInSourceLanguage": "Hello!",
-      "id": "5500beeca259",
+      "id": "6f675fc33044",
       "priority": 0,
-      "group": "db1c31584e65"
+      "group": "5295ef725e6c"
     },
     {
       "type": "listeningExercise",
-      "answer": "Cześć (na powitanie)!",
+      "answer": "Witaj (na powitanie)!",
       "meaning": "Hello!",
-      "audio": "cd5889267fd8800388e310e68eeffae2a972af4d799ade01ea6906b41617aeb2",
-      "id": "fcbd689ba1a8",
+      "audio": "86e506f78eec9c0b4e7c040afade1e44831c017844afc0e20ed929509268e73b",
+      "id": "4696b7c5cacf",
       "priority": 1,
-      "group": "db1c31584e65"
+      "group": "5295ef725e6c"
     },
     {
       "type": "options",
@@ -848,23 +782,23 @@
       "phrase": [
         {
           "word": "Good",
-          "definition": "dobry\nundefined"
+          "definition": "dobry"
         },
         {
           "word": "day,",
-          "definition": "dzień\nundefined"
+          "definition": "dzień"
         },
         {
           "word": "how",
-          "definition": "undefined"
+          "definition": "jak"
         },
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "you?",
-          "definition": "ty\nundefined\nwy"
+          "definition": "ty\nwy"
         }
       ],
       "chips": [
@@ -898,23 +832,23 @@
       "phrase": [
         {
           "word": "Dzień",
-          "definition": "day\nundefined"
+          "definition": "day"
         },
         {
           "word": "dobry,",
-          "definition": "good\nundefined"
+          "definition": "good"
         },
         {
           "word": "jak",
-          "definition": "undefined"
+          "definition": "how"
         },
         {
           "word": "się",
-          "definition": "undefined"
+          "definition": "oneself"
         },
         {
           "word": "masz?",
-          "definition": "undefined"
+          "definition": "you have"
         }
       ],
       "chips": [
@@ -944,20 +878,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Jesteś zdrowy/zdrowa?",
+      "formInTargetLanguage": "Jesteś zdrowy?",
       "meaningInSourceLanguage": "Are you healthy?",
-      "id": "7243f2dbe949",
+      "id": "c05262756061",
       "priority": 0,
-      "group": "eebd44c4827a"
+      "group": "31fcdd637620"
     },
     {
       "type": "listeningExercise",
-      "answer": "Jesteś zdrowy/zdrowa?",
+      "answer": "Jesteś zdrowy?",
       "meaning": "Are you healthy?",
-      "audio": "57196d91e8b3877d46bcfc982b61594d3f76f718a91374d76ceda165fb568f68",
-      "id": "8d107e8277a2",
+      "audio": "9178d5741c972648a7cb7a51eecb8231ff8a38f66558772b1ac5793c666e0c9a",
+      "id": "b97726169b8e",
       "priority": 1,
-      "group": "eebd44c4827a"
+      "group": "31fcdd637620"
     },
     {
       "type": "chips",
@@ -965,33 +899,33 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "you",
-          "definition": "ty\nundefined\nwy"
+          "definition": "ty\nwy"
         },
         {
           "word": "healthy?",
-          "definition": "undefined"
+          "definition": "zdrowy"
         }
       ],
       "chips": [
         "Jesteś",
-        "zdrowy/zdrowa",
+        "zdrowy",
         "jesteś",
-        "wysoka"
+        "zdrowe"
       ],
       "solutions": [
         [
           "Jesteś",
-          "zdrowy/zdrowa"
+          "zdrowy"
         ]
       ],
-      "formattedSolution": "Jesteś zdrowy/zdrowa?",
-      "id": "e15a6644e25e",
+      "formattedSolution": "Jesteś zdrowy?",
+      "id": "54be9edcbe9d",
       "priority": 2,
-      "group": "eebd44c4827a"
+      "group": "31fcdd637620"
     },
     {
       "type": "chips",
@@ -999,11 +933,11 @@
       "phrase": [
         {
           "word": "Jesteś",
-          "definition": "are\nundefined"
+          "definition": "are\nyou are"
         },
         {
-          "word": "zdrowy/zdrowa?",
-          "definition": "undefined"
+          "word": "zdrowy?",
+          "definition": "healthy"
         }
       ],
       "chips": [
@@ -1021,9 +955,9 @@
         ]
       ],
       "formattedSolution": "Are you healthy?",
-      "id": "f6772e2da353",
+      "id": "91f26674cd98",
       "priority": 2,
-      "group": "eebd44c4827a"
+      "group": "31fcdd637620"
     },
     {
       "type": "options",
@@ -1065,15 +999,15 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "undefined"
+          "definition": "do"
         },
         {
           "word": "your",
-          "definition": "undefined"
+          "definition": "twój"
         },
         {
           "word": "health!",
-          "definition": "undefined"
+          "definition": "zdrowie"
         }
       ],
       "chips": [
@@ -1099,11 +1033,11 @@
       "phrase": [
         {
           "word": "Na",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "zdrowie!",
-          "definition": "undefined"
+          "definition": "health"
         }
       ],
       "chips": [
@@ -1148,15 +1082,15 @@
       "phrase": [
         {
           "word": "Greet",
-          "definition": "undefined"
+          "definition": "pozdrów"
         },
         {
           "word": "your",
-          "definition": "undefined"
+          "definition": "twój"
         },
         {
           "word": "sister.",
-          "definition": "siostra\nundefined"
+          "definition": "siostra"
         }
       ],
       "chips": [
@@ -1184,15 +1118,15 @@
       "phrase": [
         {
           "word": "Pozdrów",
-          "definition": "undefined"
+          "definition": "greet"
         },
         {
           "word": "twoją",
-          "definition": "undefined"
+          "definition": "your"
         },
         {
           "word": "siostrę.",
-          "definition": "undefined"
+          "definition": "sister"
         }
       ],
       "chips": [
@@ -1237,19 +1171,19 @@
       "phrase": [
         {
           "word": "What",
-          "definition": "co\nundefined"
+          "definition": "co"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "your",
-          "definition": "undefined"
+          "definition": "twój"
         },
         {
           "word": "name?",
-          "definition": "imię\nundefined"
+          "definition": "imię\nnazwa"
         }
       ],
       "chips": [
@@ -1277,15 +1211,15 @@
       "phrase": [
         {
           "word": "Jak",
-          "definition": "undefined"
+          "definition": "how"
         },
         {
           "word": "się",
-          "definition": "undefined"
+          "definition": "oneself"
         },
         {
           "word": "nazywasz?",
-          "definition": "undefined"
+          "definition": "you are called"
         }
       ],
       "chips": [
@@ -1333,19 +1267,19 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "undefined"
+          "definition": "mój"
         },
         {
           "word": "name",
-          "definition": "imię\nundefined"
+          "definition": "imię\nnazwa"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "Bartek.",
-          "definition": "undefined"
+          "definition": "Bartek"
         }
       ],
       "chips": [
@@ -1373,15 +1307,15 @@
       "phrase": [
         {
           "word": "Nazywam",
-          "definition": "undefined"
+          "definition": "I am called"
         },
         {
           "word": "się",
-          "definition": "undefined"
+          "definition": "oneself"
         },
         {
           "word": "Bartek.",
-          "definition": "undefined"
+          "definition": "Bartek"
         }
       ],
       "chips": [
@@ -1429,23 +1363,23 @@
       "phrase": [
         {
           "word": "Thank",
-          "definition": "undefined"
+          "definition": "dziękować"
         },
         {
           "word": "you",
-          "definition": "ty\nundefined\nwy"
+          "definition": "ty\nwy"
         },
         {
           "word": "for",
-          "definition": "undefined\nza"
+          "definition": "dla\nza"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "conversation.",
-          "definition": "rozmowa\nundefined"
+          "definition": "rozmowa"
         }
       ],
       "chips": [
@@ -1473,15 +1407,15 @@
       "phrase": [
         {
           "word": "Dziękuję",
-          "definition": "thanks\nundefined"
+          "definition": "thanks"
         },
         {
           "word": "za",
-          "definition": "for\nundefined"
+          "definition": "behind\nfor"
         },
         {
           "word": "rozmowę.",
-          "definition": "undefined"
+          "definition": "conversation"
         }
       ],
       "chips": [
@@ -1532,15 +1466,15 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "ten (r. męski)\nundefined"
+          "definition": "ten (r. męski)\nże"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "so.",
-          "definition": "tak\nundefined"
+          "definition": "tak\nwięc"
         }
       ],
       "chips": [
@@ -1566,11 +1500,11 @@
       "phrase": [
         {
           "word": "Tak",
-          "definition": "so\nundefined"
+          "definition": "so"
         },
         {
           "word": "jest.",
-          "definition": "is\nundefined"
+          "definition": "is"
         }
       ],
       "chips": [
@@ -1615,11 +1549,11 @@
       "phrase": [
         {
           "word": "Not",
-          "definition": "undefined"
+          "definition": "nie"
         },
         {
           "word": "so.",
-          "definition": "tak\nundefined"
+          "definition": "tak\nwięc"
         }
       ],
       "chips": [
@@ -1645,11 +1579,11 @@
       "phrase": [
         {
           "word": "Nie",
-          "definition": "no\nundefined"
+          "definition": "no"
         },
         {
           "word": "tak.",
-          "definition": "so\nundefined"
+          "definition": "so"
         }
       ],
       "chips": [
@@ -1709,11 +1643,11 @@
       "phrase": [
         {
           "word": "Not",
-          "definition": "undefined"
+          "definition": "nie"
         },
         {
           "word": "possible.",
-          "definition": "można\nundefined"
+          "definition": "możliwe\nmożna"
         }
       ],
       "chips": [
@@ -1739,11 +1673,11 @@
       "phrase": [
         {
           "word": "Nie",
-          "definition": "no\nundefined"
+          "definition": "no"
         },
         {
           "word": "można.",
-          "definition": "possible\nundefined"
+          "definition": "one can\npossible"
         }
       ],
       "chips": [
@@ -1837,15 +1771,15 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+          "definition": "ta (r. żeński)\nto\nto (r. nijaki)"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "better.",
-          "definition": "lepiej\nundefined"
+          "definition": "lepiej\nlepsze"
         }
       ],
       "chips": [
@@ -1873,15 +1807,15 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "jest",
-          "definition": "is\nundefined"
+          "definition": "is"
         },
         {
           "word": "lepsze.",
-          "definition": "undefined"
+          "definition": "better"
         }
       ],
       "chips": [
@@ -1926,19 +1860,19 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+          "definition": "ta (r. żeński)\nto\nto (r. nijaki)"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "nie"
         },
         {
           "word": "better.",
-          "definition": "lepiej\nundefined"
+          "definition": "lepiej\nlepsze"
         }
       ],
       "chips": [
@@ -1969,19 +1903,19 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "nie",
-          "definition": "no\nundefined"
+          "definition": "no"
         },
         {
           "word": "jest",
-          "definition": "is\nundefined"
+          "definition": "is"
         },
         {
           "word": "lepsze.",
-          "definition": "undefined"
+          "definition": "better"
         }
       ],
       "chips": [
@@ -2029,19 +1963,19 @@
       "phrase": [
         {
           "word": "Yes,",
-          "definition": "tak (potwierdzenie)\nundefined"
+          "definition": "tak\ntak (potwierdzenie)"
         },
         {
           "word": "it",
-          "definition": "ono\nundefined"
+          "definition": "ono\nto"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "possible.",
-          "definition": "można\nundefined"
+          "definition": "możliwe\nmożna"
         }
       ],
       "chips": [
@@ -2067,11 +2001,11 @@
       "phrase": [
         {
           "word": "Tak,",
-          "definition": "so\nundefined"
+          "definition": "so"
         },
         {
           "word": "można.",
-          "definition": "possible\nundefined"
+          "definition": "one can\npossible"
         }
       ],
       "chips": [
@@ -2119,23 +2053,23 @@
       "phrase": [
         {
           "word": "No,",
-          "definition": "nie\nundefined"
+          "definition": "nie"
         },
         {
           "word": "it",
-          "definition": "ono\nundefined"
+          "definition": "ono\nto"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "nie"
         },
         {
           "word": "possible.",
-          "definition": "można\nundefined"
+          "definition": "możliwe\nmożna"
         }
       ],
       "chips": [
@@ -2163,15 +2097,15 @@
       "phrase": [
         {
           "word": "Nie,",
-          "definition": "no\nundefined"
+          "definition": "no"
         },
         {
           "word": "nie",
-          "definition": "no\nundefined"
+          "definition": "no"
         },
         {
           "word": "można.",
-          "definition": "possible\nundefined"
+          "definition": "one can\npossible"
         }
       ],
       "chips": [
@@ -2222,15 +2156,15 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "this",
-          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+          "definition": "ta (r. żeński)\nto\nto (r. nijaki)"
         },
         {
           "word": "possible?",
-          "definition": "można\nundefined"
+          "definition": "możliwe\nmożna"
         }
       ],
       "chips": [
@@ -2258,15 +2192,15 @@
       "phrase": [
         {
           "word": "Czy",
-          "definition": "undefined"
+          "definition": "whether"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "możliwe?",
-          "definition": "undefined"
+          "definition": "possible"
         }
       ],
       "chips": [
@@ -2311,19 +2245,19 @@
       "phrase": [
         {
           "word": "What",
-          "definition": "co\nundefined"
+          "definition": "co"
         },
         {
           "word": "does",
-          "definition": "undefined"
+          "definition": "robi"
         },
         {
           "word": "this",
-          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+          "definition": "ta (r. żeński)\nto\nto (r. nijaki)"
         },
         {
           "word": "mean?",
-          "definition": "undefined"
+          "definition": "znaczyć"
         }
       ],
       "chips": [
@@ -2351,15 +2285,15 @@
       "phrase": [
         {
           "word": "Co",
-          "definition": "undefined\nwhat"
+          "definition": "what"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "znaczy?",
-          "definition": "undefined"
+          "definition": "means"
         }
       ],
       "chips": [
@@ -2407,11 +2341,11 @@
       "phrase": [
         {
           "word": "Me",
-          "definition": "undefined"
+          "definition": "mnie"
         },
         {
           "word": "too.",
-          "definition": "undefined"
+          "definition": "też"
         }
       ],
       "chips": [
@@ -2437,11 +2371,11 @@
       "phrase": [
         {
           "word": "Ja",
-          "definition": "I\nundefined"
+          "definition": "I"
         },
         {
           "word": "też.",
-          "definition": "also\nundefined"
+          "definition": "also"
         }
       ],
       "chips": [
@@ -2484,15 +2418,15 @@
       "phrase": [
         {
           "word": "Go",
-          "definition": "undefined"
+          "definition": "iść"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "z"
         },
         {
           "word": "God!",
-          "definition": "undefined"
+          "definition": "Bóg"
         }
       ],
       "chips": [
@@ -2518,11 +2452,11 @@
       "phrase": [
         {
           "word": "Z",
-          "definition": "undefined"
+          "definition": "with"
         },
         {
           "word": "Bogiem!",
-          "definition": "undefined"
+          "definition": "God"
         }
       ],
       "chips": [
@@ -2571,11 +2505,11 @@
         },
         {
           "word": "don't",
-          "definition": "undefined"
+          "definition": "nie"
         },
         {
           "word": "know.",
-          "definition": "undefined"
+          "definition": "znać"
         }
       ],
       "chips": [
@@ -2601,11 +2535,11 @@
       "phrase": [
         {
           "word": "Nie",
-          "definition": "no\nundefined"
+          "definition": "no"
         },
         {
           "word": "wiem.",
-          "definition": "undefined"
+          "definition": "I know"
         }
       ],
       "chips": [
@@ -2667,7 +2601,7 @@
       "phrase": [
         {
           "word": "Repeat.",
-          "definition": "undefined"
+          "definition": "powtórz"
         },
         {
           "word": "I",
@@ -2675,11 +2609,11 @@
         },
         {
           "word": "didn't",
-          "definition": "undefined"
+          "definition": "nie zrobił"
         },
         {
           "word": "understand.",
-          "definition": "undefined"
+          "definition": "rozumieć"
         }
       ],
       "chips": [
@@ -2707,15 +2641,15 @@
       "phrase": [
         {
           "word": "Powtórz.",
-          "definition": "undefined"
+          "definition": "repeat"
         },
         {
           "word": "Nie",
-          "definition": "no\nundefined"
+          "definition": "no"
         },
         {
           "word": "zrozumiałem.",
-          "definition": "undefined"
+          "definition": "I understood"
         }
       ],
       "chips": [
@@ -2763,15 +2697,15 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "you",
-          "definition": "ty\nundefined\nwy"
+          "definition": "ty\nwy"
         },
         {
           "word": "ready?",
-          "definition": "undefined"
+          "definition": "gotowy/gotowa"
         }
       ],
       "chips": [
@@ -2797,11 +2731,11 @@
       "phrase": [
         {
           "word": "Jesteś",
-          "definition": "are\nundefined"
+          "definition": "are\nyou are"
         },
         {
           "word": "gotowy/gotowa?",
-          "definition": "undefined"
+          "definition": "ready"
         }
       ],
       "chips": [
@@ -2858,7 +2792,7 @@
       "phrase": [
         {
           "word": "greeting",
-          "definition": "pozdrowienie\nundefined"
+          "definition": "pozdrowienie"
         }
       ],
       "id": "43eb7426c229",
@@ -2877,36 +2811,36 @@
     {
       "type": "cards",
       "pictures": null,
-      "formInTargetLanguage": "zdrowy/cześć",
+      "formInTargetLanguage": "cześć",
       "meaningInSourceLanguage": "healthy/hello",
-      "id": "1f0dbdaa957e",
+      "id": "09cf3d9892d0",
       "priority": 0,
-      "group": "4a42c8b1c20b"
+      "group": "1148019b67d1"
     },
     {
       "type": "shortInput",
       "pictures": null,
       "formInTargetLanguage": [
-        "zdrowy/cześć"
+        "cześć"
       ],
       "phrase": [
         {
           "word": "healthy/hello",
-          "definition": "undefined\nzdrowy/cześć"
+          "definition": "cześć"
         }
       ],
-      "id": "dc529961539e",
+      "id": "66080b5859b1",
       "priority": 1,
-      "group": "4a42c8b1c20b"
+      "group": "1148019b67d1"
     },
     {
       "type": "listeningExercise",
-      "answer": "zdrowy/cześć",
+      "answer": "cześć",
       "meaning": "healthy/hello",
-      "audio": "1059950d8303aa26f862e5b36a7f506cabfbe49cc226dd53b8220867f2a1939c",
-      "id": "2197d5147f31",
+      "audio": "421a32f41888ab70e4d388e22c918e6140c128a661ae1f8f347f213ef3b37c43",
+      "id": "551649f27fe0",
       "priority": 1,
-      "group": "4a42c8b1c20b"
+      "group": "1148019b67d1"
     },
     {
       "type": "cards",
@@ -2926,7 +2860,7 @@
       "phrase": [
         {
           "word": "conversation",
-          "definition": "rozmowa\nundefined"
+          "definition": "rozmowa"
         }
       ],
       "id": "069cb4e6c028",
@@ -2960,7 +2894,7 @@
       "phrase": [
         {
           "word": "morning",
-          "definition": "rano\nundefined"
+          "definition": "ranek\nrano"
         }
       ],
       "id": "d60b079bee9d",
@@ -2994,7 +2928,7 @@
       "phrase": [
         {
           "word": "evening",
-          "definition": "undefined\nwieczór"
+          "definition": "wieczór"
         }
       ],
       "id": "15479678c837",
@@ -3028,7 +2962,7 @@
       "phrase": [
         {
           "word": "day",
-          "definition": "dzień\nundefined"
+          "definition": "dzień"
         }
       ],
       "id": "1ced9e9faeb8",
@@ -3062,7 +2996,7 @@
       "phrase": [
         {
           "word": "night",
-          "definition": "noc\nundefined"
+          "definition": "noc"
         }
       ],
       "id": "7ba57171b269",
@@ -3096,7 +3030,7 @@
       "phrase": [
         {
           "word": "thanks",
-          "definition": "dziękuję\nundefined"
+          "definition": "dzięki\ndziękuję"
         }
       ],
       "id": "57f716df6590",
@@ -3130,7 +3064,7 @@
       "phrase": [
         {
           "word": "pardon",
-          "definition": "przepraszam\nundefined"
+          "definition": "przepraszam"
         }
       ],
       "id": "c766562f50be",
@@ -3164,11 +3098,11 @@
       "phrase": [
         {
           "word": "excuse",
-          "definition": "undefined"
+          "definition": "przepraszam"
         },
         {
           "word": "me",
-          "definition": "undefined"
+          "definition": "mnie"
         }
       ],
       "id": "0bad07eca4da",
@@ -3202,7 +3136,7 @@
       "phrase": [
         {
           "word": "good",
-          "definition": "dobry\nundefined"
+          "definition": "dobry"
         }
       ],
       "id": "2f975c470ea2",
@@ -3236,7 +3170,7 @@
       "phrase": [
         {
           "word": "better",
-          "definition": "lepiej\nundefined"
+          "definition": "lepiej\nlepsze"
         }
       ],
       "id": "ebdba0be8c09",
@@ -3270,7 +3204,7 @@
       "phrase": [
         {
           "word": "possible",
-          "definition": "można\nundefined"
+          "definition": "możliwe\nmożna"
         }
       ],
       "id": "2e5f6eab7354",
@@ -3304,7 +3238,7 @@
       "phrase": [
         {
           "word": "pity",
-          "definition": "szkoda\nundefined"
+          "definition": "szkoda"
         }
       ],
       "id": "e30c64cd0f7c",
@@ -3338,7 +3272,7 @@
       "phrase": [
         {
           "word": "so",
-          "definition": "tak\nundefined"
+          "definition": "tak\nwięc"
         }
       ],
       "id": "e037c8d0943c",
@@ -3372,7 +3306,7 @@
       "phrase": [
         {
           "word": "what",
-          "definition": "co\nundefined"
+          "definition": "co"
         }
       ],
       "id": "1aa0a4d70afd",
@@ -3406,7 +3340,7 @@
       "phrase": [
         {
           "word": "no",
-          "definition": "nie\nundefined"
+          "definition": "nie"
         }
       ],
       "id": "8bf685b01059",
@@ -3440,7 +3374,7 @@
       "phrase": [
         {
           "word": "yes",
-          "definition": "tak (potwierdzenie)\nundefined"
+          "definition": "tak\ntak (potwierdzenie)"
         }
       ],
       "id": "e23ca393b534",
@@ -3474,7 +3408,7 @@
       "phrase": [
         {
           "word": "maybe/can",
-          "definition": "może\nundefined"
+          "definition": "może"
         }
       ],
       "id": "639dd544e831",
@@ -3508,11 +3442,11 @@
       "phrase": [
         {
           "word": "let's",
-          "definition": "undefined"
+          "definition": "chodźmy"
         },
         {
           "word": "go",
-          "definition": "undefined"
+          "definition": "iść"
         }
       ],
       "id": "66d9fcacb491",

@@ -6,7 +6,7 @@ The __Genitive case__ indicates possession (like 'of' or 's), absence (with __be
     
     *   _Singular Masculine/Neuter:_ ending __-a__ or __-u__. (e.g., dom brat__a__ - brother's house, książka nauczyciel__a__ - teacher's book, okno miast__a__ - city window, kwiat pol__a__ - field flower)
     *   _Singular Feminine:_ ending __-y__, __-i__, or __-ej__ (after a vowel). (e.g., książka siostr__y__ - sister's book, głos ziem__i__ - voice of the earth)
-    *   _Plural (all genders):_ Variable, often __-ów__ (masculine), __-y__ (feminine), or a __zero ending__ (neuter and some feminines). (e.g., dom brat__ów__ - brothers' house, książka nauczyciel__i__ - teachers' book, książka kobiet__ø__ - women's book, okno miast__ø__ - city windows)
+    *   _Plural (all genders):_ Variable, often __-ów__ (masculine), __-y__ (feminine), or a __zero ending__ (neuter and some feminines). (e.g., dom student__ów__ - students' house, książka nauczyciel__i__ - teachers' book, książka kobiet__ø__ - women's book, okno miast__ø__ - city windows)
     
     
     

@@ -25,27 +25,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "room",
-          "definition": "undefined\nкомната"
+          "definition": "комната"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "warm",
-          "definition": "undefined\nтепло"
+          "definition": "тепло\nтеплый"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "и"
         },
         {
           "word": "quiet.",
-          "definition": "undefined\nтихий"
+          "definition": "тихий"
         }
       ],
       "chips": [
@@ -79,23 +79,23 @@
       "phrase": [
         {
           "word": "Комната",
-          "definition": "room\nundefined"
+          "definition": "room"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "тёплая",
-          "definition": "undefined"
+          "definition": "warm"
         },
         {
           "word": "и",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "тихая.",
-          "definition": "undefined"
+          "definition": "quiet"
         }
       ],
       "chips": [
@@ -149,39 +149,39 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "table",
-          "definition": "undefined\nстол"
+          "definition": "стол"
         },
         {
           "word": "stands",
-          "definition": "undefined"
+          "definition": "стоит"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "middle",
-          "definition": "undefined"
+          "definition": "середина"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "из"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "room.",
-          "definition": "undefined\nкомната"
+          "definition": "комната"
         }
       ],
       "chips": [
@@ -215,23 +215,23 @@
       "phrase": [
         {
           "word": "Стол",
-          "definition": "table\nundefined"
+          "definition": "table"
         },
         {
           "word": "стоит",
-          "definition": "undefined"
+          "definition": "stands"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in"
         },
         {
           "word": "середине",
-          "definition": "undefined"
+          "definition": "middle"
         },
         {
           "word": "комнаты.",
-          "definition": "undefined"
+          "definition": "room"
         }
       ],
       "chips": [
@@ -294,27 +294,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "chair",
-          "definition": "undefined\nстул"
+          "definition": "стул"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "near",
-          "definition": "undefined\nблизко"
+          "definition": "близко\nрядом"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "table.",
-          "definition": "undefined\nстол"
+          "definition": "стол"
         }
       ],
       "chips": [
@@ -345,19 +345,19 @@
       "phrase": [
         {
           "word": "Стул",
-          "definition": "chair\nundefined"
+          "definition": "chair"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "близко",
-          "definition": "near\nundefined"
+          "definition": "near"
         },
         {
           "word": "стола.",
-          "definition": "undefined"
+          "definition": "table"
         }
       ],
       "chips": [
@@ -390,20 +390,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Постель есть мягкая.",
+      "formInTargetLanguage": "Постель мягкая.",
       "meaningInSourceLanguage": "The bed is soft.",
-      "id": "e03b6381985f",
+      "id": "9db222d1ab50",
       "priority": 0,
-      "group": "84ce4ef29bfc"
+      "group": "7f3f205ed095"
     },
     {
       "type": "listeningExercise",
-      "answer": "Постель есть мягкая.",
+      "answer": "Постель мягкая.",
       "meaning": "The bed is soft.",
-      "audio": "ca0bd8e5a8ee9fc8567161257120fd68e352f5afaef3013c03a67cd032ec8dd0",
-      "id": "8254b4bc4205",
+      "audio": "7d12ec082edeb2e5beefa7bd22838c87ae23d71f023ddf8864e70630c34acb43",
+      "id": "2a1ef45e2a10",
       "priority": 1,
-      "group": "84ce4ef29bfc"
+      "group": "7f3f205ed095"
     },
     {
       "type": "chips",
@@ -411,39 +411,37 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "bed",
-          "definition": "undefined\nпостель"
+          "definition": "кровать\nпостель"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "soft.",
-          "definition": "undefined"
+          "definition": "мягкий"
         }
       ],
       "chips": [
         "Постель",
-        "есть",
         "мягкая",
-        "есте",
-        "Есть"
+        "моста",
+        "отель"
       ],
       "solutions": [
         [
           "Постель",
-          "есть",
           "мягкая"
         ]
       ],
-      "formattedSolution": "Постель есть мягкая.",
-      "id": "f4cde83e2e8d",
+      "formattedSolution": "Постель мягкая.",
+      "id": "47fa49642f7e",
       "priority": 2,
-      "group": "84ce4ef29bfc"
+      "group": "7f3f205ed095"
     },
     {
       "type": "chips",
@@ -451,15 +449,11 @@
       "phrase": [
         {
           "word": "Постель",
-          "definition": "bed\nundefined"
-        },
-        {
-          "word": "есть",
-          "definition": "undefined"
+          "definition": "bed"
         },
         {
           "word": "мягкая.",
-          "definition": "undefined"
+          "definition": "soft"
         }
       ],
       "chips": [
@@ -480,26 +474,26 @@
         ]
       ],
       "formattedSolution": "The bed is soft.",
-      "id": "f3a917468894",
+      "id": "8c41f220a228",
       "priority": 2,
-      "group": "84ce4ef29bfc"
+      "group": "7f3f205ed095"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Окно есть открыто.",
+      "formInTargetLanguage": "Окно открыто.",
       "meaningInSourceLanguage": "The window is open.",
-      "id": "7e6f934337cb",
+      "id": "97b49836770d",
       "priority": 0,
-      "group": "f38c3408ae32"
+      "group": "042e3d03c8a5"
     },
     {
       "type": "listeningExercise",
-      "answer": "Окно есть открыто.",
+      "answer": "Окно открыто.",
       "meaning": "The window is open.",
-      "audio": "33b1e2ad4f5ba48bbfde6aed005ecd4d08c8bc22a3439b69bf67001ddc668eed",
-      "id": "106ff740182e",
+      "audio": "ea17333c6be5a07914980f9db5562263a9ed1c3aa82444d1cd9487488c38039f",
+      "id": "ab9b27542681",
       "priority": 1,
-      "group": "f38c3408ae32"
+      "group": "042e3d03c8a5"
     },
     {
       "type": "chips",
@@ -507,39 +501,37 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "window",
-          "definition": "undefined\nокно"
+          "definition": "окно"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "open.",
-          "definition": "undefined"
+          "definition": "открытый"
         }
       ],
       "chips": [
         "Окно",
-        "есть",
         "открыто",
-        "сто",
-        "Это"
+        "открыт",
+        "утро"
       ],
       "solutions": [
         [
           "Окно",
-          "есть",
           "открыто"
         ]
       ],
-      "formattedSolution": "Окно есть открыто.",
-      "id": "e4f0316d51cd",
+      "formattedSolution": "Окно открыто.",
+      "id": "66f30cfcd01b",
       "priority": 2,
-      "group": "f38c3408ae32"
+      "group": "042e3d03c8a5"
     },
     {
       "type": "chips",
@@ -547,15 +539,11 @@
       "phrase": [
         {
           "word": "Окно",
-          "definition": "undefined\nwindow"
-        },
-        {
-          "word": "есть",
-          "definition": "undefined"
+          "definition": "window"
         },
         {
           "word": "открыто.",
-          "definition": "undefined"
+          "definition": "open"
         }
       ],
       "chips": [
@@ -576,26 +564,26 @@
         ]
       ],
       "formattedSolution": "The window is open.",
-      "id": "a2a6eb5a7b53",
+      "id": "901d7e4cf6aa",
       "priority": 2,
-      "group": "f38c3408ae32"
+      "group": "042e3d03c8a5"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Двери суть закрыты.",
+      "formInTargetLanguage": "Двери закрыты.",
       "meaningInSourceLanguage": "The doors are closed.",
-      "id": "64374f9a8aab",
+      "id": "a32b0d108c87",
       "priority": 0,
-      "group": "ad9b31e363d4"
+      "group": "3b23a6340870"
     },
     {
       "type": "listeningExercise",
-      "answer": "Двери суть закрыты.",
+      "answer": "Двери закрыты.",
       "meaning": "The doors are closed.",
-      "audio": "4927d1db8acb53bf2ad54d789ad571e1bc327c9120f260f7a2bd9923f851c5f0",
-      "id": "7fb40c2872cd",
+      "audio": "0f03af0f965898b6e72c3edee64a1badd1fa1d41e5c1c42f50bfd5e0bc364801",
+      "id": "9746e3bd31de",
       "priority": 1,
-      "group": "ad9b31e363d4"
+      "group": "3b23a6340870"
     },
     {
       "type": "chips",
@@ -603,39 +591,37 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "doors",
-          "definition": "undefined\nдвери"
+          "definition": "двери"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "closed.",
-          "definition": "undefined"
+          "definition": "закрытый"
         }
       ],
       "chips": [
         "Двери",
-        "суть",
         "закрыты",
-        "Дети",
-        "авто"
+        "зверю",
+        "зверем"
       ],
       "solutions": [
         [
           "Двери",
-          "суть",
           "закрыты"
         ]
       ],
-      "formattedSolution": "Двери суть закрыты.",
-      "id": "353907f45278",
+      "formattedSolution": "Двери закрыты.",
+      "id": "18f60156dd33",
       "priority": 2,
-      "group": "ad9b31e363d4"
+      "group": "3b23a6340870"
     },
     {
       "type": "chips",
@@ -643,15 +629,11 @@
       "phrase": [
         {
           "word": "Двери",
-          "definition": "doors\nundefined"
-        },
-        {
-          "word": "суть",
-          "definition": "undefined"
+          "definition": "doors"
         },
         {
           "word": "закрыты.",
-          "definition": "undefined"
+          "definition": "closed"
         }
       ],
       "chips": [
@@ -672,9 +654,9 @@
         ]
       ],
       "formattedSolution": "The doors are closed.",
-      "id": "63d892bfc244",
+      "id": "6ca06fd38f66",
       "priority": 2,
-      "group": "ad9b31e363d4"
+      "group": "3b23a6340870"
     },
     {
       "type": "options",
@@ -699,23 +681,23 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "wardrobe",
-          "definition": "undefined\nшкаф"
+          "definition": "гардероб\nшкаф"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "имеет"
         },
         {
           "word": "many",
-          "definition": "undefined"
+          "definition": "много"
         },
         {
           "word": "clothes.",
-          "definition": "undefined\nодежда"
+          "definition": "одежда"
         }
       ],
       "chips": [
@@ -724,8 +706,8 @@
         "много",
         "одежды",
         "моею",
-        "мне",
-        "него"
+        "него",
+        "мне"
       ],
       "solutions": [
         [
@@ -746,19 +728,19 @@
       "phrase": [
         {
           "word": "Шкаф",
-          "definition": "undefined\nwardrobe"
+          "definition": "wardrobe"
         },
         {
           "word": "имеет",
-          "definition": "undefined"
+          "definition": "has"
         },
         {
           "word": "много",
-          "definition": "undefined"
+          "definition": "many"
         },
         {
           "word": "одежды.",
-          "definition": "undefined"
+          "definition": "clothes"
         }
       ],
       "chips": [
@@ -809,27 +791,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "chest",
-          "definition": "undefined\nсундук"
+          "definition": "грудь\nсундук"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "under",
-          "definition": "undefined"
+          "definition": "под"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "bed.",
-          "definition": "undefined\nпостель"
+          "definition": "кровать\nпостель"
         }
       ],
       "chips": [
@@ -839,7 +821,7 @@
         "постелью",
         "путь",
         "есте",
-        "Есть"
+        "пою"
       ],
       "solutions": [
         [
@@ -860,19 +842,19 @@
       "phrase": [
         {
           "word": "Сундук",
-          "definition": "chest\nundefined"
+          "definition": "chest"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "под",
-          "definition": "undefined"
+          "definition": "under"
         },
         {
           "word": "постелью.",
-          "definition": "undefined"
+          "definition": "bed"
         }
       ],
       "chips": [
@@ -926,19 +908,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "shelf",
-          "definition": "undefined\nполка"
+          "definition": "полка"
         },
         {
           "word": "holds",
-          "definition": "undefined"
+          "definition": "держит"
         },
         {
           "word": "books.",
-          "definition": "undefined"
+          "definition": "книги"
         }
       ],
       "chips": [
@@ -966,15 +948,15 @@
       "phrase": [
         {
           "word": "Полка",
-          "definition": "shelf\nundefined"
+          "definition": "shelf"
         },
         {
           "word": "держит",
-          "definition": "undefined"
+          "definition": "holds"
         },
         {
           "word": "книги.",
-          "definition": "undefined"
+          "definition": "book"
         }
       ],
       "chips": [
@@ -1022,27 +1004,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "lamp",
-          "definition": "undefined\nлампа"
+          "definition": "лампа"
         },
         {
           "word": "shines",
-          "definition": "undefined"
+          "definition": "светит"
         },
         {
           "word": "above",
-          "definition": "undefined"
+          "definition": "выше"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "table.",
-          "definition": "undefined\nстол"
+          "definition": "стол"
         }
       ],
       "chips": [
@@ -1073,19 +1055,19 @@
       "phrase": [
         {
           "word": "Лампа",
-          "definition": "lamp\nundefined"
+          "definition": "lamp"
         },
         {
           "word": "светит",
-          "definition": "undefined"
+          "definition": "shines"
         },
         {
           "word": "над",
-          "definition": "undefined"
+          "definition": "above"
         },
         {
           "word": "столом.",
-          "definition": "undefined"
+          "definition": "table"
         }
       ],
       "chips": [
@@ -1139,23 +1121,23 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "room",
-          "definition": "undefined\nкомната"
+          "definition": "комната"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "имеет"
         },
         {
           "word": "two",
-          "definition": "undefined\nдва (м/с)\nдве (ж)"
+          "definition": "два\nдва (м/с)\nдве (ж)"
         },
         {
           "word": "windows.",
-          "definition": "undefined"
+          "definition": "окна"
         }
       ],
       "chips": [
@@ -1186,19 +1168,19 @@
       "phrase": [
         {
           "word": "Комната",
-          "definition": "room\nundefined"
+          "definition": "room"
         },
         {
           "word": "имеет",
-          "definition": "undefined"
+          "definition": "has"
         },
         {
           "word": "два",
-          "definition": "undefined"
+          "definition": "two"
         },
         {
           "word": "окна.",
-          "definition": "undefined"
+          "definition": "windows"
         }
       ],
       "chips": [
@@ -1249,31 +1231,31 @@
       "phrase": [
         {
           "word": "A",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "book",
-          "definition": "undefined\nкнига"
+          "definition": "книга"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "lying",
-          "definition": "undefined"
+          "definition": "лежит"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "table.",
-          "definition": "undefined\nстол"
+          "definition": "стол"
         }
       ],
       "chips": [
@@ -1304,19 +1286,19 @@
       "phrase": [
         {
           "word": "На",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "столе",
-          "definition": "undefined"
+          "definition": "table"
         },
         {
           "word": "лежит",
-          "definition": "undefined"
+          "definition": "lies"
         },
         {
           "word": "книга.",
-          "definition": "book\nundefined"
+          "definition": "book"
         }
       ],
       "chips": [
@@ -1373,27 +1355,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "chair",
-          "definition": "undefined\nстул"
+          "definition": "стул"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "old,",
-          "definition": "undefined\nстарый"
+          "definition": "старый"
         },
         {
           "word": "but",
-          "definition": "undefined"
+          "definition": "но"
         },
         {
           "word": "comfortable.",
-          "definition": "undefined"
+          "definition": "удобный"
         }
       ],
       "chips": [
@@ -1427,23 +1409,23 @@
       "phrase": [
         {
           "word": "Стул",
-          "definition": "chair\nundefined"
+          "definition": "chair"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "старый,",
-          "definition": "old\nundefined"
+          "definition": "old"
         },
         {
           "word": "но",
-          "definition": "undefined"
+          "definition": "but"
         },
         {
           "word": "комфортный.",
-          "definition": "undefined"
+          "definition": "comfortable"
         }
       ],
       "chips": [
@@ -1476,20 +1458,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Постель есть новая.",
+      "formInTargetLanguage": "Постель новая.",
       "meaningInSourceLanguage": "The bed is new.",
-      "id": "3cb63f8eb886",
+      "id": "0da9a0ff209b",
       "priority": 0,
-      "group": "c7577365eaa8"
+      "group": "3eadec475975"
     },
     {
       "type": "listeningExercise",
-      "answer": "Постель есть новая.",
+      "answer": "Постель новая.",
       "meaning": "The bed is new.",
-      "audio": "47b6024e64f908471ac9feb035598f6146727c1dc3aeb71d2f1fd23ecf58577f",
-      "id": "65bcd5010ad2",
+      "audio": "a354893c9596c4a6c3a5956b45bde09b8513c1cfe297a19f441e45c805c1b1df",
+      "id": "ec67c2b68025",
       "priority": 1,
-      "group": "c7577365eaa8"
+      "group": "3eadec475975"
     },
     {
       "type": "chips",
@@ -1497,39 +1479,37 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "bed",
-          "definition": "undefined\nпостель"
+          "definition": "кровать\nпостель"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "new.",
-          "definition": "undefined"
+          "definition": "новый"
         }
       ],
       "chips": [
         "Постель",
-        "есть",
         "новая",
         "кость",
-        "есте"
+        "Повар"
       ],
       "solutions": [
         [
           "Постель",
-          "есть",
           "новая"
         ]
       ],
-      "formattedSolution": "Постель есть новая.",
-      "id": "573f9cecdad6",
+      "formattedSolution": "Постель новая.",
+      "id": "f6925a09289c",
       "priority": 2,
-      "group": "c7577365eaa8"
+      "group": "3eadec475975"
     },
     {
       "type": "chips",
@@ -1537,15 +1517,11 @@
       "phrase": [
         {
           "word": "Постель",
-          "definition": "bed\nundefined"
-        },
-        {
-          "word": "есть",
-          "definition": "undefined"
+          "definition": "bed"
         },
         {
           "word": "новая.",
-          "definition": "undefined"
+          "definition": "new"
         }
       ],
       "chips": [
@@ -1566,9 +1542,9 @@
         ]
       ],
       "formattedSolution": "The bed is new.",
-      "id": "2018b91c4592",
+      "id": "a95a71dbf1da",
       "priority": 2,
-      "group": "c7577365eaa8"
+      "group": "3eadec475975"
     },
     {
       "type": "options",
@@ -1593,27 +1569,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "doors",
-          "definition": "undefined\nдвери"
+          "definition": "двери"
         },
         {
           "word": "lead",
-          "definition": "undefined"
+          "definition": "вести"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "kitchen.",
-          "definition": "undefined\nкухня"
+          "definition": "кухня"
         }
       ],
       "chips": [
@@ -1644,19 +1620,19 @@
       "phrase": [
         {
           "word": "Двери",
-          "definition": "doors\nundefined"
+          "definition": "doors"
         },
         {
           "word": "ведут",
-          "definition": "undefined"
+          "definition": "lead"
         },
         {
           "word": "до",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "кухни.",
-          "definition": "undefined"
+          "definition": "kitchen"
         }
       ],
       "chips": [
@@ -1710,19 +1686,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "wardrobe",
-          "definition": "undefined\nшкаф"
+          "definition": "гардероб\nшкаф"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "full.",
-          "definition": "undefined"
+          "definition": "полный"
         }
       ],
       "chips": [
@@ -1750,15 +1726,15 @@
       "phrase": [
         {
           "word": "Шкаф",
-          "definition": "undefined\nwardrobe"
+          "definition": "wardrobe"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "полный.",
-          "definition": "undefined"
+          "definition": "full"
         }
       ],
       "chips": [
@@ -1806,27 +1782,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "chest",
-          "definition": "undefined\nсундук"
+          "definition": "грудь\nсундук"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "made",
-          "definition": "undefined"
+          "definition": "сделал"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "из"
         },
         {
           "word": "wood.",
-          "definition": "undefined"
+          "definition": "дерево"
         }
       ],
       "chips": [
@@ -1857,19 +1833,19 @@
       "phrase": [
         {
           "word": "Сундук",
-          "definition": "chest\nundefined"
+          "definition": "chest"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "из",
-          "definition": "from\nundefined"
+          "definition": "from"
         },
         {
           "word": "дерева.",
-          "definition": "undefined"
+          "definition": "wood"
         }
       ],
       "chips": [
@@ -1923,27 +1899,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "shelf",
-          "definition": "undefined\nполка"
+          "definition": "полка"
         },
         {
           "word": "hangs",
-          "definition": "undefined"
+          "definition": "висит"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "wall.",
-          "definition": "undefined\nстена"
+          "definition": "стена"
         }
       ],
       "chips": [
@@ -1974,19 +1950,19 @@
       "phrase": [
         {
           "word": "Полка",
-          "definition": "shelf\nundefined"
+          "definition": "shelf"
         },
         {
           "word": "висит",
-          "definition": "undefined"
+          "definition": "hangs"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "стене.",
-          "definition": "undefined"
+          "definition": "wall"
         }
       ],
       "chips": [
@@ -2040,19 +2016,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "lamp",
-          "definition": "undefined\nлампа"
+          "definition": "лампа"
         },
         {
           "word": "gives",
-          "definition": "undefined"
+          "definition": "дает"
         },
         {
           "word": "light.",
-          "definition": "undefined\nсветлый"
+          "definition": "свет\nсветлый"
         }
       ],
       "chips": [
@@ -2080,15 +2056,15 @@
       "phrase": [
         {
           "word": "Лампа",
-          "definition": "lamp\nundefined"
+          "definition": "lamp"
         },
         {
           "word": "даёт",
-          "definition": "undefined"
+          "definition": "gives"
         },
         {
           "word": "свет.",
-          "definition": "undefined"
+          "definition": "light"
         }
       ],
       "chips": [
@@ -2115,20 +2091,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "В комнате есть спокойно.",
+      "formInTargetLanguage": "В комнате спокойно.",
       "meaningInSourceLanguage": "It is quiet in the room.",
-      "id": "62eca1783012",
+      "id": "4ec7a1192968",
       "priority": 0,
-      "group": "6d7262a49fa3"
+      "group": "2175c2f29366"
     },
     {
       "type": "listeningExercise",
-      "answer": "В комнате есть спокойно.",
+      "answer": "В комнате спокойно.",
       "meaning": "It is quiet in the room.",
-      "audio": "340a0365079eecf5131c26593334bae351aea70d664d942e5e90a2c090862c63",
-      "id": "73612e521f70",
+      "audio": "6603f48a3d3e01621409813b1d18b89045596ddc13e29f2f466ecebe70058881",
+      "id": "b229c2128fd8",
       "priority": 1,
-      "group": "6d7262a49fa3"
+      "group": "2175c2f29366"
     },
     {
       "type": "chips",
@@ -2136,50 +2112,47 @@
       "phrase": [
         {
           "word": "It",
-          "definition": "undefined\nоно"
+          "definition": "оно\nэто"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "quiet",
-          "definition": "undefined\nтихий"
+          "definition": "тихий"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "room.",
-          "definition": "undefined\nкомната"
+          "definition": "комната"
         }
       ],
       "chips": [
         "В",
         "комнате",
-        "есть",
         "спокойно",
-        "конь",
-        "со",
-        "сок"
+        "окна",
+        "коню"
       ],
       "solutions": [
         [
           "В",
           "комнате",
-          "есть",
           "спокойно"
         ]
       ],
-      "formattedSolution": "В комнате есть спокойно.",
-      "id": "8699e24d314c",
+      "formattedSolution": "В комнате спокойно.",
+      "id": "1e5d04757b57",
       "priority": 2,
-      "group": "6d7262a49fa3"
+      "group": "2175c2f29366"
     },
     {
       "type": "chips",
@@ -2187,19 +2160,15 @@
       "phrase": [
         {
           "word": "В",
-          "definition": "undefined"
+          "definition": "in"
         },
         {
           "word": "комнате",
-          "definition": "undefined"
-        },
-        {
-          "word": "есть",
-          "definition": "undefined"
+          "definition": "room"
         },
         {
           "word": "спокойно.",
-          "definition": "undefined"
+          "definition": "peacefully"
         }
       ],
       "chips": [
@@ -2226,9 +2195,9 @@
         ]
       ],
       "formattedSolution": "It is quiet in the room.",
-      "id": "8d0b413bf04e",
+      "id": "6eed0d602439",
       "priority": 2,
-      "group": "6d7262a49fa3"
+      "group": "2175c2f29366"
     },
     {
       "type": "cards",
@@ -2248,7 +2217,7 @@
       "phrase": [
         {
           "word": "room",
-          "definition": "undefined\nкомната"
+          "definition": "комната"
         }
       ],
       "id": "46bf0e6415df",
@@ -2282,7 +2251,7 @@
       "phrase": [
         {
           "word": "table",
-          "definition": "undefined\nстол"
+          "definition": "стол"
         }
       ],
       "id": "e391b8adf258",
@@ -2316,7 +2285,7 @@
       "phrase": [
         {
           "word": "chair",
-          "definition": "undefined\nстул"
+          "definition": "стул"
         }
       ],
       "id": "f05deefc25c3",
@@ -2350,7 +2319,7 @@
       "phrase": [
         {
           "word": "pillow",
-          "definition": "undefined\nподушка"
+          "definition": "подушка"
         }
       ],
       "id": "cacebab8afbd",
@@ -2384,7 +2353,7 @@
       "phrase": [
         {
           "word": "bed",
-          "definition": "undefined\nпостель"
+          "definition": "кровать\nпостель"
         }
       ],
       "id": "54a1f0722d4f",
@@ -2418,7 +2387,7 @@
       "phrase": [
         {
           "word": "window",
-          "definition": "undefined\nокно"
+          "definition": "окно"
         }
       ],
       "id": "d906316b4ffd",
@@ -2452,7 +2421,7 @@
       "phrase": [
         {
           "word": "doors",
-          "definition": "undefined\nдвери"
+          "definition": "двери"
         }
       ],
       "id": "8f5934b987bc",
@@ -2486,7 +2455,7 @@
       "phrase": [
         {
           "word": "wardrobe",
-          "definition": "undefined\nшкаф"
+          "definition": "гардероб\nшкаф"
         }
       ],
       "id": "1fa7dc0e2458",
@@ -2520,7 +2489,7 @@
       "phrase": [
         {
           "word": "chest",
-          "definition": "undefined\nсундук"
+          "definition": "грудь\nсундук"
         }
       ],
       "id": "898ae06203f3",
@@ -2554,7 +2523,7 @@
       "phrase": [
         {
           "word": "shelf",
-          "definition": "undefined\nполка"
+          "definition": "полка"
         }
       ],
       "id": "f10f119e9088",
@@ -2588,11 +2557,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "hold",
-          "definition": "undefined"
+          "definition": "держать"
         }
       ],
       "id": "121a2fb8b90d",
@@ -2626,11 +2595,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "hang",
-          "definition": "undefined"
+          "definition": "висеть"
         }
       ],
       "id": "87fc1ac6e846",
@@ -2664,7 +2633,7 @@
       "phrase": [
         {
           "word": "wall",
-          "definition": "undefined\nстена"
+          "definition": "стена"
         }
       ],
       "id": "4faffb4f9aa5",
@@ -2698,7 +2667,7 @@
       "phrase": [
         {
           "word": "lamp",
-          "definition": "undefined\nлампа"
+          "definition": "лампа"
         }
       ],
       "id": "40a8f9f4ac71",
@@ -2732,11 +2701,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "give",
-          "definition": "undefined"
+          "definition": "давать"
         }
       ],
       "id": "da1b2e3aa62a",

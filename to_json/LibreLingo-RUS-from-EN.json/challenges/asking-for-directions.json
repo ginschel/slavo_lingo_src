@@ -25,19 +25,19 @@
       "phrase": [
         {
           "word": "Where",
-          "definition": "undefined\nгде"
+          "definition": "где"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "station?",
-          "definition": "undefined\nстанция"
+          "definition": "станция"
         }
       ],
       "chips": [
@@ -65,15 +65,15 @@
       "phrase": [
         {
           "word": "Где",
-          "definition": "undefined\nwhere"
+          "definition": "where"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "станция?",
-          "definition": "station\nundefined"
+          "definition": "station"
         }
       ],
       "chips": [
@@ -121,27 +121,27 @@
       "phrase": [
         {
           "word": "Which",
-          "definition": "undefined"
+          "definition": "который"
         },
         {
           "word": "way",
-          "definition": "undefined"
+          "definition": "путь"
         },
         {
           "word": "does",
-          "definition": "undefined"
+          "definition": "делает"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "road",
-          "definition": "undefined\nдорога"
+          "definition": "дорога"
         },
         {
           "word": "go?",
-          "definition": "undefined"
+          "definition": "идти"
         }
       ],
       "chips": [
@@ -169,15 +169,15 @@
       "phrase": [
         {
           "word": "Куда",
-          "definition": "undefined\nwhich way"
+          "definition": "which way"
         },
         {
           "word": "идёт",
-          "definition": "undefined"
+          "definition": "goes"
         },
         {
           "word": "дорога?",
-          "definition": "road\nundefined"
+          "definition": "road"
         }
       ],
       "chips": [
@@ -231,27 +231,27 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nмы"
+          "definition": "мы"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "going",
-          "definition": "undefined"
+          "definition": "идет"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "right.",
-          "definition": "undefined\nправо"
+          "definition": "право\nправый"
         }
       ],
       "chips": [
@@ -277,11 +277,11 @@
       "phrase": [
         {
           "word": "Идём",
-          "definition": "undefined"
+          "definition": "go"
         },
         {
           "word": "направо.",
-          "definition": "to the right\nundefined"
+          "definition": "to the right"
         }
       ],
       "chips": [
@@ -335,19 +335,19 @@
       "phrase": [
         {
           "word": "Then",
-          "definition": "undefined"
+          "definition": "тогда"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "left.",
-          "definition": "undefined\nлево"
+          "definition": "лево\nлевый"
         }
       ],
       "chips": [
@@ -373,11 +373,11 @@
       "phrase": [
         {
           "word": "Потом",
-          "definition": "undefined"
+          "definition": "then"
         },
         {
           "word": "налево.",
-          "definition": "to the left\nundefined"
+          "definition": "to the left"
         }
       ],
       "chips": [
@@ -425,23 +425,23 @@
       "phrase": [
         {
           "word": "Go",
-          "definition": "undefined"
+          "definition": "идти"
         },
         {
           "word": "straight",
-          "definition": "undefined\nпрямо\nравный"
+          "definition": "прямо\nравный"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "bridge.",
-          "definition": "undefined\nмост"
+          "definition": "мост"
         }
       ],
       "chips": [
@@ -472,19 +472,19 @@
       "phrase": [
         {
           "word": "Иди",
-          "definition": "undefined"
+          "definition": "go"
         },
         {
           "word": "прямо",
-          "definition": "straight\nundefined"
+          "definition": "straight"
         },
         {
           "word": "до",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "моста.",
-          "definition": "undefined"
+          "definition": "bridge"
         }
       ],
       "chips": [
@@ -514,20 +514,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Проспект есть близко площади/рынка.",
+      "formInTargetLanguage": "Проспект есть близко площади.",
       "meaningInSourceLanguage": "The avenue is near the square.",
-      "id": "be0e996e74f6",
+      "id": "31648109ff58",
       "priority": 0,
-      "group": "4cf6ac9d0e60"
+      "group": "3d015943303e"
     },
     {
       "type": "listeningExercise",
-      "answer": "Проспект есть близко площади/рынка.",
+      "answer": "Проспект есть близко площади.",
       "meaning": "The avenue is near the square.",
-      "audio": "53a98aa5b4be016431098f25fcd73442758ab52e63491ce5c4943d3dd016eddc",
-      "id": "d7038eaae6fd",
+      "audio": "cefbf0d01058465d1aedeea982639773757dd449e990d18d4b219f39143d6c89",
+      "id": "8297b3af9e6a",
       "priority": 1,
-      "group": "4cf6ac9d0e60"
+      "group": "3d015943303e"
     },
     {
       "type": "chips",
@@ -535,50 +535,50 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "avenue",
-          "definition": "undefined"
+          "definition": "проспект"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "near",
-          "definition": "undefined\nблизко"
+          "definition": "близко\nрядом"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "square.",
-          "definition": "undefined\nквадрат"
+          "definition": "квадрат"
         }
       ],
       "chips": [
         "Проспект",
         "есть",
         "близко",
-        "площади/рынка",
-        "парк",
-        "реке",
-        "сока"
+        "площади",
+        "Носки",
+        "просто",
+        "есте"
       ],
       "solutions": [
         [
           "Проспект",
           "есть",
           "близко",
-          "площади/рынка"
+          "площади"
         ]
       ],
-      "formattedSolution": "Проспект есть близко площади/рынка.",
-      "id": "1a4d64667fa9",
+      "formattedSolution": "Проспект есть близко площади.",
+      "id": "c01fb84d6200",
       "priority": 2,
-      "group": "4cf6ac9d0e60"
+      "group": "3d015943303e"
     },
     {
       "type": "chips",
@@ -586,19 +586,19 @@
       "phrase": [
         {
           "word": "Проспект",
-          "definition": "undefined"
+          "definition": "brochure"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "близко",
-          "definition": "near\nundefined"
+          "definition": "near"
         },
         {
-          "word": "площади/рынка.",
-          "definition": "undefined"
+          "word": "площади.",
+          "definition": "square"
         }
       ],
       "chips": [
@@ -625,9 +625,9 @@
         ]
       ],
       "formattedSolution": "The avenue is near the square.",
-      "id": "9c0ba7024d0d",
+      "id": "53885a858520",
       "priority": 2,
-      "group": "4cf6ac9d0e60"
+      "group": "3d015943303e"
     },
     {
       "type": "options",
@@ -652,23 +652,23 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "library",
-          "definition": "undefined\nбиблиотека"
+          "definition": "библиотека"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "far",
-          "definition": "undefined\nдалеко"
+          "definition": "далеко"
         },
         {
           "word": "away.",
-          "definition": "undefined"
+          "definition": "прочь"
         }
       ],
       "chips": [
@@ -696,15 +696,15 @@
       "phrase": [
         {
           "word": "Библиотека",
-          "definition": "library\nundefined"
+          "definition": "library"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "далека.",
-          "definition": "undefined"
+          "definition": "far"
         }
       ],
       "chips": [
@@ -759,23 +759,23 @@
         },
         {
           "word": "ask",
-          "definition": "undefined"
+          "definition": "спросить"
         },
         {
           "word": "them",
-          "definition": "undefined"
+          "definition": "их"
         },
         {
           "word": "for",
-          "definition": "undefined\nза"
+          "definition": "для\nза"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "way.",
-          "definition": "undefined"
+          "definition": "путь"
         }
       ],
       "chips": [
@@ -806,19 +806,19 @@
       "phrase": [
         {
           "word": "Спрашиваю",
-          "definition": "undefined"
+          "definition": "ask"
         },
         {
           "word": "их",
-          "definition": "undefined"
+          "definition": "their"
         },
         {
           "word": "за",
-          "definition": "for\nundefined"
+          "definition": "behind\nfor"
         },
         {
           "word": "дорогу.",
-          "definition": "undefined"
+          "definition": "road"
         }
       ],
       "chips": [
@@ -872,27 +872,27 @@
       "phrase": [
         {
           "word": "Can",
-          "definition": "undefined"
+          "definition": "может"
         },
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         },
         {
           "word": "show",
-          "definition": "undefined"
+          "definition": "показывать"
         },
         {
           "word": "me",
-          "definition": "undefined"
+          "definition": "меня"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "way?",
-          "definition": "undefined"
+          "definition": "путь"
         }
       ],
       "chips": [
@@ -920,15 +920,15 @@
       "phrase": [
         {
           "word": "Можете",
-          "definition": "undefined"
+          "definition": "can"
         },
         {
           "word": "показать",
-          "definition": "to show\nundefined"
+          "definition": "to show"
         },
         {
           "word": "путь?",
-          "definition": "undefined"
+          "definition": "path/way"
         }
       ],
       "chips": [
@@ -982,27 +982,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "street",
-          "definition": "undefined\nулица"
+          "definition": "улица"
         },
         {
           "word": "goes",
-          "definition": "undefined\nидёт (пешком)"
+          "definition": "идет\nидёт (пешком)"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "center.",
-          "definition": "undefined"
+          "definition": "центр"
         }
       ],
       "chips": [
@@ -1033,19 +1033,19 @@
       "phrase": [
         {
           "word": "Улица",
-          "definition": "street\nundefined"
+          "definition": "street"
         },
         {
           "word": "идёт",
-          "definition": "undefined"
+          "definition": "goes"
         },
         {
           "word": "до",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "центра.",
-          "definition": "undefined"
+          "definition": "center"
         }
       ],
       "chips": [
@@ -1099,23 +1099,23 @@
       "phrase": [
         {
           "word": "Where",
-          "definition": "undefined\nгде"
+          "definition": "где"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "nearest",
-          "definition": "undefined"
+          "definition": "ближайший"
         },
         {
           "word": "hotel?",
-          "definition": "undefined"
+          "definition": "отель"
         }
       ],
       "chips": [
@@ -1146,19 +1146,19 @@
       "phrase": [
         {
           "word": "Где",
-          "definition": "undefined\nwhere"
+          "definition": "where"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "близкий",
-          "definition": "undefined"
+          "definition": "near"
         },
         {
           "word": "отель?",
-          "definition": "undefined"
+          "definition": "hotel"
         }
       ],
       "chips": [
@@ -1209,23 +1209,23 @@
       "phrase": [
         {
           "word": "Which",
-          "definition": "undefined"
+          "definition": "который"
         },
         {
           "word": "way",
-          "definition": "undefined"
+          "definition": "путь"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         },
         {
           "word": "going?",
-          "definition": "undefined"
+          "definition": "идет"
         }
       ],
       "chips": [
@@ -1251,11 +1251,11 @@
       "phrase": [
         {
           "word": "Куда",
-          "definition": "undefined\nwhich way"
+          "definition": "which way"
         },
         {
           "word": "идёте?",
-          "definition": "undefined"
+          "definition": "go"
         }
       ],
       "chips": [
@@ -1306,31 +1306,31 @@
       "phrase": [
         {
           "word": "Go",
-          "definition": "undefined"
+          "definition": "идти"
         },
         {
           "word": "straight",
-          "definition": "undefined\nпрямо\nравный"
+          "definition": "прямо\nравный"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "и"
         },
         {
           "word": "then",
-          "definition": "undefined"
+          "definition": "тогда"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "right.",
-          "definition": "undefined\nправо"
+          "definition": "право\nправый"
         }
       ],
       "chips": [
@@ -1364,23 +1364,23 @@
       "phrase": [
         {
           "word": "Идите",
-          "definition": "undefined"
+          "definition": "go"
         },
         {
           "word": "прямо",
-          "definition": "straight\nundefined"
+          "definition": "straight"
         },
         {
           "word": "и",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "потом",
-          "definition": "undefined"
+          "definition": "then"
         },
         {
           "word": "направо.",
-          "definition": "to the right\nundefined"
+          "definition": "to the right"
         }
       ],
       "chips": [
@@ -1437,27 +1437,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "station",
-          "definition": "undefined\nстанция"
+          "definition": "станция"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "left.",
-          "definition": "undefined\nлево"
+          "definition": "лево\nлевый"
         }
       ],
       "chips": [
@@ -1485,15 +1485,15 @@
       "phrase": [
         {
           "word": "Станция",
-          "definition": "station\nundefined"
+          "definition": "station"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "налево.",
-          "definition": "to the left\nundefined"
+          "definition": "to the left"
         }
       ],
       "chips": [
@@ -1547,27 +1547,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "shop",
-          "definition": "undefined"
+          "definition": "магазин"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "near",
-          "definition": "undefined\nблизко"
+          "definition": "близко\nрядом"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "library.",
-          "definition": "undefined\nбиблиотека"
+          "definition": "библиотека"
         }
       ],
       "chips": [
@@ -1598,19 +1598,19 @@
       "phrase": [
         {
           "word": "Магазин",
-          "definition": "shop/store\nundefined"
+          "definition": "shop\nshop/store"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "близко",
-          "definition": "near\nundefined"
+          "definition": "near"
         },
         {
           "word": "библиотеки.",
-          "definition": "undefined"
+          "definition": "library"
         }
       ],
       "chips": [
@@ -1643,20 +1643,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Площадь/Рынок есть далеко от отеля.",
+      "formInTargetLanguage": "Рынок есть далеко от отеля.",
       "meaningInSourceLanguage": "The square is far from the hotel.",
-      "id": "68825f9cc516",
+      "id": "2c371f6974f5",
       "priority": 0,
-      "group": "f5c67b2d698b"
+      "group": "380d21f55660"
     },
     {
       "type": "listeningExercise",
-      "answer": "Площадь/Рынок есть далеко от отеля.",
+      "answer": "Рынок есть далеко от отеля.",
       "meaning": "The square is far from the hotel.",
-      "audio": "3f21503c56b279de212d211fea8966536cd64a1b7b3ab71272569b03ca39f2b9",
-      "id": "4a507dff14bf",
+      "audio": "366f11ee01e55b1b0cbf9c6b54d67d7c59a0c67714ace8234dd59fb8a241b9e1",
+      "id": "57f651c3c664",
       "priority": 1,
-      "group": "f5c67b2d698b"
+      "group": "380d21f55660"
     },
     {
       "type": "chips",
@@ -1664,81 +1664,81 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "square",
-          "definition": "undefined\nквадрат"
+          "definition": "квадрат"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "far",
-          "definition": "undefined\nдалеко"
+          "definition": "далеко"
         },
         {
           "word": "from",
-          "definition": "undefined\nиз"
+          "definition": "из\nот"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "hotel.",
-          "definition": "undefined"
+          "definition": "отель"
         }
       ],
       "chips": [
-        "Площадь/Рынок",
+        "Рынок",
         "есть",
         "далеко",
         "от",
         "отеля",
-        "отель",
         "ест",
-        "отец",
-        "одно"
+        "сто",
+        "Это",
+        "есте"
       ],
       "solutions": [
         [
-          "Площадь/Рынок",
+          "Рынок",
           "есть",
           "далеко",
           "от",
           "отеля"
         ]
       ],
-      "formattedSolution": "Площадь/Рынок есть далеко от отеля.",
-      "id": "ed20881959f5",
+      "formattedSolution": "Рынок есть далеко от отеля.",
+      "id": "f81be6cc18d1",
       "priority": 2,
-      "group": "f5c67b2d698b"
+      "group": "380d21f55660"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Площадь/Рынок",
-          "definition": "square/market\nundefined"
+          "word": "Рынок",
+          "definition": "market"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "далеко",
-          "definition": "far\nundefined"
+          "definition": "far"
         },
         {
           "word": "от",
-          "definition": "undefined"
+          "definition": "from"
         },
         {
           "word": "отеля.",
-          "definition": "undefined"
+          "definition": "hotel"
         }
       ],
       "chips": [
@@ -1768,9 +1768,9 @@
         ]
       ],
       "formattedSolution": "The square is far from the hotel.",
-      "id": "a786e94738e5",
+      "id": "02eaaa7242b7",
       "priority": 2,
-      "group": "f5c67b2d698b"
+      "group": "380d21f55660"
     },
     {
       "type": "options",
@@ -1799,19 +1799,19 @@
         },
         {
           "word": "ask",
-          "definition": "undefined"
+          "definition": "спросить"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "old",
-          "definition": "undefined\nстарый"
+          "definition": "старый"
         },
         {
           "word": "woman.",
-          "definition": "undefined\nженщина"
+          "definition": "женщина"
         }
       ],
       "chips": [
@@ -1839,15 +1839,15 @@
       "phrase": [
         {
           "word": "Спрашиваю",
-          "definition": "undefined"
+          "definition": "ask"
         },
         {
           "word": "старую",
-          "definition": "undefined"
+          "definition": "old"
         },
         {
           "word": "женщину.",
-          "definition": "undefined"
+          "definition": "woman"
         }
       ],
       "chips": [
@@ -1898,23 +1898,23 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nон"
+          "definition": "он"
         },
         {
           "word": "shows",
-          "definition": "undefined"
+          "definition": "показывает"
         },
         {
           "word": "me",
-          "definition": "undefined"
+          "definition": "меня"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "way.",
-          "definition": "undefined"
+          "definition": "путь"
         }
       ],
       "chips": [
@@ -1945,19 +1945,19 @@
       "phrase": [
         {
           "word": "Он",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "показывает",
-          "definition": "undefined"
+          "definition": "shows"
         },
         {
           "word": "мне",
-          "definition": "undefined"
+          "definition": "me"
         },
         {
           "word": "дорогу.",
-          "definition": "undefined"
+          "definition": "road"
         }
       ],
       "chips": [
@@ -2008,19 +2008,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "street",
-          "definition": "undefined\nулица"
+          "definition": "улица"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "long.",
-          "definition": "undefined\nдлинный"
+          "definition": "длинный"
         }
       ],
       "chips": [
@@ -2048,15 +2048,15 @@
       "phrase": [
         {
           "word": "Улица",
-          "definition": "street\nundefined"
+          "definition": "street"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "длинная.",
-          "definition": "undefined"
+          "definition": "long"
         }
       ],
       "chips": [
@@ -2104,23 +2104,23 @@
       "phrase": [
         {
           "word": "Where",
-          "definition": "undefined\nгде"
+          "definition": "где"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "that",
-          "definition": "undefined\nэтот (муж. р.)"
+          "definition": "что\nэтот (муж. р.)"
         },
         {
           "word": "train",
-          "definition": "undefined\nпоезд"
+          "definition": "поезд"
         },
         {
           "word": "going?",
-          "definition": "undefined"
+          "definition": "идет"
         }
       ],
       "chips": [
@@ -2151,19 +2151,19 @@
       "phrase": [
         {
           "word": "Куда",
-          "definition": "undefined\nwhich way"
+          "definition": "which way"
         },
         {
           "word": "едет",
-          "definition": "undefined"
+          "definition": "goes"
         },
         {
           "word": "тот",
-          "definition": "undefined"
+          "definition": "that"
         },
         {
           "word": "поезд?",
-          "definition": "train\nundefined"
+          "definition": "train"
         }
       ],
       "chips": [
@@ -2209,7 +2209,7 @@
       "phrase": [
         {
           "word": "where",
-          "definition": "undefined\nгде"
+          "definition": "где"
         }
       ],
       "id": "ca3f0381b788",
@@ -2243,11 +2243,11 @@
       "phrase": [
         {
           "word": "which",
-          "definition": "undefined"
+          "definition": "который"
         },
         {
           "word": "way",
-          "definition": "undefined"
+          "definition": "путь"
         }
       ],
       "id": "62bc1096b2bb",
@@ -2281,15 +2281,15 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "right",
-          "definition": "undefined\nправо"
+          "definition": "право\nправый"
         }
       ],
       "id": "bf1684ba4759",
@@ -2323,15 +2323,15 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "left",
-          "definition": "undefined\nлево"
+          "definition": "лево\nлевый"
         }
       ],
       "id": "dc1dd8912d79",
@@ -2365,7 +2365,7 @@
       "phrase": [
         {
           "word": "straight",
-          "definition": "undefined\nпрямо\nравный"
+          "definition": "прямо\nравный"
         }
       ],
       "id": "124e6f8b45b1",
@@ -2399,7 +2399,7 @@
       "phrase": [
         {
           "word": "near",
-          "definition": "undefined\nблизко"
+          "definition": "близко\nрядом"
         }
       ],
       "id": "c5750da80391",
@@ -2433,7 +2433,7 @@
       "phrase": [
         {
           "word": "far",
-          "definition": "undefined\nдалеко"
+          "definition": "далеко"
         }
       ],
       "id": "b265a300ba60",
@@ -2467,11 +2467,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "ask",
-          "definition": "undefined"
+          "definition": "спросить"
         }
       ],
       "id": "9f7d449a33d2",
@@ -2505,11 +2505,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "show",
-          "definition": "undefined"
+          "definition": "показывать"
         }
       ],
       "id": "71dd45e4be89",
@@ -2543,7 +2543,7 @@
       "phrase": [
         {
           "word": "path/way",
-          "definition": "undefined\nпуть/дорога"
+          "definition": "путь\nпуть/дорога"
         }
       ],
       "id": "edaa82dad233",

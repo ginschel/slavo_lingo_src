@@ -25,31 +25,31 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "knife",
-          "definition": "undefined\nнож"
+          "definition": "нож"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "lying",
-          "definition": "undefined"
+          "definition": "лежит"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "table.",
-          "definition": "undefined\nстол"
+          "definition": "стол"
         }
       ],
       "chips": [
@@ -80,19 +80,19 @@
       "phrase": [
         {
           "word": "Нож",
-          "definition": "knife\nundefined"
+          "definition": "knife"
         },
         {
           "word": "лежит",
-          "definition": "undefined"
+          "definition": "lies"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "столе.",
-          "definition": "undefined"
+          "definition": "table"
         }
       ],
       "chips": [
@@ -128,20 +128,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Вилка есть серебряная.",
+      "formInTargetLanguage": "Вилка серебряная.",
       "meaningInSourceLanguage": "The fork is silver.",
-      "id": "4ad7bd4ce23b",
+      "id": "9359e3e187b0",
       "priority": 0,
-      "group": "2101afa2a8bc"
+      "group": "c8cafe6983f1"
     },
     {
       "type": "listeningExercise",
-      "answer": "Вилка есть серебряная.",
+      "answer": "Вилка серебряная.",
       "meaning": "The fork is silver.",
-      "audio": "297200c6a6f1d87727ccb543600c9e193cac142616cc0028c155ce53043ad810",
-      "id": "8a07bebc69f5",
+      "audio": "9c0833f3676414ff9bea14c24d833467d3721a914343d1eb605c0a5b6214b90a",
+      "id": "3f06f1ebaff3",
       "priority": 1,
-      "group": "2101afa2a8bc"
+      "group": "c8cafe6983f1"
     },
     {
       "type": "chips",
@@ -149,39 +149,37 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "fork",
-          "definition": "undefined\nвилка"
+          "definition": "вилка"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "silver.",
-          "definition": "undefined"
+          "definition": "серебро"
         }
       ],
       "chips": [
         "Вилка",
-        "есть",
         "серебряная",
-        "Весна",
-        "сестра"
+        "севера",
+        "северная"
       ],
       "solutions": [
         [
           "Вилка",
-          "есть",
           "серебряная"
         ]
       ],
-      "formattedSolution": "Вилка есть серебряная.",
-      "id": "882c62b44396",
+      "formattedSolution": "Вилка серебряная.",
+      "id": "b0367e045fd1",
       "priority": 2,
-      "group": "2101afa2a8bc"
+      "group": "c8cafe6983f1"
     },
     {
       "type": "chips",
@@ -189,15 +187,11 @@
       "phrase": [
         {
           "word": "Вилка",
-          "definition": "fork\nundefined"
-        },
-        {
-          "word": "есть",
-          "definition": "undefined"
+          "definition": "fork"
         },
         {
           "word": "серебряная.",
-          "definition": "undefined"
+          "definition": "silver"
         }
       ],
       "chips": [
@@ -218,9 +212,9 @@
         ]
       ],
       "formattedSolution": "The fork is silver.",
-      "id": "e541fb41abfe",
+      "id": "fbcb9734674d",
       "priority": 2,
-      "group": "2101afa2a8bc"
+      "group": "c8cafe6983f1"
     },
     {
       "type": "options",
@@ -245,27 +239,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "spoon",
-          "definition": "undefined\nложка"
+          "definition": "ложка"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "salt.",
-          "definition": "undefined\nсоль"
+          "definition": "соль"
         }
       ],
       "chips": [
@@ -296,19 +290,19 @@
       "phrase": [
         {
           "word": "Ложка",
-          "definition": "spoon\nundefined"
+          "definition": "spoon"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in"
         },
         {
           "word": "соли.",
-          "definition": "undefined"
+          "definition": "salt"
         }
       ],
       "chips": [
@@ -341,20 +335,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Тарелка есть полна еды.",
+      "formInTargetLanguage": "Тарелка полна еды.",
       "meaningInSourceLanguage": "The plate is full of food.",
-      "id": "50052c55a419",
+      "id": "c188ee8eaa37",
       "priority": 0,
-      "group": "c517afd29fad"
+      "group": "a20e1424b446"
     },
     {
       "type": "listeningExercise",
-      "answer": "Тарелка есть полна еды.",
+      "answer": "Тарелка полна еды.",
       "meaning": "The plate is full of food.",
-      "audio": "aa627eaa334714c3535c6ab4100cad32a1b222a073c9e7b2548f51a062612e48",
-      "id": "b16f2b975ec6",
+      "audio": "35e6e4a02a4f9e10ff376b2f41f3f5490dcd727ae86c7eff80634e2fa5f84210",
+      "id": "c511fd53b877",
       "priority": 1,
-      "group": "c517afd29fad"
+      "group": "a20e1424b446"
     },
     {
       "type": "chips",
@@ -362,50 +356,47 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "plate",
-          "definition": "undefined\nтарелка"
+          "definition": "тарелка"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "full",
-          "definition": "undefined"
+          "definition": "полный"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "из"
         },
         {
           "word": "food.",
-          "definition": "undefined\nеда"
+          "definition": "еда"
         }
       ],
       "chips": [
         "Тарелка",
-        "есть",
         "полна",
         "еды",
-        "ест",
-        "есмь",
-        "есте"
+        "дела",
+        "Полка"
       ],
       "solutions": [
         [
           "Тарелка",
-          "есть",
           "полна",
           "еды"
         ]
       ],
-      "formattedSolution": "Тарелка есть полна еды.",
-      "id": "2913c494bc61",
+      "formattedSolution": "Тарелка полна еды.",
+      "id": "8924d7f71dcc",
       "priority": 2,
-      "group": "c517afd29fad"
+      "group": "a20e1424b446"
     },
     {
       "type": "chips",
@@ -413,19 +404,15 @@
       "phrase": [
         {
           "word": "Тарелка",
-          "definition": "plate\nundefined"
-        },
-        {
-          "word": "есть",
-          "definition": "undefined"
+          "definition": "plate"
         },
         {
           "word": "полна",
-          "definition": "undefined"
+          "definition": "full"
         },
         {
           "word": "еды.",
-          "definition": "undefined"
+          "definition": "food"
         }
       ],
       "chips": [
@@ -452,9 +439,9 @@
         ]
       ],
       "formattedSolution": "The plate is full of food.",
-      "id": "d1c2ee19e343",
+      "id": "5cee46dd4952",
       "priority": 2,
-      "group": "c517afd29fad"
+      "group": "a20e1424b446"
     },
     {
       "type": "options",
@@ -479,27 +466,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "cup",
-          "definition": "undefined\nчаша"
+          "definition": "чаша\nчашка"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "filled",
-          "definition": "undefined"
+          "definition": "наполненный"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "с"
         },
         {
           "word": "water.",
-          "definition": "undefined\nвода"
+          "definition": "вода"
         }
       ],
       "chips": [
@@ -530,19 +517,19 @@
       "phrase": [
         {
           "word": "Чаша",
-          "definition": "cup\nundefined"
+          "definition": "bowl\ncup"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "наполнена",
-          "definition": "undefined"
+          "definition": "filled"
         },
         {
           "word": "водою.",
-          "definition": "undefined"
+          "definition": "water"
         }
       ],
       "chips": [
@@ -600,27 +587,27 @@
         },
         {
           "word": "will",
-          "definition": "undefined"
+          "definition": "будет"
         },
         {
           "word": "add",
-          "definition": "undefined"
+          "definition": "добавить"
         },
         {
           "word": "sugar",
-          "definition": "undefined\nсахар"
+          "definition": "сахар"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "tea.",
-          "definition": "undefined\nчай"
+          "definition": "чай"
         }
       ],
       "chips": [
@@ -651,19 +638,19 @@
       "phrase": [
         {
           "word": "Дам",
-          "definition": "undefined"
+          "definition": "give"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in"
         },
         {
           "word": "чай",
-          "definition": "tea\nundefined"
+          "definition": "tea"
         },
         {
           "word": "сахар.",
-          "definition": "sugar\nundefined"
+          "definition": "sugar"
         }
       ],
       "chips": [
@@ -720,39 +707,39 @@
       "phrase": [
         {
           "word": "There",
-          "definition": "undefined"
+          "definition": "там"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "lot",
-          "definition": "undefined"
+          "definition": "много"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "из"
         },
         {
           "word": "sugar",
-          "definition": "undefined\nсахар"
+          "definition": "сахар"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "bowl.",
-          "definition": "undefined\nмиска"
+          "definition": "миска"
         }
       ],
       "chips": [
@@ -786,23 +773,23 @@
       "phrase": [
         {
           "word": "Много",
-          "definition": "undefined"
+          "definition": "many"
         },
         {
           "word": "сахара",
-          "definition": "undefined"
+          "definition": "sugar"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in"
         },
         {
           "word": "миске.",
-          "definition": "undefined"
+          "definition": "bowl"
         }
       ],
       "chips": [
@@ -865,35 +852,35 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "undefined"
+          "definition": "мой"
         },
         {
           "word": "pancake",
-          "definition": "undefined\nблин"
+          "definition": "блин"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "cooking",
-          "definition": "undefined"
+          "definition": "готовит"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "frying",
-          "definition": "undefined"
+          "definition": "жарка"
         },
         {
           "word": "pan.",
-          "definition": "undefined"
+          "definition": "кастрюля"
         }
       ],
       "chips": [
@@ -927,23 +914,23 @@
       "phrase": [
         {
           "word": "На",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "сковородке",
-          "definition": "undefined"
+          "definition": "pan"
         },
         {
           "word": "варится",
-          "definition": "undefined"
+          "definition": "cooking"
         },
         {
           "word": "мой",
-          "definition": "undefined"
+          "definition": "my"
         },
         {
           "word": "блин.",
-          "definition": "pancake\nundefined"
+          "definition": "pancake"
         }
       ],
       "chips": [
@@ -1003,19 +990,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "pot",
-          "definition": "undefined\nгоршок"
+          "definition": "горшок"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "hot",
-          "definition": "undefined\nгорячий"
+          "definition": "горячий"
         }
       ],
       "chips": [
@@ -1043,15 +1030,15 @@
       "phrase": [
         {
           "word": "Горшок",
-          "definition": "pot\nundefined"
+          "definition": "pot"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "горячий.",
-          "definition": "hot\nundefined"
+          "definition": "hot"
         }
       ],
       "chips": [
@@ -1099,27 +1086,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "pot",
-          "definition": "undefined\nгоршок"
+          "definition": "горшок"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "flame.",
-          "definition": "undefined"
+          "definition": "пламя"
         }
       ],
       "chips": [
@@ -1150,19 +1137,19 @@
       "phrase": [
         {
           "word": "Горшок",
-          "definition": "pot\nundefined"
+          "definition": "pot"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "пламени.",
-          "definition": "undefined"
+          "definition": "flame"
         }
       ],
       "chips": [
@@ -1216,19 +1203,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "kitchen",
-          "definition": "undefined\nкухня"
+          "definition": "кухня"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "clean.",
-          "definition": "undefined"
+          "definition": "чистый"
         }
       ],
       "chips": [
@@ -1256,15 +1243,15 @@
       "phrase": [
         {
           "word": "Кухня",
-          "definition": "kitchen\nundefined"
+          "definition": "kitchen"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "чистая.",
-          "definition": "undefined"
+          "definition": "clean"
         }
       ],
       "chips": [
@@ -1312,23 +1299,23 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nон"
+          "definition": "он"
         },
         {
           "word": "eats",
-          "definition": "undefined"
+          "definition": "ест"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "с"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "fork.",
-          "definition": "undefined\nвилка"
+          "definition": "вилка"
         }
       ],
       "chips": [
@@ -1359,19 +1346,19 @@
       "phrase": [
         {
           "word": "Он",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "ест",
-          "definition": "undefined"
+          "definition": "eats"
         },
         {
           "word": "с",
-          "definition": "undefined"
+          "definition": "with"
         },
         {
           "word": "вилкою.",
-          "definition": "undefined"
+          "definition": "fork"
         }
       ],
       "chips": [
@@ -1422,23 +1409,23 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nона"
+          "definition": "она"
         },
         {
           "word": "drinks",
-          "definition": "undefined"
+          "definition": "напитки"
         },
         {
           "word": "from",
-          "definition": "undefined\nиз"
+          "definition": "из\nот"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "cup.",
-          "definition": "undefined\nчаша"
+          "definition": "чаша\nчашка"
         }
       ],
       "chips": [
@@ -1469,19 +1456,19 @@
       "phrase": [
         {
           "word": "Она",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "пьёт",
-          "definition": "undefined"
+          "definition": "drinks"
         },
         {
           "word": "из",
-          "definition": "from\nundefined"
+          "definition": "from"
         },
         {
           "word": "чаши.",
-          "definition": "undefined"
+          "definition": "bowl"
         }
       ],
       "chips": [
@@ -1532,23 +1519,23 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nмы"
+          "definition": "мы"
         },
         {
           "word": "cook",
-          "definition": "undefined\nповар"
+          "definition": "готовить\nповар"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "pot.",
-          "definition": "undefined\nгоршок"
+          "definition": "горшок"
         }
       ],
       "chips": [
@@ -1579,19 +1566,19 @@
       "phrase": [
         {
           "word": "Мы",
-          "definition": "undefined\nwe"
+          "definition": "we"
         },
         {
           "word": "готовим",
-          "definition": "undefined"
+          "definition": "cook"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in"
         },
         {
           "word": "горшке.",
-          "definition": "undefined"
+          "definition": "pot"
         }
       ],
       "chips": [
@@ -1642,31 +1629,31 @@
       "phrase": [
         {
           "word": "There",
-          "definition": "undefined"
+          "definition": "там"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "meat",
-          "definition": "undefined\nмясо"
+          "definition": "мясо"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "frying",
-          "definition": "undefined"
+          "definition": "жарка"
         },
         {
           "word": "pan.",
-          "definition": "undefined"
+          "definition": "кастрюля"
         }
       ],
       "chips": [
@@ -1697,19 +1684,19 @@
       "phrase": [
         {
           "word": "На",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "сковородке",
-          "definition": "undefined"
+          "definition": "pan"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "мясо.",
-          "definition": "meat\nundefined"
+          "definition": "meat"
         }
       ],
       "chips": [
@@ -1766,19 +1753,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "knife",
-          "definition": "undefined\nнож"
+          "definition": "нож"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "sharp.",
-          "definition": "undefined"
+          "definition": "острый"
         }
       ],
       "chips": [
@@ -1806,15 +1793,15 @@
       "phrase": [
         {
           "word": "Нож",
-          "definition": "knife\nundefined"
+          "definition": "knife"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "острый.",
-          "definition": "undefined"
+          "definition": "sharp"
         }
       ],
       "chips": [
@@ -1841,20 +1828,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Вилки и ножи суть на столе.",
+      "formInTargetLanguage": "Вилки и ножи на столе.",
       "meaningInSourceLanguage": "Forks and knives are on the table.",
-      "id": "2c97ae9abcf2",
+      "id": "80009394b0db",
       "priority": 0,
-      "group": "ccae77afcef8"
+      "group": "1645430b8fff"
     },
     {
       "type": "listeningExercise",
-      "answer": "Вилки и ножи суть на столе.",
+      "answer": "Вилки и ножи на столе.",
       "meaning": "Forks and knives are on the table.",
-      "audio": "ae935ee7ab9f264e69e91de31d1f82a914b27f6c5e56479836cddfc694375102",
-      "id": "c7b91ec75822",
+      "audio": "f1ece834fba80972235f667e4832f7dfcd9b2b3dc98a7dba265b07546058f336",
+      "id": "8c4ecce51ca2",
       "priority": 1,
-      "group": "ccae77afcef8"
+      "group": "1645430b8fff"
     },
     {
       "type": "chips",
@@ -1862,60 +1849,57 @@
       "phrase": [
         {
           "word": "Forks",
-          "definition": "undefined"
+          "definition": "вилки"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "и"
         },
         {
           "word": "knives",
-          "definition": "undefined"
+          "definition": "ножи"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "table.",
-          "definition": "undefined\nстол"
+          "definition": "стол"
         }
       ],
       "chips": [
         "Вилки",
         "и",
         "ножи",
-        "суть",
         "на",
         "столе",
         "ли",
+        "но",
         "соли",
-        "то",
-        "со",
-        "но"
+        "или"
       ],
       "solutions": [
         [
           "Вилки",
           "и",
           "ножи",
-          "суть",
           "на",
           "столе"
         ]
       ],
-      "formattedSolution": "Вилки и ножи суть на столе.",
-      "id": "5307a8d78210",
+      "formattedSolution": "Вилки и ножи на столе.",
+      "id": "5a3137c60bd6",
       "priority": 2,
-      "group": "ccae77afcef8"
+      "group": "1645430b8fff"
     },
     {
       "type": "chips",
@@ -1923,27 +1907,23 @@
       "phrase": [
         {
           "word": "Вилки",
-          "definition": "undefined"
+          "definition": "fork"
         },
         {
           "word": "и",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "ножи",
-          "definition": "undefined"
-        },
-        {
-          "word": "суть",
-          "definition": "undefined"
+          "definition": "knives"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "столе.",
-          "definition": "undefined"
+          "definition": "table"
         }
       ],
       "chips": [
@@ -1973,9 +1953,9 @@
         ]
       ],
       "formattedSolution": "Forks and knives are on the table.",
-      "id": "8a081d121dcb",
+      "id": "453f62d1c5cc",
       "priority": 2,
-      "group": "ccae77afcef8"
+      "group": "1645430b8fff"
     },
     {
       "type": "options",
@@ -2000,27 +1980,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "spoon",
-          "definition": "undefined\nложка"
+          "definition": "ложка"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "full",
-          "definition": "undefined"
+          "definition": "полный"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "из"
         },
         {
           "word": "pepper.",
-          "definition": "undefined\nперец"
+          "definition": "перец"
         }
       ],
       "chips": [
@@ -2051,19 +2031,19 @@
       "phrase": [
         {
           "word": "Ложка",
-          "definition": "spoon\nundefined"
+          "definition": "spoon"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "полна",
-          "definition": "undefined"
+          "definition": "full"
         },
         {
           "word": "перца.",
-          "definition": "undefined"
+          "definition": "pepper"
         }
       ],
       "chips": [
@@ -2117,31 +2097,31 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "plate",
-          "definition": "undefined\nтарелка"
+          "definition": "тарелка"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "lying",
-          "definition": "undefined"
+          "definition": "лежит"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "floor.",
-          "definition": "undefined"
+          "definition": "пол"
         }
       ],
       "chips": [
@@ -2149,9 +2129,9 @@
         "лежит",
         "на",
         "полу",
+        "дела",
         "ли",
-        "Телу",
-        "Та"
+        "Телу"
       ],
       "solutions": [
         [
@@ -2172,19 +2152,19 @@
       "phrase": [
         {
           "word": "Тарелка",
-          "definition": "plate\nundefined"
+          "definition": "plate"
         },
         {
           "word": "лежит",
-          "definition": "undefined"
+          "definition": "lies"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "полу.",
-          "definition": "undefined"
+          "definition": "half"
         }
       ],
       "chips": [
@@ -2220,20 +2200,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Консерва есть пустая.",
+      "formInTargetLanguage": "Консерва пустая.",
       "meaningInSourceLanguage": "The can is empty.",
-      "id": "4d77d3f59805",
+      "id": "23776045f90e",
       "priority": 0,
-      "group": "f2ee5b934506"
+      "group": "e65fdc3ca41b"
     },
     {
       "type": "listeningExercise",
-      "answer": "Консерва есть пустая.",
+      "answer": "Консерва пустая.",
       "meaning": "The can is empty.",
-      "audio": "ec9181a5b33803845a701b077ec6cdc4d43201a9e14e501b6f4e8ca00693bd9d",
-      "id": "801c502499e2",
+      "audio": "986f697955a1d8e07dd341fbf2ba9cb638f4bb4299a132d255fb636f6cab78c2",
+      "id": "9d6c2f2e139f",
       "priority": 1,
-      "group": "f2ee5b934506"
+      "group": "e65fdc3ca41b"
     },
     {
       "type": "chips",
@@ -2241,39 +2221,37 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "can",
-          "definition": "undefined"
+          "definition": "может"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "empty.",
-          "definition": "undefined"
+          "definition": "пустой"
         }
       ],
       "chips": [
         "Консерва",
-        "есть",
         "пустая",
-        "сесть",
-        "моста"
+        "моста",
+        "сестра"
       ],
       "solutions": [
         [
           "Консерва",
-          "есть",
           "пустая"
         ]
       ],
-      "formattedSolution": "Консерва есть пустая.",
-      "id": "3d790411c63b",
+      "formattedSolution": "Консерва пустая.",
+      "id": "236bc0099950",
       "priority": 2,
-      "group": "f2ee5b934506"
+      "group": "e65fdc3ca41b"
     },
     {
       "type": "chips",
@@ -2281,15 +2259,11 @@
       "phrase": [
         {
           "word": "Консерва",
-          "definition": "undefined"
-        },
-        {
-          "word": "есть",
-          "definition": "undefined"
+          "definition": "can"
         },
         {
           "word": "пустая.",
-          "definition": "undefined"
+          "definition": "empty"
         }
       ],
       "chips": [
@@ -2310,9 +2284,9 @@
         ]
       ],
       "formattedSolution": "The can is empty.",
-      "id": "b3ba29eeb2ca",
+      "id": "084476aa4af9",
       "priority": 2,
-      "group": "f2ee5b934506"
+      "group": "e65fdc3ca41b"
     },
     {
       "type": "options",
@@ -2337,39 +2311,39 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "kitchen",
-          "definition": "undefined\nкухня"
+          "definition": "кухня"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "имеет"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "good",
-          "definition": "undefined\nдобрый"
+          "definition": "добрый\nхороший"
         },
         {
           "word": "smell",
-          "definition": "undefined"
+          "definition": "запах"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "evening.",
-          "definition": "undefined\nвечер"
+          "definition": "вечер"
         }
       ],
       "chips": [
@@ -2380,8 +2354,8 @@
         "вечером",
         "добры",
         "вечер",
-        "добро",
-        "добра"
+        "добра",
+        "Добро"
       ],
       "solutions": [
         [
@@ -2403,23 +2377,23 @@
       "phrase": [
         {
           "word": "Кухня",
-          "definition": "kitchen\nundefined"
+          "definition": "kitchen"
         },
         {
           "word": "имеет",
-          "definition": "undefined"
+          "definition": "has"
         },
         {
           "word": "добрый",
-          "definition": "good\nundefined"
+          "definition": "good"
         },
         {
           "word": "запах",
-          "definition": "undefined"
+          "definition": "smell"
         },
         {
           "word": "вечером.",
-          "definition": "undefined"
+          "definition": "evening"
         }
       ],
       "chips": [
@@ -2477,7 +2451,7 @@
       "phrase": [
         {
           "word": "knife",
-          "definition": "undefined\nнож"
+          "definition": "нож"
         }
       ],
       "id": "d9da8aed6411",
@@ -2511,7 +2485,7 @@
       "phrase": [
         {
           "word": "fork",
-          "definition": "undefined\nвилка"
+          "definition": "вилка"
         }
       ],
       "id": "0ebac6712bce",
@@ -2545,7 +2519,7 @@
       "phrase": [
         {
           "word": "spoon",
-          "definition": "undefined\nложка"
+          "definition": "ложка"
         }
       ],
       "id": "1d1cf44dfea0",
@@ -2579,7 +2553,7 @@
       "phrase": [
         {
           "word": "plate",
-          "definition": "undefined\nтарелка"
+          "definition": "тарелка"
         }
       ],
       "id": "0bda6cb48d7b",
@@ -2613,7 +2587,7 @@
       "phrase": [
         {
           "word": "cup",
-          "definition": "undefined\nчаша"
+          "definition": "чаша\nчашка"
         }
       ],
       "id": "83b10556eb2e",
@@ -2647,7 +2621,7 @@
       "phrase": [
         {
           "word": "salt",
-          "definition": "undefined\nсоль"
+          "definition": "соль"
         }
       ],
       "id": "68c4b9854512",
@@ -2681,7 +2655,7 @@
       "phrase": [
         {
           "word": "pepper",
-          "definition": "undefined\nперец"
+          "definition": "перец"
         }
       ],
       "id": "9b93f5364879",
@@ -2715,7 +2689,7 @@
       "phrase": [
         {
           "word": "sugar",
-          "definition": "undefined\nсахар"
+          "definition": "сахар"
         }
       ],
       "id": "db4d6498b664",
@@ -2749,11 +2723,11 @@
       "phrase": [
         {
           "word": "frying",
-          "definition": "undefined"
+          "definition": "жарка"
         },
         {
           "word": "pan",
-          "definition": "undefined"
+          "definition": "кастрюля"
         }
       ],
       "id": "24c15b0a4f9c",
@@ -2787,7 +2761,7 @@
       "phrase": [
         {
           "word": "hot",
-          "definition": "undefined\nгорячий"
+          "definition": "горячий"
         }
       ],
       "id": "526a13a47cd1",
@@ -2821,7 +2795,7 @@
       "phrase": [
         {
           "word": "pot",
-          "definition": "undefined\nгоршок"
+          "definition": "горшок"
         }
       ],
       "id": "e26a7b1e54a3",
@@ -2855,7 +2829,7 @@
       "phrase": [
         {
           "word": "kitchen",
-          "definition": "undefined\nкухня"
+          "definition": "кухня"
         }
       ],
       "id": "2c3ed654d119",
@@ -2889,11 +2863,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "cook",
-          "definition": "undefined\nповар"
+          "definition": "готовить\nповар"
         }
       ],
       "id": "b9e787dd3ff7",
@@ -2927,7 +2901,7 @@
       "phrase": [
         {
           "word": "pancake",
-          "definition": "undefined\nблин"
+          "definition": "блин"
         }
       ],
       "id": "ded75a8b6885",
@@ -2961,7 +2935,7 @@
       "phrase": [
         {
           "word": "dumpling",
-          "definition": "undefined\nпельмень"
+          "definition": "клецка\nпельмень"
         }
       ],
       "id": "c22ffc60e82e",
@@ -2995,7 +2969,7 @@
       "phrase": [
         {
           "word": "bowl",
-          "definition": "undefined\nмиска"
+          "definition": "миска"
         }
       ],
       "id": "e8f7b050bf42",

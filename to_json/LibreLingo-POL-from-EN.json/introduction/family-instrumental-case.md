@@ -6,7 +6,7 @@ The __Instrumental case__ primarily indicates _with whom_ or _with what_ an acti
     
     *   _Singular Masculine/Neuter:_ ending __-em__. (e.g., z brat__em__ - with a brother, z nauczyciel__em__ - with a teacher, z miast__em__ - with a city, z pol__em__ - with a field)
     *   _Singular Feminine:_ ending __-ą__. (e.g., z siostr__ą__ - with a sister, z ziemi__ą__ - with the earth)
-    *   _Plural (all genders):_ ending __-ami__. (e.g., z brat__ami__ - with brothers, z nauczyciel__ami__ - with teachers, z siostr__ami__ - with sisters, z miast__ami__ - with cities)
+    *   _Plural (all genders):_ ending __-ami__. (e.g., z student__ami__ - with students, z nauczyciel__ami__ - with teachers, z siostr__ami__ - with sisters, z miast__ami__ - with cities)
     
     
     

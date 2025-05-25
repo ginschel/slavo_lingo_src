@@ -29,11 +29,11 @@
         },
         {
           "word": "am",
-          "definition": "jestem\nundefined"
+          "definition": "jestem"
         },
         {
           "word": "wise.",
-          "definition": "mądry\nundefined"
+          "definition": "mądry"
         }
       ],
       "chips": [
@@ -61,15 +61,15 @@
       "phrase": [
         {
           "word": "Ja",
-          "definition": "I\nundefined"
+          "definition": "I"
         },
         {
           "word": "jestem",
-          "definition": "am\nundefined"
+          "definition": "I am\nam"
         },
         {
           "word": "mądry.",
-          "definition": "undefined\nwise"
+          "definition": "wise"
         }
       ],
       "chips": [
@@ -114,19 +114,19 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+          "definition": "ta (r. żeński)\nto\nto (r. nijaki)"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "mój"
         },
         {
           "word": "sister.",
-          "definition": "siostra\nundefined"
+          "definition": "siostra"
         }
       ],
       "chips": [
@@ -154,15 +154,15 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "moja",
-          "definition": "undefined"
+          "definition": "my"
         },
         {
           "word": "siostra.",
-          "definition": "sister\nundefined"
+          "definition": "sister"
         }
       ],
       "chips": [
@@ -210,19 +210,19 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "ona\nundefined"
+          "definition": "ona"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "very",
-          "definition": "undefined"
+          "definition": "bardzo"
         },
         {
           "word": "wise",
-          "definition": "mądry\nundefined"
+          "definition": "mądry"
         }
       ],
       "chips": [
@@ -250,15 +250,15 @@
       "phrase": [
         {
           "word": "Ona",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "dużo",
-          "definition": "undefined"
+          "definition": "much"
         },
         {
           "word": "mądra",
-          "definition": "undefined"
+          "definition": "wise"
         }
       ],
       "chips": [
@@ -285,20 +285,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "My dużo mądrzy",
+      "formInTargetLanguage": "My jesteśmy bardzo mądrzy",
       "meaningInSourceLanguage": "We are very wise",
-      "id": "d9bda223221c",
+      "id": "4bd2acc7229f",
       "priority": 0,
-      "group": "fdb03aa4b3f1"
+      "group": "25108e2df3c0"
     },
     {
       "type": "listeningExercise",
-      "answer": "My dużo mądrzy",
+      "answer": "My jesteśmy bardzo mądrzy",
       "meaning": "We are very wise",
-      "audio": "b1660536ed76aaff587848f274198ffc8cbe59d0fc8527c0b51f1faadad9ee9b",
-      "id": "0b1fc5d9954d",
+      "audio": "cfa5eee365491e8653ab01edad1d7ca6b9368a0c8d16294d1ba52268a8cfab86",
+      "id": "4889a54a9f2c",
       "priority": 1,
-      "group": "fdb03aa4b3f1"
+      "group": "25108e2df3c0"
     },
     {
       "type": "chips",
@@ -306,39 +306,42 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "my\nundefined"
+          "definition": "my"
         },
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "very",
-          "definition": "undefined"
+          "definition": "bardzo"
         },
         {
           "word": "wise",
-          "definition": "mądry\nundefined"
+          "definition": "mądry"
         }
       ],
       "chips": [
         "My",
-        "dużo",
+        "jesteśmy",
+        "bardzo",
         "mądrzy",
-        "duży",
-        "do"
+        "trzy",
+        "mądry",
+        "przy"
       ],
       "solutions": [
         [
           "My",
-          "dużo",
+          "jesteśmy",
+          "bardzo",
           "mądrzy"
         ]
       ],
-      "formattedSolution": "My dużo mądrzy",
-      "id": "52c92e4b1e93",
+      "formattedSolution": "My jesteśmy bardzo mądrzy",
+      "id": "a38fb5952161",
       "priority": 2,
-      "group": "fdb03aa4b3f1"
+      "group": "25108e2df3c0"
     },
     {
       "type": "chips",
@@ -346,15 +349,19 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "undefined\nwe"
+          "definition": "we"
         },
         {
-          "word": "dużo",
-          "definition": "undefined"
+          "word": "jesteśmy",
+          "definition": "are"
+        },
+        {
+          "word": "bardzo",
+          "definition": "very"
         },
         {
           "word": "mądrzy",
-          "definition": "undefined"
+          "definition": "wise"
         }
       ],
       "chips": [
@@ -375,9 +382,9 @@
         ]
       ],
       "formattedSolution": "We are very wise",
-      "id": "a7b04280d433",
+      "id": "6b5d7362fe91",
       "priority": 2,
-      "group": "fdb03aa4b3f1"
+      "group": "25108e2df3c0"
     },
     {
       "type": "options",
@@ -402,19 +409,19 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "you",
-          "definition": "ty\nundefined\nwy"
+          "definition": "ty\nwy"
         },
         {
           "word": "also",
-          "definition": "też\nundefined"
+          "definition": "też"
         },
         {
           "word": "wise?",
-          "definition": "mądry\nundefined"
+          "definition": "mądry"
         }
       ],
       "chips": [
@@ -442,15 +449,15 @@
       "phrase": [
         {
           "word": "Wy",
-          "definition": "undefined\nyou"
+          "definition": "you"
         },
         {
           "word": "też",
-          "definition": "also\nundefined"
+          "definition": "also"
         },
         {
           "word": "mądrzy?",
-          "definition": "undefined"
+          "definition": "wise"
         }
       ],
       "chips": [
@@ -498,23 +505,23 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+          "definition": "ta (r. żeński)\nto\nto (r. nijaki)"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "good",
-          "definition": "dobry\nundefined"
+          "definition": "dobry"
         },
         {
           "word": "person.",
-          "definition": "człowiek\nundefined"
+          "definition": "człowiek\nosoba"
         }
       ],
       "chips": [
@@ -542,15 +549,15 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "dobry",
-          "definition": "good\nundefined"
+          "definition": "good"
         },
         {
           "word": "człowiek.",
-          "definition": "person\nundefined"
+          "definition": "human\nperson"
         }
       ],
       "chips": [
@@ -601,19 +608,19 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+          "definition": "ta (r. żeński)\nto\nto (r. nijaki)"
         },
         {
           "word": "woman",
-          "definition": "kobieta\nundefined"
+          "definition": "kobieta"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "good.",
-          "definition": "dobry\nundefined"
+          "definition": "dobry"
         }
       ],
       "chips": [
@@ -621,9 +628,9 @@
         "kobieta",
         "jest",
         "dobra",
-        "Dobra",
         "da",
-        "brat"
+        "brat",
+        "sera"
       ],
       "solutions": [
         [
@@ -644,19 +651,19 @@
       "phrase": [
         {
           "word": "Ta",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "kobieta",
-          "definition": "undefined\nwoman"
+          "definition": "woman"
         },
         {
           "word": "jest",
-          "definition": "is\nundefined"
+          "definition": "is"
         },
         {
           "word": "dobra.",
-          "definition": "undefined"
+          "definition": "good"
         }
       ],
       "chips": [
@@ -704,19 +711,19 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+          "definition": "ta (r. żeński)\nto\nto (r. nijaki)"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "mój"
         },
         {
           "word": "house.",
-          "definition": "dom\nundefined"
+          "definition": "dom"
         }
       ],
       "chips": [
@@ -747,19 +754,19 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "jest",
-          "definition": "is\nundefined"
+          "definition": "is"
         },
         {
           "word": "mój",
-          "definition": "undefined"
+          "definition": "my"
         },
         {
           "word": "dom.",
-          "definition": "house\nundefined"
+          "definition": "home\nhouse"
         }
       ],
       "chips": [
@@ -807,23 +814,23 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "good",
-          "definition": "dobry\nundefined"
+          "definition": "dobry"
         },
         {
           "word": "friend",
-          "definition": "przyjaciel\nundefined"
+          "definition": "przyjaciel"
         }
       ],
       "chips": [
@@ -854,19 +861,19 @@
       "phrase": [
         {
           "word": "On",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "dobry",
-          "definition": "good\nundefined"
+          "definition": "good"
         },
         {
           "word": "przyjaciel",
-          "definition": "friend\nundefined"
+          "definition": "friend"
         }
       ],
       "chips": [
@@ -917,15 +924,15 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "ty\nundefined\nwy"
+          "definition": "ty\nwy"
         },
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "good.",
-          "definition": "dobry\nundefined"
+          "definition": "dobry"
         }
       ],
       "chips": [
@@ -953,15 +960,15 @@
       "phrase": [
         {
           "word": "Wy",
-          "definition": "undefined\nyou"
+          "definition": "you"
         },
         {
           "word": "jesteście",
-          "definition": "are\nundefined"
+          "definition": "are"
         },
         {
           "word": "dobrzy.",
-          "definition": "undefined"
+          "definition": "good"
         }
       ],
       "chips": [
@@ -1006,15 +1013,15 @@
       "phrase": [
         {
           "word": "These",
-          "definition": "undefined"
+          "definition": "te"
         },
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "friends.",
-          "definition": "undefined"
+          "definition": "przyjaciele"
         }
       ],
       "chips": [
@@ -1042,15 +1049,15 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "są",
-          "definition": "are\nundefined"
+          "definition": "are"
         },
         {
           "word": "przyjaciele.",
-          "definition": "undefined"
+          "definition": "friends"
         }
       ],
       "chips": [
@@ -1095,15 +1102,15 @@
       "phrase": [
         {
           "word": "Who",
-          "definition": "kto\nundefined"
+          "definition": "kto"
         },
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "you?",
-          "definition": "ty\nundefined\nwy"
+          "definition": "ty\nwy"
         }
       ],
       "chips": [
@@ -1131,15 +1138,15 @@
       "phrase": [
         {
           "word": "Kto",
-          "definition": "undefined\nwho"
+          "definition": "who"
         },
         {
           "word": "ty",
-          "definition": "undefined\nyou"
+          "definition": "you"
         },
         {
           "word": "jesteś?",
-          "definition": "are\nundefined"
+          "definition": "are\nyou are"
         }
       ],
       "chips": [
@@ -1184,19 +1191,19 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "ten (r. męski)\nundefined"
+          "definition": "ten (r. męski)\nże"
         },
         {
           "word": "man",
-          "definition": "mąż\nundefined"
+          "definition": "mąż\nmężczyzna"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "kind.",
-          "definition": "undefined"
+          "definition": "miły"
         }
       ],
       "chips": [
@@ -1224,15 +1231,15 @@
       "phrase": [
         {
           "word": "Tamten",
-          "definition": "undefined"
+          "definition": "that"
         },
         {
           "word": "mąż",
-          "definition": "man\nundefined"
+          "definition": "husband\nman"
         },
         {
           "word": "miły.",
-          "definition": "undefined"
+          "definition": "nice"
         }
       ],
       "chips": [
@@ -1280,23 +1287,23 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+          "definition": "ta (r. żeński)\nto\nto (r. nijaki)"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "pleasant",
-          "definition": "undefined"
+          "definition": "przyjemny"
         },
         {
           "word": "city.",
-          "definition": "miasto\nundefined"
+          "definition": "miasto"
         }
       ],
       "chips": [
@@ -1327,19 +1334,19 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "jest",
-          "definition": "is\nundefined"
+          "definition": "is"
         },
         {
           "word": "przyjemne",
-          "definition": "undefined"
+          "definition": "pleasant"
         },
         {
           "word": "miasto.",
-          "definition": "city\nundefined"
+          "definition": "city"
         }
       ],
       "chips": [
@@ -1390,19 +1397,19 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "ten (r. męski)\nundefined"
+          "definition": "ten (r. męski)\nże"
         },
         {
           "word": "woman",
-          "definition": "kobieta\nundefined"
+          "definition": "kobieta"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "tall.",
-          "definition": "undefined\nwysoki"
+          "definition": "wysoki"
         }
       ],
       "chips": [
@@ -1433,19 +1440,19 @@
       "phrase": [
         {
           "word": "Ta",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "kobieta",
-          "definition": "undefined\nwoman"
+          "definition": "woman"
         },
         {
           "word": "jest",
-          "definition": "is\nundefined"
+          "definition": "is"
         },
         {
           "word": "wysoka.",
-          "definition": "undefined"
+          "definition": "high"
         }
       ],
       "chips": [
@@ -1493,19 +1500,19 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "ten (r. męski)\nundefined"
+          "definition": "ten (r. męski)\nże"
         },
         {
           "word": "day",
-          "definition": "dzień\nundefined"
+          "definition": "dzień"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "cold.",
-          "definition": "undefined\nzimno"
+          "definition": "zimno"
         }
       ],
       "chips": [
@@ -1536,19 +1543,19 @@
       "phrase": [
         {
           "word": "Tamten",
-          "definition": "undefined"
+          "definition": "that"
         },
         {
           "word": "dzień",
-          "definition": "day\nundefined"
+          "definition": "day"
         },
         {
           "word": "jest",
-          "definition": "is\nundefined"
+          "definition": "is"
         },
         {
           "word": "zimny.",
-          "definition": "undefined"
+          "definition": "cold"
         }
       ],
       "chips": [
@@ -1596,27 +1603,27 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "ten (r. męski)\nundefined"
+          "definition": "ten (r. męski)\nże"
         },
         {
           "word": "house",
-          "definition": "dom\nundefined"
+          "definition": "dom"
         },
         {
           "word": "over",
-          "definition": "undefined"
+          "definition": "nad"
         },
         {
           "word": "there",
-          "definition": "undefined"
+          "definition": "tam"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "beautiful.",
-          "definition": "piękny\nundefined"
+          "definition": "piękna\npiękny"
         }
       ],
       "chips": [
@@ -1647,19 +1654,19 @@
       "phrase": [
         {
           "word": "Tamten",
-          "definition": "undefined"
+          "definition": "that"
         },
         {
           "word": "dom",
-          "definition": "house\nundefined"
+          "definition": "home\nhouse"
         },
         {
           "word": "jest",
-          "definition": "is\nundefined"
+          "definition": "is"
         },
         {
           "word": "piękny.",
-          "definition": "beautiful\nundefined"
+          "definition": "beautiful"
         }
       ],
       "chips": [
@@ -1713,19 +1720,19 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+          "definition": "ta (r. żeński)\nto\nto (r. nijaki)"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "mój"
         },
         {
           "word": "child.",
-          "definition": "dziecko\nundefined"
+          "definition": "dziecko"
         }
       ],
       "chips": [
@@ -1753,15 +1760,15 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "moje",
-          "definition": "undefined"
+          "definition": "my"
         },
         {
           "word": "dziecko.",
-          "definition": "child\nundefined"
+          "definition": "child"
         }
       ],
       "chips": [
@@ -1809,27 +1816,27 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "ten (r. męski)\nundefined"
+          "definition": "ten (r. męski)\nże"
         },
         {
           "word": "morning",
-          "definition": "rano\nundefined"
+          "definition": "ranek\nrano"
         },
         {
           "word": "over",
-          "definition": "undefined"
+          "definition": "nad"
         },
         {
           "word": "there",
-          "definition": "undefined"
+          "definition": "tam"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "cold.",
-          "definition": "undefined\nzimno"
+          "definition": "zimno"
         }
       ],
       "chips": [
@@ -1860,19 +1867,19 @@
       "phrase": [
         {
           "word": "Tamten",
-          "definition": "undefined"
+          "definition": "that"
         },
         {
           "word": "ranek",
-          "definition": "undefined"
+          "definition": "morning"
         },
         {
           "word": "jest",
-          "definition": "is\nundefined"
+          "definition": "is"
         },
         {
           "word": "zimny.",
-          "definition": "undefined"
+          "definition": "cold"
         }
       ],
       "chips": [
@@ -1926,23 +1933,23 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+          "definition": "ta (r. żeński)\nto\nto (r. nijaki)"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "nie"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "mój"
         },
         {
           "word": "sister.",
-          "definition": "siostra\nundefined"
+          "definition": "siostra"
         }
       ],
       "chips": [
@@ -1973,19 +1980,19 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "nie",
-          "definition": "no\nundefined"
+          "definition": "no"
         },
         {
           "word": "moja",
-          "definition": "undefined"
+          "definition": "my"
         },
         {
           "word": "siostra.",
-          "definition": "sister\nundefined"
+          "definition": "sister"
         }
       ],
       "chips": [
@@ -2036,23 +2043,23 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+          "definition": "ta (r. żeński)\nto\nto (r. nijaki)"
         },
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "nie"
         },
         {
           "word": "your",
-          "definition": "undefined"
+          "definition": "twój"
         },
         {
           "word": "house.",
-          "definition": "dom\nundefined"
+          "definition": "dom"
         }
       ],
       "chips": [
@@ -2062,7 +2069,7 @@
         "dom",
         "to",
         "do",
-        "noc"
+        "Co"
       ],
       "solutions": [
         [
@@ -2083,19 +2090,19 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "nie",
-          "definition": "no\nundefined"
+          "definition": "no"
         },
         {
           "word": "twój",
-          "definition": "undefined"
+          "definition": "your"
         },
         {
           "word": "dom.",
-          "definition": "house\nundefined"
+          "definition": "home\nhouse"
         }
       ],
       "chips": [
@@ -2146,23 +2153,23 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         },
         {
           "word": "this",
-          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+          "definition": "ta (r. żeński)\nto\nto (r. nijaki)"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "good",
-          "definition": "dobry\nundefined"
+          "definition": "dobry"
         },
         {
           "word": "car?",
-          "definition": "auto\nundefined"
+          "definition": "auto"
         }
       ],
       "chips": [
@@ -2190,15 +2197,15 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "dobre",
-          "definition": "undefined"
+          "definition": "good"
         },
         {
           "word": "auto?",
-          "definition": "car\nundefined"
+          "definition": "car"
         }
       ],
       "chips": [
@@ -2249,19 +2256,19 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "these",
-          "definition": "undefined"
+          "definition": "te"
         },
         {
           "word": "good",
-          "definition": "dobry\nundefined"
+          "definition": "dobry"
         },
         {
           "word": "friends?",
-          "definition": "undefined"
+          "definition": "przyjaciele"
         }
       ],
       "chips": [
@@ -2289,15 +2296,15 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "undefined"
+          "definition": "this"
         },
         {
           "word": "dobrzy",
-          "definition": "undefined"
+          "definition": "good"
         },
         {
           "word": "przyjaciele?",
-          "definition": "undefined"
+          "definition": "friends"
         }
       ],
       "chips": [
@@ -2324,20 +2331,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "One są dużo miłe.",
+      "formInTargetLanguage": "One są bardzo miłe.",
       "meaningInSourceLanguage": "They are very kind.",
-      "id": "e247cdefad17",
+      "id": "f8f359572b41",
       "priority": 0,
-      "group": "ac6adcc479d1"
+      "group": "11bd26c9e622"
     },
     {
       "type": "listeningExercise",
-      "answer": "One są dużo miłe.",
+      "answer": "One są bardzo miłe.",
       "meaning": "They are very kind.",
-      "audio": "b219d560b3ea6e92f0e545fc695dea661c9a17a94ea124601fe49b3f37362be8",
-      "id": "8418eb26ebb7",
+      "audio": "844aa4bd91d17ad496756629f11c42b744e45d351713f85f495a154eae2be074",
+      "id": "c13e42e9c8ed",
       "priority": 1,
-      "group": "ac6adcc479d1"
+      "group": "11bd26c9e622"
     },
     {
       "type": "chips",
@@ -2345,42 +2352,42 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "one\noni\nundefined"
+          "definition": "one\noni"
         },
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "very",
-          "definition": "undefined"
+          "definition": "bardzo"
         },
         {
           "word": "kind.",
-          "definition": "undefined"
+          "definition": "miły"
         }
       ],
       "chips": [
         "One",
         "są",
-        "dużo",
+        "bardzo",
         "miłe",
-        "że",
+        "ze",
         "On",
-        "mąż"
+        "nie"
       ],
       "solutions": [
         [
           "One",
           "są",
-          "dużo",
+          "bardzo",
           "miłe"
         ]
       ],
-      "formattedSolution": "One są dużo miłe.",
-      "id": "8192063bc886",
+      "formattedSolution": "One są bardzo miłe.",
+      "id": "bffd267e8d1d",
       "priority": 2,
-      "group": "ac6adcc479d1"
+      "group": "11bd26c9e622"
     },
     {
       "type": "chips",
@@ -2388,19 +2395,19 @@
       "phrase": [
         {
           "word": "One",
-          "definition": "they\nundefined"
+          "definition": "they"
         },
         {
           "word": "są",
-          "definition": "are\nundefined"
+          "definition": "are"
         },
         {
-          "word": "dużo",
-          "definition": "undefined"
+          "word": "bardzo",
+          "definition": "very"
         },
         {
           "word": "miłe.",
-          "definition": "undefined"
+          "definition": "nice"
         }
       ],
       "chips": [
@@ -2421,26 +2428,26 @@
         ]
       ],
       "formattedSolution": "They are very kind.",
-      "id": "d2e47f323d7e",
+      "id": "b8ba6b152963",
       "priority": 2,
-      "group": "ac6adcc479d1"
+      "group": "11bd26c9e622"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Oni są dużo mili",
+      "formInTargetLanguage": "Oni są bardzo mili",
       "meaningInSourceLanguage": "They are very kind",
-      "id": "7b67fd6f5fa6",
+      "id": "ddea36aedb43",
       "priority": 0,
-      "group": "93d05593c8c2"
+      "group": "7e226f0895d0"
     },
     {
       "type": "listeningExercise",
-      "answer": "Oni są dużo mili",
+      "answer": "Oni są bardzo mili",
       "meaning": "They are very kind",
-      "audio": "dcbdfe23565fd7fdc0cab97304fc394b0cb86b28b6f95a2a2b629717b25cfda8",
-      "id": "7af0c0ecce46",
+      "audio": "b4583e486cd238dad7afa8e78815850996363560ba70d0b902956605748d138d",
+      "id": "388e782652f8",
       "priority": 1,
-      "group": "93d05593c8c2"
+      "group": "7e226f0895d0"
     },
     {
       "type": "chips",
@@ -2448,25 +2455,25 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "one\noni\nundefined"
+          "definition": "one\noni"
         },
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         },
         {
           "word": "very",
-          "definition": "undefined"
+          "definition": "bardzo"
         },
         {
           "word": "kind",
-          "definition": "undefined"
+          "definition": "miły"
         }
       ],
       "chips": [
         "Oni",
         "są",
-        "dużo",
+        "bardzo",
         "mili",
         "mi",
         "dni",
@@ -2476,14 +2483,14 @@
         [
           "Oni",
           "są",
-          "dużo",
+          "bardzo",
           "mili"
         ]
       ],
-      "formattedSolution": "Oni są dużo mili",
-      "id": "4775c79d5c74",
+      "formattedSolution": "Oni są bardzo mili",
+      "id": "2b941487ae64",
       "priority": 2,
-      "group": "93d05593c8c2"
+      "group": "7e226f0895d0"
     },
     {
       "type": "chips",
@@ -2491,19 +2498,19 @@
       "phrase": [
         {
           "word": "Oni",
-          "definition": "they\nundefined"
+          "definition": "they"
         },
         {
           "word": "są",
-          "definition": "are\nundefined"
+          "definition": "are"
         },
         {
-          "word": "dużo",
-          "definition": "undefined"
+          "word": "bardzo",
+          "definition": "very"
         },
         {
           "word": "mili",
-          "definition": "undefined"
+          "definition": "kind"
         }
       ],
       "chips": [
@@ -2524,9 +2531,9 @@
         ]
       ],
       "formattedSolution": "They are very kind",
-      "id": "78f1f914c708",
+      "id": "cd39474e384b",
       "priority": 2,
-      "group": "93d05593c8c2"
+      "group": "7e226f0895d0"
     },
     {
       "type": "cards",
@@ -2546,7 +2553,7 @@
       "phrase": [
         {
           "word": "this",
-          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+          "definition": "ta (r. żeński)\nto\nto (r. nijaki)"
         }
       ],
       "id": "0cbcd447f7cc",
@@ -2580,7 +2587,7 @@
       "phrase": [
         {
           "word": "this",
-          "definition": "ta (r. żeński)\nto (r. nijaki)\nundefined"
+          "definition": "ta (r. żeński)\nto\nto (r. nijaki)"
         }
       ],
       "id": "5e02c551a8cf",
@@ -2614,7 +2621,7 @@
       "phrase": [
         {
           "word": "that",
-          "definition": "ten (r. męski)\nundefined"
+          "definition": "ten (r. męski)\nże"
         }
       ],
       "id": "14e3785d7572",
@@ -2648,15 +2655,15 @@
       "phrase": [
         {
           "word": "that",
-          "definition": "ten (r. męski)\nundefined"
+          "definition": "ten (r. męski)\nże"
         },
         {
           "word": "over",
-          "definition": "undefined"
+          "definition": "nad"
         },
         {
           "word": "there",
-          "definition": "undefined"
+          "definition": "tam"
         }
       ],
       "id": "3c849ec9add3",
@@ -2690,15 +2697,15 @@
       "phrase": [
         {
           "word": "that",
-          "definition": "ten (r. męski)\nundefined"
+          "definition": "ten (r. męski)\nże"
         },
         {
           "word": "over",
-          "definition": "undefined"
+          "definition": "nad"
         },
         {
           "word": "there",
-          "definition": "undefined"
+          "definition": "tam"
         }
       ],
       "id": "7da898f0de6b",
@@ -2732,7 +2739,7 @@
       "phrase": [
         {
           "word": "am",
-          "definition": "jestem\nundefined"
+          "definition": "jestem"
         }
       ],
       "id": "c80274c3a562",
@@ -2766,7 +2773,7 @@
       "phrase": [
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         }
       ],
       "id": "7d1890daf4b2",
@@ -2800,7 +2807,7 @@
       "phrase": [
         {
           "word": "is",
-          "definition": "jest\nundefined"
+          "definition": "jest"
         }
       ],
       "id": "eff14b01b841",
@@ -2834,7 +2841,7 @@
       "phrase": [
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         }
       ],
       "id": "ec38b9adb443",
@@ -2868,7 +2875,7 @@
       "phrase": [
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         }
       ],
       "id": "5f28c6f251bd",
@@ -2902,7 +2909,7 @@
       "phrase": [
         {
           "word": "are",
-          "definition": "jesteś\njesteście\njesteśmy\nsą\nundefined"
+          "definition": "byti/быти\njesteś\njesteście\njesteśmy\nsą"
         }
       ],
       "id": "fbe9d3f61ee2",
@@ -2970,7 +2977,7 @@
       "phrase": [
         {
           "word": "you",
-          "definition": "ty\nundefined\nwy"
+          "definition": "ty\nwy"
         }
       ],
       "id": "9c4fcd36313d",
@@ -3004,7 +3011,7 @@
       "phrase": [
         {
           "word": "he",
-          "definition": "on\nundefined"
+          "definition": "on"
         }
       ],
       "id": "e3e7267f5788",
@@ -3038,7 +3045,7 @@
       "phrase": [
         {
           "word": "she",
-          "definition": "ona\nundefined"
+          "definition": "ona"
         }
       ],
       "id": "caa6d4f54dbd",
@@ -3072,7 +3079,7 @@
       "phrase": [
         {
           "word": "it",
-          "definition": "ono\nundefined"
+          "definition": "ono\nto"
         }
       ],
       "id": "06255badca78",
@@ -3106,7 +3113,7 @@
       "phrase": [
         {
           "word": "we",
-          "definition": "my\nundefined"
+          "definition": "my"
         }
       ],
       "id": "33c9a1cf369e",
@@ -3140,7 +3147,7 @@
       "phrase": [
         {
           "word": "you",
-          "definition": "ty\nundefined\nwy"
+          "definition": "ty\nwy"
         }
       ],
       "id": "dc80990c7a9a",
@@ -3174,7 +3181,7 @@
       "phrase": [
         {
           "word": "they",
-          "definition": "one\noni\nundefined"
+          "definition": "one\noni"
         }
       ],
       "id": "41829268db94",
@@ -3208,7 +3215,7 @@
       "phrase": [
         {
           "word": "they",
-          "definition": "one\noni\nundefined"
+          "definition": "one\noni"
         }
       ],
       "id": "8a95038498fc",
@@ -3242,7 +3249,7 @@
       "phrase": [
         {
           "word": "person",
-          "definition": "człowiek\nundefined"
+          "definition": "człowiek\nosoba"
         }
       ],
       "id": "912a2a5a8fd3",
@@ -3276,7 +3283,7 @@
       "phrase": [
         {
           "word": "woman",
-          "definition": "kobieta\nundefined"
+          "definition": "kobieta"
         }
       ],
       "id": "82360bfbdb5d",
@@ -3310,7 +3317,7 @@
       "phrase": [
         {
           "word": "man",
-          "definition": "mąż\nundefined"
+          "definition": "mąż\nmężczyzna"
         }
       ],
       "id": "09618a2d2e3a",
@@ -3344,7 +3351,7 @@
       "phrase": [
         {
           "word": "child",
-          "definition": "dziecko\nundefined"
+          "definition": "dziecko"
         }
       ],
       "id": "886094179fa0",
@@ -3378,7 +3385,7 @@
       "phrase": [
         {
           "word": "friend",
-          "definition": "przyjaciel\nundefined"
+          "definition": "przyjaciel"
         }
       ],
       "id": "1db47265b77e",
@@ -3412,7 +3419,7 @@
       "phrase": [
         {
           "word": "sister",
-          "definition": "siostra\nundefined"
+          "definition": "siostra"
         }
       ],
       "id": "cfd9be6a6490",
@@ -3446,7 +3453,7 @@
       "phrase": [
         {
           "word": "parent",
-          "definition": "rodzic\nundefined"
+          "definition": "rodzic"
         }
       ],
       "id": "c865e98afa22",
@@ -3480,7 +3487,7 @@
       "phrase": [
         {
           "word": "house",
-          "definition": "dom\nundefined"
+          "definition": "dom"
         }
       ],
       "id": "96f209567606",
@@ -3514,7 +3521,7 @@
       "phrase": [
         {
           "word": "city",
-          "definition": "miasto\nundefined"
+          "definition": "miasto"
         }
       ],
       "id": "7e662a798dc2",
@@ -3548,7 +3555,7 @@
       "phrase": [
         {
           "word": "day",
-          "definition": "dzień\nundefined"
+          "definition": "dzień"
         }
       ],
       "id": "1ced9e9faeb8",
@@ -3582,7 +3589,7 @@
       "phrase": [
         {
           "word": "also",
-          "definition": "też\nundefined"
+          "definition": "też"
         }
       ],
       "id": "a314b9c99c37",
@@ -3616,7 +3623,7 @@
       "phrase": [
         {
           "word": "who",
-          "definition": "kto\nundefined"
+          "definition": "kto"
         }
       ],
       "id": "6e0f4e2ca406",

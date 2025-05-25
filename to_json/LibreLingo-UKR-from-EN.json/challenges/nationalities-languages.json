@@ -25,15 +25,15 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "Slav.",
@@ -65,15 +65,15 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "слов'янином.",
-          "definition": "undefined"
+          "definition": "by a Slav"
         }
       ],
       "chips": [
@@ -121,23 +121,23 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "speaks",
-          "definition": "undefined\nговорить"
+          "definition": "говорить"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "Slavic",
-          "definition": "undefined"
+          "definition": "слов'янський"
         },
         {
           "word": "language.",
-          "definition": "undefined\nмова"
+          "definition": "мова"
         }
       ],
       "chips": [
@@ -168,19 +168,19 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "говорить",
-          "definition": "speaks\nundefined"
+          "definition": "speaks"
         },
         {
           "word": "слов'янською",
-          "definition": "undefined"
+          "definition": "in Slavic"
         },
         {
           "word": "мовою.",
-          "definition": "undefined"
+          "definition": "with the language"
         }
       ],
       "chips": [
@@ -231,19 +231,19 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мій"
         },
         {
           "word": "language.",
-          "definition": "undefined\nмова"
+          "definition": "мова"
         }
       ],
       "chips": [
@@ -274,19 +274,19 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "моя",
-          "definition": "undefined"
+          "definition": "my (feminine)"
         },
         {
           "word": "мова.",
-          "definition": "language\nundefined"
+          "definition": "language"
         }
       ],
       "chips": [
@@ -334,19 +334,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "country",
-          "definition": "undefined\nдержава"
+          "definition": "держава\nкраїна"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "Poland.",
-          "definition": "undefined"
+          "definition": "польща"
         }
       ],
       "chips": [
@@ -374,15 +374,15 @@
       "phrase": [
         {
           "word": "Державою",
-          "definition": "undefined"
+          "definition": "with the state"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "Польща.",
-          "definition": "undefined"
+          "definition": "Poland"
         }
       ],
       "chips": [
@@ -409,20 +409,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Я є поляком.",
+      "formInTargetLanguage": "Я поляком.",
       "meaningInSourceLanguage": "I am a Pole.",
-      "id": "7e57b6d4e064",
+      "id": "f13e9953979d",
       "priority": 0,
-      "group": "be281cbeaa52"
+      "group": "f0217528c5b3"
     },
     {
       "type": "listeningExercise",
-      "answer": "Я є поляком.",
+      "answer": "Я поляком.",
       "meaning": "I am a Pole.",
-      "audio": "7e1e439707753fed028cbc17a172aed15e02126a8fc9a64138ec2c37caa1a6ab",
-      "id": "0778598bdcc9",
+      "audio": "c5989087be1ac685821dce111bf500b0eba59edc963ac2eda992e70b42e0ab5c",
+      "id": "c9276ea09729",
       "priority": 1,
-      "group": "be281cbeaa52"
+      "group": "f0217528c5b3"
     },
     {
       "type": "chips",
@@ -434,11 +434,11 @@
         },
         {
           "word": "am",
-          "definition": "undefined\nя є"
+          "definition": "я є\nє"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "Pole.",
@@ -447,22 +447,20 @@
       ],
       "chips": [
         "Я",
-        "є",
         "поляком",
-        "я",
-        "о"
+        "Як",
+        "я"
       ],
       "solutions": [
         [
           "Я",
-          "є",
           "поляком"
         ]
       ],
-      "formattedSolution": "Я є поляком.",
-      "id": "a30fe1fe1635",
+      "formattedSolution": "Я поляком.",
+      "id": "00c825bcf82d",
       "priority": 2,
-      "group": "be281cbeaa52"
+      "group": "f0217528c5b3"
     },
     {
       "type": "chips",
@@ -470,15 +468,11 @@
       "phrase": [
         {
           "word": "Я",
-          "definition": "I\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "I"
         },
         {
           "word": "поляком.",
-          "definition": "undefined"
+          "definition": "with a Pole"
         }
       ],
       "chips": [
@@ -499,26 +493,26 @@
         ]
       ],
       "formattedSolution": "I am a Pole.",
-      "id": "d5d6e4a9244f",
+      "id": "f0d3b021eb1b",
       "priority": 2,
-      "group": "be281cbeaa52"
+      "group": "f0217528c5b3"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Вона є хорваткою.",
+      "formInTargetLanguage": "Вона хорваткою.",
       "meaningInSourceLanguage": "She is a Croat.",
-      "id": "f84436b89afc",
+      "id": "95607292772f",
       "priority": 0,
-      "group": "1c82e5e72006"
+      "group": "e75d8ac8f5d9"
     },
     {
       "type": "listeningExercise",
-      "answer": "Вона є хорваткою.",
+      "answer": "Вона хорваткою.",
       "meaning": "She is a Croat.",
-      "audio": "f527f88c100d4994c16690fa5054e8ca8e81c10f42d5d64b0faf6a348ddfb401",
-      "id": "e4441c4181f6",
+      "audio": "350dfadbf721f3d152ba845f7ed0e58f7998ff1599245df20d539cb0efb8c7ee",
+      "id": "0ff18bfb6132",
       "priority": 1,
-      "group": "1c82e5e72006"
+      "group": "e75d8ac8f5d9"
     },
     {
       "type": "chips",
@@ -526,15 +520,15 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "Croat.",
@@ -543,22 +537,20 @@
       ],
       "chips": [
         "Вона",
-        "є",
         "хорваткою",
-        "то",
-        "нова"
+        "нова",
+        "мова"
       ],
       "solutions": [
         [
           "Вона",
-          "є",
           "хорваткою"
         ]
       ],
-      "formattedSolution": "Вона є хорваткою.",
-      "id": "d2d0076ab72d",
+      "formattedSolution": "Вона хорваткою.",
+      "id": "f070713bbfdf",
       "priority": 2,
-      "group": "1c82e5e72006"
+      "group": "e75d8ac8f5d9"
     },
     {
       "type": "chips",
@@ -566,15 +558,11 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "she"
         },
         {
           "word": "хорваткою.",
-          "definition": "undefined"
+          "definition": "with a Croatian female"
         }
       ],
       "chips": [
@@ -595,26 +583,26 @@
         ]
       ],
       "formattedSolution": "She is a Croat.",
-      "id": "af50e697c76e",
+      "id": "db8e9cb69373",
       "priority": 2,
-      "group": "1c82e5e72006"
+      "group": "e75d8ac8f5d9"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Він є росіянином.",
+      "formInTargetLanguage": "Він росіянином.",
       "meaningInSourceLanguage": "He is a Russian.",
-      "id": "5e60480ada66",
+      "id": "bebf56c02a20",
       "priority": 0,
-      "group": "059a0fd81300"
+      "group": "394dd0ef1c88"
     },
     {
       "type": "listeningExercise",
-      "answer": "Він є росіянином.",
+      "answer": "Він росіянином.",
       "meaning": "He is a Russian.",
-      "audio": "d7af27380c2d050516ef530c2471d47cddef13214682b45ee63d2a38c101a45b",
-      "id": "db001a3578cb",
+      "audio": "b769c0200bfbc3b897722537d17eb842d1e10e006fccd2d6e17d608cf38b0527",
+      "id": "ccd6dabb81c0",
       "priority": 1,
-      "group": "059a0fd81300"
+      "group": "394dd0ef1c88"
     },
     {
       "type": "chips",
@@ -622,15 +610,15 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "Russian.",
@@ -639,22 +627,20 @@
       ],
       "chips": [
         "Він",
-        "є",
         "росіянином",
-        "і",
-        "він"
+        "Вони",
+        "сином"
       ],
       "solutions": [
         [
           "Він",
-          "є",
           "росіянином"
         ]
       ],
-      "formattedSolution": "Він є росіянином.",
-      "id": "838dfefec8ff",
+      "formattedSolution": "Він росіянином.",
+      "id": "925c9c729ca6",
       "priority": 2,
-      "group": "059a0fd81300"
+      "group": "394dd0ef1c88"
     },
     {
       "type": "chips",
@@ -662,15 +648,11 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "he"
         },
         {
           "word": "росіянином.",
-          "definition": "undefined"
+          "definition": "with a Russian"
         }
       ],
       "chips": [
@@ -691,9 +673,9 @@
         ]
       ],
       "formattedSolution": "He is a Russian.",
-      "id": "740d4a8cccee",
+      "id": "f369f00e39f0",
       "priority": 2,
-      "group": "059a0fd81300"
+      "group": "394dd0ef1c88"
     },
     {
       "type": "options",
@@ -718,19 +700,19 @@
       "phrase": [
         {
           "word": "Do",
-          "definition": "undefined"
+          "definition": "робити"
         },
         {
           "word": "you",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         },
         {
           "word": "speak",
-          "definition": "undefined"
+          "definition": "говорити"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "German",
@@ -738,7 +720,7 @@
         },
         {
           "word": "language?",
-          "definition": "undefined\nмова"
+          "definition": "мова"
         }
       ],
       "chips": [
@@ -769,19 +751,19 @@
       "phrase": [
         {
           "word": "Чи",
-          "definition": "undefined"
+          "definition": "if, whether"
         },
         {
           "word": "говориш",
-          "definition": "undefined"
+          "definition": "you speak"
         },
         {
           "word": "німецькою",
-          "definition": "undefined"
+          "definition": "in German"
         },
         {
           "word": "мовою?",
-          "definition": "undefined"
+          "definition": "with the language"
         }
       ],
       "chips": [
@@ -835,7 +817,7 @@
       "phrase": [
         {
           "word": "An",
-          "definition": "undefined"
+          "definition": "ан"
         },
         {
           "word": "Englishman",
@@ -843,19 +825,19 @@
         },
         {
           "word": "speaks",
-          "definition": "undefined\nговорить"
+          "definition": "говорить"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "English",
-          "definition": "undefined"
+          "definition": "англійська"
         },
         {
           "word": "language.",
-          "definition": "undefined\nмова"
+          "definition": "мова"
         }
       ],
       "chips": [
@@ -886,19 +868,19 @@
       "phrase": [
         {
           "word": "Англієць",
-          "definition": "Englishman\nundefined"
+          "definition": "Englishman"
         },
         {
           "word": "говорить",
-          "definition": "speaks\nundefined"
+          "definition": "speaks"
         },
         {
           "word": "англійською",
-          "definition": "undefined"
+          "definition": "in English"
         },
         {
           "word": "мовою.",
-          "definition": "undefined"
+          "definition": "with the language"
         }
       ],
       "chips": [
@@ -952,19 +934,19 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nми"
+          "definition": "ми"
         },
         {
           "word": "love",
-          "definition": "undefined\nлюбов"
+          "definition": "любов"
         },
         {
           "word": "our",
-          "definition": "undefined"
+          "definition": "наш"
         },
         {
           "word": "nation.",
-          "definition": "undefined\nнарод"
+          "definition": "народ\nнація"
         }
       ],
       "chips": [
@@ -995,19 +977,19 @@
       "phrase": [
         {
           "word": "Ми",
-          "definition": "undefined\nwe"
+          "definition": "we"
         },
         {
           "word": "любимо",
-          "definition": "undefined"
+          "definition": "we love"
         },
         {
           "word": "свій",
-          "definition": "undefined"
+          "definition": "my/his/her/its own"
         },
         {
           "word": "народ.",
-          "definition": "nation\nundefined"
+          "definition": "nation"
         }
       ],
       "chips": [
@@ -1034,20 +1016,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Це є ім'я моєї держави.",
+      "formInTargetLanguage": "Це ім'я моєї держави.",
       "meaningInSourceLanguage": "This is the name of my country.",
-      "id": "e63fa4cf169a",
+      "id": "fe77d54e5263",
       "priority": 0,
-      "group": "9c2b998218df"
+      "group": "1ff2efc59f69"
     },
     {
       "type": "listeningExercise",
-      "answer": "Це є ім'я моєї держави.",
+      "answer": "Це ім'я моєї держави.",
       "meaning": "This is the name of my country.",
-      "audio": "f76a50280e2b255ef780ff384de8961be8c9dc99a33774e44ab1619c187cb5c8",
-      "id": "de001a8ab305",
+      "audio": "6c4c818598e9e7a150ba589a43fa6abd22ee07e7b0fe1556cbfd8b3752c1cf58",
+      "id": "6aee6f0730ba",
       "priority": 1,
-      "group": "9c2b998218df"
+      "group": "1ff2efc59f69"
     },
     {
       "type": "chips",
@@ -1055,57 +1037,54 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "name",
-          "definition": "undefined\nім\\'я"
+          "definition": "ім'я\nім\\'я"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мій"
         },
         {
           "word": "country.",
-          "definition": "undefined\nдержава"
+          "definition": "держава\nкраїна"
         }
       ],
       "chips": [
         "Це",
-        "є",
         "ім'я",
         "моєї",
         "держави",
+        "моя",
         "моє",
-        "має",
-        "де",
-        "моя"
+        "має"
       ],
       "solutions": [
         [
           "Це",
-          "є",
           "ім'я",
           "моєї",
           "держави"
         ]
       ],
-      "formattedSolution": "Це є ім'я моєї держави.",
-      "id": "5b32e3a6408c",
+      "formattedSolution": "Це ім'я моєї держави.",
+      "id": "3ef86e877251",
       "priority": 2,
-      "group": "9c2b998218df"
+      "group": "1ff2efc59f69"
     },
     {
       "type": "chips",
@@ -1113,23 +1092,19 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "ім'я",
-          "definition": "undefined"
+          "definition": "name"
         },
         {
           "word": "моєї",
-          "definition": "undefined"
+          "definition": "of my (feminine)"
         },
         {
           "word": "держави.",
-          "definition": "undefined"
+          "definition": "of the state"
         }
       ],
       "chips": [
@@ -1159,9 +1134,9 @@
         ]
       ],
       "formattedSolution": "This is the name of my country.",
-      "id": "296d0bdf9f3a",
+      "id": "28fc6b51ac40",
       "priority": 2,
-      "group": "9c2b998218df"
+      "group": "1ff2efc59f69"
     },
     {
       "type": "options",
@@ -1186,19 +1161,19 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "knows",
-          "definition": "undefined"
+          "definition": "знає"
         },
         {
           "word": "three",
-          "definition": "undefined\nтри"
+          "definition": "три"
         },
         {
           "word": "languages.",
-          "definition": "undefined"
+          "definition": "мови"
         }
       ],
       "chips": [
@@ -1229,19 +1204,19 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "знає",
-          "definition": "undefined"
+          "definition": "knows"
         },
         {
           "word": "три",
-          "definition": "three\nundefined"
+          "definition": "three"
         },
         {
           "word": "мови.",
-          "definition": "undefined"
+          "definition": "of the language"
         }
       ],
       "chips": [
@@ -1289,7 +1264,7 @@
       "phrase": [
         {
           "word": "A",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "Croat",
@@ -1297,19 +1272,19 @@
         },
         {
           "word": "speaks",
-          "definition": "undefined\nговорить"
+          "definition": "говорить"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "Croatian",
-          "definition": "undefined"
+          "definition": "хорватський"
         },
         {
           "word": "language.",
-          "definition": "undefined\nмова"
+          "definition": "мова"
         }
       ],
       "chips": [
@@ -1340,19 +1315,19 @@
       "phrase": [
         {
           "word": "Хорват",
-          "definition": "undefined"
+          "definition": "Croat"
         },
         {
           "word": "говорить",
-          "definition": "speaks\nundefined"
+          "definition": "speaks"
         },
         {
           "word": "хорватською",
-          "definition": "undefined"
+          "definition": "in Croatian"
         },
         {
           "word": "мовою.",
-          "definition": "undefined"
+          "definition": "with the language"
         }
       ],
       "chips": [
@@ -1406,7 +1381,7 @@
       "phrase": [
         {
           "word": "A",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "German",
@@ -1414,15 +1389,15 @@
         },
         {
           "word": "lives",
-          "definition": "undefined\nживе"
+          "definition": "живе\nжиття"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "Germany.",
-          "definition": "undefined"
+          "definition": "німеччина"
         }
       ],
       "chips": [
@@ -1453,19 +1428,19 @@
       "phrase": [
         {
           "word": "Німець",
-          "definition": "German\nundefined"
+          "definition": "German"
         },
         {
           "word": "живе",
-          "definition": "lives\nundefined"
+          "definition": "lives"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in, at"
         },
         {
           "word": "Німеччині.",
-          "definition": "undefined"
+          "definition": "in Germany"
         }
       ],
       "chips": [
@@ -1516,11 +1491,11 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "knows",
-          "definition": "undefined"
+          "definition": "знає"
         },
         {
           "word": "Russian",
@@ -1528,11 +1503,11 @@
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "і"
         },
         {
           "word": "Slavic.",
-          "definition": "undefined"
+          "definition": "слов'янський"
         }
       ],
       "chips": [
@@ -1566,23 +1541,23 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "знає",
-          "definition": "undefined"
+          "definition": "knows"
         },
         {
           "word": "російську",
-          "definition": "undefined"
+          "definition": "Russian (accusative)"
         },
         {
           "word": "і",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "слов'янську.",
-          "definition": "undefined"
+          "definition": "Slavic (accusative)"
         }
       ],
       "chips": [
@@ -1612,20 +1587,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Це є народ з багатою культурою.",
+      "formInTargetLanguage": "Це народ з багатою культурою.",
       "meaningInSourceLanguage": "This is a nation with a rich culture.",
-      "id": "7acfa500729f",
+      "id": "d2ef4a53262b",
       "priority": 0,
-      "group": "8d1ada10ce0b"
+      "group": "94b11f27be01"
     },
     {
       "type": "listeningExercise",
-      "answer": "Це є народ з багатою культурою.",
+      "answer": "Це народ з багатою культурою.",
       "meaning": "This is a nation with a rich culture.",
-      "audio": "2f7576d0087bead0d1b1cb10fadbf53e244a19dc89851c22aa128a748175ab2a",
-      "id": "a7a8a6c39a57",
+      "audio": "ea416d6df53c70308ef94d06373fc04fb674514b4ebb71635d2b8dfc12597b61",
+      "id": "f672f3cbef91",
       "priority": 1,
-      "group": "8d1ada10ce0b"
+      "group": "94b11f27be01"
     },
     {
       "type": "chips",
@@ -1633,64 +1608,61 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "nation",
-          "definition": "undefined\nнарод"
+          "definition": "народ\nнація"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "rich",
-          "definition": "undefined"
+          "definition": "багатий"
         },
         {
           "word": "culture.",
-          "definition": "undefined"
+          "definition": "культура"
         }
       ],
       "chips": [
         "Це",
-        "є",
         "народ",
         "з",
         "багатою",
         "культурою",
         "то",
         "о",
-        "за",
-        "Що",
-        "до"
+        "Хто",
+        "за"
       ],
       "solutions": [
         [
           "Це",
-          "є",
           "народ",
           "з",
           "багатою",
           "культурою"
         ]
       ],
-      "formattedSolution": "Це є народ з багатою культурою.",
-      "id": "83398324ef6e",
+      "formattedSolution": "Це народ з багатою культурою.",
+      "id": "e814677f9a18",
       "priority": 2,
-      "group": "8d1ada10ce0b"
+      "group": "94b11f27be01"
     },
     {
       "type": "chips",
@@ -1698,27 +1670,23 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "народ",
-          "definition": "nation\nundefined"
+          "definition": "nation"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "багатою",
-          "definition": "undefined"
+          "definition": "with a rich one"
         },
         {
           "word": "культурою.",
-          "definition": "undefined"
+          "definition": "with culture"
         }
       ],
       "chips": [
@@ -1751,26 +1719,26 @@
         ]
       ],
       "formattedSolution": "This is a nation with a rich culture.",
-      "id": "da8f7af7a0be",
+      "id": "e05a531a1e61",
       "priority": 2,
-      "group": "8d1ada10ce0b"
+      "group": "94b11f27be01"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ти є англійцем?",
+      "formInTargetLanguage": "Ти англійцем?",
       "meaningInSourceLanguage": "Are you an Englishman?",
-      "id": "00258ab6f6bb",
+      "id": "38b778b94b06",
       "priority": 0,
-      "group": "c15d67dd0731"
+      "group": "7ca30d295bfd"
     },
     {
       "type": "listeningExercise",
-      "answer": "Ти є англійцем?",
+      "answer": "Ти англійцем?",
       "meaning": "Are you an Englishman?",
-      "audio": "ee850d5ee8f8d83e9cd7eddfc0ab5dd870fd35861688e251b22254c892c3630c",
-      "id": "483258c00b96",
+      "audio": "80f685744f25cb73a36f68c1c096391b39946c28f2ff97ae39fc7bd282391158",
+      "id": "e5d18fd74fdc",
       "priority": 1,
-      "group": "c15d67dd0731"
+      "group": "7ca30d295bfd"
     },
     {
       "type": "chips",
@@ -1778,15 +1746,15 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "you",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         },
         {
           "word": "an",
-          "definition": "undefined"
+          "definition": "ан"
         },
         {
           "word": "Englishman?",
@@ -1795,22 +1763,20 @@
       ],
       "chips": [
         "Ти",
-        "є",
         "англійцем",
         "не",
-        "і"
+        "цим"
       ],
       "solutions": [
         [
           "Ти",
-          "є",
           "англійцем"
         ]
       ],
-      "formattedSolution": "Ти є англійцем?",
-      "id": "e01e8c02f804",
+      "formattedSolution": "Ти англійцем?",
+      "id": "4fbca53196bc",
       "priority": 2,
-      "group": "c15d67dd0731"
+      "group": "7ca30d295bfd"
     },
     {
       "type": "chips",
@@ -1818,15 +1784,11 @@
       "phrase": [
         {
           "word": "Ти",
-          "definition": "undefined\nyou"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "you\nyou (singular)"
         },
         {
           "word": "англійцем?",
-          "definition": "undefined"
+          "definition": "by an Englishman"
         }
       ],
       "chips": [
@@ -1847,9 +1809,9 @@
         ]
       ],
       "formattedSolution": "Are you an Englishman?",
-      "id": "4ba2725eb3b4",
+      "id": "3d10f3b4abdb",
       "priority": 2,
-      "group": "c15d67dd0731"
+      "group": "7ca30d295bfd"
     },
     {
       "type": "options",
@@ -1874,23 +1836,23 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "speaks",
-          "definition": "undefined\nговорить"
+          "definition": "говорить"
         },
         {
           "word": "every",
-          "definition": "undefined"
+          "definition": "кожен"
         },
         {
           "word": "language",
-          "definition": "undefined\nмова"
+          "definition": "мова"
         },
         {
           "word": "well.",
-          "definition": "undefined"
+          "definition": "добре"
         }
       ],
       "chips": [
@@ -1924,23 +1886,23 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "говорить",
-          "definition": "speaks\nundefined"
+          "definition": "speaks"
         },
         {
           "word": "кожною",
-          "definition": "undefined"
+          "definition": "with each"
         },
         {
           "word": "мовою",
-          "definition": "undefined"
+          "definition": "with the language"
         },
         {
           "word": "добре.",
-          "definition": "undefined"
+          "definition": "good, well"
         }
       ],
       "chips": [
@@ -1991,19 +1953,19 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nми"
+          "definition": "ми"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "learning",
-          "definition": "undefined"
+          "definition": "навчання"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "Russian",
@@ -2011,7 +1973,7 @@
         },
         {
           "word": "language.",
-          "definition": "undefined\nмова"
+          "definition": "мова"
         }
       ],
       "chips": [
@@ -2042,19 +2004,19 @@
       "phrase": [
         {
           "word": "Ми",
-          "definition": "undefined\nwe"
+          "definition": "we"
         },
         {
           "word": "вчимось",
-          "definition": "undefined"
+          "definition": "we learn"
         },
         {
           "word": "російської",
-          "definition": "undefined"
+          "definition": "of Russian"
         },
         {
           "word": "мови.",
-          "definition": "undefined"
+          "definition": "of the language"
         }
       ],
       "chips": [
@@ -2108,19 +2070,19 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "knows",
-          "definition": "undefined"
+          "definition": "знає"
         },
         {
           "word": "many",
-          "definition": "undefined"
+          "definition": "багато"
         },
         {
           "word": "nations.",
-          "definition": "undefined"
+          "definition": "нації"
         }
       ],
       "chips": [
@@ -2151,19 +2113,19 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "знає",
-          "definition": "undefined"
+          "definition": "knows"
         },
         {
           "word": "багато",
-          "definition": "undefined"
+          "definition": "a lot, many, much"
         },
         {
           "word": "народів.",
-          "definition": "undefined"
+          "definition": "of nations"
         }
       ],
       "chips": [
@@ -2240,7 +2202,7 @@
       "phrase": [
         {
           "word": "language",
-          "definition": "undefined\nмова"
+          "definition": "мова"
         }
       ],
       "id": "a95cc1a48a03",
@@ -2274,7 +2236,7 @@
       "phrase": [
         {
           "word": "country",
-          "definition": "undefined\nдержава"
+          "definition": "держава\nкраїна"
         }
       ],
       "id": "63c0f76e2bee",
@@ -2308,7 +2270,7 @@
       "phrase": [
         {
           "word": "nation",
-          "definition": "undefined\nнарод"
+          "definition": "народ\nнація"
         }
       ],
       "id": "ca31b5008f86",
@@ -2342,7 +2304,7 @@
       "phrase": [
         {
           "word": "name",
-          "definition": "undefined\nім\\'я"
+          "definition": "ім'я\nім\\'я"
         }
       ],
       "id": "ab4b3086701b",

@@ -29,15 +29,15 @@
         },
         {
           "word": "don't",
-          "definition": "undefined"
+          "definition": "не роблять"
         },
         {
           "word": "know",
-          "definition": "undefined"
+          "definition": "знати"
         },
         {
           "word": "that.",
-          "definition": "undefined\nцей (чоловічий рід)"
+          "definition": "той\nцей (чоловічий рід)"
         }
       ],
       "chips": [
@@ -65,15 +65,15 @@
       "phrase": [
         {
           "word": "Того",
-          "definition": "undefined"
+          "definition": "of that"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "not"
         },
         {
           "word": "знаю.",
-          "definition": "undefined"
+          "definition": "I know"
         }
       ],
       "chips": [
@@ -125,39 +125,39 @@
         },
         {
           "word": "have",
-          "definition": "undefined"
+          "definition": "мати"
         },
         {
           "word": "known",
-          "definition": "undefined"
+          "definition": "відомий"
         },
         {
           "word": "about",
-          "definition": "undefined"
+          "definition": "про"
         },
         {
           "word": "that",
-          "definition": "undefined\nцей (чоловічий рід)"
+          "definition": "той\nцей (чоловічий рід)"
         },
         {
           "word": "thing",
-          "definition": "undefined\nріч"
+          "definition": "річ"
         },
         {
           "word": "for",
-          "definition": "undefined\nза"
+          "definition": "для\nза"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "long",
-          "definition": "undefined\nдовгий"
+          "definition": "довгий"
         },
         {
           "word": "time.",
-          "definition": "undefined\nчас"
+          "definition": "час"
         }
       ],
       "chips": [
@@ -191,23 +191,23 @@
       "phrase": [
         {
           "word": "Про",
-          "definition": "undefined"
+          "definition": "about"
         },
         {
           "word": "те",
-          "definition": "undefined"
+          "definition": "that (neuter)"
         },
         {
           "word": "вже",
-          "definition": "undefined"
+          "definition": "already"
         },
         {
           "word": "давно",
-          "definition": "undefined"
+          "definition": "long ago"
         },
         {
           "word": "знаю.",
-          "definition": "undefined"
+          "definition": "I know"
         }
       ],
       "chips": [
@@ -252,20 +252,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Кого ти бачиш?.",
+      "formInTargetLanguage": "Кого ти бачиш?",
       "meaningInSourceLanguage": "Who do you see?.",
-      "id": "c030dce2df99",
+      "id": "91325b56bca4",
       "priority": 0,
-      "group": "7a8647cd7e26"
+      "group": "e1d57331c774"
     },
     {
       "type": "listeningExercise",
-      "answer": "Кого ти бачиш?.",
+      "answer": "Кого ти бачиш?",
       "meaning": "Who do you see?.",
-      "audio": "7a20b1fe32fe9968effa989a19e0f8afa677ad6d22553177a5e236bd67eb334c",
-      "id": "5c984929673e",
+      "audio": "c694e22e2a1dfb65e970a14f59967a9af6d7d82614e3a8bef74bb2c6819b01b2",
+      "id": "ee4c72d1c79d",
       "priority": 1,
-      "group": "7a8647cd7e26"
+      "group": "e1d57331c774"
     },
     {
       "type": "chips",
@@ -273,19 +273,19 @@
       "phrase": [
         {
           "word": "Who",
-          "definition": "undefined\nхто"
+          "definition": "хто"
         },
         {
           "word": "do",
-          "definition": "undefined"
+          "definition": "робити"
         },
         {
           "word": "you",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         },
         {
           "word": "see?.",
-          "definition": "undefined"
+          "definition": "бачити"
         }
       ],
       "chips": [
@@ -302,10 +302,10 @@
           "бачиш"
         ]
       ],
-      "formattedSolution": "Кого ти бачиш?.",
-      "id": "ffd0e681dc20",
+      "formattedSolution": "Кого ти бачиш?",
+      "id": "19e502a88d61",
       "priority": 2,
-      "group": "7a8647cd7e26"
+      "group": "e1d57331c774"
     },
     {
       "type": "chips",
@@ -313,15 +313,15 @@
       "phrase": [
         {
           "word": "Кого",
-          "definition": "undefined"
+          "definition": "whom"
         },
         {
           "word": "ти",
-          "definition": "undefined\nyou"
+          "definition": "you\nyou (singular)"
         },
         {
-          "word": "бачиш?.",
-          "definition": "undefined"
+          "word": "бачиш?",
+          "definition": "you see"
         }
       ],
       "chips": [
@@ -342,26 +342,26 @@
         ]
       ],
       "formattedSolution": "Who do you see?.",
-      "id": "0d7270f059d4",
+      "id": "fe27d74e94b9",
       "priority": 2,
-      "group": "7a8647cd7e26"
+      "group": "e1d57331c774"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Тим, хто лягає спати, спокійного сну.",
+      "formInTargetLanguage": "Тим, хто лягаєся спати, спокійного сну.",
       "meaningInSourceLanguage": "To those who are going to sleep, a peaceful dream.",
-      "id": "24eccd497deb",
+      "id": "a61ea480e816",
       "priority": 0,
-      "group": "1006fe6b93d3"
+      "group": "b7886ccec1ab"
     },
     {
       "type": "listeningExercise",
-      "answer": "Тим, хто лягає спати, спокійного сну.",
+      "answer": "Тим, хто лягаєся спати, спокійного сну.",
       "meaning": "To those who are going to sleep, a peaceful dream.",
-      "audio": "e771fde9781ee777f1bd6230b8884b8de23bf5ef87dd425de00d3709f1cba98f",
-      "id": "8ff0976f8074",
+      "audio": "bca248252d2d47bf09d1d29c2bf18993883d54eebf0742e28940d74196cdf551",
+      "id": "00d25d3aa043",
       "priority": 1,
-      "group": "1006fe6b93d3"
+      "group": "b7886ccec1ab"
     },
     {
       "type": "chips",
@@ -369,49 +369,49 @@
       "phrase": [
         {
           "word": "To",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "those",
-          "definition": "undefined"
+          "definition": "ті"
         },
         {
           "word": "who",
-          "definition": "undefined\nхто"
+          "definition": "хто"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "going",
-          "definition": "undefined"
+          "definition": "йде"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "sleep,",
-          "definition": "undefined"
+          "definition": "спати"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "peaceful",
-          "definition": "undefined"
+          "definition": "мирний"
         },
         {
           "word": "dream.",
-          "definition": "undefined\nсон"
+          "definition": "мрія\nсон"
         }
       ],
       "chips": [
         "Тим",
         "хто",
-        "лягає",
+        "лягаєся",
         "спати",
         "спокійного",
         "сну",
@@ -425,16 +425,16 @@
         [
           "Тим",
           "хто",
-          "лягає",
+          "лягаєся",
           "спати",
           "спокійного",
           "сну"
         ]
       ],
-      "formattedSolution": "Тим, хто лягає спати, спокійного сну.",
-      "id": "491b857bf402",
+      "formattedSolution": "Тим, хто лягаєся спати, спокійного сну.",
+      "id": "90e97f8c79a9",
       "priority": 2,
-      "group": "1006fe6b93d3"
+      "group": "b7886ccec1ab"
     },
     {
       "type": "chips",
@@ -442,27 +442,27 @@
       "phrase": [
         {
           "word": "Тим,",
-          "definition": "undefined"
+          "definition": "with that"
         },
         {
           "word": "хто",
-          "definition": "undefined\nwho"
+          "definition": "who"
         },
         {
-          "word": "лягає",
-          "definition": "undefined"
+          "word": "лягаєся",
+          "definition": "lies down"
         },
         {
           "word": "спати,",
-          "definition": "undefined"
+          "definition": "to sleep"
         },
         {
           "word": "спокійного",
-          "definition": "undefined"
+          "definition": "of the calm"
         },
         {
           "word": "сну.",
-          "definition": "undefined"
+          "definition": "of a dream"
         }
       ],
       "chips": [
@@ -501,9 +501,9 @@
         ]
       ],
       "formattedSolution": "To those who are going to sleep, a peaceful dream.",
-      "id": "d2c2cc86bc02",
+      "id": "0d118ac2acdf",
       "priority": 2,
-      "group": "1006fe6b93d3"
+      "group": "b7886ccec1ab"
     },
     {
       "type": "options",
@@ -532,23 +532,23 @@
         },
         {
           "word": "know",
-          "definition": "undefined"
+          "definition": "знати"
         },
         {
           "word": "nothing",
-          "definition": "undefined"
+          "definition": "нічого"
         },
         {
           "word": "about",
-          "definition": "undefined"
+          "definition": "про"
         },
         {
           "word": "that",
-          "definition": "undefined\nцей (чоловічий рід)"
+          "definition": "той\nцей (чоловічий рід)"
         },
         {
           "word": "thing.",
-          "definition": "undefined\nріч"
+          "definition": "річ"
         }
       ],
       "chips": [
@@ -588,31 +588,31 @@
       "phrase": [
         {
           "word": "Про",
-          "definition": "undefined"
+          "definition": "about"
         },
         {
           "word": "ту",
-          "definition": "undefined"
+          "definition": "that (accusative)"
         },
         {
           "word": "річ",
-          "definition": "thing\nundefined"
+          "definition": "thing"
         },
         {
           "word": "я",
-          "definition": "I\nundefined"
+          "definition": "I"
         },
         {
           "word": "нічого",
-          "definition": "undefined"
+          "definition": "nothing"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "not"
         },
         {
           "word": "знаю.",
-          "definition": "undefined"
+          "definition": "I know"
         }
       ],
       "chips": [
@@ -670,19 +670,19 @@
         },
         {
           "word": "am",
-          "definition": "undefined\nя є"
+          "definition": "я є\nє"
         },
         {
           "word": "talking",
-          "definition": "undefined"
+          "definition": "говорить"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "you.",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         }
       ],
       "chips": [
@@ -710,15 +710,15 @@
       "phrase": [
         {
           "word": "Говорю",
-          "definition": "undefined"
+          "definition": "I speak"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "тобою.",
-          "definition": "undefined"
+          "definition": "with you"
         }
       ],
       "chips": [
@@ -773,11 +773,11 @@
         },
         {
           "word": "see",
-          "definition": "undefined"
+          "definition": "бачити"
         },
         {
           "word": "you.",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         }
       ],
       "chips": [
@@ -805,15 +805,15 @@
       "phrase": [
         {
           "word": "Я",
-          "definition": "I\nundefined"
+          "definition": "I"
         },
         {
           "word": "бачу",
-          "definition": "undefined"
+          "definition": "I see"
         },
         {
           "word": "вас.",
-          "definition": "undefined"
+          "definition": "you (plural)"
         }
       ],
       "chips": [
@@ -858,31 +858,31 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "likes",
-          "definition": "undefined"
+          "definition": "любить"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "be",
-          "definition": "undefined"
+          "definition": "бути"
         },
         {
           "word": "alone",
-          "definition": "undefined"
+          "definition": "сам"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "himself.",
-          "definition": "undefined"
+          "definition": "сам"
         }
       ],
       "chips": [
@@ -919,27 +919,27 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "любить",
-          "definition": "undefined"
+          "definition": "loves"
         },
         {
           "word": "бути",
-          "definition": "to be\nundefined"
+          "definition": "to be"
         },
         {
           "word": "сам",
-          "definition": "undefined"
+          "definition": "alone, self"
         },
         {
           "word": "зі",
-          "definition": "undefined"
+          "definition": "with"
         },
         {
           "word": "собою.",
-          "definition": "undefined"
+          "definition": "with oneself"
         }
       ],
       "chips": [
@@ -996,15 +996,15 @@
       "phrase": [
         {
           "word": "Give",
-          "definition": "undefined"
+          "definition": "дати"
         },
         {
           "word": "me",
-          "definition": "undefined"
+          "definition": "мене"
         },
         {
           "word": "water.",
-          "definition": "undefined\nвода"
+          "definition": "вода"
         }
       ],
       "chips": [
@@ -1032,15 +1032,15 @@
       "phrase": [
         {
           "word": "Дай",
-          "definition": "undefined"
+          "definition": "give"
         },
         {
           "word": "мені",
-          "definition": "undefined"
+          "definition": "to me"
         },
         {
           "word": "воду.",
-          "definition": "undefined"
+          "definition": "water (accusative)"
         }
       ],
       "chips": [
@@ -1085,27 +1085,27 @@
       "phrase": [
         {
           "word": "With",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "us",
-          "definition": "undefined"
+          "definition": "нас"
         },
         {
           "word": "everything",
-          "definition": "undefined"
+          "definition": "все"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "always",
-          "definition": "undefined"
+          "definition": "завжди"
         },
         {
           "word": "cheerful.",
-          "definition": "undefined\nвеселий"
+          "definition": "веселий"
         }
       ],
       "chips": [
@@ -1139,23 +1139,23 @@
       "phrase": [
         {
           "word": "З",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "нами",
-          "definition": "undefined"
+          "definition": "with us"
         },
         {
           "word": "завжди",
-          "definition": "undefined"
+          "definition": "always"
         },
         {
           "word": "все",
-          "definition": "undefined"
+          "definition": "everything"
         },
         {
           "word": "весело.",
-          "definition": "undefined"
+          "definition": "cheerfully"
         }
       ],
       "chips": [
@@ -1209,19 +1209,19 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         },
         {
           "word": "don't",
-          "definition": "undefined"
+          "definition": "не роблять"
         },
         {
           "word": "see",
-          "definition": "undefined"
+          "definition": "бачити"
         },
         {
           "word": "me.",
-          "definition": "undefined"
+          "definition": "мене"
         }
       ],
       "chips": [
@@ -1249,15 +1249,15 @@
       "phrase": [
         {
           "word": "Мене",
-          "definition": "undefined"
+          "definition": "me"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "not"
         },
         {
           "word": "бачиш.",
-          "definition": "undefined"
+          "definition": "you see"
         }
       ],
       "chips": [
@@ -1305,31 +1305,31 @@
       "phrase": [
         {
           "word": "Who",
-          "definition": "undefined\nхто"
+          "definition": "хто"
         },
         {
           "word": "do",
-          "definition": "undefined"
+          "definition": "робити"
         },
         {
           "word": "you",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         },
         {
           "word": "give",
-          "definition": "undefined"
+          "definition": "дати"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "gift",
-          "definition": "undefined\nдар"
+          "definition": "дар\nподарунок"
         },
         {
           "word": "to?",
-          "definition": "undefined"
+          "definition": "до"
         }
       ],
       "chips": [
@@ -1357,15 +1357,15 @@
       "phrase": [
         {
           "word": "Кому",
-          "definition": "undefined"
+          "definition": "to whom"
         },
         {
           "word": "даси",
-          "definition": "undefined"
+          "definition": "you will give"
         },
         {
           "word": "дар?",
-          "definition": "gift\nundefined"
+          "definition": "gift"
         }
       ],
       "chips": [
@@ -1422,23 +1422,23 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "you",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         },
         {
           "word": "talking",
-          "definition": "undefined"
+          "definition": "говорить"
         },
         {
           "word": "about",
-          "definition": "undefined"
+          "definition": "про"
         },
         {
           "word": "me?",
-          "definition": "undefined"
+          "definition": "мене"
         }
       ],
       "chips": [
@@ -1466,15 +1466,15 @@
       "phrase": [
         {
           "word": "Про",
-          "definition": "undefined"
+          "definition": "about"
         },
         {
           "word": "мене",
-          "definition": "undefined"
+          "definition": "me"
         },
         {
           "word": "говориш?",
-          "definition": "undefined"
+          "definition": "you speak"
         }
       ],
       "chips": [
@@ -1525,7 +1525,7 @@
       "phrase": [
         {
           "word": "No,",
-          "definition": "undefined\nні"
+          "definition": "ні"
         },
         {
           "word": "I",
@@ -1533,19 +1533,19 @@
         },
         {
           "word": "don't",
-          "definition": "undefined"
+          "definition": "не роблять"
         },
         {
           "word": "talt",
-          "definition": "undefined"
+          "definition": "тальт"
         },
         {
           "word": "about",
-          "definition": "undefined"
+          "definition": "про"
         },
         {
           "word": "you.",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         }
       ],
       "chips": [
@@ -1582,27 +1582,27 @@
       "phrase": [
         {
           "word": "Ні,",
-          "definition": "no\nundefined"
+          "definition": "no"
         },
         {
           "word": "я",
-          "definition": "I\nundefined"
+          "definition": "I"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "not"
         },
         {
           "word": "говорю",
-          "definition": "undefined"
+          "definition": "I speak"
         },
         {
           "word": "про",
-          "definition": "undefined"
+          "definition": "about"
         },
         {
           "word": "тебе.",
-          "definition": "undefined"
+          "definition": "you"
         }
       ],
       "chips": [
@@ -1656,23 +1656,23 @@
       "phrase": [
         {
           "word": "What",
-          "definition": "undefined\nщо"
+          "definition": "що"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "you",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         },
         {
           "word": "talking",
-          "definition": "undefined"
+          "definition": "говорить"
         },
         {
           "word": "about?",
-          "definition": "undefined"
+          "definition": "про"
         }
       ],
       "chips": [
@@ -1703,19 +1703,19 @@
       "phrase": [
         {
           "word": "Про",
-          "definition": "undefined"
+          "definition": "about"
         },
         {
           "word": "що",
-          "definition": "undefined\nwhat"
+          "definition": "what\nwhat, that"
         },
         {
           "word": "ти",
-          "definition": "undefined\nyou"
+          "definition": "you\nyou (singular)"
         },
         {
           "word": "говориш?",
-          "definition": "undefined"
+          "definition": "you speak"
         }
       ],
       "chips": [
@@ -1766,19 +1766,19 @@
       "phrase": [
         {
           "word": "These",
-          "definition": "undefined"
+          "definition": "ці"
         },
         {
           "word": "women",
-          "definition": "undefined"
+          "definition": "жінки"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "beautiful.",
-          "definition": "undefined\nкрасивий"
+          "definition": "красивий"
         }
       ],
       "chips": [
@@ -1809,19 +1809,19 @@
       "phrase": [
         {
           "word": "Ці",
-          "definition": "undefined"
+          "definition": "these"
         },
         {
           "word": "жінки",
-          "definition": "undefined"
+          "definition": "of the woman, women"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "красиві.",
-          "definition": "undefined"
+          "definition": "beautiful (plural)"
         }
       ],
       "chips": [
@@ -1869,27 +1869,27 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         },
         {
           "word": "do",
-          "definition": "undefined"
+          "definition": "робити"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "have",
-          "definition": "undefined"
+          "definition": "мати"
         },
         {
           "word": "those",
-          "definition": "undefined"
+          "definition": "ті"
         },
         {
           "word": "friends.",
-          "definition": "undefined"
+          "definition": "друзі"
         }
       ],
       "chips": [
@@ -1920,19 +1920,19 @@
       "phrase": [
         {
           "word": "Цих",
-          "definition": "undefined"
+          "definition": "of these"
         },
         {
           "word": "друзів",
-          "definition": "undefined"
+          "definition": "of friends"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "not"
         },
         {
           "word": "маєш.",
-          "definition": "undefined"
+          "definition": "you have"
         }
       ],
       "chips": [
@@ -1986,19 +1986,19 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "stops",
-          "definition": "undefined"
+          "definition": "зупиняється"
         },
         {
           "word": "troubling",
-          "definition": "undefined"
+          "definition": "тривожний"
         },
         {
           "word": "others.",
-          "definition": "undefined"
+          "definition": "інші"
         }
       ],
       "chips": [
@@ -2029,19 +2029,19 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "дає",
-          "definition": "undefined"
+          "definition": "gives"
         },
         {
           "word": "собі",
-          "definition": "undefined"
+          "definition": "to oneself"
         },
         {
           "word": "спокій.",
-          "definition": "peace\nundefined"
+          "definition": "peace"
         }
       ],
       "chips": [
@@ -2089,27 +2089,27 @@
       "phrase": [
         {
           "word": "What",
-          "definition": "undefined\nщо"
+          "definition": "що"
         },
         {
           "word": "isn't",
-          "definition": "undefined"
+          "definition": "немає"
         },
         {
           "word": "at",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "this",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "house",
-          "definition": "undefined\nдім"
+          "definition": "будинок\nдім"
         },
         {
           "word": "here?",
-          "definition": "undefined"
+          "definition": "тут"
         }
       ],
       "chips": [
@@ -2143,23 +2143,23 @@
       "phrase": [
         {
           "word": "Чого",
-          "definition": "undefined"
+          "definition": "of what"
         },
         {
           "word": "тут",
-          "definition": "undefined"
+          "definition": "here"
         },
         {
           "word": "нема",
-          "definition": "undefined"
+          "definition": "there is no"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in, at"
         },
         {
           "word": "домі?",
-          "definition": "undefined"
+          "definition": "in the house"
         }
       ],
       "chips": [
@@ -2213,27 +2213,27 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         },
         {
           "word": "give",
-          "definition": "undefined"
+          "definition": "дати"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "this",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "dog",
-          "definition": "undefined\nпес"
+          "definition": "пес\nсобака"
         },
         {
           "word": "bones.",
-          "definition": "undefined"
+          "definition": "кістки"
         }
       ],
       "chips": [
@@ -2267,23 +2267,23 @@
       "phrase": [
         {
           "word": "Тому",
-          "definition": "undefined"
+          "definition": "because, to that"
         },
         {
           "word": "псу",
-          "definition": "undefined"
+          "definition": "to the dog"
         },
         {
           "word": "ти",
-          "definition": "undefined\nyou"
+          "definition": "you\nyou (singular)"
         },
         {
           "word": "даєш",
-          "definition": "undefined"
+          "definition": "you give"
         },
         {
           "word": "кістки.",
-          "definition": "undefined"
+          "definition": "bones"
         }
       ],
       "chips": [
@@ -2337,27 +2337,27 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "it",
-          "definition": "undefined\nвоно"
+          "definition": "воно\nце"
         },
         {
           "word": "your",
-          "definition": "undefined"
+          "definition": "ваш"
         },
         {
           "word": "coffee",
-          "definition": "undefined\nкава"
+          "definition": "кава"
         },
         {
           "word": "or",
-          "definition": "undefined"
+          "definition": "або"
         },
         {
           "word": "her?",
-          "definition": "undefined"
+          "definition": "її"
         }
       ],
       "chips": [
@@ -2391,23 +2391,23 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "ваша",
-          "definition": "undefined"
+          "definition": "your (feminine)"
         },
         {
           "word": "кава",
-          "definition": "coffee\nundefined"
+          "definition": "coffee"
         },
         {
           "word": "чи",
-          "definition": "undefined"
+          "definition": "if, whether"
         },
         {
           "word": "її?",
-          "definition": "undefined"
+          "definition": "her"
         }
       ],
       "chips": [
@@ -2456,11 +2456,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "know",
-          "definition": "undefined"
+          "definition": "знати"
         }
       ],
       "id": "0385339c65f2",
@@ -2479,40 +2479,40 @@
     {
       "type": "cards",
       "pictures": null,
-      "formInTargetLanguage": "знати (когось/щось)",
+      "formInTargetLanguage": "відати",
       "meaningInSourceLanguage": "to know",
-      "id": "3d9d5e2ad3c1",
+      "id": "b134c4c0f635",
       "priority": 0,
-      "group": "8f4f23a9aded"
+      "group": "6db4c4a9a77b"
     },
     {
       "type": "shortInput",
       "pictures": null,
       "formInTargetLanguage": [
-        "знати (когось/щось)"
+        "відати"
       ],
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "know",
-          "definition": "undefined"
+          "definition": "знати"
         }
       ],
-      "id": "b40c3785645d",
+      "id": "e01280cba96f",
       "priority": 1,
-      "group": "8f4f23a9aded"
+      "group": "6db4c4a9a77b"
     },
     {
       "type": "listeningExercise",
-      "answer": "знати (когось/щось)",
+      "answer": "відати",
       "meaning": "to know",
-      "audio": "1bf907faaab395e6efae78f4fc2c6308b144150383b44613f73246bdcadeeda2",
-      "id": "4aa323bd94b6",
+      "audio": "f638868d91a54a39c88c76ff75863c537e8be2b12fd59dad51b76657a8f86223",
+      "id": "dcb635a5485d",
       "priority": 1,
-      "group": "8f4f23a9aded"
+      "group": "6db4c4a9a77b"
     },
     {
       "type": "cards",
@@ -2532,7 +2532,7 @@
       "phrase": [
         {
           "word": "dream",
-          "definition": "undefined\nсон"
+          "definition": "мрія\nсон"
         }
       ],
       "id": "54cfc42f3afd",
@@ -2566,7 +2566,7 @@
       "phrase": [
         {
           "word": "thing",
-          "definition": "undefined\nріч"
+          "definition": "річ"
         }
       ],
       "id": "bfa73db54d49",

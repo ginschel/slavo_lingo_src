@@ -4,20 +4,20 @@
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Кістки тут нема.",
+      "formInTargetLanguage": "Кості тут нема.",
       "meaningInSourceLanguage": "There is no bone here.",
-      "id": "801e56ce76a7",
+      "id": "f8cdbd7d8d8b",
       "priority": 0,
-      "group": "a9fbdbd0d52b"
+      "group": "4cbe7117f872"
     },
     {
       "type": "listeningExercise",
-      "answer": "Кістки тут нема.",
+      "answer": "Кості тут нема.",
       "meaning": "There is no bone here.",
-      "audio": "b3a08ddc8d128b1ea8ea3a64b7ac01adbde92a52402917e3542a6135f55bf2d5",
-      "id": "f9fb2b8942d3",
+      "audio": "d1aa61af298bf5fd7b38186f0fa44fdb4879320abcc1adf14a1288ebd1351978",
+      "id": "ead95ed23861",
       "priority": 1,
-      "group": "a9fbdbd0d52b"
+      "group": "4cbe7117f872"
     },
     {
       "type": "chips",
@@ -25,59 +25,59 @@
       "phrase": [
         {
           "word": "There",
-          "definition": "undefined"
+          "definition": "там"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "no",
-          "definition": "undefined\nні"
+          "definition": "ні"
         },
         {
           "word": "bone",
-          "definition": "undefined"
+          "definition": "кістка"
         },
         {
           "word": "here.",
-          "definition": "undefined"
+          "definition": "тут"
         }
       ],
       "chips": [
-        "Кістки",
+        "Кості",
         "тут",
         "нема",
-        "ти",
-        "бути"
+        "те",
+        "ту"
       ],
       "solutions": [
         [
-          "Кістки",
+          "Кості",
           "тут",
           "нема"
         ]
       ],
-      "formattedSolution": "Кістки тут нема.",
-      "id": "472440dfc2f6",
+      "formattedSolution": "Кості тут нема.",
+      "id": "66f11c0bacff",
       "priority": 2,
-      "group": "a9fbdbd0d52b"
+      "group": "4cbe7117f872"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Кістки",
-          "definition": "undefined"
+          "word": "Кості",
+          "definition": "bones"
         },
         {
           "word": "тут",
-          "definition": "undefined"
+          "definition": "here"
         },
         {
           "word": "нема.",
-          "definition": "undefined"
+          "definition": "there is no"
         }
       ],
       "chips": [
@@ -101,9 +101,9 @@
         ]
       ],
       "formattedSolution": "There is no bone here.",
-      "id": "50dae5a52e90",
+      "id": "54a13d72b087",
       "priority": 2,
-      "group": "a9fbdbd0d52b"
+      "group": "4cbe7117f872"
     },
     {
       "type": "options",
@@ -132,19 +132,19 @@
         },
         {
           "word": "give",
-          "definition": "undefined"
+          "definition": "дати"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "woman.",
-          "definition": "undefined\nжінка"
+          "definition": "жінка"
         }
       ],
       "chips": [
@@ -170,11 +170,11 @@
       "phrase": [
         {
           "word": "Дам",
-          "definition": "undefined"
+          "definition": "I will give"
         },
         {
           "word": "жінці.",
-          "definition": "undefined"
+          "definition": "to the woman"
         }
       ],
       "chips": [
@@ -225,23 +225,23 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "city.",
-          "definition": "undefined\nмісто"
+          "definition": "місто"
         }
       ],
       "chips": [
@@ -272,19 +272,19 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in, at"
         },
         {
           "word": "місті.",
-          "definition": "undefined"
+          "definition": "in the city"
         }
       ],
       "chips": [
@@ -339,15 +339,15 @@
         },
         {
           "word": "talk",
-          "definition": "undefined"
+          "definition": "говорити"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "friends.",
-          "definition": "undefined"
+          "definition": "друзі"
         }
       ],
       "chips": [
@@ -375,15 +375,15 @@
       "phrase": [
         {
           "word": "Говоримо",
-          "definition": "undefined"
+          "definition": "we speak"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "друзями.",
-          "definition": "undefined"
+          "definition": "with friends"
         }
       ],
       "chips": [
@@ -431,19 +431,19 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "має"
         },
         {
           "word": "no",
-          "definition": "undefined\nні"
+          "definition": "ні"
         },
         {
           "word": "name.",
-          "definition": "undefined\nім\\'я"
+          "definition": "ім'я\nім\\'я"
         }
       ],
       "chips": [
@@ -474,19 +474,19 @@
       "phrase": [
         {
           "word": "Імені",
-          "definition": "undefined"
+          "definition": "of the name"
         },
         {
           "word": "він",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "not"
         },
         {
           "word": "має.",
-          "definition": "undefined"
+          "definition": "has"
         }
       ],
       "chips": [
@@ -534,23 +534,23 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         },
         {
           "word": "don't",
-          "definition": "undefined"
+          "definition": "не роблять"
         },
         {
           "word": "have",
-          "definition": "undefined"
+          "definition": "мати"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "soul?!",
-          "definition": "undefined"
+          "definition": "душа"
         }
       ],
       "chips": [
@@ -581,19 +581,19 @@
       "phrase": [
         {
           "word": "Ти",
-          "definition": "undefined\nyou"
+          "definition": "you\nyou (singular)"
         },
         {
           "word": "душі",
-          "definition": "undefined"
+          "definition": "of the soul"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "not"
         },
         {
           "word": "маєш?!",
-          "definition": "undefined"
+          "definition": "you have"
         }
       ],
       "chips": [
@@ -644,19 +644,19 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "sees",
-          "definition": "undefined"
+          "definition": "бачить"
         },
         {
           "word": "his",
-          "definition": "undefined"
+          "definition": "його"
         },
         {
           "word": "wife.",
-          "definition": "undefined"
+          "definition": "дружина"
         }
       ],
       "chips": [
@@ -687,19 +687,19 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "бачить",
-          "definition": "undefined"
+          "definition": "he/she sees"
         },
         {
           "word": "свою",
-          "definition": "undefined"
+          "definition": "my/his/her/its (accusative)"
         },
         {
           "word": "жінку.",
-          "definition": "undefined"
+          "definition": "woman (accusative)"
         }
       ],
       "chips": [
@@ -747,23 +747,23 @@
       "phrase": [
         {
           "word": "There",
-          "definition": "undefined"
+          "definition": "там"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "no",
-          "definition": "undefined\nні"
+          "definition": "ні"
         },
         {
           "word": "brother",
-          "definition": "undefined\nбрат"
+          "definition": "брат"
         },
         {
           "word": "here.",
-          "definition": "undefined"
+          "definition": "тут"
         }
       ],
       "chips": [
@@ -791,15 +791,15 @@
       "phrase": [
         {
           "word": "Брата",
-          "definition": "undefined"
+          "definition": "of the brother"
         },
         {
           "word": "тут",
-          "definition": "undefined"
+          "definition": "here"
         },
         {
           "word": "нема.",
-          "definition": "undefined"
+          "definition": "there is no"
         }
       ],
       "chips": [
@@ -850,31 +850,31 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "can",
-          "definition": "undefined"
+          "definition": "може"
         },
         {
           "word": "be",
-          "definition": "undefined"
+          "definition": "бути"
         },
         {
           "word": "cut",
-          "definition": "undefined"
+          "definition": "різати"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "knife.",
-          "definition": "undefined\nніж"
+          "definition": "ніж"
         }
       ],
       "chips": [
@@ -905,19 +905,19 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "можливо",
-          "definition": "possible\nundefined"
+          "definition": "maybe\npossible"
         },
         {
           "word": "різати",
-          "definition": "undefined"
+          "definition": "to cut"
         },
         {
           "word": "ножем.",
-          "definition": "undefined"
+          "definition": "with a knife"
         }
       ],
       "chips": [
@@ -974,23 +974,23 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "talks",
-          "definition": "undefined"
+          "definition": "говорить"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "her",
-          "definition": "undefined"
+          "definition": "її"
         },
         {
           "word": "husband.",
-          "definition": "undefined"
+          "definition": "чоловік"
         }
       ],
       "chips": [
@@ -1021,19 +1021,19 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "чоловіком",
-          "definition": "undefined"
+          "definition": "with a man"
         },
         {
           "word": "говорить.",
-          "definition": "speaks\nundefined"
+          "definition": "speaks"
         }
       ],
       "chips": [
@@ -1084,19 +1084,19 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "talks",
-          "definition": "undefined"
+          "definition": "говорить"
         },
         {
           "word": "about",
-          "definition": "undefined"
+          "definition": "про"
         },
         {
           "word": "brothers.",
-          "definition": "undefined"
+          "definition": "брати"
         }
       ],
       "chips": [
@@ -1127,19 +1127,19 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "говорить",
-          "definition": "speaks\nundefined"
+          "definition": "speaks"
         },
         {
           "word": "про",
-          "definition": "undefined"
+          "definition": "about"
         },
         {
           "word": "братів.",
-          "definition": "undefined"
+          "definition": "of brothers"
         }
       ],
       "chips": [
@@ -1187,31 +1187,31 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "gives",
-          "definition": "undefined"
+          "definition": "дає"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "gift",
-          "definition": "undefined\nдар"
+          "definition": "дар\nподарунок"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "brothers.",
-          "definition": "undefined"
+          "definition": "брати"
         }
       ],
       "chips": [
@@ -1242,19 +1242,19 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "дає",
-          "definition": "undefined"
+          "definition": "gives"
         },
         {
           "word": "дар",
-          "definition": "gift\nundefined"
+          "definition": "gift"
         },
         {
           "word": "братам.",
-          "definition": "undefined"
+          "definition": "to the brothers"
         }
       ],
       "chips": [
@@ -1315,27 +1315,27 @@
         },
         {
           "word": "work",
-          "definition": "undefined"
+          "definition": "робота"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "lot",
-          "definition": "undefined"
+          "definition": "багато"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "field.",
-          "definition": "undefined\nполе"
+          "definition": "поле"
         }
       ],
       "chips": [
@@ -1366,19 +1366,19 @@
       "phrase": [
         {
           "word": "На",
-          "definition": "on\nundefined"
+          "definition": "on\non, at"
         },
         {
           "word": "полі",
-          "definition": "undefined"
+          "definition": "in the field"
         },
         {
           "word": "багато",
-          "definition": "undefined"
+          "definition": "a lot, many, much"
         },
         {
           "word": "працюю/працюємо.",
-          "definition": "undefined"
+          "definition": "I work/we work"
         }
       ],
       "chips": [
@@ -1435,31 +1435,31 @@
       "phrase": [
         {
           "word": "There",
-          "definition": "undefined"
+          "definition": "там"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "many",
-          "definition": "undefined"
+          "definition": "багато"
         },
         {
           "word": "suns",
-          "definition": "undefined"
+          "definition": "сонця"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "universe.",
-          "definition": "undefined\nвсесвіт"
+          "definition": "всесвіт"
         }
       ],
       "chips": [
@@ -1493,23 +1493,23 @@
       "phrase": [
         {
           "word": "Є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "багато",
-          "definition": "undefined"
+          "definition": "a lot, many, much"
         },
         {
           "word": "сонць",
-          "definition": "undefined"
+          "definition": "of suns"
         },
         {
           "word": "у",
-          "definition": "at/by\nundefined"
+          "definition": "at/by\nin, at"
         },
         {
           "word": "всесвіті.",
-          "definition": "undefined"
+          "definition": "in the universe"
         }
       ],
       "chips": [
@@ -1566,27 +1566,27 @@
       "phrase": [
         {
           "word": "And",
-          "definition": "undefined"
+          "definition": "і"
         },
         {
           "word": "there",
-          "definition": "undefined"
+          "definition": "там"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "also",
-          "definition": "undefined\nтакож"
+          "definition": "також"
         },
         {
           "word": "many",
-          "definition": "undefined"
+          "definition": "багато"
         },
         {
           "word": "stars.",
-          "definition": "undefined"
+          "definition": "зірки"
         }
       ],
       "chips": [
@@ -1620,23 +1620,23 @@
       "phrase": [
         {
           "word": "І",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "також",
-          "definition": "also\nundefined"
+          "definition": "also"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "багато",
-          "definition": "undefined"
+          "definition": "a lot, many, much"
         },
         {
           "word": "зірок.",
-          "definition": "undefined"
+          "definition": "of stars"
         }
       ],
       "chips": [
@@ -1690,31 +1690,31 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "likes",
-          "definition": "undefined"
+          "definition": "любить"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "talk",
-          "definition": "undefined"
+          "definition": "говорити"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "his",
-          "definition": "undefined"
+          "definition": "його"
         },
         {
           "word": "wife.",
-          "definition": "undefined"
+          "definition": "дружина"
         }
       ],
       "chips": [
@@ -1751,27 +1751,27 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "любить",
-          "definition": "undefined"
+          "definition": "loves"
         },
         {
           "word": "говорити",
-          "definition": "undefined"
+          "definition": "to speak"
         },
         {
           "word": "зі",
-          "definition": "undefined"
+          "definition": "with"
         },
         {
           "word": "своєю",
-          "definition": "undefined"
+          "definition": "with my/his/her/its"
         },
         {
           "word": "жінкою.",
-          "definition": "undefined"
+          "definition": "with a woman"
         }
       ],
       "chips": [
@@ -1828,35 +1828,35 @@
       "phrase": [
         {
           "word": "There",
-          "definition": "undefined"
+          "definition": "там"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "no",
-          "definition": "undefined\nні"
+          "definition": "ні"
         },
         {
           "word": "more",
-          "definition": "undefined"
+          "definition": "більше"
         },
         {
           "word": "bananas",
-          "definition": "undefined"
+          "definition": "банани"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "house.",
-          "definition": "undefined\nдім"
+          "definition": "будинок\nдім"
         }
       ],
       "chips": [
@@ -1890,23 +1890,23 @@
       "phrase": [
         {
           "word": "Вже",
-          "definition": "undefined"
+          "definition": "already"
         },
         {
           "word": "нема",
-          "definition": "undefined"
+          "definition": "there is no"
         },
         {
           "word": "бананів",
-          "definition": "undefined"
+          "definition": "of bananas"
         },
         {
           "word": "у",
-          "definition": "at/by\nundefined"
+          "definition": "at/by\nin, at"
         },
         {
           "word": "домі.",
-          "definition": "undefined"
+          "definition": "in the house"
         }
       ],
       "chips": [
@@ -1966,15 +1966,15 @@
       "phrase": [
         {
           "word": "In",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "eyes",
-          "definition": "undefined\nочі"
+          "definition": "очі"
         },
         {
           "word": "I",
@@ -1982,15 +1982,15 @@
         },
         {
           "word": "see",
-          "definition": "undefined"
+          "definition": "бачити"
         },
         {
           "word": "your",
-          "definition": "undefined"
+          "definition": "ваш"
         },
         {
           "word": "soul.",
-          "definition": "undefined"
+          "definition": "душа"
         }
       ],
       "chips": [
@@ -2024,23 +2024,23 @@
       "phrase": [
         {
           "word": "В",
-          "definition": "undefined"
+          "definition": "in, at"
         },
         {
           "word": "очах",
-          "definition": "undefined"
+          "definition": "in the eyes"
         },
         {
           "word": "бачу",
-          "definition": "undefined"
+          "definition": "I see"
         },
         {
           "word": "душу",
-          "definition": "undefined"
+          "definition": "soul (accusative)"
         },
         {
           "word": "твою.",
-          "definition": "undefined"
+          "definition": "your (accusative)"
         }
       ],
       "chips": [
@@ -2097,31 +2097,31 @@
       "phrase": [
         {
           "word": "Eyes",
-          "definition": "undefined\nочі"
+          "definition": "очі"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "mirror",
-          "definition": "undefined\nдзеркало"
+          "definition": "дзеркало"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "soul.",
-          "definition": "undefined"
+          "definition": "душа"
         }
       ],
       "chips": [
@@ -2152,19 +2152,19 @@
       "phrase": [
         {
           "word": "Очі",
-          "definition": "eyes\nundefined"
+          "definition": "eyes"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "дзеркалом",
-          "definition": "undefined"
+          "definition": "with a mirror"
         },
         {
           "word": "душі.",
-          "definition": "undefined"
+          "definition": "of the soul"
         }
       ],
       "chips": [
@@ -2225,23 +2225,23 @@
         },
         {
           "word": "do",
-          "definition": "undefined"
+          "definition": "робити"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "see",
-          "definition": "undefined"
+          "definition": "бачити"
         },
         {
           "word": "men",
-          "definition": "undefined"
+          "definition": "чоловіки"
         },
         {
           "word": "here.",
-          "definition": "undefined"
+          "definition": "тут"
         }
       ],
       "chips": [
@@ -2272,19 +2272,19 @@
       "phrase": [
         {
           "word": "Чоловіків",
-          "definition": "undefined"
+          "definition": "of men"
         },
         {
           "word": "тут",
-          "definition": "undefined"
+          "definition": "here"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "not"
         },
         {
           "word": "бачу.",
-          "definition": "undefined"
+          "definition": "I see"
         }
       ],
       "chips": [
@@ -2338,35 +2338,35 @@
       "phrase": [
         {
           "word": "In",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "cities",
-          "definition": "undefined"
+          "definition": "міста"
         },
         {
           "word": "you",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         },
         {
           "word": "will",
-          "definition": "undefined"
+          "definition": "буде"
         },
         {
           "word": "see",
-          "definition": "undefined"
+          "definition": "бачити"
         },
         {
           "word": "many",
-          "definition": "undefined"
+          "definition": "багато"
         },
         {
           "word": "people.",
-          "definition": "undefined"
+          "definition": "люди"
         }
       ],
       "chips": [
@@ -2400,23 +2400,23 @@
       "phrase": [
         {
           "word": "В",
-          "definition": "undefined"
+          "definition": "in, at"
         },
         {
           "word": "містах",
-          "definition": "undefined"
+          "definition": "in the cities"
         },
         {
           "word": "побачиш",
-          "definition": "undefined"
+          "definition": "you will see"
         },
         {
           "word": "багато",
-          "definition": "undefined"
+          "definition": "a lot, many, much"
         },
         {
           "word": "людей.",
-          "definition": "undefined"
+          "definition": "of people"
         }
       ],
       "chips": [
@@ -2476,11 +2476,11 @@
       "phrase": [
         {
           "word": "Good",
-          "definition": "undefined\nдобрий"
+          "definition": "добрий"
         },
         {
           "word": "night!",
-          "definition": "undefined\nніч"
+          "definition": "ніч"
         }
       ],
       "chips": [
@@ -2506,11 +2506,11 @@
       "phrase": [
         {
           "word": "Спокійної",
-          "definition": "undefined"
+          "definition": "of the calm"
         },
         {
           "word": "ночі!",
-          "definition": "undefined"
+          "definition": "of the night"
         }
       ],
       "chips": [
@@ -2548,11 +2548,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "cut",
-          "definition": "undefined"
+          "definition": "різати"
         }
       ],
       "id": "893723b1141d",
@@ -2586,7 +2586,7 @@
       "phrase": [
         {
           "word": "gift",
-          "definition": "undefined\nдар"
+          "definition": "дар\nподарунок"
         }
       ],
       "id": "70ec2cf90f66",
@@ -2620,7 +2620,7 @@
       "phrase": [
         {
           "word": "universe",
-          "definition": "undefined\nвсесвіт"
+          "definition": "всесвіт"
         }
       ],
       "id": "b8c9ab955610",
@@ -2654,7 +2654,7 @@
       "phrase": [
         {
           "word": "mirror",
-          "definition": "undefined\nдзеркало"
+          "definition": "дзеркало"
         }
       ],
       "id": "fff53aa981d3",

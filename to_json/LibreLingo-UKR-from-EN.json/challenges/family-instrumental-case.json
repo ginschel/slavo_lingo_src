@@ -4,20 +4,20 @@
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Він є моїм братом.",
+      "formInTargetLanguage": "Він моїм братом.",
       "meaningInSourceLanguage": "He is my brother.",
-      "id": "b43aa649e548",
+      "id": "773c3dfc68ae",
       "priority": 0,
-      "group": "d04ff61fdf98"
+      "group": "11eab9d1ddaf"
     },
     {
       "type": "listeningExercise",
-      "answer": "Він є моїм братом.",
+      "answer": "Він моїм братом.",
       "meaning": "He is my brother.",
-      "audio": "1cdc021f606737394bee82cfebd9a99dd262ce5619755578e941ad3e1eef2062",
-      "id": "cd8c7c10dd1f",
+      "audio": "5a81152aa6f29bdbf635b269d8a56f7da81a049db036fd5ea99f9da901c1c7af",
+      "id": "6b7bdc4b6c8c",
       "priority": 1,
-      "group": "d04ff61fdf98"
+      "group": "11eab9d1ddaf"
     },
     {
       "type": "chips",
@@ -25,42 +25,39 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мій"
         },
         {
           "word": "brother.",
-          "definition": "undefined\nбрат"
+          "definition": "брат"
         }
       ],
       "chips": [
         "Він",
-        "є",
         "моїм",
         "братом",
-        "моє",
-        "то",
-        "їм"
+        "моя",
+        "дім"
       ],
       "solutions": [
         [
           "Він",
-          "є",
           "моїм",
           "братом"
         ]
       ],
-      "formattedSolution": "Він є моїм братом.",
-      "id": "711e8c73a505",
+      "formattedSolution": "Він моїм братом.",
+      "id": "aff015115897",
       "priority": 2,
-      "group": "d04ff61fdf98"
+      "group": "11eab9d1ddaf"
     },
     {
       "type": "chips",
@@ -68,19 +65,15 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "he"
         },
         {
           "word": "моїм",
-          "definition": "undefined"
+          "definition": "with my"
         },
         {
           "word": "братом.",
-          "definition": "undefined"
+          "definition": "with a brother"
         }
       ],
       "chips": [
@@ -101,26 +94,26 @@
         ]
       ],
       "formattedSolution": "He is my brother.",
-      "id": "42ccf5ee08c6",
+      "id": "7b0147f2a79a",
       "priority": 2,
-      "group": "d04ff61fdf98"
+      "group": "11eab9d1ddaf"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Він є твоїм батьком",
+      "formInTargetLanguage": "Він твоїм батьком",
       "meaningInSourceLanguage": "He is your father",
-      "id": "093e4da69ef7",
+      "id": "ba8a6b2dd800",
       "priority": 0,
-      "group": "c653900addf8"
+      "group": "70867241208e"
     },
     {
       "type": "listeningExercise",
-      "answer": "Він є твоїм батьком",
+      "answer": "Він твоїм батьком",
       "meaning": "He is your father",
-      "audio": "0a5a94eaef58a739caf76c5ac0a6743a57cc8dfb888122a9c5ebdf13b9a16d57",
-      "id": "5d3f5093d9e5",
+      "audio": "43091253d8935e62fd94d3502886a94bdef8578e70eb8680f6849644fe67cbe8",
+      "id": "415941b70694",
       "priority": 1,
-      "group": "c653900addf8"
+      "group": "70867241208e"
     },
     {
       "type": "chips",
@@ -128,42 +121,39 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "your",
-          "definition": "undefined"
+          "definition": "ваш"
         },
         {
           "word": "father",
-          "definition": "undefined\nотець/батько"
+          "definition": "батько"
         }
       ],
       "chips": [
         "Він",
-        "є",
         "твоїм",
         "батьком",
-        "то",
-        "їм",
-        "там"
+        "твою",
+        "то"
       ],
       "solutions": [
         [
           "Він",
-          "є",
           "твоїм",
           "батьком"
         ]
       ],
-      "formattedSolution": "Він є твоїм батьком",
-      "id": "edb9888144fc",
+      "formattedSolution": "Він твоїм батьком",
+      "id": "9e199319ddfc",
       "priority": 2,
-      "group": "c653900addf8"
+      "group": "70867241208e"
     },
     {
       "type": "chips",
@@ -171,19 +161,15 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "he"
         },
         {
           "word": "твоїм",
-          "definition": "undefined"
+          "definition": "with your"
         },
         {
           "word": "батьком",
-          "definition": "undefined"
+          "definition": "with a father"
         }
       ],
       "chips": [
@@ -204,9 +190,9 @@
         ]
       ],
       "formattedSolution": "He is your father",
-      "id": "874cc895744f",
+      "id": "d6f497c12545",
       "priority": 2,
-      "group": "c653900addf8"
+      "group": "70867241208e"
     },
     {
       "type": "options",
@@ -231,27 +217,27 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "going",
-          "definition": "undefined"
+          "definition": "йде"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "her",
-          "definition": "undefined"
+          "definition": "її"
         },
         {
           "word": "mother.",
-          "definition": "undefined\nмати"
+          "definition": "мати"
         }
       ],
       "chips": [
@@ -282,19 +268,19 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "йде",
-          "definition": "goes\nundefined"
+          "definition": "goes"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "маткою.",
-          "definition": "undefined"
+          "definition": "with a mother"
         }
       ],
       "chips": [
@@ -348,27 +334,27 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "talking",
-          "definition": "undefined"
+          "definition": "говорить"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "his",
-          "definition": "undefined"
+          "definition": "його"
         },
         {
           "word": "grandfather.",
-          "definition": "undefined\nдід"
+          "definition": "дід\nдідусь"
         }
       ],
       "chips": [
@@ -399,19 +385,19 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "говорить",
-          "definition": "speaks\nundefined"
+          "definition": "speaks"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "дідом.",
-          "definition": "undefined"
+          "definition": "with a grandfather"
         }
       ],
       "chips": [
@@ -465,27 +451,27 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nми"
+          "definition": "ми"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "playing",
-          "definition": "undefined"
+          "definition": "грає"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "our",
-          "definition": "undefined"
+          "definition": "наш"
         },
         {
           "word": "children.",
-          "definition": "undefined"
+          "definition": "діти"
         }
       ],
       "chips": [
@@ -519,23 +505,23 @@
       "phrase": [
         {
           "word": "Ми",
-          "definition": "undefined\nwe"
+          "definition": "we"
         },
         {
           "word": "граємо",
-          "definition": "undefined"
+          "definition": "we play"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "нашими",
-          "definition": "undefined"
+          "definition": "with our"
         },
         {
           "word": "дітьми.",
-          "definition": "undefined"
+          "definition": "with children"
         }
       ],
       "chips": [
@@ -589,27 +575,27 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "undefined\nвони (жін. р.)\nвони (чол. р.)"
+          "definition": "вони\nвони (жін. р.)\nвони (чол. р.)"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "going",
-          "definition": "undefined"
+          "definition": "йде"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "their",
-          "definition": "undefined"
+          "definition": "їхній"
         },
         {
           "word": "aunt.",
-          "definition": "undefined\nтітка"
+          "definition": "тітка"
         }
       ],
       "chips": [
@@ -640,19 +626,19 @@
       "phrase": [
         {
           "word": "Вони",
-          "definition": "undefined"
+          "definition": "they"
         },
         {
           "word": "їдуть",
-          "definition": "undefined"
+          "definition": "they go (by transport)"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "тіткою.",
-          "definition": "undefined"
+          "definition": "with an aunt"
         }
       ],
       "chips": [
@@ -710,23 +696,23 @@
         },
         {
           "word": "am",
-          "definition": "undefined\nя є"
+          "definition": "я є\nє"
         },
         {
           "word": "talking",
-          "definition": "undefined"
+          "definition": "говорить"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "your",
-          "definition": "undefined"
+          "definition": "ваш"
         },
         {
           "word": "sister.",
-          "definition": "undefined\nсестра"
+          "definition": "сестра"
         }
       ],
       "chips": [
@@ -757,19 +743,19 @@
       "phrase": [
         {
           "word": "Говорю",
-          "definition": "undefined"
+          "definition": "I speak"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "твоєю",
-          "definition": "undefined"
+          "definition": "with your"
         },
         {
           "word": "сестрою.",
-          "definition": "undefined"
+          "definition": "with a sister"
         }
       ],
       "chips": [
@@ -823,39 +809,39 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nми"
+          "definition": "ми"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "going",
-          "definition": "undefined"
+          "definition": "йде"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "park",
-          "definition": "undefined"
+          "definition": "парк"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "family.",
-          "definition": "undefined\nродина"
+          "definition": "родина\nсім'я"
         }
       ],
       "chips": [
@@ -889,23 +875,23 @@
       "phrase": [
         {
           "word": "Йду",
-          "definition": "undefined"
+          "definition": "I go"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in, at"
         },
         {
           "word": "парк",
-          "definition": "undefined"
+          "definition": "park"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "родиною.",
-          "definition": "undefined"
+          "definition": "with the family"
         }
       ],
       "chips": [
@@ -947,20 +933,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Він є з онуком.",
+      "formInTargetLanguage": "Він з онуком.",
       "meaningInSourceLanguage": "He is with his grandson.",
-      "id": "78358ccb5a6b",
+      "id": "dbe5b0c105f7",
       "priority": 0,
-      "group": "7d048950cfee"
+      "group": "ffb91345e188"
     },
     {
       "type": "listeningExercise",
-      "answer": "Він є з онуком.",
+      "answer": "Він з онуком.",
       "meaning": "He is with his grandson.",
-      "audio": "e16bfad6ef8c16bb306de124bb203a6998bd8fe919f96ba29d45958401dd4e52",
-      "id": "c85091313f78",
+      "audio": "7ba0dc112369c8d392bdbdb3fcc4c3da6fb9471d82397d8878b10ab60b95d706",
+      "id": "6d2c0d291d1e",
       "priority": 1,
-      "group": "7d048950cfee"
+      "group": "ffb91345e188"
     },
     {
       "type": "chips",
@@ -968,46 +954,43 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "his",
-          "definition": "undefined"
+          "definition": "його"
         },
         {
           "word": "grandson.",
-          "definition": "undefined\nонук"
+          "definition": "онук"
         }
       ],
       "chips": [
         "Він",
-        "є",
         "з",
         "онуком",
         "і",
-        "о",
-        "Я"
+        "зі"
       ],
       "solutions": [
         [
           "Він",
-          "є",
           "з",
           "онуком"
         ]
       ],
-      "formattedSolution": "Він є з онуком.",
-      "id": "e0c36e77bb73",
+      "formattedSolution": "Він з онуком.",
+      "id": "1c73deea4545",
       "priority": 2,
-      "group": "7d048950cfee"
+      "group": "ffb91345e188"
     },
     {
       "type": "chips",
@@ -1015,19 +998,15 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "he"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "онуком.",
-          "definition": "undefined"
+          "definition": "with a grandson"
         }
       ],
       "chips": [
@@ -1051,9 +1030,9 @@
         ]
       ],
       "formattedSolution": "He is with his grandson.",
-      "id": "d925772659b4",
+      "id": "98fb244bd591",
       "priority": 2,
-      "group": "7d048950cfee"
+      "group": "ffb91345e188"
     },
     {
       "type": "options",
@@ -1078,27 +1057,27 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "playing",
-          "definition": "undefined"
+          "definition": "грає"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "her",
-          "definition": "undefined"
+          "definition": "її"
         },
         {
           "word": "granddaughter.",
-          "definition": "undefined\nонучка"
+          "definition": "онука\nонучка"
         }
       ],
       "chips": [
@@ -1129,19 +1108,19 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "грає",
-          "definition": "undefined"
+          "definition": "plays"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "онучкою.",
-          "definition": "undefined"
+          "definition": "with a granddaughter"
         }
       ],
       "chips": [
@@ -1195,27 +1174,27 @@
       "phrase": [
         {
           "word": "Drinking",
-          "definition": "undefined"
+          "definition": "пиття"
         },
         {
           "word": "tea",
-          "definition": "undefined\nчай"
+          "definition": "чай"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "mother",
-          "definition": "undefined\nмати"
+          "definition": "мати"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "better.",
-          "definition": "undefined\nкраще"
+          "definition": "краще"
         }
       ],
       "chips": [
@@ -1252,27 +1231,27 @@
       "phrase": [
         {
           "word": "Пити",
-          "definition": "to drink\nundefined"
+          "definition": "to drink"
         },
         {
           "word": "чай",
-          "definition": "tea\nundefined"
+          "definition": "tea"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "маткою",
-          "definition": "undefined"
+          "definition": "with a mother"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "краще.",
-          "definition": "better\nundefined"
+          "definition": "better"
         }
       ],
       "chips": [
@@ -1326,23 +1305,23 @@
       "phrase": [
         {
           "word": "Who",
-          "definition": "undefined\nхто"
+          "definition": "хто"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "you",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         },
         {
           "word": "going",
-          "definition": "undefined"
+          "definition": "йде"
         },
         {
           "word": "with?",
-          "definition": "undefined"
+          "definition": "з"
         }
       ],
       "chips": [
@@ -1373,19 +1352,19 @@
       "phrase": [
         {
           "word": "З",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "ким",
-          "definition": "undefined"
+          "definition": "with whom"
         },
         {
           "word": "ти",
-          "definition": "undefined\nyou"
+          "definition": "you\nyou (singular)"
         },
         {
           "word": "йдеш?",
-          "definition": "undefined"
+          "definition": "you go"
         }
       ],
       "chips": [
@@ -1415,20 +1394,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Вона говорить з моєю бабкою.",
+      "formInTargetLanguage": "Вона говорить з моєю бабусею.",
       "meaningInSourceLanguage": "She is talking with my grandmother.",
-      "id": "fab519dc310d",
+      "id": "12131c03862e",
       "priority": 0,
-      "group": "55e2967c33df"
+      "group": "3beb359b10db"
     },
     {
       "type": "listeningExercise",
-      "answer": "Вона говорить з моєю бабкою.",
+      "answer": "Вона говорить з моєю бабусею.",
       "meaning": "She is talking with my grandmother.",
-      "audio": "75acb8c8fc877a2e9a9bba2d7e3faf59f6b69484b3317d46c355e5f615f9b503",
-      "id": "da103d9d3379",
+      "audio": "bb1d03719ff2db0f72c510e2e002ac02c9beefc556b02f5935da8d12c1878fc6",
+      "id": "1fe9d2a7511b",
       "priority": 1,
-      "group": "55e2967c33df"
+      "group": "3beb359b10db"
     },
     {
       "type": "chips",
@@ -1436,27 +1415,27 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "talking",
-          "definition": "undefined"
+          "definition": "говорить"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мій"
         },
         {
           "word": "grandmother.",
-          "definition": "undefined\nбабця"
+          "definition": "бабуся"
         }
       ],
       "chips": [
@@ -1464,11 +1443,11 @@
         "говорить",
         "з",
         "моєю",
-        "бабкою",
+        "бабусею",
         "моє",
-        "коню",
-        "Воно",
-        "о"
+        "Вони",
+        "мови",
+        "мова"
       ],
       "solutions": [
         [
@@ -1476,13 +1455,13 @@
           "говорить",
           "з",
           "моєю",
-          "бабкою"
+          "бабусею"
         ]
       ],
-      "formattedSolution": "Вона говорить з моєю бабкою.",
-      "id": "2cf2f0186e79",
+      "formattedSolution": "Вона говорить з моєю бабусею.",
+      "id": "9074818850be",
       "priority": 2,
-      "group": "55e2967c33df"
+      "group": "3beb359b10db"
     },
     {
       "type": "chips",
@@ -1490,23 +1469,23 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "говорить",
-          "definition": "speaks\nundefined"
+          "definition": "speaks"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "моєю",
-          "definition": "undefined"
+          "definition": "with my (feminine)"
         },
         {
-          "word": "бабкою.",
-          "definition": "undefined"
+          "word": "бабусею.",
+          "definition": "with a grandmother"
         }
       ],
       "chips": [
@@ -1533,26 +1512,26 @@
         ]
       ],
       "formattedSolution": "She is talking with my grandmother.",
-      "id": "3087eaf39341",
+      "id": "d0511103396f",
       "priority": 2,
-      "group": "55e2967c33df"
+      "group": "3beb359b10db"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Це є домом з родиною.",
+      "formInTargetLanguage": "Це домом з родиною.",
       "meaningInSourceLanguage": "This is a house with a family.",
-      "id": "5438e6e71baa",
+      "id": "cc8e8971116c",
       "priority": 0,
-      "group": "615bc96abdd6"
+      "group": "11c8cd21a675"
     },
     {
       "type": "listeningExercise",
-      "answer": "Це є домом з родиною.",
+      "answer": "Це домом з родиною.",
       "meaning": "This is a house with a family.",
-      "audio": "0dddc8cb839f3a08bd8d1b4870a59641169aa45ef33ff7b261be36c01c65b7c2",
-      "id": "f5a4ffe865a0",
+      "audio": "257fb1a2035b161ada23de7f8cff024e0351db853ea263fed5bf19b089ae8387",
+      "id": "821f002a5def",
       "priority": 1,
-      "group": "615bc96abdd6"
+      "group": "11c8cd21a675"
     },
     {
       "type": "chips",
@@ -1560,57 +1539,54 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "house",
-          "definition": "undefined\nдім"
+          "definition": "будинок\nдім"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "family.",
-          "definition": "undefined\nродина"
+          "definition": "родина\nсім'я"
         }
       ],
       "chips": [
         "Це",
-        "є",
         "домом",
         "з",
         "родиною",
         "до",
-        "о",
         "де",
-        "Я"
+        "о"
       ],
       "solutions": [
         [
           "Це",
-          "є",
           "домом",
           "з",
           "родиною"
         ]
       ],
-      "formattedSolution": "Це є домом з родиною.",
-      "id": "a564aba22db3",
+      "formattedSolution": "Це домом з родиною.",
+      "id": "d7c7852832c1",
       "priority": 2,
-      "group": "615bc96abdd6"
+      "group": "11c8cd21a675"
     },
     {
       "type": "chips",
@@ -1618,23 +1594,19 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "домом",
-          "definition": "undefined"
+          "definition": "with a house"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "родиною.",
-          "definition": "undefined"
+          "definition": "with the family"
         }
       ],
       "chips": [
@@ -1664,9 +1636,9 @@
         ]
       ],
       "formattedSolution": "This is a house with a family.",
-      "id": "89adcf192893",
+      "id": "2aed465fc23f",
       "priority": 2,
-      "group": "615bc96abdd6"
+      "group": "11c8cd21a675"
     },
     {
       "type": "options",
@@ -1691,23 +1663,23 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "lives",
-          "definition": "undefined\nживе"
+          "definition": "живе\nжиття"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "his",
-          "definition": "undefined"
+          "definition": "його"
         },
         {
           "word": "son.",
-          "definition": "undefined\nсин"
+          "definition": "син"
         }
       ],
       "chips": [
@@ -1738,19 +1710,19 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "живе",
-          "definition": "lives\nundefined"
+          "definition": "lives"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "сином.",
-          "definition": "undefined"
+          "definition": "with a son"
         }
       ],
       "chips": [
@@ -1801,35 +1773,35 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nми"
+          "definition": "ми"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "going",
-          "definition": "undefined"
+          "definition": "йде"
         },
         {
           "word": "for",
-          "definition": "undefined\nза"
+          "definition": "для\nза"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "walk",
-          "definition": "undefined"
+          "definition": "гуляти"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "brothers.",
-          "definition": "undefined"
+          "definition": "брати"
         }
       ],
       "chips": [
@@ -1863,23 +1835,23 @@
       "phrase": [
         {
           "word": "Йдемо",
-          "definition": "undefined\nwe go"
+          "definition": "we go"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on\non, at"
         },
         {
           "word": "прогулянку",
-          "definition": "undefined"
+          "definition": "a walk (accusative)"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "братами.",
-          "definition": "undefined"
+          "definition": "with brothers"
         }
       ],
       "chips": [
@@ -1939,27 +1911,27 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nми"
+          "definition": "ми"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "going",
-          "definition": "undefined"
+          "definition": "йде"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "our",
-          "definition": "undefined"
+          "definition": "наш"
         },
         {
           "word": "daughter.",
-          "definition": "undefined\nдочка"
+          "definition": "дочка"
         }
       ],
       "chips": [
@@ -1987,15 +1959,15 @@
       "phrase": [
         {
           "word": "Йдемо",
-          "definition": "undefined\nwe go"
+          "definition": "we go"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "дочкою.",
-          "definition": "undefined"
+          "definition": "with a daughter"
         }
       ],
       "chips": [
@@ -2049,27 +2021,27 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "undefined\nвони (жін. р.)\nвони (чол. р.)"
+          "definition": "вони\nвони (жін. р.)\nвони (чол. р.)"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "here",
-          "definition": "undefined"
+          "definition": "тут"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "their",
-          "definition": "undefined"
+          "definition": "їхній"
         },
         {
           "word": "grandfather.",
-          "definition": "undefined\nдід"
+          "definition": "дід\nдідусь"
         }
       ],
       "chips": [
@@ -2103,23 +2075,23 @@
       "phrase": [
         {
           "word": "Вони",
-          "definition": "undefined"
+          "definition": "they"
         },
         {
           "word": "тут",
-          "definition": "undefined"
+          "definition": "here"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "дідом.",
-          "definition": "undefined"
+          "definition": "with a grandfather"
         }
       ],
       "chips": [
@@ -2173,31 +2145,31 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "lives",
-          "definition": "undefined\nживе"
+          "definition": "живе\nжиття"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "his",
-          "definition": "undefined"
+          "definition": "його"
         },
         {
           "word": "aunt",
-          "definition": "undefined\nтітка"
+          "definition": "тітка"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "і"
         },
         {
           "word": "uncle.",
-          "definition": "undefined\nстрий"
+          "definition": "дядько\nстрий"
         }
       ],
       "chips": [
@@ -2211,8 +2183,8 @@
         "ти",
         "Ні",
         "Ці",
-        "є",
         "Ви",
+        "є",
         "в"
       ],
       "solutions": [
@@ -2237,31 +2209,31 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "живе",
-          "definition": "lives\nundefined"
+          "definition": "lives"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "тіткою",
-          "definition": "undefined"
+          "definition": "with an aunt"
         },
         {
           "word": "і",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "зі",
-          "definition": "undefined"
+          "definition": "with"
         },
         {
           "word": "стриєм.",
-          "definition": "undefined"
+          "definition": "with an uncle"
         }
       ],
       "chips": [
@@ -2318,27 +2290,27 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "talks",
-          "definition": "undefined"
+          "definition": "говорить"
         },
         {
           "word": "with",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "her",
-          "definition": "undefined"
+          "definition": "її"
         },
         {
           "word": "grandson",
-          "definition": "undefined\nонук"
+          "definition": "онук"
         },
         {
           "word": "often.",
-          "definition": "undefined"
+          "definition": "часто"
         }
       ],
       "chips": [
@@ -2372,23 +2344,23 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "говорить",
-          "definition": "speaks\nundefined"
+          "definition": "speaks"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "онуком",
-          "definition": "undefined"
+          "definition": "with a grandson"
         },
         {
           "word": "часто.",
-          "definition": "undefined"
+          "definition": "often"
         }
       ],
       "chips": [
@@ -2437,7 +2409,7 @@
       "phrase": [
         {
           "word": "brother",
-          "definition": "undefined\nбрат"
+          "definition": "брат"
         }
       ],
       "id": "efad989a3ee2",
@@ -2471,7 +2443,7 @@
       "phrase": [
         {
           "word": "grandfather",
-          "definition": "undefined\nдід"
+          "definition": "дід\nдідусь"
         }
       ],
       "id": "04d50c973be7",
@@ -2490,36 +2462,36 @@
     {
       "type": "cards",
       "pictures": null,
-      "formInTargetLanguage": "бабця",
+      "formInTargetLanguage": "бабуся",
       "meaningInSourceLanguage": "grandmother",
-      "id": "66a508cce21d",
+      "id": "d33bc8620d6a",
       "priority": 0,
-      "group": "95507d459590"
+      "group": "4e013bafb7f2"
     },
     {
       "type": "shortInput",
       "pictures": null,
       "formInTargetLanguage": [
-        "бабця"
+        "бабуся"
       ],
       "phrase": [
         {
           "word": "grandmother",
-          "definition": "undefined\nбабця"
+          "definition": "бабуся"
         }
       ],
-      "id": "da9acc8cf768",
+      "id": "6312da0401ed",
       "priority": 1,
-      "group": "95507d459590"
+      "group": "4e013bafb7f2"
     },
     {
       "type": "listeningExercise",
-      "answer": "бабця",
+      "answer": "бабуся",
       "meaning": "grandmother",
-      "audio": "f6ca57de9fbe90b53ebfcc4b4d832314d2da8d7046d4f6a61816e445b9433adc",
-      "id": "11000ad8d5fc",
+      "audio": "c77a3e2234e60afc643eec215d03b2c3a68067d8c81b890eeb16f74436d5f58e",
+      "id": "e2b74ca74916",
       "priority": 1,
-      "group": "95507d459590"
+      "group": "4e013bafb7f2"
     },
     {
       "type": "cards",
@@ -2539,7 +2511,7 @@
       "phrase": [
         {
           "word": "aunt",
-          "definition": "undefined\nтітка"
+          "definition": "тітка"
         }
       ],
       "id": "cd2741874ef5",
@@ -2573,7 +2545,7 @@
       "phrase": [
         {
           "word": "grandson",
-          "definition": "undefined\nонук"
+          "definition": "онук"
         }
       ],
       "id": "04ce5c1634f3",
@@ -2607,7 +2579,7 @@
       "phrase": [
         {
           "word": "granddaughter",
-          "definition": "undefined\nонучка"
+          "definition": "онука\nонучка"
         }
       ],
       "id": "7deb8c99b7a3",
@@ -2641,7 +2613,7 @@
       "phrase": [
         {
           "word": "mother",
-          "definition": "undefined\nмати"
+          "definition": "мати"
         }
       ],
       "id": "26c27815238f",
@@ -2660,36 +2632,36 @@
     {
       "type": "cards",
       "pictures": null,
-      "formInTargetLanguage": "отець/батько",
+      "formInTargetLanguage": "батько",
       "meaningInSourceLanguage": "father",
-      "id": "fc5d611d0327",
+      "id": "f030250fa19f",
       "priority": 0,
-      "group": "a525b36ccabe"
+      "group": "c4ed118edd61"
     },
     {
       "type": "shortInput",
       "pictures": null,
       "formInTargetLanguage": [
-        "отець/батько"
+        "батько"
       ],
       "phrase": [
         {
           "word": "father",
-          "definition": "undefined\nотець/батько"
+          "definition": "батько"
         }
       ],
-      "id": "0a5034f1ae71",
+      "id": "1d726a0507e6",
       "priority": 1,
-      "group": "a525b36ccabe"
+      "group": "c4ed118edd61"
     },
     {
       "type": "listeningExercise",
-      "answer": "отець/батько",
+      "answer": "батько",
       "meaning": "father",
-      "audio": "7807f67dc35f2ced8c6328eb18156e5e8fac5178f4cc8f77bba38047bee8a598",
-      "id": "0fe4b5cf827b",
+      "audio": "4dd31ed5860b0ba10e26b2a9ed6a73248d3070abd0cdcc665eaf0f56444bab04",
+      "id": "4dad52d51ec9",
       "priority": 1,
-      "group": "a525b36ccabe"
+      "group": "c4ed118edd61"
     },
     {
       "type": "cards",
@@ -2709,7 +2681,7 @@
       "phrase": [
         {
           "word": "family",
-          "definition": "undefined\nродина"
+          "definition": "родина\nсім'я"
         }
       ],
       "id": "c1a29a980b62",
@@ -2743,7 +2715,7 @@
       "phrase": [
         {
           "word": "son",
-          "definition": "undefined\nсин"
+          "definition": "син"
         }
       ],
       "id": "fd85f4d15fd2",
@@ -2777,7 +2749,7 @@
       "phrase": [
         {
           "word": "daughter",
-          "definition": "undefined\nдочка"
+          "definition": "дочка"
         }
       ],
       "id": "477367a2d4b3",
@@ -2811,7 +2783,7 @@
       "phrase": [
         {
           "word": "uncle",
-          "definition": "undefined\nстрий"
+          "definition": "дядько\nстрий"
         }
       ],
       "id": "e483a1924763",
@@ -2845,7 +2817,7 @@
       "phrase": [
         {
           "word": "speaks",
-          "definition": "undefined\nговорить"
+          "definition": "говорить"
         }
       ],
       "id": "744f9a3861bf",
@@ -2879,7 +2851,7 @@
       "phrase": [
         {
           "word": "goes",
-          "definition": "undefined\nйде"
+          "definition": "йде"
         }
       ],
       "id": "9b37b9017634",
@@ -2913,11 +2885,11 @@
       "phrase": [
         {
           "word": "we",
-          "definition": "undefined\nми"
+          "definition": "ми"
         },
         {
           "word": "go",
-          "definition": "undefined"
+          "definition": "йти"
         }
       ],
       "id": "3b072cac0aaa",
@@ -2951,7 +2923,7 @@
       "phrase": [
         {
           "word": "lives",
-          "definition": "undefined\nживе"
+          "definition": "живе\nжиття"
         }
       ],
       "id": "d0c31a1b132e",

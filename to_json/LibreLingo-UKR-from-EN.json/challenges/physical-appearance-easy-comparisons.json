@@ -4,20 +4,20 @@
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Він є вище/більш високий і сильний ніж він.",
+      "formInTargetLanguage": "Він є більше високий і сильний ніж він.",
       "meaningInSourceLanguage": "He is taller and stronger than he is.",
-      "id": "21f124ea70c4",
+      "id": "29d9d296c554",
       "priority": 0,
-      "group": "0c591417cdb0"
+      "group": "01e314b3e57b"
     },
     {
       "type": "listeningExercise",
-      "answer": "Він є вище/більш високий і сильний ніж він.",
+      "answer": "Він є більше високий і сильний ніж він.",
       "meaning": "He is taller and stronger than he is.",
-      "audio": "0c8d484273f7604104cfefa32fa1dc4a6f3410d03efe2da4cb788b7aa830607e",
-      "id": "53a7766a11ec",
+      "audio": "ece731ef4d9add4d73e4cb685f22caffe482506f7b26d60482ed2a9b289b34df",
+      "id": "cba70caef3f9",
       "priority": 1,
-      "group": "0c591417cdb0"
+      "group": "01e314b3e57b"
     },
     {
       "type": "chips",
@@ -25,59 +25,59 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "taller",
-          "definition": "undefined"
+          "definition": "вищий"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "і"
         },
         {
           "word": "stronger",
-          "definition": "undefined"
+          "definition": "сильніший"
         },
         {
           "word": "than",
-          "definition": "undefined\nніж"
+          "definition": "ніж"
         },
         {
           "word": "he",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "is.",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         }
       ],
       "chips": [
         "Він",
         "є",
-        "вище/більш",
+        "більше",
         "високий",
         "і",
         "сильний",
         "ніж",
         "він",
         "сік",
-        "від",
         "мій",
         "ніч",
         "Ні",
-        "в",
-        "зі"
+        "зі",
+        "ліс",
+        "Ці"
       ],
       "solutions": [
         [
           "Він",
           "є",
-          "вище/більш",
+          "більше",
           "високий",
           "і",
           "сильний",
@@ -85,10 +85,10 @@
           "він"
         ]
       ],
-      "formattedSolution": "Він є вище/більш високий і сильний ніж він.",
-      "id": "1289254240ca",
+      "formattedSolution": "Він є більше високий і сильний ніж він.",
+      "id": "04b8781f6ffb",
       "priority": 2,
-      "group": "0c591417cdb0"
+      "group": "01e314b3e57b"
     },
     {
       "type": "chips",
@@ -96,35 +96,35 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
-          "word": "вище/більш",
-          "definition": "undefined"
+          "word": "більше",
+          "definition": "more"
         },
         {
           "word": "високий",
-          "definition": "tall\nundefined"
+          "definition": "tall\ntall (masculine)"
         },
         {
           "word": "і",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "сильний",
-          "definition": "strong\nundefined"
+          "definition": "strong\nstrong (masculine)"
         },
         {
           "word": "ніж",
-          "definition": "knife\nthan\nundefined"
+          "definition": "knife\nthan"
         },
         {
           "word": "він.",
-          "definition": "he\nundefined"
+          "definition": "he"
         }
       ],
       "chips": [
@@ -157,26 +157,26 @@
         ]
       ],
       "formattedSolution": "He is taller and stronger than he is.",
-      "id": "92b729acd02c",
+      "id": "a2e7e2d19b90",
       "priority": 2,
-      "group": "0c591417cdb0"
+      "group": "01e314b3e57b"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Вона є нижча і худа як він.",
+      "formInTargetLanguage": "Вона низька і худа як він.",
       "meaningInSourceLanguage": "She is shorter and thinner like him.",
-      "id": "a4cd60e8e5b8",
+      "id": "30ca23c24ebd",
       "priority": 0,
-      "group": "e823aca440d3"
+      "group": "540f763ca602"
     },
     {
       "type": "listeningExercise",
-      "answer": "Вона є нижча і худа як він.",
+      "answer": "Вона низька і худа як він.",
       "meaning": "She is shorter and thinner like him.",
-      "audio": "d5f3af6a708a251025750ec48bc8f7d130fd33a24648195fe53fc9d6371b66df",
-      "id": "69bf9bcb7196",
+      "audio": "688e3b5fe988dbb7e1ebd69a98f47d5c20fdf7ba52a1b88c0f06f5cdf6bacffb",
+      "id": "2d23af0d0e42",
       "priority": 1,
-      "group": "e823aca440d3"
+      "group": "540f763ca602"
     },
     {
       "type": "chips",
@@ -184,63 +184,60 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "shorter",
-          "definition": "undefined"
+          "definition": "коротший"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "і"
         },
         {
           "word": "thinner",
-          "definition": "undefined"
+          "definition": "тонший"
         },
         {
           "word": "like",
-          "definition": "undefined"
+          "definition": "як"
         },
         {
           "word": "him.",
-          "definition": "undefined"
+          "definition": "його"
         }
       ],
       "chips": [
         "Вона",
-        "є",
-        "нижча",
+        "низька",
         "і",
         "худа",
         "як",
         "він",
-        "Та",
-        "На",
         "за",
-        "в",
-        "о",
-        "Я"
+        "Та",
+        "Він",
+        "На",
+        "зі"
       ],
       "solutions": [
         [
           "Вона",
-          "є",
-          "нижча",
+          "низька",
           "і",
           "худа",
           "як",
           "він"
         ]
       ],
-      "formattedSolution": "Вона є нижча і худа як він.",
-      "id": "e27e73bc2aa9",
+      "formattedSolution": "Вона низька і худа як він.",
+      "id": "31543e78a644",
       "priority": 2,
-      "group": "e823aca440d3"
+      "group": "540f763ca602"
     },
     {
       "type": "chips",
@@ -248,31 +245,27 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
-          "word": "є",
-          "definition": "undefined"
-        },
-        {
-          "word": "нижча",
-          "definition": "undefined"
+          "word": "низька",
+          "definition": "low (feminine)"
         },
         {
           "word": "і",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "худа",
-          "definition": "undefined"
+          "definition": "thin (feminine)"
         },
         {
           "word": "як",
-          "definition": "undefined"
+          "definition": "how, as"
         },
         {
           "word": "він.",
-          "definition": "he\nundefined"
+          "definition": "he"
         }
       ],
       "chips": [
@@ -302,9 +295,9 @@
         ]
       ],
       "formattedSolution": "She is shorter and thinner like him.",
-      "id": "4355474fa13e",
+      "id": "7649a46ac1a2",
       "priority": 2,
-      "group": "e823aca440d3"
+      "group": "540f763ca602"
     },
     {
       "type": "options",
@@ -329,35 +322,35 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "fat",
-          "definition": "undefined\nтовстий"
+          "definition": "товстий"
         },
         {
           "word": "man",
-          "definition": "undefined\nчоловік"
+          "definition": "чоловік"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "walking",
-          "definition": "undefined"
+          "definition": "прогулянка"
         },
         {
           "word": "down",
-          "definition": "undefined"
+          "definition": "вниз"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "street.",
-          "definition": "undefined\nвулиця"
+          "definition": "вулиця"
         }
       ],
       "chips": [
@@ -391,23 +384,23 @@
       "phrase": [
         {
           "word": "Товстий",
-          "definition": "fat\nundefined"
+          "definition": "fat"
         },
         {
           "word": "чоловік",
-          "definition": "man\nundefined"
+          "definition": "man\nman, husband"
         },
         {
           "word": "йде",
-          "definition": "goes\nundefined"
+          "definition": "goes"
         },
         {
           "word": "по",
-          "definition": "undefined"
+          "definition": "along"
         },
         {
           "word": "вулиці.",
-          "definition": "undefined"
+          "definition": "on the street"
         }
       ],
       "chips": [
@@ -467,47 +460,47 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "thin",
-          "definition": "undefined\nхудий"
+          "definition": "тонкий\nхудий"
         },
         {
           "word": "person",
-          "definition": "undefined\nлюдина"
+          "definition": "людина"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "має"
         },
         {
           "word": "less",
-          "definition": "undefined\nменше"
+          "definition": "менше"
         },
         {
           "word": "body",
-          "definition": "undefined\nтіло"
+          "definition": "тіло"
         },
         {
           "word": "mass",
-          "definition": "undefined"
+          "definition": "маса"
         },
         {
           "word": "than",
-          "definition": "undefined\nніж"
+          "definition": "ніж"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "fat",
-          "definition": "undefined\nтовстий"
+          "definition": "товстий"
         },
         {
           "word": "one.",
-          "definition": "undefined\nодин (ч)\nодна (ж)\nодне (с)"
+          "definition": "один\nодин (ч)\nодна (ж)\nодне (с)"
         }
       ],
       "chips": [
@@ -547,31 +540,31 @@
       "phrase": [
         {
           "word": "Худий",
-          "definition": "thin\nundefined"
+          "definition": "thin"
         },
         {
           "word": "має",
-          "definition": "undefined"
+          "definition": "has"
         },
         {
           "word": "менше",
-          "definition": "less\nundefined"
+          "definition": "less"
         },
         {
           "word": "тілесної",
-          "definition": "undefined"
+          "definition": "of the body"
         },
         {
           "word": "маси",
-          "definition": "undefined"
+          "definition": "of mass"
         },
         {
           "word": "ніж",
-          "definition": "knife\nthan\nundefined"
+          "definition": "knife\nthan"
         },
         {
           "word": "товстий.",
-          "definition": "fat\nundefined"
+          "definition": "fat"
         }
       ],
       "chips": [
@@ -619,20 +612,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Це є вище/більш красива людина ніж та.",
+      "formInTargetLanguage": "Це є більше красива людина ніж та.",
       "meaningInSourceLanguage": "He is a more beautiful person than that one.",
-      "id": "fba22772c031",
+      "id": "ca69e2b7ab8c",
       "priority": 0,
-      "group": "023bde86f5b5"
+      "group": "39dff619c4d0"
     },
     {
       "type": "listeningExercise",
-      "answer": "Це є вище/більш красива людина ніж та.",
+      "answer": "Це є більше красива людина ніж та.",
       "meaning": "He is a more beautiful person than that one.",
-      "audio": "c9f09754a68dd4dff8b4f42381e13521951a0cdd6125c0b5fc40bf65444a7529",
-      "id": "036346a276d9",
+      "audio": "1f98a4ef91a9c9e2956cc8ec0e598283750d42321c0b4b09d1a35a5bd5e2e325",
+      "id": "368e7dd6a5e1",
       "priority": 1,
-      "group": "023bde86f5b5"
+      "group": "39dff619c4d0"
     },
     {
       "type": "chips",
@@ -640,71 +633,71 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "more",
-          "definition": "undefined"
+          "definition": "більше"
         },
         {
           "word": "beautiful",
-          "definition": "undefined\nкрасивий"
+          "definition": "красивий"
         },
         {
           "word": "person",
-          "definition": "undefined\nлюдина"
+          "definition": "людина"
         },
         {
           "word": "than",
-          "definition": "undefined\nніж"
+          "definition": "ніж"
         },
         {
           "word": "that",
-          "definition": "undefined\nцей (чоловічий рід)"
+          "definition": "той\nцей (чоловічий рід)"
         },
         {
           "word": "one.",
-          "definition": "undefined\nодин (ч)\nодна (ж)\nодне (с)"
+          "definition": "один\nодин (ч)\nодна (ж)\nодне (с)"
         }
       ],
       "chips": [
         "Це",
         "є",
-        "вище/більш",
+        "більше",
         "красива",
         "людина",
         "ніж",
         "та",
-        "ти",
         "не",
-        "Ми",
-        "Ви",
         "Та",
-        "На"
+        "ти",
+        "На",
+        "за",
+        "і"
       ],
       "solutions": [
         [
           "Це",
           "є",
-          "вище/більш",
+          "більше",
           "красива",
           "людина",
           "ніж",
           "та"
         ]
       ],
-      "formattedSolution": "Це є вище/більш красива людина ніж та.",
-      "id": "b88142cf948a",
+      "formattedSolution": "Це є більше красива людина ніж та.",
+      "id": "f88c1a791a89",
       "priority": 2,
-      "group": "023bde86f5b5"
+      "group": "39dff619c4d0"
     },
     {
       "type": "chips",
@@ -712,31 +705,31 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
-          "word": "вище/більш",
-          "definition": "undefined"
+          "word": "більше",
+          "definition": "more"
         },
         {
           "word": "красива",
-          "definition": "undefined"
+          "definition": "beautiful (feminine)"
         },
         {
           "word": "людина",
-          "definition": "person\nundefined"
+          "definition": "person"
         },
         {
           "word": "ніж",
-          "definition": "knife\nthan\nundefined"
+          "definition": "knife\nthan"
         },
         {
           "word": "та.",
-          "definition": "undefined"
+          "definition": "and, so"
         }
       ],
       "chips": [
@@ -772,9 +765,9 @@
         ]
       ],
       "formattedSolution": "He is a more beautiful person than that one.",
-      "id": "bba9aa823d77",
+      "id": "5ceaaa7eab0e",
       "priority": 2,
-      "group": "023bde86f5b5"
+      "group": "39dff619c4d0"
     },
     {
       "type": "options",
@@ -799,27 +792,27 @@
       "phrase": [
         {
           "word": "Old",
-          "definition": "undefined\nстарий"
+          "definition": "старий"
         },
         {
           "word": "people",
-          "definition": "undefined"
+          "definition": "люди"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "wiser",
-          "definition": "undefined"
+          "definition": "мудріший"
         },
         {
           "word": "than",
-          "definition": "undefined\nніж"
+          "definition": "ніж"
         },
         {
           "word": "us.",
-          "definition": "undefined"
+          "definition": "нас"
         }
       ],
       "chips": [
@@ -859,31 +852,31 @@
       "phrase": [
         {
           "word": "Старі",
-          "definition": "undefined"
+          "definition": "old (plural)"
         },
         {
           "word": "люди",
-          "definition": "undefined"
+          "definition": "people"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "вище/більш",
-          "definition": "undefined"
+          "definition": "higher/more"
         },
         {
           "word": "мудрі",
-          "definition": "undefined"
+          "definition": "wise (plural)"
         },
         {
           "word": "ніж",
-          "definition": "knife\nthan\nundefined"
+          "definition": "knife\nthan"
         },
         {
           "word": "ми.",
-          "definition": "undefined\nwe"
+          "definition": "we"
         }
       ],
       "chips": [
@@ -937,35 +930,35 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "young",
-          "definition": "undefined\nмолодий"
+          "definition": "молодий"
         },
         {
           "word": "one",
-          "definition": "undefined\nодин (ч)\nодна (ж)\nодне (с)"
+          "definition": "один\nодин (ч)\nодна (ж)\nодне (с)"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "має"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "lot",
-          "definition": "undefined"
+          "definition": "багато"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "з"
         },
         {
           "word": "energy.",
-          "definition": "undefined"
+          "definition": "енергія"
         }
       ],
       "chips": [
@@ -996,19 +989,19 @@
       "phrase": [
         {
           "word": "Молода",
-          "definition": "undefined"
+          "definition": "young (feminine)"
         },
         {
           "word": "має",
-          "definition": "undefined"
+          "definition": "has"
         },
         {
           "word": "багато",
-          "definition": "undefined"
+          "definition": "a lot, many, much"
         },
         {
           "word": "енергії.",
-          "definition": "undefined"
+          "definition": "of energy"
         }
       ],
       "chips": [
@@ -1068,19 +1061,19 @@
       "phrase": [
         {
           "word": "His",
-          "definition": "undefined"
+          "definition": "його"
         },
         {
           "word": "hair",
-          "definition": "undefined\nволосся"
+          "definition": "волосся"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "blonde.",
-          "definition": "undefined"
+          "definition": "блондин"
         }
       ],
       "chips": [
@@ -1090,7 +1083,7 @@
         "світле",
         "коло",
         "волос",
-        "в"
+        "Ало"
       ],
       "solutions": [
         [
@@ -1111,19 +1104,19 @@
       "phrase": [
         {
           "word": "Його",
-          "definition": "undefined"
+          "definition": "his, him"
         },
         {
           "word": "волосся",
-          "definition": "hair\nundefined"
+          "definition": "hair"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "світле.",
-          "definition": "undefined"
+          "definition": "light (adjective, neuter)"
         }
       ],
       "chips": [
@@ -1150,20 +1143,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Очі є вище/більш зелені ніж у нього.",
+      "formInTargetLanguage": "Очі є більше зелені ніж у нього.",
       "meaningInSourceLanguage": "Her eyes are greener than his.",
-      "id": "6f1b33ba5525",
+      "id": "3d2abb8fffd5",
       "priority": 0,
-      "group": "8d70ecfa4c69"
+      "group": "65f40c6f47cd"
     },
     {
       "type": "listeningExercise",
-      "answer": "Очі є вище/більш зелені ніж у нього.",
+      "answer": "Очі є більше зелені ніж у нього.",
       "meaning": "Her eyes are greener than his.",
-      "audio": "fc281e4cca396d2ba9e91ed05f234a712f762f84a8f8defb41d21977fe4bc1c5",
-      "id": "d3b60d4430fb",
+      "audio": "9f0f24ef5dee98cfa6c05a48317c66ce02868e76110ecf9215f5d7370796fc93",
+      "id": "321bcbe9944d",
       "priority": 1,
-      "group": "8d70ecfa4c69"
+      "group": "65f40c6f47cd"
     },
     {
       "type": "chips",
@@ -1171,33 +1164,33 @@
       "phrase": [
         {
           "word": "Her",
-          "definition": "undefined"
+          "definition": "її"
         },
         {
           "word": "eyes",
-          "definition": "undefined\nочі"
+          "definition": "очі"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "greener",
-          "definition": "undefined"
+          "definition": "зеленіший"
         },
         {
           "word": "than",
-          "definition": "undefined\nніж"
+          "definition": "ніж"
         },
         {
           "word": "his.",
-          "definition": "undefined"
+          "definition": "його"
         }
       ],
       "chips": [
         "Очі",
         "є",
-        "вище/більш",
+        "більше",
         "зелені",
         "ніж",
         "у",
@@ -1213,17 +1206,17 @@
         [
           "Очі",
           "є",
-          "вище/більш",
+          "більше",
           "зелені",
           "ніж",
           "у",
           "нього"
         ]
       ],
-      "formattedSolution": "Очі є вище/більш зелені ніж у нього.",
-      "id": "943336eb99bb",
+      "formattedSolution": "Очі є більше зелені ніж у нього.",
+      "id": "dbb5858e7a5b",
       "priority": 2,
-      "group": "8d70ecfa4c69"
+      "group": "65f40c6f47cd"
     },
     {
       "type": "chips",
@@ -1231,31 +1224,31 @@
       "phrase": [
         {
           "word": "Очі",
-          "definition": "eyes\nundefined"
+          "definition": "eyes"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
-          "word": "вище/більш",
-          "definition": "undefined"
+          "word": "більше",
+          "definition": "more"
         },
         {
           "word": "зелені",
-          "definition": "undefined"
+          "definition": "green (plural)"
         },
         {
           "word": "ніж",
-          "definition": "knife\nthan\nundefined"
+          "definition": "knife\nthan"
         },
         {
           "word": "у",
-          "definition": "at/by\nundefined"
+          "definition": "at/by\nin, at"
         },
         {
           "word": "нього.",
-          "definition": "undefined"
+          "definition": "him"
         }
       ],
       "chips": [
@@ -1282,9 +1275,9 @@
         ]
       ],
       "formattedSolution": "Her eyes are greener than his.",
-      "id": "e71a166e2343",
+      "id": "9e3f194a0d6e",
       "priority": 2,
-      "group": "8d70ecfa4c69"
+      "group": "65f40c6f47cd"
     },
     {
       "type": "options",
@@ -1309,19 +1302,19 @@
       "phrase": [
         {
           "word": "His",
-          "definition": "undefined"
+          "definition": "його"
         },
         {
           "word": "skin",
-          "definition": "undefined\nшкіра"
+          "definition": "шкіра"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "white.",
-          "definition": "undefined\nбілий"
+          "definition": "білий"
         }
       ],
       "chips": [
@@ -1352,19 +1345,19 @@
       "phrase": [
         {
           "word": "Шкіра",
-          "definition": "skin\nundefined"
+          "definition": "skin"
         },
         {
           "word": "його",
-          "definition": "undefined"
+          "definition": "his, him"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "біла.",
-          "definition": "undefined"
+          "definition": "white (feminine)"
         }
       ],
       "chips": [
@@ -1412,19 +1405,19 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "має"
         },
         {
           "word": "long",
-          "definition": "undefined\nдовгий"
+          "definition": "довгий"
         },
         {
           "word": "hair.",
-          "definition": "undefined\nволосся"
+          "definition": "волосся"
         }
       ],
       "chips": [
@@ -1455,19 +1448,19 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "має",
-          "definition": "undefined"
+          "definition": "has"
         },
         {
           "word": "довге",
-          "definition": "undefined"
+          "definition": "long (neuter)"
         },
         {
           "word": "волосся.",
-          "definition": "hair\nundefined"
+          "definition": "hair"
         }
       ],
       "chips": [
@@ -1515,19 +1508,19 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "має"
         },
         {
           "word": "green",
-          "definition": "undefined\nзелений"
+          "definition": "зелений"
         },
         {
           "word": "eyes.",
-          "definition": "undefined\nочі"
+          "definition": "очі"
         }
       ],
       "chips": [
@@ -1558,19 +1551,19 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "має",
-          "definition": "undefined"
+          "definition": "has"
         },
         {
           "word": "зелені",
-          "definition": "undefined"
+          "definition": "green (plural)"
         },
         {
           "word": "очі.",
-          "definition": "eyes\nundefined"
+          "definition": "eyes"
         }
       ],
       "chips": [
@@ -1618,19 +1611,19 @@
       "phrase": [
         {
           "word": "Her",
-          "definition": "undefined"
+          "definition": "її"
         },
         {
           "word": "skin",
-          "definition": "undefined\nшкіра"
+          "definition": "шкіра"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "smooth.",
-          "definition": "undefined"
+          "definition": "гладкий"
         }
       ],
       "chips": [
@@ -1658,15 +1651,15 @@
       "phrase": [
         {
           "word": "Шкіра",
-          "definition": "skin\nundefined"
+          "definition": "skin"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "гладка.",
-          "definition": "undefined"
+          "definition": "smooth"
         }
       ],
       "chips": [
@@ -1714,27 +1707,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "old",
-          "definition": "undefined\nстарий"
+          "definition": "старий"
         },
         {
           "word": "woman",
-          "definition": "undefined\nжінка"
+          "definition": "жінка"
         },
         {
           "word": "wears",
-          "definition": "undefined"
+          "definition": "носить"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "hat.",
-          "definition": "undefined\nшапка"
+          "definition": "капелюх\nшапка"
         }
       ],
       "chips": [
@@ -1765,19 +1758,19 @@
       "phrase": [
         {
           "word": "Стара",
-          "definition": "undefined"
+          "definition": "old (feminine)"
         },
         {
           "word": "жінка",
-          "definition": "undefined\nwoman"
+          "definition": "woman"
         },
         {
           "word": "носить",
-          "definition": "undefined"
+          "definition": "wears, carries"
         },
         {
           "word": "шапку.",
-          "definition": "undefined"
+          "definition": "hat (accusative)"
         }
       ],
       "chips": [
@@ -1831,23 +1824,23 @@
       "phrase": [
         {
           "word": "Young",
-          "definition": "undefined\nмолодий"
+          "definition": "молодий"
         },
         {
           "word": "people",
-          "definition": "undefined"
+          "definition": "люди"
         },
         {
           "word": "often",
-          "definition": "undefined"
+          "definition": "часто"
         },
         {
           "word": "play",
-          "definition": "undefined"
+          "definition": "грати"
         },
         {
           "word": "sports.",
-          "definition": "undefined"
+          "definition": "види спорту"
         }
       ],
       "chips": [
@@ -1881,23 +1874,23 @@
       "phrase": [
         {
           "word": "Молоді",
-          "definition": "undefined"
+          "definition": "young (plural)"
         },
         {
           "word": "люди",
-          "definition": "undefined"
+          "definition": "people"
         },
         {
           "word": "часто",
-          "definition": "undefined"
+          "definition": "often"
         },
         {
           "word": "займаються",
-          "definition": "undefined"
+          "definition": "they are engaged in"
         },
         {
           "word": "спортом.",
-          "definition": "undefined"
+          "definition": "with sport"
         }
       ],
       "chips": [
@@ -1948,39 +1941,39 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "fat",
-          "definition": "undefined\nтовстий"
+          "definition": "товстий"
         },
         {
           "word": "man",
-          "definition": "undefined\nчоловік"
+          "definition": "чоловік"
         },
         {
           "word": "laughs",
-          "definition": "undefined"
+          "definition": "сміється"
         },
         {
           "word": "louder",
-          "definition": "undefined"
+          "definition": "голосніше"
         },
         {
           "word": "than",
-          "definition": "undefined\nніж"
+          "definition": "ніж"
         },
         {
           "word": "that",
-          "definition": "undefined\nцей (чоловічий рід)"
+          "definition": "той\nцей (чоловічий рід)"
         },
         {
           "word": "ugly",
-          "definition": "undefined\nбридкий/поганий"
+          "definition": "бридкий/поганий\nпотворний"
         },
         {
           "word": "man.",
-          "definition": "undefined\nчоловік"
+          "definition": "чоловік"
         }
       ],
       "chips": [
@@ -2023,35 +2016,35 @@
       "phrase": [
         {
           "word": "Товстий",
-          "definition": "fat\nundefined"
+          "definition": "fat"
         },
         {
           "word": "чоловік",
-          "definition": "man\nundefined"
+          "definition": "man\nman, husband"
         },
         {
           "word": "сміється",
-          "definition": "undefined"
+          "definition": "laughs"
         },
         {
           "word": "більше",
-          "definition": "undefined"
+          "definition": "more"
         },
         {
           "word": "ніж",
-          "definition": "knife\nthan\nundefined"
+          "definition": "knife\nthan"
         },
         {
           "word": "той",
-          "definition": "undefined"
+          "definition": "that (masculine)"
         },
         {
           "word": "бридкий/поганий",
-          "definition": "ugly\nundefined"
+          "definition": "ugly"
         },
         {
           "word": "чоловік.",
-          "definition": "man\nundefined"
+          "definition": "man\nman, husband"
         }
       ],
       "chips": [
@@ -2114,27 +2107,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "short",
-          "definition": "undefined\nнизький"
+          "definition": "короткий\nнизький"
         },
         {
           "word": "girl",
-          "definition": "undefined"
+          "definition": "дівчинка"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "going",
-          "definition": "undefined"
+          "definition": "йде"
         },
         {
           "word": "home.",
-          "definition": "undefined"
+          "definition": "дім"
         }
       ],
       "chips": [
@@ -2165,19 +2158,19 @@
       "phrase": [
         {
           "word": "Низька",
-          "definition": "undefined"
+          "definition": "low (feminine)"
         },
         {
           "word": "дівчина",
-          "definition": "undefined"
+          "definition": "girl"
         },
         {
           "word": "йде",
-          "definition": "goes\nundefined"
+          "definition": "goes"
         },
         {
           "word": "додому.",
-          "definition": "undefined"
+          "definition": "home (to home)"
         }
       ],
       "chips": [
@@ -2231,35 +2224,35 @@
       "phrase": [
         {
           "word": "Beautiful",
-          "definition": "undefined\nкрасивий"
+          "definition": "красивий"
         },
         {
           "word": "eyes",
-          "definition": "undefined\nочі"
+          "definition": "очі"
         },
         {
           "word": "shine",
-          "definition": "undefined"
+          "definition": "сяяти"
         },
         {
           "word": "like",
-          "definition": "undefined"
+          "definition": "як"
         },
         {
           "word": "stars",
-          "definition": "undefined"
+          "definition": "зірки"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "sky.",
-          "definition": "undefined"
+          "definition": "небо"
         }
       ],
       "chips": [
@@ -2299,31 +2292,31 @@
       "phrase": [
         {
           "word": "Красиві",
-          "definition": "undefined"
+          "definition": "beautiful (plural)"
         },
         {
           "word": "очі",
-          "definition": "eyes\nundefined"
+          "definition": "eyes"
         },
         {
           "word": "блищать",
-          "definition": "undefined"
+          "definition": "they shine"
         },
         {
           "word": "як",
-          "definition": "undefined"
+          "definition": "how, as"
         },
         {
           "word": "зірки",
-          "definition": "undefined"
+          "definition": "stars"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on\non, at"
         },
         {
           "word": "небі.",
-          "definition": "undefined"
+          "definition": "in the sky"
         }
       ],
       "chips": [
@@ -2362,20 +2355,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Худий носить вище/більш велику сорочку ніж я.",
+      "formInTargetLanguage": "Худий носить більшу велику сорочку ніж я.",
       "meaningInSourceLanguage": "The thin one wears a larger shirt than I do.",
-      "id": "85dc0c91fb28",
+      "id": "d8d5055711a3",
       "priority": 0,
-      "group": "6774c705f505"
+      "group": "908211c9a930"
     },
     {
       "type": "listeningExercise",
-      "answer": "Худий носить вище/більш велику сорочку ніж я.",
+      "answer": "Худий носить більшу велику сорочку ніж я.",
       "meaning": "The thin one wears a larger shirt than I do.",
-      "audio": "2898c218f45e4d827a07bc48ada0b75b9b4b004c7aaf65357037235dbe22587b",
-      "id": "2b57bfb0ae34",
+      "audio": "f5b1e618ea0260f67ad112714a0fc12ddbfad672a3aac6589557a487f256205f",
+      "id": "b675a9704094",
       "priority": 1,
-      "group": "6774c705f505"
+      "group": "908211c9a930"
     },
     {
       "type": "chips",
@@ -2383,35 +2376,35 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "thin",
-          "definition": "undefined\nхудий"
+          "definition": "тонкий\nхудий"
         },
         {
           "word": "one",
-          "definition": "undefined\nодин (ч)\nодна (ж)\nодне (с)"
+          "definition": "один\nодин (ч)\nодна (ж)\nодне (с)"
         },
         {
           "word": "wears",
-          "definition": "undefined"
+          "definition": "носить"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "larger",
-          "definition": "undefined"
+          "definition": "більший"
         },
         {
           "word": "shirt",
-          "definition": "undefined\nсорочка"
+          "definition": "сорочка"
         },
         {
           "word": "than",
-          "definition": "undefined\nніж"
+          "definition": "ніж"
         },
         {
           "word": "I",
@@ -2419,39 +2412,39 @@
         },
         {
           "word": "do.",
-          "definition": "undefined"
+          "definition": "робити"
         }
       ],
       "chips": [
         "Худий",
         "носить",
-        "вище/більш",
+        "більшу",
         "велику",
         "сорочку",
         "ніж",
         "я",
-        "сир",
-        "води",
+        "соку",
         "сік",
-        "сиру",
-        "віку",
-        "Ми"
+        "сир",
+        "білу",
+        "ту",
+        "сиру"
       ],
       "solutions": [
         [
           "Худий",
           "носить",
-          "вище/більш",
+          "більшу",
           "велику",
           "сорочку",
           "ніж",
           "я"
         ]
       ],
-      "formattedSolution": "Худий носить вище/більш велику сорочку ніж я.",
-      "id": "148840ea1de2",
+      "formattedSolution": "Худий носить більшу велику сорочку ніж я.",
+      "id": "8380992da0f1",
       "priority": 2,
-      "group": "6774c705f505"
+      "group": "908211c9a930"
     },
     {
       "type": "chips",
@@ -2459,31 +2452,31 @@
       "phrase": [
         {
           "word": "Худий",
-          "definition": "thin\nundefined"
+          "definition": "thin"
         },
         {
           "word": "носить",
-          "definition": "undefined"
+          "definition": "wears, carries"
         },
         {
-          "word": "вище/більш",
-          "definition": "undefined"
+          "word": "більшу",
+          "definition": "bigger (accusative)"
         },
         {
           "word": "велику",
-          "definition": "undefined"
+          "definition": "big (accusative)"
         },
         {
           "word": "сорочку",
-          "definition": "undefined"
+          "definition": "shirt (accusative)"
         },
         {
           "word": "ніж",
-          "definition": "knife\nthan\nundefined"
+          "definition": "knife\nthan"
         },
         {
           "word": "я.",
-          "definition": "I\nundefined"
+          "definition": "I"
         }
       ],
       "chips": [
@@ -2522,9 +2515,9 @@
         ]
       ],
       "formattedSolution": "The thin one wears a larger shirt than I do.",
-      "id": "e25fe2999b10",
+      "id": "30b368468f4e",
       "priority": 2,
-      "group": "6774c705f505"
+      "group": "908211c9a930"
     },
     {
       "type": "options",
@@ -2549,27 +2542,27 @@
       "phrase": [
         {
           "word": "Her",
-          "definition": "undefined"
+          "definition": "її"
         },
         {
           "word": "hair",
-          "definition": "undefined\nволосся"
+          "definition": "волосся"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "light",
-          "definition": "undefined\nсвітлий"
+          "definition": "світлий\nсвітло"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "і"
         },
         {
           "word": "long.",
-          "definition": "undefined\nдовгий"
+          "definition": "довгий"
         }
       ],
       "chips": [
@@ -2606,27 +2599,27 @@
       "phrase": [
         {
           "word": "Її",
-          "definition": "undefined"
+          "definition": "her"
         },
         {
           "word": "волосся",
-          "definition": "hair\nundefined"
+          "definition": "hair"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "світле",
-          "definition": "undefined"
+          "definition": "light (adjective, neuter)"
         },
         {
           "word": "і",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "довге.",
-          "definition": "undefined"
+          "definition": "long (neuter)"
         }
       ],
       "chips": [
@@ -2680,43 +2673,43 @@
       "phrase": [
         {
           "word": "And",
-          "definition": "undefined"
+          "definition": "і"
         },
         {
           "word": "his",
-          "definition": "undefined"
+          "definition": "його"
         },
         {
           "word": "beautiful",
-          "definition": "undefined\nкрасивий"
+          "definition": "красивий"
         },
         {
           "word": "hair",
-          "definition": "undefined\nволосся"
+          "definition": "волосся"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "as",
-          "definition": "undefined"
+          "definition": "як"
         },
         {
           "word": "dark",
-          "definition": "undefined\nтемний"
+          "definition": "темний"
         },
         {
           "word": "as",
-          "definition": "undefined"
+          "definition": "як"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "night.",
-          "definition": "undefined\nніч"
+          "definition": "ніч"
         }
       ],
       "chips": [
@@ -2759,35 +2752,35 @@
       "phrase": [
         {
           "word": "А",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "його",
-          "definition": "undefined"
+          "definition": "his, him"
         },
         {
           "word": "красиве",
-          "definition": "undefined"
+          "definition": "beautiful (neuter)"
         },
         {
           "word": "волосся",
-          "definition": "hair\nundefined"
+          "definition": "hair"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "темне",
-          "definition": "undefined"
+          "definition": "dark (neuter)"
         },
         {
           "word": "як",
-          "definition": "undefined"
+          "definition": "how, as"
         },
         {
           "word": "ніч.",
-          "definition": "night\nundefined"
+          "definition": "night"
         }
       ],
       "chips": [
@@ -2848,7 +2841,7 @@
       "phrase": [
         {
           "word": "tall",
-          "definition": "undefined\nвисокий"
+          "definition": "високий"
         }
       ],
       "id": "ba77ac8c34f9",
@@ -2882,7 +2875,7 @@
       "phrase": [
         {
           "word": "short",
-          "definition": "undefined\nнизький"
+          "definition": "короткий\nнизький"
         }
       ],
       "id": "79f1777d7f93",
@@ -2916,7 +2909,7 @@
       "phrase": [
         {
           "word": "fat",
-          "definition": "undefined\nтовстий"
+          "definition": "товстий"
         }
       ],
       "id": "fe1411ec3c46",
@@ -2950,7 +2943,7 @@
       "phrase": [
         {
           "word": "thin",
-          "definition": "undefined\nхудий"
+          "definition": "тонкий\nхудий"
         }
       ],
       "id": "0d9754c1f7a1",
@@ -2984,7 +2977,7 @@
       "phrase": [
         {
           "word": "small",
-          "definition": "undefined\nмалий"
+          "definition": "малий"
         }
       ],
       "id": "d9531b158077",
@@ -3018,7 +3011,7 @@
       "phrase": [
         {
           "word": "beautiful",
-          "definition": "undefined\nкрасивий"
+          "definition": "красивий"
         }
       ],
       "id": "a0f7556ef55f",
@@ -3052,7 +3045,7 @@
       "phrase": [
         {
           "word": "ugly",
-          "definition": "undefined\nбридкий/поганий"
+          "definition": "бридкий/поганий\nпотворний"
         }
       ],
       "id": "752128f9ebc9",
@@ -3086,7 +3079,7 @@
       "phrase": [
         {
           "word": "old",
-          "definition": "undefined\nстарий"
+          "definition": "старий"
         }
       ],
       "id": "28a0621b38c8",
@@ -3120,7 +3113,7 @@
       "phrase": [
         {
           "word": "young",
-          "definition": "undefined\nмолодий"
+          "definition": "молодий"
         }
       ],
       "id": "e87645d219b2",
@@ -3154,7 +3147,7 @@
       "phrase": [
         {
           "word": "hair",
-          "definition": "undefined\nволосся"
+          "definition": "волосся"
         }
       ],
       "id": "ca8d3a9139c0",
@@ -3188,7 +3181,7 @@
       "phrase": [
         {
           "word": "eyes",
-          "definition": "undefined\nочі"
+          "definition": "очі"
         }
       ],
       "id": "cbc5530d278d",
@@ -3222,7 +3215,7 @@
       "phrase": [
         {
           "word": "than",
-          "definition": "undefined\nніж"
+          "definition": "ніж"
         }
       ],
       "id": "47995905c89d",
@@ -3256,7 +3249,7 @@
       "phrase": [
         {
           "word": "taller/higher",
-          "definition": "undefined\nвище"
+          "definition": "вище\nвищий/вищий"
         }
       ],
       "id": "4db6cb297ed6",
@@ -3290,7 +3283,7 @@
       "phrase": [
         {
           "word": "skin",
-          "definition": "undefined\nшкіра"
+          "definition": "шкіра"
         }
       ],
       "id": "c4f7c4fd8ac5",
@@ -3324,7 +3317,7 @@
       "phrase": [
         {
           "word": "less",
-          "definition": "undefined\nменше"
+          "definition": "менше"
         }
       ],
       "id": "d5eb1c3d3052",
@@ -3358,11 +3351,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "laugh",
-          "definition": "undefined"
+          "definition": "сміх"
         }
       ],
       "id": "7364239e15e7",
@@ -3396,11 +3389,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "shine",
-          "definition": "undefined"
+          "definition": "сяяти"
         }
       ],
       "id": "b3e9a7049813",
@@ -3434,7 +3427,7 @@
       "phrase": [
         {
           "word": "star",
-          "definition": "undefined\nзірка"
+          "definition": "зірка"
         }
       ],
       "id": "971f08c24070",
@@ -3468,7 +3461,7 @@
       "phrase": [
         {
           "word": "light",
-          "definition": "undefined\nсвітлий"
+          "definition": "світлий\nсвітло"
         }
       ],
       "id": "93e734f65b98",
@@ -3502,7 +3495,7 @@
       "phrase": [
         {
           "word": "dark",
-          "definition": "undefined\nтемний"
+          "definition": "темний"
         }
       ],
       "id": "64aea43fa87e",

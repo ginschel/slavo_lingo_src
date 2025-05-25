@@ -6,7 +6,7 @@ The __Dative case__ is used to indicate the indirect object of a verb – __to w
     
     *   _Singular Masculine/Neuter:_ ending __-u__ or __-owi__. (e.g., bratu, daję nauczyciel__owi__ - I give to a teacher, miast__u__ - to a city, pol__u__ - to a field).
     *   _Singular Feminine:_ ending __-e__ (after hard consonant), __-i__ (after soft consonant). (e.g., siostrz__e__ - to a sister, ziem__i__ - to the earth).
-    *   _Plural (all genders):_ ending __-om__. (e.g., brat__om__ - to brothers, nauczyciel__om__ - to teachers, siostr__om__ - to sisters, miast__om__ - to cities).
+    *   _Plural (all genders):_ ending __-om__. (e.g., student__om__ - to students, nauczyciel__om__ - to teachers, siostr__om__ - to sisters, miast__om__ - to cities).
     
     
     

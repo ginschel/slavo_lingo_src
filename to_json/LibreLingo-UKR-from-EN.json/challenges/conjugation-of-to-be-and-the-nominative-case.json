@@ -4,20 +4,20 @@
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Я є мудрий.",
+      "formInTargetLanguage": "Я мудрий.",
       "meaningInSourceLanguage": "I am wise.",
-      "id": "e9e5415b9da4",
+      "id": "f3037ceb3c33",
       "priority": 0,
-      "group": "dc26fa91b665"
+      "group": "044d1b709b6d"
     },
     {
       "type": "listeningExercise",
-      "answer": "Я є мудрий.",
+      "answer": "Я мудрий.",
       "meaning": "I am wise.",
-      "audio": "044ece10fee0c27d5cdc06ea3fd7aec2ba57bc344b95442c1ecfd75f05c0e376",
-      "id": "863b327242d5",
+      "audio": "d800f2497dd57d18f0bdee1ff99892b57229300b54ddbaf132496c704b8f655d",
+      "id": "72274ad9de98",
       "priority": 1,
-      "group": "dc26fa91b665"
+      "group": "044d1b709b6d"
     },
     {
       "type": "chips",
@@ -29,31 +29,29 @@
         },
         {
           "word": "am",
-          "definition": "undefined\nя є"
+          "definition": "я є\nє"
         },
         {
           "word": "wise.",
-          "definition": "undefined\nмудрий"
+          "definition": "мудрий"
         }
       ],
       "chips": [
         "Я",
-        "є",
         "мудрий",
-        "А",
-        "я"
+        "мудра",
+        "Ми"
       ],
       "solutions": [
         [
           "Я",
-          "є",
           "мудрий"
         ]
       ],
-      "formattedSolution": "Я є мудрий.",
-      "id": "a547883bb834",
+      "formattedSolution": "Я мудрий.",
+      "id": "0dd90e6b90a9",
       "priority": 2,
-      "group": "dc26fa91b665"
+      "group": "044d1b709b6d"
     },
     {
       "type": "chips",
@@ -61,15 +59,11 @@
       "phrase": [
         {
           "word": "Я",
-          "definition": "I\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "I"
         },
         {
           "word": "мудрий.",
-          "definition": "undefined\nwise"
+          "definition": "wise\nwise (masculine)"
         }
       ],
       "chips": [
@@ -87,9 +81,9 @@
         ]
       ],
       "formattedSolution": "I am wise.",
-      "id": "be8fa1a3f97e",
+      "id": "8ea27e25aaa1",
       "priority": 2,
-      "group": "dc26fa91b665"
+      "group": "044d1b709b6d"
     },
     {
       "type": "options",
@@ -114,19 +108,19 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мій"
         },
         {
           "word": "sister.",
-          "definition": "undefined\nсестра"
+          "definition": "сестра"
         }
       ],
       "chips": [
@@ -154,15 +148,15 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "моя",
-          "definition": "undefined"
+          "definition": "my (feminine)"
         },
         {
           "word": "сестра.",
-          "definition": "sister\nundefined"
+          "definition": "sister"
         }
       ],
       "chips": [
@@ -210,19 +204,19 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "very",
-          "definition": "undefined"
+          "definition": "дуже"
         },
         {
           "word": "wise",
-          "definition": "undefined\nмудрий"
+          "definition": "мудрий"
         }
       ],
       "chips": [
@@ -250,15 +244,15 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "дуже",
-          "definition": "undefined"
+          "definition": "very"
         },
         {
           "word": "мудра",
-          "definition": "undefined"
+          "definition": "wise (feminine)"
         }
       ],
       "chips": [
@@ -306,19 +300,19 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nми"
+          "definition": "ми"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "very",
-          "definition": "undefined"
+          "definition": "дуже"
         },
         {
           "word": "wise",
-          "definition": "undefined\nмудрий"
+          "definition": "мудрий"
         }
       ],
       "chips": [
@@ -346,15 +340,15 @@
       "phrase": [
         {
           "word": "Ми",
-          "definition": "undefined\nwe"
+          "definition": "we"
         },
         {
           "word": "дуже",
-          "definition": "undefined"
+          "definition": "very"
         },
         {
           "word": "мудрі",
-          "definition": "undefined"
+          "definition": "wise (plural)"
         }
       ],
       "chips": [
@@ -402,19 +396,19 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "you",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         },
         {
           "word": "also",
-          "definition": "undefined\nтакож"
+          "definition": "також"
         },
         {
           "word": "wise?",
-          "definition": "undefined\nмудрий"
+          "definition": "мудрий"
         }
       ],
       "chips": [
@@ -442,15 +436,15 @@
       "phrase": [
         {
           "word": "Ви",
-          "definition": "undefined\nyou"
+          "definition": "you\nyou (plural)"
         },
         {
           "word": "також",
-          "definition": "also\nundefined"
+          "definition": "also"
         },
         {
           "word": "мудрі?",
-          "definition": "undefined"
+          "definition": "wise (plural)"
         }
       ],
       "chips": [
@@ -498,23 +492,23 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "good",
-          "definition": "undefined\nдобрий"
+          "definition": "добрий"
         },
         {
           "word": "person.",
-          "definition": "undefined\nлюдина"
+          "definition": "людина"
         }
       ],
       "chips": [
@@ -542,15 +536,15 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "добра",
-          "definition": "undefined"
+          "definition": "good (feminine)"
         },
         {
           "word": "людина.",
-          "definition": "person\nundefined"
+          "definition": "person"
         }
       ],
       "chips": [
@@ -601,19 +595,19 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "woman",
-          "definition": "undefined\nжінка"
+          "definition": "жінка"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "good.",
-          "definition": "undefined\nдобрий"
+          "definition": "добрий"
         }
       ],
       "chips": [
@@ -644,19 +638,19 @@
       "phrase": [
         {
           "word": "Та",
-          "definition": "undefined"
+          "definition": "and, so"
         },
         {
           "word": "жінка",
-          "definition": "undefined\nwoman"
+          "definition": "woman"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "добра.",
-          "definition": "undefined"
+          "definition": "good (feminine)"
         }
       ],
       "chips": [
@@ -683,20 +677,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Це є мій дім.",
+      "formInTargetLanguage": "Це мій дім.",
       "meaningInSourceLanguage": "This is my house.",
-      "id": "82e87dd00c7e",
+      "id": "c7c5914252a4",
       "priority": 0,
-      "group": "2791e83357c6"
+      "group": "564c02d989e3"
     },
     {
       "type": "listeningExercise",
-      "answer": "Це є мій дім.",
+      "answer": "Це мій дім.",
       "meaning": "This is my house.",
-      "audio": "efb6d2d7fb0b88567abe23cbbe5b260c8763572fd045281904b67758634e1561",
-      "id": "2b814bc8aa03",
+      "audio": "54e9c267cd7e48c6904d2a99aa9bafc4de030772d508188da3c5f02d90f7e5dd",
+      "id": "2b091cf7f251",
       "priority": 1,
-      "group": "2791e83357c6"
+      "group": "564c02d989e3"
     },
     {
       "type": "chips",
@@ -704,42 +698,39 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мій"
         },
         {
           "word": "house.",
-          "definition": "undefined\nдім"
+          "definition": "будинок\nдім"
         }
       ],
       "chips": [
         "Це",
-        "є",
         "мій",
         "дім",
-        "і",
         "Ці",
         "Ні"
       ],
       "solutions": [
         [
           "Це",
-          "є",
           "мій",
           "дім"
         ]
       ],
-      "formattedSolution": "Це є мій дім.",
-      "id": "c4a6bf336655",
+      "formattedSolution": "Це мій дім.",
+      "id": "7e43777802a1",
       "priority": 2,
-      "group": "2791e83357c6"
+      "group": "564c02d989e3"
     },
     {
       "type": "chips",
@@ -747,19 +738,15 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "мій",
-          "definition": "undefined"
+          "definition": "my (masculine)"
         },
         {
           "word": "дім.",
-          "definition": "house\nundefined"
+          "definition": "house"
         }
       ],
       "chips": [
@@ -780,9 +767,9 @@
         ]
       ],
       "formattedSolution": "This is my house.",
-      "id": "87f93a049049",
+      "id": "1e4504363196",
       "priority": 2,
-      "group": "2791e83357c6"
+      "group": "564c02d989e3"
     },
     {
       "type": "options",
@@ -807,23 +794,23 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "good",
-          "definition": "undefined\nдобрий"
+          "definition": "добрий"
         },
         {
           "word": "friend",
-          "definition": "undefined\nдруг"
+          "definition": "друг"
         }
       ],
       "chips": [
@@ -854,19 +841,19 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "також",
-          "definition": "also\nundefined"
+          "definition": "also"
         },
         {
           "word": "добрий",
-          "definition": "good\nundefined"
+          "definition": "good\ngood (masculine)"
         },
         {
           "word": "друг",
-          "definition": "friend\nundefined"
+          "definition": "friend"
         }
       ],
       "chips": [
@@ -896,20 +883,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ви є добрі.",
+      "formInTargetLanguage": "Ви добрі.",
       "meaningInSourceLanguage": "You are good.",
-      "id": "cf158c812843",
+      "id": "bdf7d4bbfec3",
       "priority": 0,
-      "group": "fd88b2b3e806"
+      "group": "a36dadd83511"
     },
     {
       "type": "listeningExercise",
-      "answer": "Ви є добрі.",
+      "answer": "Ви добрі.",
       "meaning": "You are good.",
-      "audio": "d478e32276c837e6529b6bc8d8f2beb904b223bd66637947f04fb2775832cb32",
-      "id": "d6f7cd8b1928",
+      "audio": "3dc6dc92578da70fef911a7ddaff57ee5974f67c10aa8238af72033d62cccede",
+      "id": "53117b8ea55d",
       "priority": 1,
-      "group": "fd88b2b3e806"
+      "group": "a36dadd83511"
     },
     {
       "type": "chips",
@@ -917,35 +904,33 @@
       "phrase": [
         {
           "word": "You",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "good.",
-          "definition": "undefined\nдобрий"
+          "definition": "добрий"
         }
       ],
       "chips": [
         "Ви",
-        "є",
         "добрі",
-        "і",
-        "до"
+        "до",
+        "би"
       ],
       "solutions": [
         [
           "Ви",
-          "є",
           "добрі"
         ]
       ],
-      "formattedSolution": "Ви є добрі.",
-      "id": "c0b1409d4fd1",
+      "formattedSolution": "Ви добрі.",
+      "id": "8f455ab2d255",
       "priority": 2,
-      "group": "fd88b2b3e806"
+      "group": "a36dadd83511"
     },
     {
       "type": "chips",
@@ -953,15 +938,11 @@
       "phrase": [
         {
           "word": "Ви",
-          "definition": "undefined\nyou"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "you\nyou (plural)"
         },
         {
           "word": "добрі.",
-          "definition": "undefined"
+          "definition": "good (plural)"
         }
       ],
       "chips": [
@@ -979,26 +960,26 @@
         ]
       ],
       "formattedSolution": "You are good.",
-      "id": "8ffd06abf0ca",
+      "id": "342c601dc5f0",
       "priority": 2,
-      "group": "fd88b2b3e806"
+      "group": "a36dadd83511"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Це є друзі.",
+      "formInTargetLanguage": "Це друзі.",
       "meaningInSourceLanguage": "These are friends.",
-      "id": "75270e0d9e65",
+      "id": "5ccb7378b45e",
       "priority": 0,
-      "group": "02b92c376c30"
+      "group": "c2980f4c82aa"
     },
     {
       "type": "listeningExercise",
-      "answer": "Це є друзі.",
+      "answer": "Це друзі.",
       "meaning": "These are friends.",
-      "audio": "07ad48f145a6946a21593786972adde130a58024dfe0be9b872f6bbec4d86c95",
-      "id": "cb26fb0dea47",
+      "audio": "818ee37a84e8138a176b290f4200334e67b298cc3a0a3eb800b9f64c7eb0d677",
+      "id": "dd70b6d92cc7",
       "priority": 1,
-      "group": "02b92c376c30"
+      "group": "c2980f4c82aa"
     },
     {
       "type": "chips",
@@ -1006,35 +987,33 @@
       "phrase": [
         {
           "word": "These",
-          "definition": "undefined"
+          "definition": "ці"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "friends.",
-          "definition": "undefined"
+          "definition": "друзі"
         }
       ],
       "chips": [
         "Це",
-        "є",
         "друзі",
-        "і",
-        "зі"
+        "зі",
+        "де"
       ],
       "solutions": [
         [
           "Це",
-          "є",
           "друзі"
         ]
       ],
-      "formattedSolution": "Це є друзі.",
-      "id": "856abea4e1bb",
+      "formattedSolution": "Це друзі.",
+      "id": "3fd90ad9db76",
       "priority": 2,
-      "group": "02b92c376c30"
+      "group": "c2980f4c82aa"
     },
     {
       "type": "chips",
@@ -1042,15 +1021,11 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "друзі.",
-          "definition": "undefined"
+          "definition": "friends"
         }
       ],
       "chips": [
@@ -1068,26 +1043,26 @@
         ]
       ],
       "formattedSolution": "These are friends.",
-      "id": "6494aee31aaa",
+      "id": "d2df518518e6",
       "priority": 2,
-      "group": "02b92c376c30"
+      "group": "c2980f4c82aa"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Хто ти є?",
+      "formInTargetLanguage": "Хто ти?",
       "meaningInSourceLanguage": "Who are you?",
-      "id": "f0117ae1dac8",
+      "id": "a054a15cb571",
       "priority": 0,
-      "group": "812820dcb90e"
+      "group": "6db7d4dc9f49"
     },
     {
       "type": "listeningExercise",
-      "answer": "Хто ти є?",
+      "answer": "Хто ти?",
       "meaning": "Who are you?",
-      "audio": "bf74216bd17a517d90b091c4d02047544153a5b4ae6b7d16e347701ff89ac537",
-      "id": "9cc3ca8946a2",
+      "audio": "e9c70184314113dc1b7c005792eccb7e1c50f91698bac30cce873b6eaa6b104f",
+      "id": "bfafd27fcf66",
       "priority": 1,
-      "group": "812820dcb90e"
+      "group": "6db7d4dc9f49"
     },
     {
       "type": "chips",
@@ -1095,35 +1070,33 @@
       "phrase": [
         {
           "word": "Who",
-          "definition": "undefined\nхто"
+          "definition": "хто"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "you?",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         }
       ],
       "chips": [
         "Хто",
         "ти",
-        "є",
         "то",
         "те"
       ],
       "solutions": [
         [
           "Хто",
-          "ти",
-          "є"
+          "ти"
         ]
       ],
-      "formattedSolution": "Хто ти є?",
-      "id": "a473b87117d4",
+      "formattedSolution": "Хто ти?",
+      "id": "1fba01e2f018",
       "priority": 2,
-      "group": "812820dcb90e"
+      "group": "6db7d4dc9f49"
     },
     {
       "type": "chips",
@@ -1131,15 +1104,11 @@
       "phrase": [
         {
           "word": "Хто",
-          "definition": "undefined\nwho"
+          "definition": "who"
         },
         {
-          "word": "ти",
-          "definition": "undefined\nyou"
-        },
-        {
-          "word": "є?",
-          "definition": "undefined"
+          "word": "ти?",
+          "definition": "you\nyou (singular)"
         }
       ],
       "chips": [
@@ -1157,9 +1126,9 @@
         ]
       ],
       "formattedSolution": "Who are you?",
-      "id": "92d924249a16",
+      "id": "2de5db1a33db",
       "priority": 2,
-      "group": "812820dcb90e"
+      "group": "6db7d4dc9f49"
     },
     {
       "type": "options",
@@ -1184,19 +1153,19 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "undefined\nцей (чоловічий рід)"
+          "definition": "той\nцей (чоловічий рід)"
         },
         {
           "word": "man",
-          "definition": "undefined\nчоловік"
+          "definition": "чоловік"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "kind.",
-          "definition": "undefined"
+          "definition": "добрий"
         }
       ],
       "chips": [
@@ -1224,15 +1193,15 @@
       "phrase": [
         {
           "word": "Той",
-          "definition": "undefined"
+          "definition": "that (masculine)"
         },
         {
           "word": "чоловік",
-          "definition": "man\nundefined"
+          "definition": "man\nman, husband"
         },
         {
           "word": "милий.",
-          "definition": "undefined"
+          "definition": "dear, nice"
         }
       ],
       "chips": [
@@ -1259,20 +1228,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Це є приємне місто.",
+      "formInTargetLanguage": "Це приємне місто.",
       "meaningInSourceLanguage": "This is a pleasant city.",
-      "id": "0e27981b995b",
+      "id": "f075726ede50",
       "priority": 0,
-      "group": "271da7b26e19"
+      "group": "83dcbbbbf909"
     },
     {
       "type": "listeningExercise",
-      "answer": "Це є приємне місто.",
+      "answer": "Це приємне місто.",
       "meaning": "This is a pleasant city.",
-      "audio": "c98c67282a52385fcdebb1f2482cb2302fcb25c834685ae4ec4940d95e785fd8",
-      "id": "17eaf280b2ed",
+      "audio": "65e0da4adc73a96bdff48dfcfd726c5b7c3e980ca970a439ef572f6df273aa3b",
+      "id": "6af3c5103c87",
       "priority": 1,
-      "group": "271da7b26e19"
+      "group": "83dcbbbbf909"
     },
     {
       "type": "chips",
@@ -1280,46 +1249,43 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "pleasant",
-          "definition": "undefined"
+          "definition": "приємний"
         },
         {
           "word": "city.",
-          "definition": "undefined\nмісто"
+          "definition": "місто"
         }
       ],
       "chips": [
         "Це",
-        "є",
         "приємне",
         "місто",
         "не",
-        "пє",
         "те"
       ],
       "solutions": [
         [
           "Це",
-          "є",
           "приємне",
           "місто"
         ]
       ],
-      "formattedSolution": "Це є приємне місто.",
-      "id": "9e2c97508a8d",
+      "formattedSolution": "Це приємне місто.",
+      "id": "246fe19030ea",
       "priority": 2,
-      "group": "271da7b26e19"
+      "group": "83dcbbbbf909"
     },
     {
       "type": "chips",
@@ -1327,19 +1293,15 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "приємне",
-          "definition": "undefined"
+          "definition": "pleasant"
         },
         {
           "word": "місто.",
-          "definition": "city\nundefined"
+          "definition": "city"
         }
       ],
       "chips": [
@@ -1363,9 +1325,9 @@
         ]
       ],
       "formattedSolution": "This is a pleasant city.",
-      "id": "424c273fce66",
+      "id": "c7a5590e1bcd",
       "priority": 2,
-      "group": "271da7b26e19"
+      "group": "83dcbbbbf909"
     },
     {
       "type": "options",
@@ -1390,19 +1352,19 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "undefined\nцей (чоловічий рід)"
+          "definition": "той\nцей (чоловічий рід)"
         },
         {
           "word": "woman",
-          "definition": "undefined\nжінка"
+          "definition": "жінка"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "tall.",
-          "definition": "undefined\nвисокий"
+          "definition": "високий"
         }
       ],
       "chips": [
@@ -1433,19 +1395,19 @@
       "phrase": [
         {
           "word": "Та",
-          "definition": "undefined"
+          "definition": "and, so"
         },
         {
           "word": "жінка",
-          "definition": "undefined\nwoman"
+          "definition": "woman"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "висока.",
-          "definition": "undefined"
+          "definition": "tall (feminine)"
         }
       ],
       "chips": [
@@ -1493,19 +1455,19 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "undefined\nцей (чоловічий рід)"
+          "definition": "той\nцей (чоловічий рід)"
         },
         {
           "word": "day",
-          "definition": "undefined\nдень"
+          "definition": "день"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "cold.",
-          "definition": "undefined\nхолодно"
+          "definition": "холодний\nхолодно"
         }
       ],
       "chips": [
@@ -1536,19 +1498,19 @@
       "phrase": [
         {
           "word": "Той",
-          "definition": "undefined"
+          "definition": "that (masculine)"
         },
         {
           "word": "день",
-          "definition": "day\nundefined"
+          "definition": "day"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "холодний.",
-          "definition": "undefined"
+          "definition": "cold (masculine)"
         }
       ],
       "chips": [
@@ -1596,27 +1558,27 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "undefined\nцей (чоловічий рід)"
+          "definition": "той\nцей (чоловічий рід)"
         },
         {
           "word": "house",
-          "definition": "undefined\nдім"
+          "definition": "будинок\nдім"
         },
         {
           "word": "over",
-          "definition": "undefined"
+          "definition": "над"
         },
         {
           "word": "there",
-          "definition": "undefined"
+          "definition": "там"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "beautiful.",
-          "definition": "undefined\nкрасивий"
+          "definition": "красивий"
         }
       ],
       "chips": [
@@ -1647,19 +1609,19 @@
       "phrase": [
         {
           "word": "Тамтой",
-          "definition": "undefined"
+          "definition": "that one (masculine)"
         },
         {
           "word": "дім",
-          "definition": "house\nundefined"
+          "definition": "house"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "красивий.",
-          "definition": "beautiful\nundefined"
+          "definition": "beautiful\nbeautiful (masculine)"
         }
       ],
       "chips": [
@@ -1713,19 +1675,19 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мій"
         },
         {
           "word": "child.",
-          "definition": "undefined\nдитина"
+          "definition": "дитина"
         }
       ],
       "chips": [
@@ -1753,15 +1715,15 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "моє",
-          "definition": "undefined"
+          "definition": "my (neuter)"
         },
         {
           "word": "дитя.",
-          "definition": "undefined"
+          "definition": "child"
         }
       ],
       "chips": [
@@ -1809,27 +1771,27 @@
       "phrase": [
         {
           "word": "That",
-          "definition": "undefined\nцей (чоловічий рід)"
+          "definition": "той\nцей (чоловічий рід)"
         },
         {
           "word": "morning",
-          "definition": "undefined\nранок"
+          "definition": "ранок"
         },
         {
           "word": "over",
-          "definition": "undefined"
+          "definition": "над"
         },
         {
           "word": "there",
-          "definition": "undefined"
+          "definition": "там"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "cold.",
-          "definition": "undefined\nхолодно"
+          "definition": "холодний\nхолодно"
         }
       ],
       "chips": [
@@ -1860,19 +1822,19 @@
       "phrase": [
         {
           "word": "Тамтой",
-          "definition": "undefined"
+          "definition": "that one (masculine)"
         },
         {
           "word": "ранок",
-          "definition": "morning\nundefined"
+          "definition": "morning"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "холодний.",
-          "definition": "undefined"
+          "definition": "cold (masculine)"
         }
       ],
       "chips": [
@@ -1926,23 +1888,23 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мій"
         },
         {
           "word": "sister.",
-          "definition": "undefined\nсестра"
+          "definition": "сестра"
         }
       ],
       "chips": [
@@ -1973,19 +1935,19 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "not"
         },
         {
           "word": "моя",
-          "definition": "undefined"
+          "definition": "my (feminine)"
         },
         {
           "word": "сестра.",
-          "definition": "sister\nundefined"
+          "definition": "sister"
         }
       ],
       "chips": [
@@ -2036,23 +1998,23 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "your",
-          "definition": "undefined"
+          "definition": "ваш"
         },
         {
           "word": "house.",
-          "definition": "undefined\nдім"
+          "definition": "будинок\nдім"
         }
       ],
       "chips": [
@@ -2083,19 +2045,19 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "not"
         },
         {
           "word": "твій",
-          "definition": "undefined"
+          "definition": "your"
         },
         {
           "word": "дім.",
-          "definition": "house\nundefined"
+          "definition": "house"
         }
       ],
       "chips": [
@@ -2146,23 +2108,23 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "this",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "good",
-          "definition": "undefined\nдобрий"
+          "definition": "добрий"
         },
         {
           "word": "car?",
-          "definition": "undefined\nавто"
+          "definition": "авто\nавтомобіль"
         }
       ],
       "chips": [
@@ -2190,15 +2152,15 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "добре",
-          "definition": "undefined"
+          "definition": "good, well"
         },
         {
           "word": "авто?",
-          "definition": "car\nundefined"
+          "definition": "car"
         }
       ],
       "chips": [
@@ -2249,19 +2211,19 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "these",
-          "definition": "undefined"
+          "definition": "ці"
         },
         {
           "word": "good",
-          "definition": "undefined\nдобрий"
+          "definition": "добрий"
         },
         {
           "word": "friends?",
-          "definition": "undefined"
+          "definition": "друзі"
         }
       ],
       "chips": [
@@ -2289,15 +2251,15 @@
       "phrase": [
         {
           "word": "Це",
-          "definition": "undefined"
+          "definition": "this is, it is"
         },
         {
           "word": "добрі",
-          "definition": "undefined"
+          "definition": "good (plural)"
         },
         {
           "word": "друзі?",
-          "definition": "undefined"
+          "definition": "friends"
         }
       ],
       "chips": [
@@ -2345,19 +2307,19 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "undefined\nвони (жін. р.)\nвони (чол. р.)"
+          "definition": "вони\nвони (жін. р.)\nвони (чол. р.)"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "very",
-          "definition": "undefined"
+          "definition": "дуже"
         },
         {
           "word": "kind.",
-          "definition": "undefined"
+          "definition": "добрий"
         }
       ],
       "chips": [
@@ -2388,19 +2350,19 @@
       "phrase": [
         {
           "word": "Вони",
-          "definition": "undefined"
+          "definition": "they"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "дуже",
-          "definition": "undefined"
+          "definition": "very"
         },
         {
           "word": "милі.",
-          "definition": "undefined"
+          "definition": "dear, nice (plural)"
         }
       ],
       "chips": [
@@ -2448,19 +2410,19 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "undefined\nвони (жін. р.)\nвони (чол. р.)"
+          "definition": "вони\nвони (жін. р.)\nвони (чол. р.)"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "very",
-          "definition": "undefined"
+          "definition": "дуже"
         },
         {
           "word": "kind",
-          "definition": "undefined"
+          "definition": "добрий"
         }
       ],
       "chips": [
@@ -2491,19 +2453,19 @@
       "phrase": [
         {
           "word": "Вони",
-          "definition": "undefined"
+          "definition": "they"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "дуже",
-          "definition": "undefined"
+          "definition": "very"
         },
         {
           "word": "милі.",
-          "definition": "undefined"
+          "definition": "dear, nice (plural)"
         }
       ],
       "chips": [
@@ -2546,7 +2508,7 @@
       "phrase": [
         {
           "word": "this",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         }
       ],
       "id": "8906502f8631",
@@ -2580,7 +2542,7 @@
       "phrase": [
         {
           "word": "this",
-          "definition": "undefined\nце (середній рід)\nця (жіночий рід)"
+          "definition": "це\nце (середній рід)\nця (жіночий рід)"
         }
       ],
       "id": "1c425319c62e",
@@ -2614,7 +2576,7 @@
       "phrase": [
         {
           "word": "that",
-          "definition": "undefined\nцей (чоловічий рід)"
+          "definition": "той\nцей (чоловічий рід)"
         }
       ],
       "id": "4ab6034510a1",
@@ -2648,15 +2610,15 @@
       "phrase": [
         {
           "word": "that",
-          "definition": "undefined\nцей (чоловічий рід)"
+          "definition": "той\nцей (чоловічий рід)"
         },
         {
           "word": "over",
-          "definition": "undefined"
+          "definition": "над"
         },
         {
           "word": "there",
-          "definition": "undefined"
+          "definition": "там"
         }
       ],
       "id": "4caeeb061e85",
@@ -2690,15 +2652,15 @@
       "phrase": [
         {
           "word": "that",
-          "definition": "undefined\nцей (чоловічий рід)"
+          "definition": "той\nцей (чоловічий рід)"
         },
         {
           "word": "over",
-          "definition": "undefined"
+          "definition": "над"
         },
         {
           "word": "there",
-          "definition": "undefined"
+          "definition": "там"
         }
       ],
       "id": "f0d4b164e75d",
@@ -2732,7 +2694,7 @@
       "phrase": [
         {
           "word": "am",
-          "definition": "undefined\nя є"
+          "definition": "я є\nє"
         }
       ],
       "id": "c03f81ceebec",
@@ -2766,7 +2728,7 @@
       "phrase": [
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         }
       ],
       "id": "45e408039f7c",
@@ -2800,7 +2762,7 @@
       "phrase": [
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         }
       ],
       "id": "215602d48931",
@@ -2834,7 +2796,7 @@
       "phrase": [
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         }
       ],
       "id": "ae4396c91c90",
@@ -2868,7 +2830,7 @@
       "phrase": [
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         }
       ],
       "id": "b05872739a61",
@@ -2902,7 +2864,7 @@
       "phrase": [
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         }
       ],
       "id": "0ca7d77b7fba",
@@ -2970,7 +2932,7 @@
       "phrase": [
         {
           "word": "you",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         }
       ],
       "id": "8c5b4fab2aa4",
@@ -3004,7 +2966,7 @@
       "phrase": [
         {
           "word": "he",
-          "definition": "undefined\nвін"
+          "definition": "він"
         }
       ],
       "id": "43b7688797f7",
@@ -3038,7 +3000,7 @@
       "phrase": [
         {
           "word": "she",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         }
       ],
       "id": "f9684da961c0",
@@ -3072,7 +3034,7 @@
       "phrase": [
         {
           "word": "it",
-          "definition": "undefined\nвоно"
+          "definition": "воно\nце"
         }
       ],
       "id": "bab599cb0a29",
@@ -3106,7 +3068,7 @@
       "phrase": [
         {
           "word": "we",
-          "definition": "undefined\nми"
+          "definition": "ми"
         }
       ],
       "id": "2dc0155a1a8a",
@@ -3140,7 +3102,7 @@
       "phrase": [
         {
           "word": "you",
-          "definition": "undefined\nви\nти"
+          "definition": "ви\nти"
         }
       ],
       "id": "cd7d0cfd98e9",
@@ -3174,7 +3136,7 @@
       "phrase": [
         {
           "word": "they",
-          "definition": "undefined\nвони (жін. р.)\nвони (чол. р.)"
+          "definition": "вони\nвони (жін. р.)\nвони (чол. р.)"
         }
       ],
       "id": "8e3584af2d67",
@@ -3208,7 +3170,7 @@
       "phrase": [
         {
           "word": "they",
-          "definition": "undefined\nвони (жін. р.)\nвони (чол. р.)"
+          "definition": "вони\nвони (жін. р.)\nвони (чол. р.)"
         }
       ],
       "id": "7c8f5e21d6f2",
@@ -3242,7 +3204,7 @@
       "phrase": [
         {
           "word": "person",
-          "definition": "undefined\nлюдина"
+          "definition": "людина"
         }
       ],
       "id": "7b75449bcf2a",
@@ -3276,7 +3238,7 @@
       "phrase": [
         {
           "word": "woman",
-          "definition": "undefined\nжінка"
+          "definition": "жінка"
         }
       ],
       "id": "34d31dbe6798",
@@ -3310,7 +3272,7 @@
       "phrase": [
         {
           "word": "man",
-          "definition": "undefined\nчоловік"
+          "definition": "чоловік"
         }
       ],
       "id": "2acaff2af5ab",
@@ -3344,7 +3306,7 @@
       "phrase": [
         {
           "word": "child",
-          "definition": "undefined\nдитина"
+          "definition": "дитина"
         }
       ],
       "id": "769532be8e1e",
@@ -3378,7 +3340,7 @@
       "phrase": [
         {
           "word": "friend",
-          "definition": "undefined\nдруг"
+          "definition": "друг"
         }
       ],
       "id": "246d7cef1b93",
@@ -3412,7 +3374,7 @@
       "phrase": [
         {
           "word": "sister",
-          "definition": "undefined\nсестра"
+          "definition": "сестра"
         }
       ],
       "id": "a5272cc0b07e",
@@ -3431,36 +3393,36 @@
     {
       "type": "cards",
       "pictures": null,
-      "formInTargetLanguage": "батько/мати (один з батьків)",
+      "formInTargetLanguage": "батькі",
       "meaningInSourceLanguage": "parent",
-      "id": "a51ec1c4e2a0",
+      "id": "482a2ac10e26",
       "priority": 0,
-      "group": "6dcd49ea915b"
+      "group": "d398ab760515"
     },
     {
       "type": "shortInput",
       "pictures": null,
       "formInTargetLanguage": [
-        "батько/мати (один з батьків)"
+        "батькі"
       ],
       "phrase": [
         {
           "word": "parent",
-          "definition": "undefined\nбатько/мати (один з батьків)"
+          "definition": "батько\nбатькі"
         }
       ],
-      "id": "ec9a606843cc",
+      "id": "83b6e03bc316",
       "priority": 1,
-      "group": "6dcd49ea915b"
+      "group": "d398ab760515"
     },
     {
       "type": "listeningExercise",
-      "answer": "батько/мати (один з батьків)",
+      "answer": "батькі",
       "meaning": "parent",
-      "audio": "74310f1c27c938ecb1187c9d8836f142ebeea13cb1418ea2e9e3dedf3dae7169",
-      "id": "0585873491b9",
+      "audio": "512b42431e2624fa30ed98f095242b4f28ec188833797c49dbf01cd92a8b4e04",
+      "id": "0eaa60738e94",
       "priority": 1,
-      "group": "6dcd49ea915b"
+      "group": "d398ab760515"
     },
     {
       "type": "cards",
@@ -3480,7 +3442,7 @@
       "phrase": [
         {
           "word": "house",
-          "definition": "undefined\nдім"
+          "definition": "будинок\nдім"
         }
       ],
       "id": "05362aa092ea",
@@ -3514,7 +3476,7 @@
       "phrase": [
         {
           "word": "city",
-          "definition": "undefined\nмісто"
+          "definition": "місто"
         }
       ],
       "id": "4b3d536f23bc",
@@ -3548,7 +3510,7 @@
       "phrase": [
         {
           "word": "day",
-          "definition": "undefined\nдень"
+          "definition": "день"
         }
       ],
       "id": "fe104092cabc",
@@ -3582,7 +3544,7 @@
       "phrase": [
         {
           "word": "also",
-          "definition": "undefined\nтакож"
+          "definition": "також"
         }
       ],
       "id": "6cfe5082b17e",
@@ -3616,7 +3578,7 @@
       "phrase": [
         {
           "word": "who",
-          "definition": "undefined\nхто"
+          "definition": "хто"
         }
       ],
       "id": "ab2feb81f693",

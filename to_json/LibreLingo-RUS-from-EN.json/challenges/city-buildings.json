@@ -25,23 +25,23 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "big",
-          "definition": "undefined"
+          "definition": "большой"
         },
         {
           "word": "city.",
-          "definition": "undefined\nгород"
+          "definition": "город"
         }
       ],
       "chips": [
@@ -72,19 +72,19 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "большой",
-          "definition": "undefined"
+          "definition": "big"
         },
         {
           "word": "город.",
-          "definition": "city\nundefined"
+          "definition": "city"
         }
       ],
       "chips": [
@@ -135,27 +135,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "house",
-          "definition": "undefined\nдом"
+          "definition": "дом"
         },
         {
           "word": "stands",
-          "definition": "undefined"
+          "definition": "стоит"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "street.",
-          "definition": "undefined\nулица"
+          "definition": "улица"
         }
       ],
       "chips": [
@@ -164,8 +164,8 @@
         "на",
         "улице",
         "то",
-        "ли",
-        "со"
+        "со",
+        "ли"
       ],
       "solutions": [
         [
@@ -186,19 +186,19 @@
       "phrase": [
         {
           "word": "Дом",
-          "definition": "house\nundefined"
+          "definition": "home\nhouse"
         },
         {
           "word": "стоит",
-          "definition": "undefined"
+          "definition": "stands"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "улице.",
-          "definition": "undefined"
+          "definition": "street"
         }
       ],
       "chips": [
@@ -231,20 +231,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Идём до площади/рынка.",
+      "formInTargetLanguage": "Идём до площади.",
       "meaningInSourceLanguage": "We are going to the square.",
-      "id": "9657c82f0af0",
+      "id": "53fc07e403c1",
       "priority": 0,
-      "group": "3cc3c8d69816"
+      "group": "b0a142a90337"
     },
     {
       "type": "listeningExercise",
-      "answer": "Идём до площади/рынка.",
+      "answer": "Идём до площади.",
       "meaning": "We are going to the square.",
-      "audio": "d97dd30438ce38de55382bbfde29fbfdf60db3ca2893ba88cb5a76b38f11fdb3",
-      "id": "b200068e4140",
+      "audio": "431717f9679527e03d9843add048c7956a11bd2c57b008eb29c2dc80795bf607",
+      "id": "95c7988a2283",
       "priority": 1,
-      "group": "3cc3c8d69816"
+      "group": "b0a142a90337"
     },
     {
       "type": "chips",
@@ -252,33 +252,33 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nмы"
+          "definition": "мы"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "going",
-          "definition": "undefined"
+          "definition": "идет"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "square.",
-          "definition": "undefined\nквадрат"
+          "definition": "квадрат"
         }
       ],
       "chips": [
         "Идём",
         "до",
-        "площади/рынка",
+        "площади",
         "дом",
         "Иди"
       ],
@@ -286,13 +286,13 @@
         [
           "Идём",
           "до",
-          "площади/рынка"
+          "площади"
         ]
       ],
-      "formattedSolution": "Идём до площади/рынка.",
-      "id": "fe443fc8cb5c",
+      "formattedSolution": "Идём до площади.",
+      "id": "31440d9687fa",
       "priority": 2,
-      "group": "3cc3c8d69816"
+      "group": "b0a142a90337"
     },
     {
       "type": "chips",
@@ -300,15 +300,15 @@
       "phrase": [
         {
           "word": "Идём",
-          "definition": "undefined"
+          "definition": "go"
         },
         {
           "word": "до",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
-          "word": "площади/рынка.",
-          "definition": "undefined"
+          "word": "площади.",
+          "definition": "square"
         }
       ],
       "chips": [
@@ -335,9 +335,9 @@
         ]
       ],
       "formattedSolution": "We are going to the square.",
-      "id": "bc6223bcd942",
+      "id": "6629a8bb468b",
       "priority": 2,
-      "group": "3cc3c8d69816"
+      "group": "b0a142a90337"
     },
     {
       "type": "options",
@@ -362,27 +362,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "station",
-          "definition": "undefined\nстанция"
+          "definition": "станция"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "near",
-          "definition": "undefined\nблизко"
+          "definition": "близко\nрядом"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "center.",
-          "definition": "undefined"
+          "definition": "центр"
         }
       ],
       "chips": [
@@ -413,19 +413,19 @@
       "phrase": [
         {
           "word": "Станция",
-          "definition": "station\nundefined"
+          "definition": "station"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "близко",
-          "definition": "near\nundefined"
+          "definition": "near"
         },
         {
           "word": "центра.",
-          "definition": "undefined"
+          "definition": "center"
         }
       ],
       "chips": [
@@ -479,27 +479,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "bridge",
-          "definition": "undefined\nмост"
+          "definition": "мост"
         },
         {
           "word": "goes",
-          "definition": "undefined\nидёт (пешком)"
+          "definition": "идет\nидёт (пешком)"
         },
         {
           "word": "over",
-          "definition": "undefined"
+          "definition": "над"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "river.",
-          "definition": "undefined\nрека"
+          "definition": "река"
         }
       ],
       "chips": [
@@ -530,19 +530,19 @@
       "phrase": [
         {
           "word": "Мост",
-          "definition": "bridge\nundefined"
+          "definition": "bridge"
         },
         {
           "word": "идёт",
-          "definition": "undefined"
+          "definition": "goes"
         },
         {
           "word": "через",
-          "definition": "through\nundefined"
+          "definition": "through"
         },
         {
           "word": "реку.",
-          "definition": "undefined"
+          "definition": "river"
         }
       ],
       "chips": [
@@ -596,27 +596,27 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nмы"
+          "definition": "мы"
         },
         {
           "word": "buy",
-          "definition": "undefined"
+          "definition": "купить"
         },
         {
           "word": "bread",
-          "definition": "undefined\nхлеб"
+          "definition": "хлеб"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "shop.",
-          "definition": "undefined"
+          "definition": "магазин"
         }
       ],
       "chips": [
@@ -647,19 +647,19 @@
       "phrase": [
         {
           "word": "Покупаем",
-          "definition": "undefined"
+          "definition": "buy"
         },
         {
           "word": "хлеб",
-          "definition": "bread\nundefined"
+          "definition": "bread"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in"
         },
         {
           "word": "магазине.",
-          "definition": "undefined"
+          "definition": "shop"
         }
       ],
       "chips": [
@@ -713,31 +713,31 @@
       "phrase": [
         {
           "word": "There",
-          "definition": "undefined"
+          "definition": "там"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "many",
-          "definition": "undefined"
+          "definition": "много"
         },
         {
           "word": "people",
-          "definition": "undefined"
+          "definition": "люди"
         },
         {
           "word": "at",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "market.",
-          "definition": "undefined\nторговая площадь/рынок"
+          "definition": "рынок\nторговая площадь/рынок"
         }
       ],
       "chips": [
@@ -774,27 +774,27 @@
       "phrase": [
         {
           "word": "На",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "торговой",
-          "definition": "undefined"
+          "definition": "trade"
         },
         {
           "word": "площади/рынке",
-          "definition": "undefined"
+          "definition": "square"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "много",
-          "definition": "undefined"
+          "definition": "many"
         },
         {
           "word": "людей.",
-          "definition": "undefined"
+          "definition": "people"
         }
       ],
       "chips": [
@@ -855,27 +855,27 @@
         },
         {
           "word": "read",
-          "definition": "undefined"
+          "definition": "читать"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "book",
-          "definition": "undefined\nкнига"
+          "definition": "книга"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "library.",
-          "definition": "undefined\nбиблиотека"
+          "definition": "библиотека"
         }
       ],
       "chips": [
@@ -906,19 +906,19 @@
       "phrase": [
         {
           "word": "Читаю",
-          "definition": "undefined"
+          "definition": "read"
         },
         {
           "word": "книгу",
-          "definition": "undefined"
+          "definition": "book"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in"
         },
         {
           "word": "библиотеке.",
-          "definition": "undefined"
+          "definition": "library"
         }
       ],
       "chips": [
@@ -975,27 +975,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "church",
-          "definition": "undefined\nцерковь"
+          "definition": "церковь"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "old",
-          "definition": "undefined\nстарый"
+          "definition": "старый"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "и"
         },
         {
           "word": "white.",
-          "definition": "undefined\nбелый"
+          "definition": "белый"
         }
       ],
       "chips": [
@@ -1029,23 +1029,23 @@
       "phrase": [
         {
           "word": "Церковь",
-          "definition": "church\nundefined"
+          "definition": "church"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "старая",
-          "definition": "undefined"
+          "definition": "old"
         },
         {
           "word": "и",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "белая.",
-          "definition": "undefined"
+          "definition": "white"
         }
       ],
       "chips": [
@@ -1099,27 +1099,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "street",
-          "definition": "undefined\nулица"
+          "definition": "улица"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "long",
-          "definition": "undefined\nдлинный"
+          "definition": "длинный"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "и"
         },
         {
           "word": "warm.",
-          "definition": "undefined\nтепло"
+          "definition": "тепло\nтеплый"
         }
       ],
       "chips": [
@@ -1153,23 +1153,23 @@
       "phrase": [
         {
           "word": "Улица",
-          "definition": "street\nundefined"
+          "definition": "street"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "длинная",
-          "definition": "undefined"
+          "definition": "long"
         },
         {
           "word": "и",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "тёплая.",
-          "definition": "undefined"
+          "definition": "warm"
         }
       ],
       "chips": [
@@ -1223,23 +1223,23 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "city",
-          "definition": "undefined\nгород"
+          "definition": "город"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "имеет"
         },
         {
           "word": "many",
-          "definition": "undefined"
+          "definition": "много"
         },
         {
           "word": "houses.",
-          "definition": "undefined"
+          "definition": "дома"
         }
       ],
       "chips": [
@@ -1270,19 +1270,19 @@
       "phrase": [
         {
           "word": "Город",
-          "definition": "city\nundefined"
+          "definition": "city"
         },
         {
           "word": "имеет",
-          "definition": "undefined"
+          "definition": "has"
         },
         {
           "word": "много",
-          "definition": "undefined"
+          "definition": "many"
         },
         {
           "word": "домов.",
-          "definition": "undefined"
+          "definition": "houses"
         }
       ],
       "chips": [
@@ -1333,23 +1333,23 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "shop",
-          "definition": "undefined"
+          "definition": "магазин"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "open",
-          "definition": "undefined"
+          "definition": "открытый"
         },
         {
           "word": "today.",
-          "definition": "undefined\nсегодня"
+          "definition": "сегодня"
         }
       ],
       "chips": [
@@ -1380,19 +1380,19 @@
       "phrase": [
         {
           "word": "Магазин",
-          "definition": "shop/store\nundefined"
+          "definition": "shop\nshop/store"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "открыт",
-          "definition": "undefined"
+          "definition": "open"
         },
         {
           "word": "сегодня.",
-          "definition": "today\nundefined"
+          "definition": "today"
         }
       ],
       "chips": [
@@ -1443,27 +1443,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "church",
-          "definition": "undefined\nцерковь"
+          "definition": "церковь"
         },
         {
           "word": "stands",
-          "definition": "undefined"
+          "definition": "стоит"
         },
         {
           "word": "near",
-          "definition": "undefined\nблизко"
+          "definition": "близко\nрядом"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "library.",
-          "definition": "undefined\nбиблиотека"
+          "definition": "библиотека"
         }
       ],
       "chips": [
@@ -1494,19 +1494,19 @@
       "phrase": [
         {
           "word": "Церковь",
-          "definition": "church\nundefined"
+          "definition": "church"
         },
         {
           "word": "стоит",
-          "definition": "undefined"
+          "definition": "stands"
         },
         {
           "word": "близко",
-          "definition": "near\nundefined"
+          "definition": "near"
         },
         {
           "word": "библиотеки.",
-          "definition": "undefined"
+          "definition": "library"
         }
       ],
       "chips": [
@@ -1560,27 +1560,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "street",
-          "definition": "undefined\nулица"
+          "definition": "улица"
         },
         {
           "word": "leads",
-          "definition": "undefined"
+          "definition": "ведет"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "square.",
-          "definition": "undefined\nквадрат"
+          "definition": "квадрат"
         }
       ],
       "chips": [
@@ -1611,19 +1611,19 @@
       "phrase": [
         {
           "word": "Улица",
-          "definition": "street\nundefined"
+          "definition": "street"
         },
         {
           "word": "ведёт",
-          "definition": "undefined"
+          "definition": "leads"
         },
         {
           "word": "до",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "площади/рынка.",
-          "definition": "undefined"
+          "definition": "square"
         }
       ],
       "chips": [
@@ -1656,20 +1656,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "На площади/рынке стоит фонтан.",
+      "formInTargetLanguage": "На площади стоит фонтан.",
       "meaningInSourceLanguage": "A fountain stands in the square.",
-      "id": "395fa2aa3d49",
+      "id": "0a1d54a5aebb",
       "priority": 0,
-      "group": "2cc3e9021e50"
+      "group": "47932112e134"
     },
     {
       "type": "listeningExercise",
-      "answer": "На площади/рынке стоит фонтан.",
+      "answer": "На площади стоит фонтан.",
       "meaning": "A fountain stands in the square.",
-      "audio": "29badb19c724c17198a2979bf2fba16adaf7c893cd5b379a5629be628d90ab3b",
-      "id": "f9df5385e29d",
+      "audio": "31fd40cca36ef4d4e162300a3c3b88bb4a0c949aff4b6f6c22c54ed15d1fdb7f",
+      "id": "afdb1f25d7cc",
       "priority": 1,
-      "group": "2cc3e9021e50"
+      "group": "47932112e134"
     },
     {
       "type": "chips",
@@ -1677,50 +1677,50 @@
       "phrase": [
         {
           "word": "A",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "fountain",
-          "definition": "undefined"
+          "definition": "фонтан"
         },
         {
           "word": "stands",
-          "definition": "undefined"
+          "definition": "стоит"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "square.",
-          "definition": "undefined\nквадрат"
+          "definition": "квадрат"
         }
       ],
       "chips": [
         "На",
-        "площади/рынке",
+        "площади",
         "стоит",
         "фонтан",
         "сока",
-        "план",
-        "от"
+        "от",
+        "кота"
       ],
       "solutions": [
         [
           "На",
-          "площади/рынке",
+          "площади",
           "стоит",
           "фонтан"
         ]
       ],
-      "formattedSolution": "На площади/рынке стоит фонтан.",
-      "id": "069cc9796b44",
+      "formattedSolution": "На площади стоит фонтан.",
+      "id": "4496f9edf1ac",
       "priority": 2,
-      "group": "2cc3e9021e50"
+      "group": "47932112e134"
     },
     {
       "type": "chips",
@@ -1728,19 +1728,19 @@
       "phrase": [
         {
           "word": "На",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
-          "word": "площади/рынке",
-          "definition": "undefined"
+          "word": "площади",
+          "definition": "square"
         },
         {
           "word": "стоит",
-          "definition": "undefined"
+          "definition": "stands"
         },
         {
           "word": "фонтан.",
-          "definition": "undefined"
+          "definition": "fountain"
         }
       ],
       "chips": [
@@ -1767,9 +1767,9 @@
         ]
       ],
       "formattedSolution": "A fountain stands in the square.",
-      "id": "306004d1968a",
+      "id": "14706c56f226",
       "priority": 2,
-      "group": "2cc3e9021e50"
+      "group": "47932112e134"
     },
     {
       "type": "options",
@@ -1794,27 +1794,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "bridge",
-          "definition": "undefined\nмост"
+          "definition": "мост"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "beautiful",
-          "definition": "undefined\nкрасивый"
+          "definition": "красивый"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "и"
         },
         {
           "word": "new.",
-          "definition": "undefined"
+          "definition": "новый"
         }
       ],
       "chips": [
@@ -1848,23 +1848,23 @@
       "phrase": [
         {
           "word": "Мост",
-          "definition": "bridge\nundefined"
+          "definition": "bridge"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "красивый",
-          "definition": "beautiful\nundefined"
+          "definition": "beautiful"
         },
         {
           "word": "и",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "новый.",
-          "definition": "undefined"
+          "definition": "new"
         }
       ],
       "chips": [
@@ -1918,31 +1918,31 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "my",
-          "definition": "undefined"
+          "definition": "мой"
         },
         {
           "word": "house",
-          "definition": "undefined\nдом"
+          "definition": "дом"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "city.",
-          "definition": "undefined\nгород"
+          "definition": "город"
         }
       ],
       "chips": [
@@ -1979,27 +1979,27 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "мой",
-          "definition": "undefined"
+          "definition": "my"
         },
         {
           "word": "дом",
-          "definition": "house\nundefined"
+          "definition": "home\nhouse"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in"
         },
         {
           "word": "городе.",
-          "definition": "undefined"
+          "definition": "city"
         }
       ],
       "chips": [
@@ -2056,23 +2056,23 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "station",
-          "definition": "undefined\nстанция"
+          "definition": "станция"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "имеет"
         },
         {
           "word": "many",
-          "definition": "undefined"
+          "definition": "много"
         },
         {
           "word": "trains.",
-          "definition": "undefined"
+          "definition": "поезда"
         }
       ],
       "chips": [
@@ -2080,8 +2080,8 @@
         "имеет",
         "много",
         "поездов",
-        "моего",
         "него",
+        "моего",
         "моею"
       ],
       "solutions": [
@@ -2103,19 +2103,19 @@
       "phrase": [
         {
           "word": "Станция",
-          "definition": "station\nundefined"
+          "definition": "station"
         },
         {
           "word": "имеет",
-          "definition": "undefined"
+          "definition": "has"
         },
         {
           "word": "много",
-          "definition": "undefined"
+          "definition": "many"
         },
         {
           "word": "поездов.",
-          "definition": "undefined"
+          "definition": "trains"
         }
       ],
       "chips": [
@@ -2166,27 +2166,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "street",
-          "definition": "undefined\nулица"
+          "definition": "улица"
         },
         {
           "word": "goes",
-          "definition": "undefined\nидёт (пешком)"
+          "definition": "идет\nидёт (пешком)"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "shop.",
-          "definition": "undefined"
+          "definition": "магазин"
         }
       ],
       "chips": [
@@ -2195,8 +2195,8 @@
         "до",
         "магазина",
         "иду",
-        "ли",
-        "за"
+        "за",
+        "ли"
       ],
       "solutions": [
         [
@@ -2217,19 +2217,19 @@
       "phrase": [
         {
           "word": "Улица",
-          "definition": "street\nundefined"
+          "definition": "street"
         },
         {
           "word": "идёт",
-          "definition": "undefined"
+          "definition": "goes"
         },
         {
           "word": "до",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "магазина.",
-          "definition": "undefined"
+          "definition": "shop"
         }
       ],
       "chips": [
@@ -2262,20 +2262,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Площадь/Рынок есть полный людей.",
+      "formInTargetLanguage": "Рынок есть полный людей.",
       "meaningInSourceLanguage": "The square is full of people.",
-      "id": "9d9af3a60c49",
+      "id": "4a29e89f9544",
       "priority": 0,
-      "group": "c2b36f5cd78b"
+      "group": "46f536041a17"
     },
     {
       "type": "listeningExercise",
-      "answer": "Площадь/Рынок есть полный людей.",
+      "answer": "Рынок есть полный людей.",
       "meaning": "The square is full of people.",
-      "audio": "1a215175d0bf8823bd10a8e02af2bb6ec911357ff502ecf031974dc922577220",
-      "id": "2374bfbf60d3",
+      "audio": "5841d156286ab2d090e1b7c3838e88fd2e1318606153e9892b78271fc62220ae",
+      "id": "00b1b4bd0c8f",
       "priority": 1,
-      "group": "c2b36f5cd78b"
+      "group": "46f536041a17"
     },
     {
       "type": "chips",
@@ -2283,70 +2283,70 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "square",
-          "definition": "undefined\nквадрат"
+          "definition": "квадрат"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "full",
-          "definition": "undefined"
+          "definition": "полный"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "из"
         },
         {
           "word": "people.",
-          "definition": "undefined"
+          "definition": "люди"
         }
       ],
       "chips": [
-        "Площадь/Рынок",
+        "Рынок",
         "есть",
         "полный",
         "людей",
+        "дней",
         "одно",
-        "воды",
-        "дней"
+        "полей"
       ],
       "solutions": [
         [
-          "Площадь/Рынок",
+          "Рынок",
           "есть",
           "полный",
           "людей"
         ]
       ],
-      "formattedSolution": "Площадь/Рынок есть полный людей.",
-      "id": "49dd26c9f59a",
+      "formattedSolution": "Рынок есть полный людей.",
+      "id": "f1c833c63a0e",
       "priority": 2,
-      "group": "c2b36f5cd78b"
+      "group": "46f536041a17"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Площадь/Рынок",
-          "definition": "square/market\nundefined"
+          "word": "Рынок",
+          "definition": "market"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "полный",
-          "definition": "undefined"
+          "definition": "full"
         },
         {
           "word": "людей.",
-          "definition": "undefined"
+          "definition": "people"
         }
       ],
       "chips": [
@@ -2373,9 +2373,9 @@
         ]
       ],
       "formattedSolution": "The square is full of people.",
-      "id": "e04e75fb4af4",
+      "id": "bf264cc97a68",
       "priority": 2,
-      "group": "c2b36f5cd78b"
+      "group": "46f536041a17"
     },
     {
       "type": "cards",
@@ -2395,7 +2395,7 @@
       "phrase": [
         {
           "word": "city",
-          "definition": "undefined\nгород"
+          "definition": "город"
         }
       ],
       "id": "e67d2b3f24a5",
@@ -2429,7 +2429,7 @@
       "phrase": [
         {
           "word": "house",
-          "definition": "undefined\nдом"
+          "definition": "дом"
         }
       ],
       "id": "2022818b4da0",
@@ -2463,7 +2463,7 @@
       "phrase": [
         {
           "word": "square/market",
-          "definition": "undefined\nплощадь/рынок"
+          "definition": "площадь\nплощадь/рынок"
         }
       ],
       "id": "ba13ab472a6e",
@@ -2497,7 +2497,7 @@
       "phrase": [
         {
           "word": "station",
-          "definition": "undefined\nстанция"
+          "definition": "станция"
         }
       ],
       "id": "b71096d0ddb9",
@@ -2531,7 +2531,7 @@
       "phrase": [
         {
           "word": "bridge",
-          "definition": "undefined\nмост"
+          "definition": "мост"
         }
       ],
       "id": "3882b9528156",
@@ -2565,7 +2565,7 @@
       "phrase": [
         {
           "word": "shop/store",
-          "definition": "undefined\nмагазин"
+          "definition": "магазин"
         }
       ],
       "id": "dd17a9b728ce",
@@ -2599,7 +2599,7 @@
       "phrase": [
         {
           "word": "market",
-          "definition": "undefined\nторговая площадь/рынок"
+          "definition": "рынок\nторговая площадь/рынок"
         }
       ],
       "id": "ba41ed32e3c2",
@@ -2633,7 +2633,7 @@
       "phrase": [
         {
           "word": "library",
-          "definition": "undefined\nбиблиотека"
+          "definition": "библиотека"
         }
       ],
       "id": "651d61dbaecb",
@@ -2667,7 +2667,7 @@
       "phrase": [
         {
           "word": "church",
-          "definition": "undefined\nцерковь"
+          "definition": "церковь"
         }
       ],
       "id": "15279f8d1463",
@@ -2701,7 +2701,7 @@
       "phrase": [
         {
           "word": "street",
-          "definition": "undefined\nулица"
+          "definition": "улица"
         }
       ],
       "id": "703a135a828e",
@@ -2735,11 +2735,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "lead",
-          "definition": "undefined"
+          "definition": "вести"
         }
       ],
       "id": "418b9ffa3569",

@@ -4,20 +4,20 @@
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Яблуко є червоне.",
+      "formInTargetLanguage": "Яблуко червоне.",
       "meaningInSourceLanguage": "The apple is red.",
-      "id": "f05fa4e1b7da",
+      "id": "4593cf33ddfe",
       "priority": 0,
-      "group": "596cd1dfc430"
+      "group": "54275e231f54"
     },
     {
       "type": "listeningExercise",
-      "answer": "Яблуко є червоне.",
+      "answer": "Яблуко червоне.",
       "meaning": "The apple is red.",
-      "audio": "58cfbf80e909e183879054f46a17165a5b689aea2d45a484416016e8eacf5a74",
-      "id": "e01a0617a9b4",
+      "audio": "cf1a451feb8a563840355487e35dc9fd29b0ee477fc4a8fb031553f3f234d7a4",
+      "id": "4769fcba8272",
       "priority": 1,
-      "group": "596cd1dfc430"
+      "group": "54275e231f54"
     },
     {
       "type": "chips",
@@ -25,39 +25,37 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "apple",
-          "definition": "undefined\nяблуко"
+          "definition": "яблуко"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "red.",
-          "definition": "undefined\nчервоний"
+          "definition": "червоний"
         }
       ],
       "chips": [
         "Яблуко",
-        "є",
         "червоне",
-        "о",
-        "Я"
+        "червоні",
+        "Червоне"
       ],
       "solutions": [
         [
           "Яблуко",
-          "є",
           "червоне"
         ]
       ],
-      "formattedSolution": "Яблуко є червоне.",
-      "id": "eac1d59f1559",
+      "formattedSolution": "Яблуко червоне.",
+      "id": "77b8135ffa4d",
       "priority": 2,
-      "group": "596cd1dfc430"
+      "group": "54275e231f54"
     },
     {
       "type": "chips",
@@ -65,15 +63,11 @@
       "phrase": [
         {
           "word": "Яблуко",
-          "definition": "apple\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "apple"
         },
         {
           "word": "червоне.",
-          "definition": "undefined"
+          "definition": "red (neuter)"
         }
       ],
       "chips": [
@@ -94,26 +88,26 @@
         ]
       ],
       "formattedSolution": "The apple is red.",
-      "id": "f091dd0b3f3c",
+      "id": "dc3f01b143d9",
       "priority": 2,
-      "group": "596cd1dfc430"
+      "group": "54275e231f54"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Грушка є смачна.",
+      "formInTargetLanguage": "Грушка смачна.",
       "meaningInSourceLanguage": "The pear is tasty.",
-      "id": "0c9ebc6aad43",
+      "id": "15e83e5ce82e",
       "priority": 0,
-      "group": "b70adf2708ec"
+      "group": "f447fde7764f"
     },
     {
       "type": "listeningExercise",
-      "answer": "Грушка є смачна.",
+      "answer": "Грушка смачна.",
       "meaning": "The pear is tasty.",
-      "audio": "17e6e8d89cc68c18017f5a0b061dacacc2bcca4fb43b828eb225e8c4e43b2be2",
-      "id": "a3a2f7224682",
+      "audio": "a8d26af88418e270e7d293b328b2312de811809968baed9114bc22ab703c1284",
+      "id": "85e8c189279b",
       "priority": 1,
-      "group": "b70adf2708ec"
+      "group": "f447fde7764f"
     },
     {
       "type": "chips",
@@ -121,39 +115,37 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "pear",
-          "definition": "undefined\nгрушка"
+          "definition": "груша\nгрушка"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "tasty.",
-          "definition": "undefined"
+          "definition": "смачний"
         }
       ],
       "chips": [
         "Грушка",
-        "є",
         "смачна",
-        "рука",
-        "Та"
+        "Чашка",
+        "Франка"
       ],
       "solutions": [
         [
           "Грушка",
-          "є",
           "смачна"
         ]
       ],
-      "formattedSolution": "Грушка є смачна.",
-      "id": "22a4f2537d19",
+      "formattedSolution": "Грушка смачна.",
+      "id": "ced7ebb92450",
       "priority": 2,
-      "group": "b70adf2708ec"
+      "group": "f447fde7764f"
     },
     {
       "type": "chips",
@@ -161,15 +153,11 @@
       "phrase": [
         {
           "word": "Грушка",
-          "definition": "pear\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "pear"
         },
         {
           "word": "смачна.",
-          "definition": "undefined"
+          "definition": "tasty (feminine)"
         }
       ],
       "chips": [
@@ -190,9 +178,9 @@
         ]
       ],
       "formattedSolution": "The pear is tasty.",
-      "id": "29a0ebd1e418",
+      "id": "e9dcc22c1c1b",
       "priority": 2,
-      "group": "b70adf2708ec"
+      "group": "f447fde7764f"
     },
     {
       "type": "options",
@@ -217,19 +205,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "banana",
-          "definition": "undefined\nбанан"
+          "definition": "банан"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "yellow.",
-          "definition": "undefined\nжовтий"
+          "definition": "жовтий"
         }
       ],
       "chips": [
@@ -257,15 +245,15 @@
       "phrase": [
         {
           "word": "Банан",
-          "definition": "banana\nundefined"
+          "definition": "banana"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "жовтий.",
-          "definition": "undefined\nyellow"
+          "definition": "yellow\nyellow (masculine)"
         }
       ],
       "chips": [
@@ -292,20 +280,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Помаранчі є солодкі.",
+      "formInTargetLanguage": "Помаранчі солодкі.",
       "meaningInSourceLanguage": "The oranges are sweet.",
-      "id": "aef35c3ab956",
+      "id": "c349815c2519",
       "priority": 0,
-      "group": "e0862a17d61c"
+      "group": "fb044fc64335"
     },
     {
       "type": "listeningExercise",
-      "answer": "Помаранчі є солодкі.",
+      "answer": "Помаранчі солодкі.",
       "meaning": "The oranges are sweet.",
-      "audio": "faa7a962b027883f7ef3b260e62f68c327ed1b61d044ff5ee17f6e0bd08a1189",
-      "id": "1d420fbb5782",
+      "audio": "068d814b693333e3ac0c2c99f08ab917710468fd292ea3a81ab5101d50e3cfb3",
+      "id": "06ece3672429",
       "priority": 1,
-      "group": "e0862a17d61c"
+      "group": "fb044fc64335"
     },
     {
       "type": "chips",
@@ -313,39 +301,37 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "oranges",
-          "definition": "undefined"
+          "definition": "апельсини"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "sweet.",
-          "definition": "undefined\nсолодкий"
+          "definition": "солодкий"
         }
       ],
       "chips": [
         "Помаранчі",
-        "є",
         "солодкі",
-        "солі",
-        "очі"
+        "солодку",
+        "солодка"
       ],
       "solutions": [
         [
           "Помаранчі",
-          "є",
           "солодкі"
         ]
       ],
-      "formattedSolution": "Помаранчі є солодкі.",
-      "id": "1277fb0c5e36",
+      "formattedSolution": "Помаранчі солодкі.",
+      "id": "e3999c41bf0a",
       "priority": 2,
-      "group": "e0862a17d61c"
+      "group": "fb044fc64335"
     },
     {
       "type": "chips",
@@ -353,15 +339,11 @@
       "phrase": [
         {
           "word": "Помаранчі",
-          "definition": "undefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "oranges"
         },
         {
           "word": "солодкі.",
-          "definition": "undefined"
+          "definition": "sweet (plural)"
         }
       ],
       "chips": [
@@ -382,26 +364,26 @@
         ]
       ],
       "formattedSolution": "The oranges are sweet.",
-      "id": "dd4e69fe7c27",
+      "id": "380052c2c5b4",
       "priority": 2,
-      "group": "e0862a17d61c"
+      "group": "fb044fc64335"
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Вишня є кисла.",
+      "formInTargetLanguage": "Вишня кисла.",
       "meaningInSourceLanguage": "The cherry is sour.",
-      "id": "c8f0b3bd8f98",
+      "id": "53f08cdc3ed2",
       "priority": 0,
-      "group": "c77859f2474d"
+      "group": "adf02fee09b1"
     },
     {
       "type": "listeningExercise",
-      "answer": "Вишня є кисла.",
+      "answer": "Вишня кисла.",
       "meaning": "The cherry is sour.",
-      "audio": "b70981198d664b2cd83f9537be76e4b45d66eb4048011bd25a541966cc1e1752",
-      "id": "553dc787bc23",
+      "audio": "4b1fa4f45d775e4d45dc0d7efed0e8761d19c1d05337c9028f30470eeb3c4e94",
+      "id": "d9a2fb2b67a1",
       "priority": 1,
-      "group": "c77859f2474d"
+      "group": "adf02fee09b1"
     },
     {
       "type": "chips",
@@ -409,39 +391,37 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "cherry",
-          "definition": "undefined\nвишня"
+          "definition": "вишня"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "sour.",
-          "definition": "undefined\nкислий"
+          "definition": "кислий"
         }
       ],
       "chips": [
         "Вишня",
-        "є",
         "кисла",
-        "Ви",
-        "Ми"
+        "вина",
+        "Диня"
       ],
       "solutions": [
         [
           "Вишня",
-          "є",
           "кисла"
         ]
       ],
-      "formattedSolution": "Вишня є кисла.",
-      "id": "d298a89a3769",
+      "formattedSolution": "Вишня кисла.",
+      "id": "8c1894428fbb",
       "priority": 2,
-      "group": "c77859f2474d"
+      "group": "adf02fee09b1"
     },
     {
       "type": "chips",
@@ -449,15 +429,11 @@
       "phrase": [
         {
           "word": "Вишня",
-          "definition": "cherry\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "cherry"
         },
         {
           "word": "кисла.",
-          "definition": "undefined"
+          "definition": "sour (feminine)"
         }
       ],
       "chips": [
@@ -478,9 +454,9 @@
         ]
       ],
       "formattedSolution": "The cherry is sour.",
-      "id": "3c98805cf891",
+      "id": "7d8edb9e8048",
       "priority": 2,
-      "group": "c77859f2474d"
+      "group": "adf02fee09b1"
     },
     {
       "type": "options",
@@ -505,27 +481,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "strawberry",
-          "definition": "undefined\nягода"
+          "definition": "полуниця\nягода"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "small",
-          "definition": "undefined\nмалий"
+          "definition": "малий"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "і"
         },
         {
           "word": "tasty.",
-          "definition": "undefined"
+          "definition": "смачний"
         }
       ],
       "chips": [
@@ -559,23 +535,23 @@
       "phrase": [
         {
           "word": "Ягода",
-          "definition": "strawberry\nundefined"
+          "definition": "strawberry"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "мала",
-          "definition": "undefined"
+          "definition": "had (feminine), small (feminine)"
         },
         {
           "word": "і",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "смачна.",
-          "definition": "undefined"
+          "definition": "tasty (feminine)"
         }
       ],
       "chips": [
@@ -629,23 +605,23 @@
       "phrase": [
         {
           "word": "Grapes",
-          "definition": "undefined\nвиноград"
+          "definition": "виноград"
         },
         {
           "word": "grow",
-          "definition": "undefined"
+          "definition": "рости"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "vineyard.",
-          "definition": "undefined"
+          "definition": "виноградник"
         }
       ],
       "chips": [
@@ -676,19 +652,19 @@
       "phrase": [
         {
           "word": "Виноград",
-          "definition": "grapes\nundefined"
+          "definition": "grapes"
         },
         {
           "word": "росте",
-          "definition": "undefined"
+          "definition": "grows"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on\non, at"
         },
         {
           "word": "винограднику.",
-          "definition": "undefined"
+          "definition": "in the vineyard"
         }
       ],
       "chips": [
@@ -739,19 +715,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "plum",
-          "definition": "undefined\nслива"
+          "definition": "слива"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "dark.",
-          "definition": "undefined\nтемний"
+          "definition": "темний"
         }
       ],
       "chips": [
@@ -779,15 +755,15 @@
       "phrase": [
         {
           "word": "Слива",
-          "definition": "plum\nundefined"
+          "definition": "plum"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "темна.",
-          "definition": "undefined"
+          "definition": "dark (feminine)"
         }
       ],
       "chips": [
@@ -835,27 +811,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "lemon",
-          "definition": "undefined\nлимон"
+          "definition": "лимон"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "sour",
-          "definition": "undefined\nкислий"
+          "definition": "кислий"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "і"
         },
         {
           "word": "yellow.",
-          "definition": "undefined\nжовтий"
+          "definition": "жовтий"
         }
       ],
       "chips": [
@@ -889,23 +865,23 @@
       "phrase": [
         {
           "word": "Лимон",
-          "definition": "lemon\nundefined"
+          "definition": "lemon"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "кислий",
-          "definition": "sour\nundefined"
+          "definition": "sour"
         },
         {
           "word": "і",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "жовтий.",
-          "definition": "undefined\nyellow"
+          "definition": "yellow\nyellow (masculine)"
         }
       ],
       "chips": [
@@ -938,20 +914,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Диня є велика і солодка.",
+      "formInTargetLanguage": "Диня велика і солодка.",
       "meaningInSourceLanguage": "The melon is big and sweet.",
-      "id": "a431225b8ac3",
+      "id": "2783a9009c93",
       "priority": 0,
-      "group": "73ff71ad40d2"
+      "group": "ae21afbd89ad"
     },
     {
       "type": "listeningExercise",
-      "answer": "Диня є велика і солодка.",
+      "answer": "Диня велика і солодка.",
       "meaning": "The melon is big and sweet.",
-      "audio": "eeb0ff184a0bde12c1bfbf9c762365de9d455ea6dbc12cd3e36fd89303b0f4f4",
-      "id": "c0e812562ee8",
+      "audio": "9d15d4af1fcefc2add9c5f889f69a2929385eb24a0f5323888076c38a95b08d0",
+      "id": "d1aba80a8ae4",
       "priority": 1,
-      "group": "73ff71ad40d2"
+      "group": "ae21afbd89ad"
     },
     {
       "type": "chips",
@@ -959,53 +935,50 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "melon",
-          "definition": "undefined\nдиня"
+          "definition": "диня"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "big",
-          "definition": "undefined"
+          "definition": "великий"
         },
         {
           "word": "and",
-          "definition": "undefined"
+          "definition": "і"
         },
         {
           "word": "sweet.",
-          "definition": "undefined\nсолодкий"
+          "definition": "солодкий"
         }
       ],
       "chips": [
         "Диня",
-        "є",
         "велика",
         "і",
         "солодка",
-        "в",
-        "о",
-        "Я",
-        "Ми"
+        "вина",
+        "сік",
+        "вино"
       ],
       "solutions": [
         [
           "Диня",
-          "є",
           "велика",
           "і",
           "солодка"
         ]
       ],
-      "formattedSolution": "Диня є велика і солодка.",
-      "id": "c7e58c8439df",
+      "formattedSolution": "Диня велика і солодка.",
+      "id": "8435cf6c09b5",
       "priority": 2,
-      "group": "73ff71ad40d2"
+      "group": "ae21afbd89ad"
     },
     {
       "type": "chips",
@@ -1013,23 +986,19 @@
       "phrase": [
         {
           "word": "Диня",
-          "definition": "melon\nundefined"
-        },
-        {
-          "word": "є",
-          "definition": "undefined"
+          "definition": "melon"
         },
         {
           "word": "велика",
-          "definition": "undefined"
+          "definition": "big (feminine)"
         },
         {
           "word": "і",
-          "definition": "undefined"
+          "definition": "and"
         },
         {
           "word": "солодка.",
-          "definition": "undefined"
+          "definition": "sweet (feminine)"
         }
       ],
       "chips": [
@@ -1056,9 +1025,9 @@
         ]
       ],
       "formattedSolution": "The melon is big and sweet.",
-      "id": "87e28dc4f91c",
+      "id": "86a96fb3a3ff",
       "priority": 2,
-      "group": "73ff71ad40d2"
+      "group": "ae21afbd89ad"
     },
     {
       "type": "options",
@@ -1083,31 +1052,31 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nвін"
+          "definition": "він"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "preparing",
-          "definition": "undefined"
+          "definition": "готує"
         },
         {
           "word": "plum",
-          "definition": "undefined\nслива"
+          "definition": "слива"
         },
         {
           "word": "brandy",
-          "definition": "undefined"
+          "definition": "бренді"
         },
         {
           "word": "from",
-          "definition": "undefined\nз/зі (походження)"
+          "definition": "від\nз/зі (походження)"
         },
         {
           "word": "plums.",
-          "definition": "undefined"
+          "definition": "сливи"
         }
       ],
       "chips": [
@@ -1141,23 +1110,23 @@
       "phrase": [
         {
           "word": "Він",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "готує",
-          "definition": "undefined"
+          "definition": "cooks, prepares"
         },
         {
           "word": "сливовицю",
-          "definition": "undefined"
+          "definition": "plum brandy (accusative)"
         },
         {
           "word": "зі",
-          "definition": "undefined"
+          "definition": "with"
         },
         {
           "word": "слив.",
-          "definition": "undefined"
+          "definition": "of plums"
         }
       ],
       "chips": [
@@ -1214,23 +1183,23 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nвона"
+          "definition": "вона"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "drinking",
-          "definition": "undefined"
+          "definition": "пиття"
         },
         {
           "word": "orange",
-          "definition": "undefined\nпомаранча/апельсин\nпомаранчевий"
+          "definition": "помаранча/апельсин\nпомаранчевий"
         },
         {
           "word": "juice.",
-          "definition": "undefined\nсік"
+          "definition": "сік"
         }
       ],
       "chips": [
@@ -1264,23 +1233,23 @@
       "phrase": [
         {
           "word": "Вона",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "п'є",
-          "definition": "undefined"
+          "definition": "drinks"
         },
         {
           "word": "сік",
-          "definition": "juice\nundefined"
+          "definition": "juice"
         },
         {
           "word": "з",
-          "definition": "undefined"
+          "definition": "with, from"
         },
         {
           "word": "помаранчів.",
-          "definition": "undefined"
+          "definition": "of oranges"
         }
       ],
       "chips": [
@@ -1331,19 +1300,19 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nми"
+          "definition": "ми"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "buying",
-          "definition": "undefined"
+          "definition": "купівля"
         },
         {
           "word": "grapes.",
-          "definition": "undefined\nвиноград"
+          "definition": "виноград"
         }
       ],
       "chips": [
@@ -1371,15 +1340,15 @@
       "phrase": [
         {
           "word": "Ми",
-          "definition": "undefined\nwe"
+          "definition": "we"
         },
         {
           "word": "купуємо",
-          "definition": "undefined"
+          "definition": "we buy"
         },
         {
           "word": "виноград.",
-          "definition": "grapes\nundefined"
+          "definition": "grapes"
         }
       ],
       "chips": [
@@ -1427,27 +1396,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "strawberries",
-          "definition": "undefined"
+          "definition": "полуниця"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "bowl.",
-          "definition": "undefined\nмиска"
+          "definition": "миска"
         }
       ],
       "chips": [
@@ -1478,19 +1447,19 @@
       "phrase": [
         {
           "word": "Ягоди",
-          "definition": "undefined"
+          "definition": "berries"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in, at"
         },
         {
           "word": "мисці.",
-          "definition": "undefined"
+          "definition": "in the bowl"
         }
       ],
       "chips": [
@@ -1544,23 +1513,23 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "plum",
-          "definition": "undefined\nслива"
+          "definition": "слива"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "already",
-          "definition": "undefined"
+          "definition": "вже"
         },
         {
           "word": "ripe.",
-          "definition": "undefined\nдозрілий"
+          "definition": "дозрілий\nстиглий"
         }
       ],
       "chips": [
@@ -1591,19 +1560,19 @@
       "phrase": [
         {
           "word": "Слива",
-          "definition": "plum\nundefined"
+          "definition": "plum"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "вже",
-          "definition": "undefined"
+          "definition": "already"
         },
         {
           "word": "дозріла.",
-          "definition": "undefined"
+          "definition": "ripe (feminine)"
         }
       ],
       "chips": [
@@ -1654,31 +1623,31 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "pears",
-          "definition": "undefined"
+          "definition": "груші"
         },
         {
           "word": "are",
-          "definition": "undefined\nви є\nвони є\nми є\nти є"
+          "definition": "byti/быти\nви є\nвони є\nми є\nти є"
         },
         {
           "word": "lying",
-          "definition": "undefined"
+          "definition": "лежить"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "table.",
-          "definition": "undefined\nстіл"
+          "definition": "стіл"
         }
       ],
       "chips": [
@@ -1709,19 +1678,19 @@
       "phrase": [
         {
           "word": "Грушки",
-          "definition": "undefined"
+          "definition": "pears"
         },
         {
           "word": "лежать",
-          "definition": "undefined"
+          "definition": "they lie"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on\non, at"
         },
         {
           "word": "столі.",
-          "definition": "undefined"
+          "definition": "on the table"
         }
       ],
       "chips": [
@@ -1778,23 +1747,23 @@
       "phrase": [
         {
           "word": "Lemon",
-          "definition": "undefined\nлимон"
+          "definition": "лимон"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "added",
-          "definition": "undefined"
+          "definition": "додано"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "до"
         },
         {
           "word": "tea.",
-          "definition": "undefined\nчай"
+          "definition": "чай"
         }
       ],
       "chips": [
@@ -1825,19 +1794,19 @@
       "phrase": [
         {
           "word": "Лимон",
-          "definition": "lemon\nundefined"
+          "definition": "lemon"
         },
         {
           "word": "додається",
-          "definition": "undefined"
+          "definition": "is added"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in, at"
         },
         {
           "word": "чай.",
-          "definition": "tea\nundefined"
+          "definition": "tea"
         }
       ],
       "chips": [
@@ -1888,27 +1857,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "banana",
-          "definition": "undefined\nбанан"
+          "definition": "банан"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "bag.",
-          "definition": "undefined\nторба/сумка"
+          "definition": "сумка\nторба/сумка"
         }
       ],
       "chips": [
@@ -1939,19 +1908,19 @@
       "phrase": [
         {
           "word": "Банан",
-          "definition": "banana\nundefined"
+          "definition": "banana"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in, at"
         },
         {
           "word": "торбі.",
-          "definition": "undefined"
+          "definition": "in the bag"
         }
       ],
       "chips": [
@@ -2005,27 +1974,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "cherry",
-          "definition": "undefined\nвишня"
+          "definition": "вишня"
         },
         {
           "word": "grows",
-          "definition": "undefined"
+          "definition": "росте"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "tree.",
-          "definition": "undefined\nдерево"
+          "definition": "дерево"
         }
       ],
       "chips": [
@@ -2056,19 +2025,19 @@
       "phrase": [
         {
           "word": "Вишня",
-          "definition": "cherry\nundefined"
+          "definition": "cherry"
         },
         {
           "word": "росте",
-          "definition": "undefined"
+          "definition": "grows"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on\non, at"
         },
         {
           "word": "дереві.",
-          "definition": "undefined"
+          "definition": "on the tree"
         }
       ],
       "chips": [
@@ -2122,23 +2091,23 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "melon",
-          "definition": "undefined\nдиня"
+          "definition": "диня"
         },
         {
           "word": "is",
-          "definition": "undefined\nвін/вона/воно є"
+          "definition": "він/вона/воно є\nє"
         },
         {
           "word": "very",
-          "definition": "undefined"
+          "definition": "дуже"
         },
         {
           "word": "tasty.",
-          "definition": "undefined"
+          "definition": "смачний"
         }
       ],
       "chips": [
@@ -2169,19 +2138,19 @@
       "phrase": [
         {
           "word": "Диня",
-          "definition": "melon\nundefined"
+          "definition": "melon"
         },
         {
           "word": "є",
-          "definition": "undefined"
+          "definition": "is, are"
         },
         {
           "word": "дуже",
-          "definition": "undefined"
+          "definition": "very"
         },
         {
           "word": "смачна.",
-          "definition": "undefined"
+          "definition": "tasty (feminine)"
         }
       ],
       "chips": [
@@ -2227,7 +2196,7 @@
       "phrase": [
         {
           "word": "apple",
-          "definition": "undefined\nяблуко"
+          "definition": "яблуко"
         }
       ],
       "id": "a35e6e83bc73",
@@ -2261,7 +2230,7 @@
       "phrase": [
         {
           "word": "pear",
-          "definition": "undefined\nгрушка"
+          "definition": "груша\nгрушка"
         }
       ],
       "id": "369324b9927d",
@@ -2295,7 +2264,7 @@
       "phrase": [
         {
           "word": "banana",
-          "definition": "undefined\nбанан"
+          "definition": "банан"
         }
       ],
       "id": "b71a5581939d",
@@ -2329,7 +2298,7 @@
       "phrase": [
         {
           "word": "orange",
-          "definition": "undefined\nпомаранча/апельсин\nпомаранчевий"
+          "definition": "помаранча/апельсин\nпомаранчевий"
         }
       ],
       "id": "86b86cc4e165",
@@ -2363,7 +2332,7 @@
       "phrase": [
         {
           "word": "cherry",
-          "definition": "undefined\nвишня"
+          "definition": "вишня"
         }
       ],
       "id": "1be82b246b5d",
@@ -2397,7 +2366,7 @@
       "phrase": [
         {
           "word": "strawberry",
-          "definition": "undefined\nягода"
+          "definition": "полуниця\nягода"
         }
       ],
       "id": "9151d01a8edb",
@@ -2431,7 +2400,7 @@
       "phrase": [
         {
           "word": "ripe",
-          "definition": "undefined\nдозрілий"
+          "definition": "дозрілий\nстиглий"
         }
       ],
       "id": "a44cbe28f5f9",
@@ -2465,7 +2434,7 @@
       "phrase": [
         {
           "word": "grapes",
-          "definition": "undefined\nвиноград"
+          "definition": "виноград"
         }
       ],
       "id": "5d751e26f36b",
@@ -2499,7 +2468,7 @@
       "phrase": [
         {
           "word": "plum",
-          "definition": "undefined\nслива"
+          "definition": "слива"
         }
       ],
       "id": "0e98a843f38c",
@@ -2533,7 +2502,7 @@
       "phrase": [
         {
           "word": "lemon",
-          "definition": "undefined\nлимон"
+          "definition": "лимон"
         }
       ],
       "id": "b30ee20d6f01",
@@ -2567,7 +2536,7 @@
       "phrase": [
         {
           "word": "sour",
-          "definition": "undefined\nкислий"
+          "definition": "кислий"
         }
       ],
       "id": "4d2675f23e77",
@@ -2601,7 +2570,7 @@
       "phrase": [
         {
           "word": "sweet",
-          "definition": "undefined\nсолодкий"
+          "definition": "солодкий"
         }
       ],
       "id": "895a39db4f9e",
@@ -2635,7 +2604,7 @@
       "phrase": [
         {
           "word": "melon",
-          "definition": "undefined\nдиня"
+          "definition": "диня"
         }
       ],
       "id": "2084819415da",

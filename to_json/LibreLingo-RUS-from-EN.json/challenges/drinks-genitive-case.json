@@ -4,20 +4,20 @@
   "challenges": [
     {
       "type": "options",
-      "formInTargetLanguage": "Я не имею воды.",
+      "formInTargetLanguage": "У меня воды нету.",
       "meaningInSourceLanguage": "I do not have water.",
-      "id": "a51cadb18d52",
+      "id": "4d596aab1f48",
       "priority": 0,
-      "group": "b3a7230434ca"
+      "group": "3a942744d06c"
     },
     {
       "type": "listeningExercise",
-      "answer": "Я не имею воды.",
+      "answer": "У меня воды нету.",
       "meaning": "I do not have water.",
-      "audio": "033f4249d525ca6e8d41d8384702fbef4f09e6b5c71a70b9ef3c57ab1cce3146",
-      "id": "5861b7e813b3",
+      "audio": "f6e194e4314499260910dc931253c01771ca5dabff6230f7baa40582d115f32b",
+      "id": "92ca84b05ae6",
       "priority": 1,
-      "group": "b3a7230434ca"
+      "group": "3a942744d06c"
     },
     {
       "type": "chips",
@@ -29,62 +29,62 @@
         },
         {
           "word": "do",
-          "definition": "undefined"
+          "definition": "делать"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "have",
-          "definition": "undefined"
+          "definition": "иметь"
         },
         {
           "word": "water.",
-          "definition": "undefined\nвода"
+          "definition": "вода"
         }
       ],
       "chips": [
-        "Я",
-        "не",
-        "имею",
+        "У",
+        "меня",
         "воды",
-        "Не",
-        "в",
+        "нету",
+        "не",
+        "еду",
         "но"
       ],
       "solutions": [
         [
-          "Я",
-          "не",
-          "имею",
-          "воды"
+          "У",
+          "меня",
+          "воды",
+          "нету"
         ]
       ],
-      "formattedSolution": "Я не имею воды.",
-      "id": "8b440ae68d16",
+      "formattedSolution": "У меня воды нету.",
+      "id": "0b3c136a35a4",
       "priority": 2,
-      "group": "b3a7230434ca"
+      "group": "3a942744d06c"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Я",
-          "definition": "I\nundefined"
+          "word": "У",
+          "definition": "at\nat/by"
         },
         {
-          "word": "не",
-          "definition": "undefined"
+          "word": "меня",
+          "definition": "me"
         },
         {
-          "word": "имею",
-          "definition": "undefined"
+          "word": "воды",
+          "definition": "water"
         },
         {
-          "word": "воды.",
-          "definition": "undefined"
+          "word": "нету.",
+          "definition": "no"
         }
       ],
       "chips": [
@@ -108,9 +108,9 @@
         ]
       ],
       "formattedSolution": "I do not have water.",
-      "id": "2435a391d47f",
+      "id": "68f84167c6da",
       "priority": 2,
-      "group": "b3a7230434ca"
+      "group": "3a942744d06c"
     },
     {
       "type": "options",
@@ -135,23 +135,23 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nона"
+          "definition": "она"
         },
         {
           "word": "does",
-          "definition": "undefined"
+          "definition": "делает"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "drink",
-          "definition": "undefined"
+          "definition": "пить"
         },
         {
           "word": "wine.",
-          "definition": "undefined\nвино"
+          "definition": "вино"
         }
       ],
       "chips": [
@@ -182,19 +182,19 @@
       "phrase": [
         {
           "word": "Она",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "no"
         },
         {
           "word": "пьёт",
-          "definition": "undefined"
+          "definition": "drinks"
         },
         {
           "word": "вина.",
-          "definition": "undefined"
+          "definition": "wine"
         }
       ],
       "chips": [
@@ -245,23 +245,23 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nмы"
+          "definition": "мы"
         },
         {
           "word": "do",
-          "definition": "undefined"
+          "definition": "делать"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "drink",
-          "definition": "undefined"
+          "definition": "пить"
         },
         {
           "word": "beer.",
-          "definition": "undefined\nпиво"
+          "definition": "пиво"
         }
       ],
       "chips": [
@@ -292,19 +292,19 @@
       "phrase": [
         {
           "word": "Мы",
-          "definition": "undefined\nwe"
+          "definition": "we"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "no"
         },
         {
           "word": "пьём",
-          "definition": "undefined"
+          "definition": "drink"
         },
         {
           "word": "пива.",
-          "definition": "undefined"
+          "definition": "beer"
         }
       ],
       "chips": [
@@ -334,20 +334,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Ты имеешь фляжку сока?",
+      "formInTargetLanguage": "У тебя есть фляжка сока?",
       "meaningInSourceLanguage": "Do you have a bottle of juice?",
-      "id": "ffc9cfb3a22a",
+      "id": "52b67a0b3011",
       "priority": 0,
-      "group": "3458f7d103ce"
+      "group": "411eb25cc9fb"
     },
     {
       "type": "listeningExercise",
-      "answer": "Ты имеешь фляжку сока?",
+      "answer": "У тебя есть фляжка сока?",
       "meaning": "Do you have a bottle of juice?",
-      "audio": "cd9405e177445d322b5262fc31b53d0a81ad0266c04308f23c9c7d5b0cabf55e",
-      "id": "6b49a340d837",
+      "audio": "13c20434e918ef76ea9c9305936661e269e12d7aa02c45dd6b2fee1002a977a9",
+      "id": "56305589fef1",
       "priority": 1,
-      "group": "3458f7d103ce"
+      "group": "411eb25cc9fb"
     },
     {
       "type": "chips",
@@ -355,74 +355,81 @@
       "phrase": [
         {
           "word": "Do",
-          "definition": "undefined"
+          "definition": "делать"
         },
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         },
         {
           "word": "have",
-          "definition": "undefined"
+          "definition": "иметь"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "bottle",
-          "definition": "undefined\nбутылка\nфляжка"
+          "definition": "бутылка\nфляжка"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "из"
         },
         {
           "word": "juice?",
-          "definition": "undefined\nсок"
+          "definition": "сок"
         }
       ],
       "chips": [
-        "Ты",
-        "имеешь",
-        "фляжку",
+        "У",
+        "тебя",
+        "есть",
+        "фляжка",
         "сока",
         "сок",
-        "моя",
-        "Та"
+        "то",
+        "со",
+        "ест"
       ],
       "solutions": [
         [
-          "Ты",
-          "имеешь",
-          "фляжку",
+          "У",
+          "тебя",
+          "есть",
+          "фляжка",
           "сока"
         ]
       ],
-      "formattedSolution": "Ты имеешь фляжку сока?",
-      "id": "ca24829000b1",
+      "formattedSolution": "У тебя есть фляжка сока?",
+      "id": "d4a94d21a82b",
       "priority": 2,
-      "group": "3458f7d103ce"
+      "group": "411eb25cc9fb"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Ты",
-          "definition": "undefined\nyou"
+          "word": "У",
+          "definition": "at\nat/by"
         },
         {
-          "word": "имеешь",
-          "definition": "undefined"
+          "word": "тебя",
+          "definition": "you"
         },
         {
-          "word": "фляжку",
-          "definition": "undefined"
+          "word": "есть",
+          "definition": "is"
+        },
+        {
+          "word": "фляжка",
+          "definition": "bottle"
         },
         {
           "word": "сока?",
-          "definition": "undefined"
+          "definition": "juice"
         }
       ],
       "chips": [
@@ -452,9 +459,9 @@
         ]
       ],
       "formattedSolution": "Do you have a bottle of juice?",
-      "id": "b1691e4f5f92",
+      "id": "3d3ffd39cd46",
       "priority": 2,
-      "group": "3458f7d103ce"
+      "group": "411eb25cc9fb"
     },
     {
       "type": "options",
@@ -479,31 +486,31 @@
       "phrase": [
         {
           "word": "They",
-          "definition": "undefined\nони (жен. р.)\nони (муж. р.)"
+          "definition": "они\nони (жен. р.)\nони (муж. р.)"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "buying",
-          "definition": "undefined"
+          "definition": "покупает"
         },
         {
           "word": "bottles",
-          "definition": "undefined"
+          "definition": "бутылки"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "из"
         },
         {
           "word": "beer.",
-          "definition": "undefined\nпиво"
+          "definition": "пиво"
         }
       ],
       "chips": [
@@ -537,23 +544,23 @@
       "phrase": [
         {
           "word": "Они",
-          "definition": "undefined"
+          "definition": "they"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "no"
         },
         {
           "word": "покупают",
-          "definition": "undefined"
+          "definition": "buy"
         },
         {
           "word": "бутылок",
-          "definition": "undefined"
+          "definition": "bottles"
         },
         {
           "word": "пива.",
-          "definition": "undefined"
+          "definition": "beer"
         }
       ],
       "chips": [
@@ -589,20 +596,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Он не имеет кофе.",
+      "formInTargetLanguage": "У него кофе нету.",
       "meaningInSourceLanguage": "He does not have coffee.",
-      "id": "36d272e8781f",
+      "id": "577893c4f4ff",
       "priority": 0,
-      "group": "c76c28e5aac0"
+      "group": "7a833464a2c6"
     },
     {
       "type": "listeningExercise",
-      "answer": "Он не имеет кофе.",
+      "answer": "У него кофе нету.",
       "meaning": "He does not have coffee.",
-      "audio": "f4bb625d857ecb113da7ac618093d9951fa9426ce2f8ab27fd91c9a1b50f7f1c",
-      "id": "3575cc503960",
+      "audio": "a779d1fc97797edf7c4bd5842a8900b6a080be9b265b38a4fcb76d24b566cbf9",
+      "id": "8a042c6f0c32",
       "priority": 1,
-      "group": "c76c28e5aac0"
+      "group": "7a833464a2c6"
     },
     {
       "type": "chips",
@@ -610,66 +617,66 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nон"
+          "definition": "он"
         },
         {
           "word": "does",
-          "definition": "undefined"
+          "definition": "делает"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "have",
-          "definition": "undefined"
+          "definition": "иметь"
         },
         {
           "word": "coffee.",
-          "definition": "undefined\nкофе"
+          "definition": "кофе"
         }
       ],
       "chips": [
-        "Он",
-        "не",
-        "имеет",
+        "У",
+        "него",
         "кофе",
-        "мне",
-        "Не",
-        "Те"
+        "нету",
+        "не",
+        "но",
+        "то"
       ],
       "solutions": [
         [
-          "Он",
-          "не",
-          "имеет",
-          "кофе"
+          "У",
+          "него",
+          "кофе",
+          "нету"
         ]
       ],
-      "formattedSolution": "Он не имеет кофе.",
-      "id": "8b51d8625085",
+      "formattedSolution": "У него кофе нету.",
+      "id": "b9142322979c",
       "priority": 2,
-      "group": "c76c28e5aac0"
+      "group": "7a833464a2c6"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": true,
       "phrase": [
         {
-          "word": "Он",
-          "definition": "he\nundefined"
+          "word": "У",
+          "definition": "at\nat/by"
         },
         {
-          "word": "не",
-          "definition": "undefined"
+          "word": "него",
+          "definition": "him"
         },
         {
-          "word": "имеет",
-          "definition": "undefined"
+          "word": "кофе",
+          "definition": "coffee"
         },
         {
-          "word": "кофе.",
-          "definition": "coffee\nundefined"
+          "word": "нету.",
+          "definition": "no"
         }
       ],
       "chips": [
@@ -693,9 +700,9 @@
         ]
       ],
       "formattedSolution": "He does not have coffee.",
-      "id": "7572948ef6dc",
+      "id": "a6fb3d1b291f",
       "priority": 2,
-      "group": "c76c28e5aac0"
+      "group": "7a833464a2c6"
     },
     {
       "type": "options",
@@ -720,23 +727,23 @@
       "phrase": [
         {
           "word": "Do",
-          "definition": "undefined"
+          "definition": "делать"
         },
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         },
         {
           "word": "drink",
-          "definition": "undefined"
+          "definition": "пить"
         },
         {
           "word": "without",
-          "definition": "undefined\nбез"
+          "definition": "без"
         },
         {
           "word": "milk?",
-          "definition": "undefined\nмолоко"
+          "definition": "молоко"
         }
       ],
       "chips": [
@@ -767,19 +774,19 @@
       "phrase": [
         {
           "word": "Пьёшь",
-          "definition": "undefined"
+          "definition": "drink"
         },
         {
           "word": "ли",
-          "definition": "undefined"
+          "definition": "whether"
         },
         {
           "word": "без",
-          "definition": "undefined\nwithout"
+          "definition": "without"
         },
         {
           "word": "молока?",
-          "definition": "undefined"
+          "definition": "milk"
         }
       ],
       "chips": [
@@ -830,23 +837,23 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nона"
+          "definition": "она"
         },
         {
           "word": "does",
-          "definition": "undefined"
+          "definition": "делает"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "drink",
-          "definition": "undefined"
+          "definition": "пить"
         },
         {
           "word": "tea.",
-          "definition": "undefined\nчай"
+          "definition": "чай"
         }
       ],
       "chips": [
@@ -877,19 +884,19 @@
       "phrase": [
         {
           "word": "Она",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "no"
         },
         {
           "word": "пьёт",
-          "definition": "undefined"
+          "definition": "drinks"
         },
         {
           "word": "чая.",
-          "definition": "undefined"
+          "definition": "tea"
         }
       ],
       "chips": [
@@ -940,31 +947,31 @@
       "phrase": [
         {
           "word": "A",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "glass",
-          "definition": "undefined\nчашка"
+          "definition": "стакан\nчашка"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "из"
         },
         {
           "word": "wine",
-          "definition": "undefined\nвино"
+          "definition": "вино"
         },
         {
           "word": "for",
-          "definition": "undefined\nза"
+          "definition": "для\nза"
         },
         {
           "word": "me,",
-          "definition": "undefined"
+          "definition": "меня"
         },
         {
           "word": "please.",
-          "definition": "undefined"
+          "definition": "пожалуйста"
         }
       ],
       "chips": [
@@ -976,7 +983,7 @@
         "ваша",
         "моя",
         "Она",
-        "Меня"
+        "дела"
       ],
       "solutions": [
         [
@@ -998,23 +1005,23 @@
       "phrase": [
         {
           "word": "Чаша",
-          "definition": "cup\nundefined"
+          "definition": "bowl\ncup"
         },
         {
           "word": "вина",
-          "definition": "undefined"
+          "definition": "wine"
         },
         {
           "word": "для",
-          "definition": "undefined"
+          "definition": "for"
         },
         {
           "word": "меня,",
-          "definition": "undefined"
+          "definition": "me"
         },
         {
           "word": "прошу.",
-          "definition": "undefined"
+          "definition": "please"
         }
       ],
       "chips": [
@@ -1071,39 +1078,39 @@
       "phrase": [
         {
           "word": "A",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "bottle",
-          "definition": "undefined\nбутылка\nфляжка"
+          "definition": "бутылка\nфляжка"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "из"
         },
         {
           "word": "water",
-          "definition": "undefined\nвода"
+          "definition": "вода"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "lying",
-          "definition": "undefined"
+          "definition": "лежит"
         },
         {
           "word": "on",
-          "definition": "undefined\nна"
+          "definition": "на"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "table.",
-          "definition": "undefined\nстол"
+          "definition": "стол"
         }
       ],
       "chips": [
@@ -1137,23 +1144,23 @@
       "phrase": [
         {
           "word": "Бутылка",
-          "definition": "bottle\nundefined"
+          "definition": "bottle"
         },
         {
           "word": "воды",
-          "definition": "undefined"
+          "definition": "water"
         },
         {
           "word": "лежит",
-          "definition": "undefined"
+          "definition": "lies"
         },
         {
           "word": "на",
-          "definition": "on\nundefined"
+          "definition": "on"
         },
         {
           "word": "столе.",
-          "definition": "undefined"
+          "definition": "table"
         }
       ],
       "chips": [
@@ -1220,19 +1227,19 @@
         },
         {
           "word": "like",
-          "definition": "undefined"
+          "definition": "как"
         },
         {
           "word": "juice",
-          "definition": "undefined\nсок"
+          "definition": "сок"
         },
         {
           "word": "without",
-          "definition": "undefined\nбез"
+          "definition": "без"
         },
         {
           "word": "sugar.",
-          "definition": "undefined\nсахар"
+          "definition": "сахар"
         }
       ],
       "chips": [
@@ -1266,23 +1273,23 @@
       "phrase": [
         {
           "word": "Я",
-          "definition": "I\nundefined"
+          "definition": "I\ni"
         },
         {
           "word": "люблю",
-          "definition": "undefined"
+          "definition": "love"
         },
         {
           "word": "сок",
-          "definition": "juice\nundefined"
+          "definition": "juice"
         },
         {
           "word": "без",
-          "definition": "undefined\nwithout"
+          "definition": "without"
         },
         {
           "word": "сахара.",
-          "definition": "undefined"
+          "definition": "sugar"
         }
       ],
       "chips": [
@@ -1333,31 +1340,31 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nон"
+          "definition": "он"
         },
         {
           "word": "does",
-          "definition": "undefined"
+          "definition": "делает"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "like",
-          "definition": "undefined"
+          "definition": "как"
         },
         {
           "word": "coffee",
-          "definition": "undefined\nкофе"
+          "definition": "кофе"
         },
         {
           "word": "without",
-          "definition": "undefined\nбез"
+          "definition": "без"
         },
         {
           "word": "milk.",
-          "definition": "undefined\nмолоко"
+          "definition": "молоко"
         }
       ],
       "chips": [
@@ -1367,8 +1374,8 @@
         "кофе",
         "без",
         "молока",
-        "ли",
         "Не",
+        "ли",
         "мне",
         "но",
         "он"
@@ -1394,27 +1401,27 @@
       "phrase": [
         {
           "word": "Он",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "no"
         },
         {
           "word": "любит",
-          "definition": "undefined"
+          "definition": "loves"
         },
         {
           "word": "кофе",
-          "definition": "coffee\nundefined"
+          "definition": "coffee"
         },
         {
           "word": "без",
-          "definition": "undefined\nwithout"
+          "definition": "without"
         },
         {
           "word": "молока.",
-          "definition": "undefined"
+          "definition": "milk"
         }
       ],
       "chips": [
@@ -1471,23 +1478,23 @@
       "phrase": [
         {
           "word": "Are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         },
         {
           "word": "without",
-          "definition": "undefined\nбез"
+          "definition": "без"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "bottle?",
-          "definition": "undefined\nбутылка\nфляжка"
+          "definition": "бутылка\nфляжка"
         }
       ],
       "chips": [
@@ -1496,10 +1503,10 @@
         "ты",
         "без",
         "фляжки",
+        "Ти",
         "или",
         "шли",
-        "еси",
-        "три"
+        "еси"
       ],
       "solutions": [
         [
@@ -1521,23 +1528,23 @@
       "phrase": [
         {
           "word": "Еси",
-          "definition": "undefined"
+          "definition": "are"
         },
         {
           "word": "ли",
-          "definition": "undefined"
+          "definition": "whether"
         },
         {
           "word": "ты",
-          "definition": "undefined\nyou"
+          "definition": "you"
         },
         {
           "word": "без",
-          "definition": "undefined\nwithout"
+          "definition": "without"
         },
         {
           "word": "фляжки?",
-          "definition": "undefined"
+          "definition": "bottle"
         }
       ],
       "chips": [
@@ -1588,39 +1595,39 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nона"
+          "definition": "она"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "trying",
-          "definition": "undefined"
+          "definition": "пытается"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "find",
-          "definition": "undefined"
+          "definition": "найти"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "glass",
-          "definition": "undefined\nчашка"
+          "definition": "стакан\nчашка"
         },
         {
           "word": "without",
-          "definition": "undefined\nбез"
+          "definition": "без"
         },
         {
           "word": "wine.",
-          "definition": "undefined\nвино"
+          "definition": "вино"
         }
       ],
       "chips": [
@@ -1657,27 +1664,27 @@
       "phrase": [
         {
           "word": "Она",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "пробует",
-          "definition": "undefined"
+          "definition": "tries"
         },
         {
           "word": "найти",
-          "definition": "undefined"
+          "definition": "find"
         },
         {
           "word": "чашку",
-          "definition": "undefined"
+          "definition": "cup"
         },
         {
           "word": "без",
-          "definition": "undefined\nwithout"
+          "definition": "without"
         },
         {
           "word": "вина.",
-          "definition": "undefined"
+          "definition": "wine"
         }
       ],
       "chips": [
@@ -1740,31 +1747,31 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nон"
+          "definition": "он"
         },
         {
           "word": "does",
-          "definition": "undefined"
+          "definition": "делает"
         },
         {
           "word": "not",
-          "definition": "undefined"
+          "definition": "не"
         },
         {
           "word": "want",
-          "definition": "undefined"
+          "definition": "хотеть"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "drink",
-          "definition": "undefined"
+          "definition": "пить"
         },
         {
           "word": "juice.",
-          "definition": "undefined\nсок"
+          "definition": "сок"
         }
       ],
       "chips": [
@@ -1798,23 +1805,23 @@
       "phrase": [
         {
           "word": "Он",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "не",
-          "definition": "undefined"
+          "definition": "no"
         },
         {
           "word": "хочет",
-          "definition": "undefined"
+          "definition": "wants"
         },
         {
           "word": "пить",
-          "definition": "to drink\nundefined"
+          "definition": "drink\nto drink"
         },
         {
           "word": "сока.",
-          "definition": "undefined"
+          "definition": "juice"
         }
       ],
       "chips": [
@@ -1871,27 +1878,27 @@
       "phrase": [
         {
           "word": "Do",
-          "definition": "undefined"
+          "definition": "делать"
         },
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         },
         {
           "word": "drink",
-          "definition": "undefined"
+          "definition": "пить"
         },
         {
           "word": "wine?",
-          "definition": "undefined\nвино"
+          "definition": "вино"
         }
       ],
       "chips": [
         "Ты",
         "пьёшь",
         "вино",
-        "но",
-        "по"
+        "Ти",
+        "но"
       ],
       "solutions": [
         [
@@ -1911,15 +1918,15 @@
       "phrase": [
         {
           "word": "Ты",
-          "definition": "undefined\nyou"
+          "definition": "you"
         },
         {
           "word": "пьёшь",
-          "definition": "undefined"
+          "definition": "drink"
         },
         {
           "word": "вино?",
-          "definition": "undefined\nwine"
+          "definition": "wine"
         }
       ],
       "chips": [
@@ -1967,23 +1974,23 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "wine",
-          "definition": "undefined\nвино"
+          "definition": "вино"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "from",
-          "definition": "undefined\nиз"
+          "definition": "из\nот"
         },
         {
           "word": "Poland.",
-          "definition": "undefined"
+          "definition": "польша"
         }
       ],
       "chips": [
@@ -2014,19 +2021,19 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "вино",
-          "definition": "undefined\nwine"
+          "definition": "wine"
         },
         {
           "word": "из",
-          "definition": "from\nundefined"
+          "definition": "from"
         },
         {
           "word": "Польши.",
-          "definition": "undefined"
+          "definition": "poland"
         }
       ],
       "chips": [
@@ -2077,19 +2084,19 @@
       "phrase": [
         {
           "word": "Frank",
-          "definition": "undefined"
+          "definition": "франк"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "имеет"
         },
         {
           "word": "no",
-          "definition": "undefined\nнет"
+          "definition": "нет"
         },
         {
           "word": "vodka.",
-          "definition": "undefined"
+          "definition": "водка"
         }
       ],
       "chips": [
@@ -2120,19 +2127,19 @@
       "phrase": [
         {
           "word": "У",
-          "definition": "at/by\nundefined"
+          "definition": "at\nat/by"
         },
         {
           "word": "Франка",
-          "definition": "undefined"
+          "definition": "franc"
         },
         {
           "word": "водки",
-          "definition": "undefined"
+          "definition": "vodka"
         },
         {
           "word": "нет.",
-          "definition": "no\nundefined"
+          "definition": "no"
         }
       ],
       "chips": [
@@ -2180,31 +2187,31 @@
       "phrase": [
         {
           "word": "We",
-          "definition": "undefined\nмы"
+          "definition": "мы"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "drinking",
-          "definition": "undefined"
+          "definition": "пьет"
         },
         {
           "word": "beer",
-          "definition": "undefined\nпиво"
+          "definition": "пиво"
         },
         {
           "word": "from",
-          "definition": "undefined\nиз"
+          "definition": "из\nот"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "bottle.",
-          "definition": "undefined\nбутылка\nфляжка"
+          "definition": "бутылка\nфляжка"
         }
       ],
       "chips": [
@@ -2238,23 +2245,23 @@
       "phrase": [
         {
           "word": "Мы",
-          "definition": "undefined\nwe"
+          "definition": "we"
         },
         {
           "word": "пьём",
-          "definition": "undefined"
+          "definition": "drink"
         },
         {
           "word": "из",
-          "definition": "from\nundefined"
+          "definition": "from"
         },
         {
           "word": "бутылки",
-          "definition": "undefined"
+          "definition": "bottle"
         },
         {
           "word": "пиво.",
-          "definition": "beer\nundefined"
+          "definition": "beer"
         }
       ],
       "chips": [
@@ -2311,31 +2318,31 @@
       "phrase": [
         {
           "word": "Give",
-          "definition": "undefined"
+          "definition": "давать"
         },
         {
           "word": "me",
-          "definition": "undefined"
+          "definition": "меня"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "glass",
-          "definition": "undefined\nчашка"
+          "definition": "стакан\nчашка"
         },
         {
           "word": "of",
-          "definition": "undefined"
+          "definition": "из"
         },
         {
           "word": "wine,",
-          "definition": "undefined\nвино"
+          "definition": "вино"
         },
         {
           "word": "please.",
-          "definition": "undefined"
+          "definition": "пожалуйста"
         }
       ],
       "chips": [
@@ -2369,23 +2376,23 @@
       "phrase": [
         {
           "word": "Дайте",
-          "definition": "undefined"
+          "definition": "give"
         },
         {
           "word": "мне",
-          "definition": "undefined"
+          "definition": "me"
         },
         {
           "word": "чашу",
-          "definition": "undefined"
+          "definition": "bowl"
         },
         {
           "word": "вина,",
-          "definition": "undefined"
+          "definition": "wine"
         },
         {
           "word": "прошу.",
-          "definition": "undefined"
+          "definition": "please"
         }
       ],
       "chips": [
@@ -2442,23 +2449,23 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nон"
+          "definition": "он"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "drinking",
-          "definition": "undefined"
+          "definition": "пьет"
         },
         {
           "word": "for",
-          "definition": "undefined\nза"
+          "definition": "для\nза"
         },
         {
           "word": "you",
-          "definition": "undefined\nвы\nты"
+          "definition": "вы\nты"
         }
       ],
       "chips": [
@@ -2489,19 +2496,19 @@
       "phrase": [
         {
           "word": "Он",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "пьёт",
-          "definition": "undefined"
+          "definition": "drinks"
         },
         {
           "word": "за",
-          "definition": "for\nundefined"
+          "definition": "behind\nfor"
         },
         {
           "word": "тебя",
-          "definition": "undefined"
+          "definition": "you"
         }
       ],
       "chips": [
@@ -2547,7 +2554,7 @@
       "phrase": [
         {
           "word": "water",
-          "definition": "undefined\nвода"
+          "definition": "вода"
         }
       ],
       "id": "5a96647838dc",
@@ -2581,7 +2588,7 @@
       "phrase": [
         {
           "word": "beer",
-          "definition": "undefined\nпиво"
+          "definition": "пиво"
         }
       ],
       "id": "fa1da14854d6",
@@ -2615,11 +2622,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "drink",
-          "definition": "undefined"
+          "definition": "пить"
         }
       ],
       "id": "18c3d86e6f4d",
@@ -2653,7 +2660,7 @@
       "phrase": [
         {
           "word": "wine",
-          "definition": "undefined\nвино"
+          "definition": "вино"
         }
       ],
       "id": "d8ea86b9445d",
@@ -2687,7 +2694,7 @@
       "phrase": [
         {
           "word": "coffee",
-          "definition": "undefined\nкофе"
+          "definition": "кофе"
         }
       ],
       "id": "0f1e0b0655e7",
@@ -2721,7 +2728,7 @@
       "phrase": [
         {
           "word": "juice",
-          "definition": "undefined\nсок"
+          "definition": "сок"
         }
       ],
       "id": "8fb6d7c12423",
@@ -2755,11 +2762,11 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "want",
-          "definition": "undefined"
+          "definition": "хотеть"
         }
       ],
       "id": "bb37371caed8",
@@ -2793,7 +2800,7 @@
       "phrase": [
         {
           "word": "bottle",
-          "definition": "undefined\nбутылка\nфляжка"
+          "definition": "бутылка\nфляжка"
         }
       ],
       "id": "379af90ed7ca",
@@ -2827,19 +2834,19 @@
       "phrase": [
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "try",
-          "definition": "undefined"
+          "definition": "пытаться"
         },
         {
           "word": "to",
-          "definition": "undefined"
+          "definition": "к"
         },
         {
           "word": "find",
-          "definition": "undefined"
+          "definition": "найти"
         }
       ],
       "id": "eb7f86ed6e70",
@@ -2873,7 +2880,7 @@
       "phrase": [
         {
           "word": "glass",
-          "definition": "undefined\nчашка"
+          "definition": "стакан\nчашка"
         }
       ],
       "id": "a90f6f5e4e9e",
@@ -2907,7 +2914,7 @@
       "phrase": [
         {
           "word": "bottle",
-          "definition": "undefined\nбутылка\nфляжка"
+          "definition": "бутылка\nфляжка"
         }
       ],
       "id": "0f0d0796e788",
@@ -2941,7 +2948,7 @@
       "phrase": [
         {
           "word": "tea",
-          "definition": "undefined\nчай"
+          "definition": "чай"
         }
       ],
       "id": "f6393eab4e58",
@@ -2975,7 +2982,7 @@
       "phrase": [
         {
           "word": "milk",
-          "definition": "undefined\nмолоко"
+          "definition": "молоко"
         }
       ],
       "id": "85260027edf3",
@@ -3009,7 +3016,7 @@
       "phrase": [
         {
           "word": "without",
-          "definition": "undefined\nбез"
+          "definition": "без"
         }
       ],
       "id": "a7a23126a182",
@@ -3043,7 +3050,7 @@
       "phrase": [
         {
           "word": "for",
-          "definition": "undefined\nза"
+          "definition": "для\nза"
         }
       ],
       "id": "c75a29fd2e01",
@@ -3077,7 +3084,7 @@
       "phrase": [
         {
           "word": "from",
-          "definition": "undefined\nиз"
+          "definition": "из\nот"
         }
       ],
       "id": "4ff3d26943c5",
@@ -3111,7 +3118,7 @@
       "phrase": [
         {
           "word": "at/by",
-          "definition": "undefined\nу"
+          "definition": "у"
         }
       ],
       "id": "9f7ee32a9572",

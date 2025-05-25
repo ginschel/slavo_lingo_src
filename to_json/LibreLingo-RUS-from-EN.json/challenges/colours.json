@@ -25,19 +25,19 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "undefined"
+          "definition": "мой"
         },
         {
           "word": "dog",
-          "definition": "undefined\nпёс"
+          "definition": "пёс\nсобака"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "black.",
-          "definition": "undefined\nчёрный"
+          "definition": "черный\nчёрный"
         }
       ],
       "chips": [
@@ -68,19 +68,19 @@
       "phrase": [
         {
           "word": "Мой",
-          "definition": "undefined"
+          "definition": "my"
         },
         {
           "word": "пёс",
-          "definition": "dog\nundefined"
+          "definition": "dog"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "чёрный.",
-          "definition": "black\nundefined"
+          "definition": "black"
         }
       ],
       "chips": [
@@ -128,19 +128,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "mouse",
-          "definition": "undefined\nмышь"
+          "definition": "мышь"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "white.",
-          "definition": "undefined\nбелый"
+          "definition": "белый"
         }
       ],
       "chips": [
@@ -168,15 +168,15 @@
       "phrase": [
         {
           "word": "Мышь",
-          "definition": "mouse\nundefined"
+          "definition": "mouse"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "белая.",
-          "definition": "undefined"
+          "definition": "white"
         }
       ],
       "chips": [
@@ -224,19 +224,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "grass",
-          "definition": "undefined\nтрава"
+          "definition": "трава"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "green.",
-          "definition": "undefined\nзелёный"
+          "definition": "зеленый\nзелёный"
         }
       ],
       "chips": [
@@ -264,15 +264,15 @@
       "phrase": [
         {
           "word": "Трава",
-          "definition": "grass\nundefined"
+          "definition": "grass"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "зелёная.",
-          "definition": "undefined"
+          "definition": "green"
         }
       ],
       "chips": [
@@ -320,19 +320,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "sky",
-          "definition": "undefined"
+          "definition": "небо"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "blue.",
-          "definition": "undefined\nсиний"
+          "definition": "синий"
         }
       ],
       "chips": [
@@ -360,15 +360,15 @@
       "phrase": [
         {
           "word": "Небо",
-          "definition": "undefined"
+          "definition": "sky"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "синее.",
-          "definition": "undefined"
+          "definition": "blue"
         }
       ],
       "chips": [
@@ -395,20 +395,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Цветы суть красные.",
+      "formInTargetLanguage": "Цветы красные.",
       "meaningInSourceLanguage": "The flowers are red.",
-      "id": "fbf3fc40c75e",
+      "id": "ef6364422e07",
       "priority": 0,
-      "group": "4585c4459d03"
+      "group": "a46d74176c61"
     },
     {
       "type": "listeningExercise",
-      "answer": "Цветы суть красные.",
+      "answer": "Цветы красные.",
       "meaning": "The flowers are red.",
-      "audio": "8eacecceb4bf938e334d70090621e318628951d619a2fc81aa36dad2eb2d6486",
-      "id": "486db426f092",
+      "audio": "c60e86a50fc9e65b20c4baf9e75d8c5368481e34ba2dd8553ae743e403792d5d",
+      "id": "8c32c9668711",
       "priority": 1,
-      "group": "4585c4459d03"
+      "group": "a46d74176c61"
     },
     {
       "type": "chips",
@@ -416,39 +416,37 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "flowers",
-          "definition": "undefined"
+          "definition": "цветы"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "red.",
-          "definition": "undefined\nкрасный"
+          "definition": "красный"
         }
       ],
       "chips": [
         "Цветы",
-        "суть",
         "красные",
-        "свет",
+        "красный",
         "цветы"
       ],
       "solutions": [
         [
           "Цветы",
-          "суть",
           "красные"
         ]
       ],
-      "formattedSolution": "Цветы суть красные.",
-      "id": "37b8064c2771",
+      "formattedSolution": "Цветы красные.",
+      "id": "4c542bddfb02",
       "priority": 2,
-      "group": "4585c4459d03"
+      "group": "a46d74176c61"
     },
     {
       "type": "chips",
@@ -456,15 +454,11 @@
       "phrase": [
         {
           "word": "Цветы",
-          "definition": "undefined"
-        },
-        {
-          "word": "суть",
-          "definition": "undefined"
+          "definition": "flowers"
         },
         {
           "word": "красные.",
-          "definition": "undefined"
+          "definition": "red"
         }
       ],
       "chips": [
@@ -485,9 +479,9 @@
         ]
       ],
       "formattedSolution": "The flowers are red.",
-      "id": "d08c1584c9e2",
+      "id": "242761d8a576",
       "priority": 2,
-      "group": "4585c4459d03"
+      "group": "a46d74176c61"
     },
     {
       "type": "options",
@@ -512,19 +506,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "sun",
-          "definition": "undefined\nсолнце"
+          "definition": "солнце"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "yellow.",
-          "definition": "undefined\nжёлтый"
+          "definition": "желтый\nжёлтый"
         }
       ],
       "chips": [
@@ -552,15 +546,15 @@
       "phrase": [
         {
           "word": "Солнце",
-          "definition": "sun\nundefined"
+          "definition": "sun"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "жёлтое.",
-          "definition": "undefined"
+          "definition": "yellow"
         }
       ],
       "chips": [
@@ -587,20 +581,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Облака суть серые.",
+      "formInTargetLanguage": "Облака серые.",
       "meaningInSourceLanguage": "The clouds are grey.",
-      "id": "56902746e554",
+      "id": "48d4d97ade8f",
       "priority": 0,
-      "group": "d253dc656791"
+      "group": "68a50ad67049"
     },
     {
       "type": "listeningExercise",
-      "answer": "Облака суть серые.",
+      "answer": "Облака серые.",
       "meaning": "The clouds are grey.",
-      "audio": "4e05a1bf01a354887dca5c283ef8c389e9cc3433dbc0afd7c954a5114950032d",
-      "id": "c817c872208d",
+      "audio": "143424a38c074e6c2f6dbb4205d7ac0036012016ca4c04dc051f62015fdb5567",
+      "id": "27c8b696e860",
       "priority": 1,
-      "group": "d253dc656791"
+      "group": "68a50ad67049"
     },
     {
       "type": "chips",
@@ -608,39 +602,37 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "clouds",
-          "definition": "undefined"
+          "definition": "облака"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "grey.",
-          "definition": "undefined\nсерый"
+          "definition": "серый"
         }
       ],
       "chips": [
         "Облака",
-        "суть",
         "серые",
-        "сока",
-        "сумке"
+        "серый",
+        "белые"
       ],
       "solutions": [
         [
           "Облака",
-          "суть",
           "серые"
         ]
       ],
-      "formattedSolution": "Облака суть серые.",
-      "id": "a508bcb47755",
+      "formattedSolution": "Облака серые.",
+      "id": "210c4394f5d1",
       "priority": 2,
-      "group": "d253dc656791"
+      "group": "68a50ad67049"
     },
     {
       "type": "chips",
@@ -648,15 +640,11 @@
       "phrase": [
         {
           "word": "Облака",
-          "definition": "undefined"
-        },
-        {
-          "word": "суть",
-          "definition": "undefined"
+          "definition": "clouds"
         },
         {
           "word": "серые.",
-          "definition": "undefined"
+          "definition": "gray"
         }
       ],
       "chips": [
@@ -677,9 +665,9 @@
         ]
       ],
       "formattedSolution": "The clouds are grey.",
-      "id": "1fc842a81c86",
+      "id": "5d2bcb1cd385",
       "priority": 2,
-      "group": "d253dc656791"
+      "group": "68a50ad67049"
     },
     {
       "type": "options",
@@ -704,23 +692,23 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nон"
+          "definition": "он"
         },
         {
           "word": "wears",
-          "definition": "undefined"
+          "definition": "носит"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "brown",
-          "definition": "undefined\nкаштановый"
+          "definition": "каштановый\nкоричневый"
         },
         {
           "word": "coat.",
-          "definition": "undefined\nпальто"
+          "definition": "пальто"
         }
       ],
       "chips": [
@@ -751,19 +739,19 @@
       "phrase": [
         {
           "word": "Он",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "носит",
-          "definition": "undefined"
+          "definition": "wears"
         },
         {
           "word": "каштановое",
-          "definition": "undefined"
+          "definition": "chestnut"
         },
         {
           "word": "пальто.",
-          "definition": "coat\nundefined"
+          "definition": "coat"
         }
       ],
       "chips": [
@@ -814,19 +802,19 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "leaf",
-          "definition": "undefined"
+          "definition": "лист"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "orange.",
-          "definition": "undefined\nапельсин\nоранжевый"
+          "definition": "апельсин\nоранжевый"
         }
       ],
       "chips": [
@@ -854,15 +842,15 @@
       "phrase": [
         {
           "word": "Лист",
-          "definition": "undefined"
+          "definition": "letter"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "оранжевый.",
-          "definition": "orange\nundefined"
+          "definition": "orange"
         }
       ],
       "chips": [
@@ -910,23 +898,23 @@
       "phrase": [
         {
           "word": "This",
-          "definition": "undefined\nэта (ж. р.)\nэто (ср. р.)"
+          "definition": "эта (ж. р.)\nэто\nэто (ср. р.)"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "Red",
-          "definition": "undefined\nкрасный"
+          "definition": "красный"
         },
         {
           "word": "Sea.",
-          "definition": "undefined"
+          "definition": "море"
         }
       ],
       "chips": [
@@ -957,19 +945,19 @@
       "phrase": [
         {
           "word": "Это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "Красное",
-          "definition": "undefined"
+          "definition": "red"
         },
         {
           "word": "море.",
-          "definition": "undefined"
+          "definition": "sea"
         }
       ],
       "chips": [
@@ -999,20 +987,20 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "Мои очи суть синие.",
+      "formInTargetLanguage": "Мои очи синие.",
       "meaningInSourceLanguage": "My eyes are blue.",
-      "id": "26f19e004650",
+      "id": "af617d672b50",
       "priority": 0,
-      "group": "762bf6369eca"
+      "group": "2c8968a1a5c3"
     },
     {
       "type": "listeningExercise",
-      "answer": "Мои очи суть синие.",
+      "answer": "Мои очи синие.",
       "meaning": "My eyes are blue.",
-      "audio": "360a9860510d98c4e4a77e25d36a2d5d32e86154d0d09ff59f0a5a7233b59c0d",
-      "id": "c2e59e127fa7",
+      "audio": "93691893708c6a4caa452e7817a7a4f47565a6d5b37d4e87e6f8202938f1f453",
+      "id": "9b04cd93ddb9",
       "priority": 1,
-      "group": "762bf6369eca"
+      "group": "2c8968a1a5c3"
     },
     {
       "type": "chips",
@@ -1020,27 +1008,25 @@
       "phrase": [
         {
           "word": "My",
-          "definition": "undefined"
+          "definition": "мой"
         },
         {
           "word": "eyes",
-          "definition": "undefined\nглаза"
+          "definition": "глаза"
         },
         {
           "word": "are",
-          "definition": "undefined\nвы есте\nмы есмы\nони суть\nты еси"
+          "definition": "byti/быти\nвы есть/есте\nмы есть/есмы\nони есть/суть\nты есть/еси"
         },
         {
           "word": "blue.",
-          "definition": "undefined\nсиний"
+          "definition": "синий"
         }
       ],
       "chips": [
         "Мои",
         "очи",
-        "суть",
         "синие",
-        "соли",
         "Они",
         "ночи"
       ],
@@ -1048,14 +1034,13 @@
         [
           "Мои",
           "очи",
-          "суть",
           "синие"
         ]
       ],
-      "formattedSolution": "Мои очи суть синие.",
-      "id": "718573cf40ed",
+      "formattedSolution": "Мои очи синие.",
+      "id": "18c43c19868f",
       "priority": 2,
-      "group": "762bf6369eca"
+      "group": "2c8968a1a5c3"
     },
     {
       "type": "chips",
@@ -1063,19 +1048,15 @@
       "phrase": [
         {
           "word": "Мои",
-          "definition": "undefined"
+          "definition": "my"
         },
         {
           "word": "очи",
-          "definition": "undefined"
-        },
-        {
-          "word": "суть",
-          "definition": "undefined"
+          "definition": "eyes"
         },
         {
           "word": "синие.",
-          "definition": "undefined"
+          "definition": "blue"
         }
       ],
       "chips": [
@@ -1096,9 +1077,9 @@
         ]
       ],
       "formattedSolution": "My eyes are blue.",
-      "id": "bf60b7eef385",
+      "id": "8103ab471fe4",
       "priority": 2,
-      "group": "762bf6369eca"
+      "group": "2c8968a1a5c3"
     },
     {
       "type": "options",
@@ -1123,19 +1104,19 @@
       "phrase": [
         {
           "word": "She",
-          "definition": "undefined\nона"
+          "definition": "она"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "имеет"
         },
         {
           "word": "green",
-          "definition": "undefined\nзелёный"
+          "definition": "зеленый\nзелёный"
         },
         {
           "word": "grass.",
-          "definition": "undefined\nтрава"
+          "definition": "трава"
         }
       ],
       "chips": [
@@ -1166,19 +1147,19 @@
       "phrase": [
         {
           "word": "Она",
-          "definition": "she\nundefined"
+          "definition": "she"
         },
         {
           "word": "имеет",
-          "definition": "undefined"
+          "definition": "has"
         },
         {
           "word": "зелёную",
-          "definition": "undefined"
+          "definition": "green"
         },
         {
           "word": "траву.",
-          "definition": "undefined"
+          "definition": "grass"
         }
       ],
       "chips": [
@@ -1230,19 +1211,19 @@
         },
         {
           "word": "like",
-          "definition": "undefined"
+          "definition": "как"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "red",
-          "definition": "undefined\nкрасный"
+          "definition": "красный"
         },
         {
           "word": "color.",
-          "definition": "undefined"
+          "definition": "цвет"
         }
       ],
       "chips": [
@@ -1273,19 +1254,19 @@
       "phrase": [
         {
           "word": "Я",
-          "definition": "I\nundefined"
+          "definition": "I\ni"
         },
         {
           "word": "люблю",
-          "definition": "undefined"
+          "definition": "love"
         },
         {
           "word": "красный",
-          "definition": "red\nundefined"
+          "definition": "red"
         },
         {
           "word": "цвет.",
-          "definition": "undefined"
+          "definition": "color"
         }
       ],
       "chips": [
@@ -1336,19 +1317,19 @@
       "phrase": [
         {
           "word": "His",
-          "definition": "undefined"
+          "definition": "его"
         },
         {
           "word": "car",
-          "definition": "undefined\nавто"
+          "definition": "авто\nмашина"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "black.",
-          "definition": "undefined\nчёрный"
+          "definition": "черный\nчёрный"
         }
       ],
       "chips": [
@@ -1379,19 +1360,19 @@
       "phrase": [
         {
           "word": "Его",
-          "definition": "undefined"
+          "definition": "his"
         },
         {
           "word": "авто",
-          "definition": "car\nundefined"
+          "definition": "car"
         },
         {
           "word": "есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "чёрное.",
-          "definition": "undefined"
+          "definition": "black"
         }
       ],
       "chips": [
@@ -1439,31 +1420,31 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "girl",
-          "definition": "undefined"
+          "definition": "девочка"
         },
         {
           "word": "is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "wearing",
-          "definition": "undefined"
+          "definition": "носит"
         },
         {
           "word": "a",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "white",
-          "definition": "undefined\nбелый"
+          "definition": "белый"
         },
         {
           "word": "dress.",
-          "definition": "undefined"
+          "definition": "платье"
         }
       ],
       "chips": [
@@ -1473,7 +1454,7 @@
         "сукню",
         "несут",
         "не",
-        "ест"
+        "дела"
       ],
       "solutions": [
         [
@@ -1494,19 +1475,19 @@
       "phrase": [
         {
           "word": "Дева",
-          "definition": "undefined"
+          "definition": "maiden"
         },
         {
           "word": "несёт",
-          "definition": "undefined"
+          "definition": "carries"
         },
         {
           "word": "белую",
-          "definition": "undefined"
+          "definition": "white"
         },
         {
           "word": "сукню.",
-          "definition": "undefined"
+          "definition": "skirt"
         }
       ],
       "chips": [
@@ -1563,19 +1544,19 @@
       "phrase": [
         {
           "word": "Is",
-          "definition": "undefined\nон/она/оно есть"
+          "definition": "есть\nон/она/оно есть"
         },
         {
           "word": "that",
-          "definition": "undefined\nэтот (муж. р.)"
+          "definition": "что\nэтот (муж. р.)"
         },
         {
           "word": "grey",
-          "definition": "undefined\nсерый"
+          "definition": "серый"
         },
         {
           "word": "hair?",
-          "definition": "undefined\nволосы"
+          "definition": "волосы"
         }
       ],
       "chips": [
@@ -1609,23 +1590,23 @@
       "phrase": [
         {
           "word": "Есть",
-          "definition": "undefined"
+          "definition": "is"
         },
         {
           "word": "ли",
-          "definition": "undefined"
+          "definition": "whether"
         },
         {
           "word": "это",
-          "definition": "undefined"
+          "definition": "it"
         },
         {
           "word": "серый",
-          "definition": "grey\nundefined"
+          "definition": "grey"
         },
         {
           "word": "волос?",
-          "definition": "undefined"
+          "definition": "hair"
         }
       ],
       "chips": [
@@ -1673,23 +1654,23 @@
       "phrase": [
         {
           "word": "He",
-          "definition": "undefined\nон"
+          "definition": "он"
         },
         {
           "word": "has",
-          "definition": "undefined"
+          "definition": "имеет"
         },
         {
           "word": "an",
-          "definition": "undefined"
+          "definition": "an"
         },
         {
           "word": "orange",
-          "definition": "undefined\nапельсин\nоранжевый"
+          "definition": "апельсин\nоранжевый"
         },
         {
           "word": "bag.",
-          "definition": "undefined\nсумка"
+          "definition": "сумка"
         }
       ],
       "chips": [
@@ -1720,19 +1701,19 @@
       "phrase": [
         {
           "word": "Он",
-          "definition": "he\nundefined"
+          "definition": "he"
         },
         {
           "word": "имеет",
-          "definition": "undefined"
+          "definition": "has"
         },
         {
           "word": "оранжевую",
-          "definition": "undefined"
+          "definition": "orange"
         },
         {
           "word": "сумку.",
-          "definition": "undefined"
+          "definition": "bag"
         }
       ],
       "chips": [
@@ -1783,31 +1764,31 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "brown",
-          "definition": "undefined\nкаштановый"
+          "definition": "каштановый\nкоричневый"
         },
         {
           "word": "horse",
-          "definition": "undefined\nконь"
+          "definition": "конь\nлошадь"
         },
         {
           "word": "stands",
-          "definition": "undefined"
+          "definition": "стоит"
         },
         {
           "word": "in",
-          "definition": "undefined"
+          "definition": "в"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "stable.",
-          "definition": "undefined"
+          "definition": "стабильный"
         }
       ],
       "chips": [
@@ -1841,23 +1822,23 @@
       "phrase": [
         {
           "word": "Каштановый",
-          "definition": "brown\nundefined"
+          "definition": "brown"
         },
         {
           "word": "конь",
-          "definition": "horse\nundefined"
+          "definition": "horse"
         },
         {
           "word": "стоит",
-          "definition": "undefined"
+          "definition": "stands"
         },
         {
           "word": "в",
-          "definition": "undefined"
+          "definition": "in"
         },
         {
           "word": "конюшне.",
-          "definition": "undefined"
+          "definition": "stable"
         }
       ],
       "chips": [
@@ -1914,27 +1895,27 @@
       "phrase": [
         {
           "word": "The",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "yellow",
-          "definition": "undefined\nжёлтый"
+          "definition": "желтый\nжёлтый"
         },
         {
           "word": "sun",
-          "definition": "undefined\nсолнце"
+          "definition": "солнце"
         },
         {
           "word": "warms",
-          "definition": "undefined"
+          "definition": "греет"
         },
         {
           "word": "the",
-          "definition": "undefined"
+          "definition": "to"
         },
         {
           "word": "earth.",
-          "definition": "undefined\nземля"
+          "definition": "земля"
         }
       ],
       "chips": [
@@ -1965,19 +1946,19 @@
       "phrase": [
         {
           "word": "Жёлтое",
-          "definition": "undefined"
+          "definition": "yellow"
         },
         {
           "word": "солнце",
-          "definition": "sun\nundefined"
+          "definition": "sun"
         },
         {
           "word": "греет",
-          "definition": "undefined"
+          "definition": "warms"
         },
         {
           "word": "землю.",
-          "definition": "undefined"
+          "definition": "earth"
         }
       ],
       "chips": [
@@ -2031,23 +2012,23 @@
       "phrase": [
         {
           "word": "A",
-          "definition": "undefined"
+          "definition": "jedin/один"
         },
         {
           "word": "red",
-          "definition": "undefined\nкрасный"
+          "definition": "красный"
         },
         {
           "word": "rose",
-          "definition": "undefined\nроза"
+          "definition": "роза"
         },
         {
           "word": "grows",
-          "definition": "undefined"
+          "definition": "растет"
         },
         {
           "word": "here.",
-          "definition": "undefined"
+          "definition": "здесь"
         }
       ],
       "chips": [
@@ -2078,19 +2059,19 @@
       "phrase": [
         {
           "word": "Красная",
-          "definition": "undefined"
+          "definition": "red"
         },
         {
           "word": "роза",
-          "definition": "rose\nundefined"
+          "definition": "rose"
         },
         {
           "word": "растёт",
-          "definition": "undefined"
+          "definition": "grows"
         },
         {
           "word": "здесь.",
-          "definition": "undefined"
+          "definition": "here"
         }
       ],
       "chips": [
@@ -2136,7 +2117,7 @@
       "phrase": [
         {
           "word": "black",
-          "definition": "undefined\nчёрный"
+          "definition": "черный\nчёрный"
         }
       ],
       "id": "ac07d6530de2",
@@ -2170,7 +2151,7 @@
       "phrase": [
         {
           "word": "white",
-          "definition": "undefined\nбелый"
+          "definition": "белый"
         }
       ],
       "id": "3abc3496e2c5",
@@ -2204,7 +2185,7 @@
       "phrase": [
         {
           "word": "green",
-          "definition": "undefined\nзелёный"
+          "definition": "зеленый\nзелёный"
         }
       ],
       "id": "5c2265ec6585",
@@ -2238,7 +2219,7 @@
       "phrase": [
         {
           "word": "blue",
-          "definition": "undefined\nсиний"
+          "definition": "синий"
         }
       ],
       "id": "65e54de92068",
@@ -2272,7 +2253,7 @@
       "phrase": [
         {
           "word": "red",
-          "definition": "undefined\nкрасный"
+          "definition": "красный"
         }
       ],
       "id": "b7f252f9a4b8",
@@ -2306,7 +2287,7 @@
       "phrase": [
         {
           "word": "yellow",
-          "definition": "undefined\nжёлтый"
+          "definition": "желтый\nжёлтый"
         }
       ],
       "id": "26d9052cf802",
@@ -2340,7 +2321,7 @@
       "phrase": [
         {
           "word": "grey",
-          "definition": "undefined\nсерый"
+          "definition": "серый"
         }
       ],
       "id": "a378ad44dcbe",
@@ -2374,7 +2355,7 @@
       "phrase": [
         {
           "word": "brown",
-          "definition": "undefined\nкаштановый"
+          "definition": "каштановый\nкоричневый"
         }
       ],
       "id": "e27874ac5bab",
@@ -2408,7 +2389,7 @@
       "phrase": [
         {
           "word": "orange",
-          "definition": "undefined\nапельсин\nоранжевый"
+          "definition": "апельсин\nоранжевый"
         }
       ],
       "id": "4a90cc45841d",
@@ -2442,7 +2423,7 @@
       "phrase": [
         {
           "word": "red",
-          "definition": "undefined\nкрасный"
+          "definition": "красный"
         }
       ],
       "id": "b7f252f9a4b8",
