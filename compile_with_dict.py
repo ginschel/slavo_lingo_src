@@ -59,9 +59,22 @@ def parse_english_translation_file(english_path):
 
     return new_words_list, phrases_list
 
+def get_value_or_undef(dictionary, key, enmode=False):
+    key_lower = key.lower()
+    if enmode:
+        if key == "the":
+            return "to"
+        elif key == "a":
+            return "jedin/один"
+        elif key =="are":
+            return "byti/быти"
+        elif key =="were":
+            return "byl/был"
+    
+    return dictionary.get(key_lower, "undef")
 
 # Modified create_skill (using the new transform function is done elsewhere)
-def create_skill(title, id, native_words, eng_words, native_phrases, eng_phrases, source_file):
+def create_skill(title, id, native_words, eng_words, native_phrases, eng_phrases, source_file,native_dict,eng_dict):
     # Note: title here is the original subheading, not the transformed filename part
     if len(native_words) != len(eng_words):
         print(f"\n[DEBUG] New Words Mismatch in Skill '{title}' (ID {id}) from file '{source_file}':")
@@ -129,12 +142,14 @@ def create_skill(title, id, native_words, eng_words, native_phrases, eng_phrases
         )
 
     for word in all_unique_native_words_for_dict:
-        skill_yaml += f"    - {word}: undefined\n"
+        if word in native_words:
+            continue
+        skill_yaml += f"    - {word}: "+get_value_or_undef(native_dict,word)+"\n"
     # Add the English words section (must be key "English")
     skill_yaml += "  English:\n"
     if all_unique_eng_words_for_dict:
          for word in all_unique_eng_words_for_dict:
-            skill_yaml += f"    - {word}: undefined\n"
+            skill_yaml += f"    - {word}: "+get_value_or_undef(eng_dict,word, True)+"\n"
     else:
         skill_yaml += "    # No English words or words in phrases found for dictionary\n"
 
@@ -183,11 +198,37 @@ def get_file_paths():
 
     return course_files
 
+def parse_colon_delimited_file_to_dict(filepath):
+    result = {}
+    with open(filepath, 'r', encoding='utf-8') as f:
+        for line in f:
+            if ':' in line:
+                key, value = line.split(':', 1)
+                key = key.strip()
+                value = value.strip()
 
-def split_and_generate_skills(file_path, output_base_path, new_words_list, phrases_list, start_id=1):
+                # Remove trailing [cite...] if present
+                value = re.sub(r'\[cite.*?\]$', '', value).strip()
+
+                if key and value:
+                    result[key] = value
+    return result
+
+
+def get_dict_paths(lang_code):
+    base_path = os.path.join("dicts", lang_code)
+    native_to_eng_path = os.path.join(base_path, lang_code+"_to_en.txt")
+    eng_to_native_path = os.path.join(base_path, "en_to_"+lang_code+".txt")
+    return native_to_eng_path, eng_to_native_path
+
+def split_and_generate_skills(file_path, output_base_path, new_words_list, phrases_list, lang_code, start_id=1):
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
+    native_dict_file, eng_dict_file = get_dict_paths(lang_code)
+    native_dict = parse_colon_delimited_file_to_dict(native_dict_file)
+    eng_dict = parse_colon_delimited_file_to_dict(eng_dict_file)
+    print(native_dict)
     id_counter = start_id
     # Split by top-level headings
     # (?m) enables multi-line mode so ^ and $ match start/end of line
@@ -237,7 +278,7 @@ def split_and_generate_skills(file_path, output_base_path, new_words_list, phras
 
             # Create the skill YAML content
             # Pass the ORIGINAL subheading to create_skill for the Name property in YAML
-            skill_text = create_skill(subheading, id_counter, native_words, eng_words, native_phrases, eng_phrases, file_path)
+            skill_text = create_skill(subheading, id_counter, native_words, eng_words, native_phrases, eng_phrases, file_path,native_dict,eng_dict)
 
             # Write the skill YAML file
             with open(output_path, 'w', encoding='utf-8') as out_file:
@@ -312,6 +353,18 @@ def process_grammar(file_path, course_folder):
             print(f"[Warning] No matching skill YAML found for grammar section '{heading.strip()}' (Expected file: {filename.replace('.md', '.yaml')}) in course '{course_folder}'")
             # Optionally write the grammar file anyway to a generic location or skip it
             # For now, just prints a warning.
+def extract_special_characters(file_path):
+    special_chars = set()
+    # Kombiniere alle relevanten Dateien
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+        # Nimm alle Zeichen, die KEINE ASCII-Buchstaben oder Ziffern sind
+        for char in content:
+            if not char.isascii() or not char.isalnum():
+                # Ignoriere häufige Satzzeichen und Leerzeichen
+                if char not in {' ', '\n', '\t', '.', ',', ':', ';', '!', '?', '-', '(', ')', '"', "'","#","{","}","\\","&","+","/","[","]"}:
+                    special_chars.add(char)
+    return sorted(special_chars)
 
 def create_course(file_group, new_words_list, phrases_list):
     # file_group is now [kurs_file_path, gram_file_path, source_folder_name_original]
@@ -332,7 +385,7 @@ def create_course(file_group, new_words_list, phrases_list):
 
     # Process skills and modules (creates skill YAMLs and module.yaml)
     # Pass the full output_dir path
-    id_counter = split_and_generate_skills(first_file, output_dir, new_words_list, phrases_list)
+    id_counter = split_and_generate_skills(first_file, output_dir, new_words_list, phrases_list,language_code)
 
     # Process grammar (finds matching skill folders and places grammar MDs)
     # Pass the TRANSFORMED course_folder_name
@@ -345,6 +398,9 @@ def create_course(file_group, new_words_list, phrases_list):
     # If original name might have other chars, a different display cleaning might be needed
     language_display_name = kurs_filename_original.replace("kurs.md", "").replace("_", " ").strip()
 
+    #create special chars set
+    special_chars = extract_special_characters(first_file)
+    special_chars_list = ''.join(f'    - "{c}"\n' for c in special_chars)
     # Write course.yaml
     course_yaml_path = os.path.join(output_dir, "course.yaml")
     with open(course_yaml_path, "w", encoding="utf-8") as f:
@@ -363,11 +419,7 @@ def create_course(file_group, new_words_list, phrases_list):
   # Repository: Update this if needed - using a placeholder from original
   Repository: https://github.com/LibreLingoCommunity/LibreLingo-Isv-from-EN
   Special characters: # Keep the list as is for display
-    - "ě"
-    - "š"
-    - "č"
-    - "ž"
-    - "Ł"
+{special_chars_list}
 
 Modules: # List the TRANSFORMED, alphanumeric module folder names
   - {transform("Module 1 - Very basic grammar and phrases")} # Transform module names for listing
@@ -386,7 +438,7 @@ Modules: # List the TRANSFORMED, alphanumeric module folder names
 
 Settings:
   Audio:
-    Enabled: True
+    Enabled: False
     TTS:
       - Provider: Polly
         Voice: Lucia
