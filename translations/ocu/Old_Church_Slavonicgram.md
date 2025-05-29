@@ -1,4 +1,4 @@
-# Conjugation of to be and the Nominative Case
+# Conjugation of to be
 
 ## Welcome to the course!
 
@@ -57,7 +57,7 @@ Demonstrative pronouns help us specify particular nouns, similar to using "this"
 
 * *Examples:* **Сь** домъ ѥстъ великъ (This house is big). **Сьꙗ** книга ѥстъ моꙗ́ (This book is mine). **Си** село́ ѥстъ наше (This village is ours). **Си** людиѥ сѫтъ весели (These people are cheerful).
 
-# Family (Instrumental case)
+# Family
 
 ## The Instrumental Case: With and By Means Of
 
@@ -75,7 +75,7 @@ The **Instrumental case** primarily indicates *s kimъ* or *čimъ* an action is
     * *Plural (all genders):* hard/soft **-ꙑ**. (e.g., съ добр**ꙑ** брат**ы** - with good brothers, съ син**и** мор**и** - with blue seas)
 * *Examples:* Иде́мъ **съ дроу́гомъ** (I am going with a friend). Онъ гово́ритъ **съ на́ми** (He is talking with us). Пишѫ́ **перо́мъ** (I am writing with a pen). Она́ ѥстъ **добро́ю работо́ю** (She is good work - Instrumental used for state/profession). Мꙑ ѥсмъ **добры рабꙑ** (We are good servants - Instrumental plural used for state/profession).
 
-# Hobbies (Verbs – Imperfective only)
+# Hobbies
 
 ## Verb Conjugations (Present Tense - Imperfective)
 
@@ -88,7 +88,7 @@ Imperfective verbs describe actions that are ongoing, repeated, or not completed
 * **-i- stem conjugation:** Includes verbs like **говори́ти** (to speak).
     * *Example: говори́ти* -> Sg: Я говорі́ѭ, Тꙑ говорі́ши, Онъ говорі́тъ. Du: Вѣ говорі́вѣ, Въі говорі́та, Онѣ говорі́тѣ. Pl: Мꙑ говорі́мъ, Вꙑ говорі́те, Они́ говорꙗ́тъ.
 
-# Sports (very basic accusative case + very basic locative)
+# Sports
 
 ## Basic Accusative and Locative (Singular Only)
 
@@ -103,7 +103,7 @@ Let's start with a simplified look at two more cases in the singular. The **Accu
     * *Feminine:* hard **-ѣ**, soft **-и**. (e.g., на **рѣцѣ́** - on a river, въ **земли́** - in the earth)
 * *Examples:* Чи́тамъ **книгѫ́** (I am reading a book). Сѣди́мъ **на столѣ́** (We are sitting on a table).
 
-# Food (Accusative case)
+# Food
 
 ## The Proper Accusative Case: The Direct Object
 
@@ -129,7 +129,7 @@ The **Accusative case** is the case of the direct object, indicating the person 
     * *Plural Feminine:* Same as Nominative Plural (hard -ы/-ы, soft -и/-и). (e.g., Вижджѫ̀ **добры** жены - I see good women, Вижджѫ̀ **сини** землѣ́ - I see blue lands)
 * *Examples:* Азъ чи́тамъ **интере́снѫ книгѫ́** (I am reading an interesting book). Онъ ви́дитъ **своего́ отьцꙗ́** (He sees his father). Мꙑ коу́пимъ **ново село́** (We are buying a new village).
 
-# Drinks (Genitive case)
+# Drinks
 
 ## The Genitive Case: Possession, Absence, and More
 
@@ -147,7 +147,7 @@ The **Genitive case** indicates possession (like 'of' or 's), absence (with **б
 * *Prepositions:* Used after **безъ** (without), **изъ/съ** (from), **оу** (at/by/have), and others like **до** (to/until), **отъ** (from).
 * *Examples:* СЕ́ ѥстъ дѣ́ло **моего́ отьцꙗ́** (This is my father's work). Азъ ѥсмъ **изъ гра́да** (I am from the city). **Оу мене́** ѥстъ часо́вникъ (I have a watch - literally "At me there is a watch"). Они́ идѫтъ **безъ водꙑ́** (They are going without water). Ви́дѣхъ мно́го **кра́сьнъ женъ** (I saw many beautiful women).
 
-# Studying & Writing (Locative case)
+# Studying & Writing
 
 ## The Proper Locative Case: Location and Topic
 
@@ -165,7 +165,7 @@ The **Locative case** (Prepositional) specifies location ('in', 'on', 'at') or t
     * *Plural (all genders):* hard **-ѣхъ**, soft **-ихъ**. (e.g., въ добр**ѣхъ** дом**ѣхъ** - in good houses, о син**ихъ** мѫж**ихъ** - about blue men)
 * *Examples:* Моꙗ́ книга ѥстъ **на столѣ́** (My book is on the table). Говори́мъ **о на́шемъ до́мѣ** (We are talking about our house). Они́ живѫ́тъ **въ вели́цѣмъ гра́дѣ** (They live in a big city). Дѣ́ти игра́ѭтъ **на дворѣхъ** (Children are playing in the yards).
 
-# Animals (Dative case)
+# Animals
 
 ## The Dative Case: To Whom? For Whom?
 
@@ -270,7 +270,7 @@ Agreement rules for these numbers with nouns are also complex.
 
 These are adjectives and decline in all cases and numbers like other adjectives, using both simple and definite forms.
 
-# Talking about Time (past tense)
+# Talking about Time
 
 ## The Simple Past Tense (Aorist and Imperfect)
 
@@ -284,7 +284,7 @@ Old Church Slavonic has several past tenses, including the Aorist and the Imperf
 * *Examples (Aorist):* Вчера́ **па́се** сьнѣгъ (Yesterday snow fell). Мꙑ **видѣхомъ** фильмъ (We saw a film).
 * *Examples (Imperfect):* Вчера́ **рабо́таахъ** (masc.) (Yesterday I was working). Вчера́ она́ **рабо́тааше** (fem.) (Yesterday she was working).
 
-# Seasons of the year (future tense)
+# Seasons of the year
 
 ## The Future Tense
 
@@ -296,7 +296,7 @@ To express actions that will happen in the future using imperfective verbs, you 
 * *Examples (Compound Future - imperfective):* Азъ **бу́дѫ чита́ти** книгѫ́ (I will read a book). Тꙑ **бу́деши говори́ти** съ ни́мь (You will speak with him). Она́ **бу́детъ рабо́тати** оутрѣ (She will work tomorrow). Мꙑ **бу́демъ писа́ти** (We will write). Они́ **бу́дѫтъ зьрѣти** фильмъ (They will watch a film).
 * *Examples (Simple Future - perfective):* Азъ **прочита́ѭ** книгѫ́ (I will read a book). Тꙑ **рекꙁе́ши** ѥмоу́ (You will tell him). Она́ **сътвори́тъ** сиѥ (She will do this).
 
-# Clothes  (basic conjunctions)
+# Clothes
 
 ## Using Conjunctions: 'и', 'а', 'или'
 
@@ -306,7 +306,7 @@ Conjunctions are like connecting words that join words, phrases, or clauses. Thr
 * **а:** Primarily means "but" when showing a contrast, or can also mean "and" to connect related but slightly different ideas. (e.g., Онъ ѥстъ оучи́тель, **а** она́ ѥстъ оучени́ца - He is a teacher, but she is a student. Азъ идѫ́, **а** тꙑ оста́ѥши сѧ - I am going, and you are staying.)
 * **или:** Means "or," offering an alternative. (e.g., Ка́ва **или** ча́и? - Coffee or tea? Придѣ́те **или** оста́нете сѧ дома́? - Will you come or stay at home?)
 
-# Character (Conditional)
+# Character
 
 ## Conditional Forms: Saying "Would Do"
 
@@ -317,7 +317,7 @@ To talk about hypothetical situations or what someone "would do," you use the co
 
 * *Examples:* Азъ **бы́хъ чи́талъ** (masc.) / **бы́хъ чи́тала** (fem.) тоу книгѫ́ (I would read that book). Онъ **бы́ ѥдинъ шьлъ** въ кино́ (He would go to the cinema alone). Мꙑ **бы́хомъ сътвори́ли** сиѥ все вьсе́ѭ (We would do all this together). Чьто́ **бы́сте хотѣ́ли**? (What would you like?).
 
-# Emotions (adverbs)
+# Emotions
 
 ## Using Adverbs
 
@@ -326,7 +326,7 @@ Adverbs modify verbs, adjectives, or other adverbs, telling us *how*, *when*, *w
 * *Examples:* до́брѣ (well, from добръ - good), бы́стро (quickly, from бы́стръ - quick), ти́хо (quietly, from ти́хъ - quiet), дале́че (far).
 * *In sentences:* Онъ гово́ритъ **до́брѣ** (He speaks well). Она́ бѣ́гаѥтъ **бы́стро** (She runs quickly). Живе́мъ **дале́че** (We live far away).
 
-# Physical Appearance (Easy comparisons)
+# Physical Appearance
 
 ## Easy Comparisons: Въіше and Nеже/Отъ
 

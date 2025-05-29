@@ -1,5 +1,5 @@
 # Module 1 - Very basic grammar and phrases
-## Conjugation of to be and the Nominative Case
+## Conjugation of to be
 New Words: [to, ta, tón, tamtón, tamta, sym, sy, je, smy, sće, su, ja, ty, wón, wona, wone, my, wy, wone, woni, čłowjek, žona, muž, dźěćo, přećel, sotra, staršej, dom, město, dźeń, tež, štó]
 Phrases: [
     "Ja sym mudry.",
@@ -29,7 +29,7 @@ Phrases: [
     "Woni su wulkomili"
 ]
 
-## Greetings & Phrases for conversations
+## Greetings & Phrases
 New Words: [pozdrow, strowy, rozmołwa, ranjo, wječor, dźeń, nóc, dźak, pardon, woprašaj, dobry, lěpši, móžno, škoda, taj, štož, nic, haj, móže, daj]
 Phrases: [
     "Dobre ranjo!",
@@ -73,7 +73,7 @@ Phrases: [
     "Daj!"
 ]
 
-## Family (Instrumental case)
+## Family
 New Words: [bratr, dźěd, babka, ćota, wnuk, wnuknja, mać, nan, swójba, syn, dźowka, stryc, rěči, dźe, dźemy, bydli]
 Phrases: [
     "Wón je mój bratr.",
@@ -98,7 +98,7 @@ Phrases: [
     "Wona rěči z wnukom často."
 ]
 
-## Hobbies (Verbs – Imperfective only)
+## Hobbies
 New Words: [čitać, pisać (piše), hrać, hladać, posłuchać, molować, spěwać, wuknyć so, sedźeć (sydźi), šić (šije), tanćować]
 Phrases: ["Ja čitam knihu.",
 "Wona piše list.",
@@ -122,7 +122,7 @@ Phrases: ["Ja čitam knihu.",
 "Ja tancuju mnoho",
 "Wona hra na gitaru."]
 
-## Sports (very basic accusative case + very basic locative)
+## Sports
 New Words: [koparska, kósna, tenis, plawanja, plawać, běh, běhać, zaranja, lubić, hokej, sport, hra, trenować, stadion, spěšnje, ćežki]
 Phrases: [
     "Hram koparsku.",
@@ -148,7 +148,7 @@ Phrases: [
 ]
 
 # Module 2 – Food and Drinks
-## Food (Accusative case)
+## Food
 New Words: [chlěb, warić, njesć, jěsć (jě), masło, mloko, mjaso, jejo, snědanje, wobjed, kupić, wječerja, jědź, kniha, słódki, jědź]
 Phrases: [
     "Ja jem chlěb.",
@@ -174,7 +174,7 @@ Phrases: [
     "Woni wědźa, štož ja přeco jem chlěb z masłom."
 ]
 
-## Drinks (Genitive case)
+## Drinks
 New Words: [woda, piwo, pić, wino, kawa, džus, chcyć (chce), fliška, spytać namakać, čaša, butelka, čaj, mloko, bjez, za, z, pola]
 Phrases: [
     "Ja nimam wody.",
@@ -226,7 +226,7 @@ Phrases: [
 ]
 
 # Module 3 – Learning and Languages
-## Studying & Writing (Locative case)
+## Studying & Writing
 New Words: [šula, wučerka, wučer, zapisk, šuler, kniha, nadawk, stół, tuš, papjer, předmjet, metoda, pjero, zapisnik, na]
 Phrases: [
     "To je moja šula.",
@@ -277,7 +277,7 @@ Phrases: [
     "Rjana figura stoji na stole."
 ]
 
-## Nationalities / Languages
+## Nationalities
 New Words: [Słowjan, rěč, stat, lud, mjeno, Chorwatka, Rus, Pólak, Němc, Angličan]
 Phrases: [
     "Wón je Słowjan.",
@@ -354,7 +354,7 @@ Phrases: ["Nóž leži na stole.",
 "Kuchnja ma dobry wóń wječor."]
 
 # Module 5 – Describing nature and directions
-## Animals (Dative case)
+## Animals
 New Words: [kóčka, pos, ptačk, pomhać, pokazać (pokaže), kóń, dać (da), ryba, žaba, mjedwjedź, wjelk, myš, zwěrjo]
 Phrases: [
     "Ja dam kóčce rybu.",
@@ -455,7 +455,7 @@ Phrases: [
     "Čerwjena róža rosće tule."
 ]
 
-## Cardinal points/directions
+## Cardinal points
 New Words: [sewjer, juh, zapad, wuchod, sewjerny, južny, zapadny, wuchodny, kompas, strona, hdźe, wstać (wostanje), pokazać, mapa, pućować, woprawdźe, nalěwo, runje]
 Phrases: ["Sewjer je zymny.",
 "Juh je ćopły.",
@@ -480,7 +480,7 @@ Phrases: ["Sewjer je zymny.",
 "Dźemy hnydom woprawdźe a potom runje."]
 
 # Module 6 Grammar revision
-## Grammar revision cases
+## Cases revision
 New Words: [
     "rězać (rěže)",
     " dar",
@@ -512,7 +512,7 @@ Phrases: [
     "Měrna nóc!"
 ]
 
-## Grammar revision pronouncs
+## Pronouns revision
 New Words: [
     "znać",
     "wědźeć (wě)",
@@ -804,7 +804,7 @@ Phrases: [
 
 # Module 9 – Time and the calendar
 
-## Talking about Time (past tense)
+## Talking about Time
 New Words: [čas, minuta, sekunda, hodźina, dźensa, bě, běše, bě, běchu, šoł, šła, šło, šli, wčera, jutře, wječor, połnoc, kelko, spać (spi), trwać]
 Phrases: [
     "Kelko je časow?",
@@ -855,7 +855,7 @@ Phrases: [
     "Julij je měsac lěta."
 ]
 
-## Seasons of the year (future tense)
+## Seasons of the year
 New Words: [lěto, nazymu, zyma, nalěćo, čmjatwa, być, budu, budźeš, budźe, budźemy, budźeće, budu]
 Phrases: [
     "W lěće budźe ćopło.",
@@ -882,7 +882,7 @@ Phrases: [
 
 # Module 10 – Bodies, Clothes talking about people
 
-## Clothes  (basic conjunctions)
+## Clothes
 New Words: [košula, nosyć, kałsony, tričko, šalik, čapka, płasć, rukajca, spodnje košulki, natahny, wobuća, drasta, brudny, woblěkać so, pižama]
 Phrases: [
     "Wón nosy módru košulu.",
@@ -932,7 +932,7 @@ Phrases: [
     "Wona će słysy jenož z jednym wuchom."
 ]
 
-## Character (Conditional)
+## Character
 New Words: [dobry, złe, sylny, słaby, zhortliwy, ćichi, mudry, hłupy, rjany, lěniwy, bych, by, by, bychmy, bysće, by, mlčeć (mlči)]
 Phrases: [
     "Wón to je dobry čłowjek.",
@@ -957,7 +957,7 @@ Phrases: [
     "Jeli bych ja był zhortliwy, to ja bych so njeboił."
 ]
 
-## Emotions (adverbs)
+## Emotions
 New Words: [radostny, žałostny, zajećany, lubosć, přestrašeny, měr, zawěsć, zahanbjeny, hanba, hórdy, wjesoły, třěsnjenje, čuć (čuje), schować, ćěžeć]
 Phrases: [
     "Čuju so radostnje dźensa.",
@@ -982,7 +982,7 @@ Phrases: [
     "Ćerpjeć chcemy jenož, hdyž lubimy."
 ]
 
-## Physical Appearance (Easy comparisons)
+## Physical Appearance
 New Words: [wysoki, niski, tołsty, chudy, mały, rjany, brudny, stary, młody, wóski, woči, hačrunjež, wyše, koža, mjenje, smějać so (směje so), bliščeć, hwězda, swětły, ćěmny]
 Phrases: [
     "Wón je wyše wysoki a sylny hačrunjež wón.",

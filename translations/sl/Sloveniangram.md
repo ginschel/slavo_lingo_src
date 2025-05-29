@@ -1,4 +1,4 @@
-# Conjugation of to be and the Nominative Case
+# Conjugation of to be
 
 ## Welcome to the course!
 
@@ -58,7 +58,7 @@ Demonstrative pronouns help us specify particular nouns, similar to using "this"
 
 * *Examples:* **Ta** dom je velik (This/That house is big). **Ta** knjiga je moja (This/That book is mine). **To** je naše mesto (This/That is our city). **Ti** ljudje so veseli (These/Those people are cheerful).
 
-# Family (Instrumental case)
+# Family
 
 ## The Instrumental Case: With and By Means Of
 
@@ -76,7 +76,7 @@ The **Instrumental case** primarily indicates *s kom* or *čim* an action is per
     * *Plural (all genders):* ending **-imi**. (e.g., z dobr**imi** brat**i** - with good brothers, s svež**imi** zrak**i** - with fresh air)
 * *Examples:* Grem **s prijateljem** (I am going with a friend). Oni govorijo **z nami** (They are talking with us). Pišem **s svinčnikom** (I am writing with a pencil). Ona je **dobro študentko** (She is a good student - Instrumental used for state/profession). Midva sva **dobrima študentoma** (We two are good students).
 
-# Hobbies (Verbs – Imperfective only)
+# Hobbies
 
 ## Verb Conjugations (Present Tense - Imperfective)
 
@@ -87,7 +87,7 @@ Imperfective verbs describe actions that are ongoing, repeated, or not completed
 * **-im conjugation:** Includes verbs like **govoriti** (to speak), **videti** (to see).
     * *Example: govoriti* -> Sg: Jaz govor**im** (I speak/am speaking), Ti govor**iš**, On/Ona/Ono govor**i**. Du: Midva/Midve govor**iva**, Vidva/Vidve govor**ita**, Onadva/Onidve/Oni govor**ita**. Pl: Mi govor**imo**, Vi govor**ite**, Oni/One govor**ijo**.
 
-# Sports (very basic accusative case + very basic locative)
+# Sports
 
 ## Basic Accusative and Locative (Singular Only)
 
@@ -102,7 +102,7 @@ Let's start with a simplified look at two more cases in the singular. The **Accu
     * *Feminine:* Ends in **-i**. (e.g., na **reki** - on a river, v **zemlji** - in the earth)
 * *Examples:* Berem **knjigo** (I am reading a book). Sedim **na stolu** (I am sitting on a table).
 
-# Food (Accusative case)
+# Food
 
 ## The Proper Accusative Case: The Direct Object
 
@@ -127,7 +127,7 @@ The **Accusative case** is the case of the direct object, indicating the person 
     * *Plural Feminine:* Same as Nominative Plural (hard -e/-e, soft -e/-e). (e.g., Vidim **stare** ženske - I see old women, Vidim **sveže** knjige - I see fresh books)
 * *Examples:* Berem **zanimivo knjigo** (I am reading an interesting book). On vidi **svojega očeta** (He sees his father). Kupujemo **novo avto** (We are buying a new car).
 
-# Drinks (Genitive case)
+# Drinks
 
 ## The Genitive Case: Possession, Absence, and More
 
@@ -145,7 +145,7 @@ The **Genitive case** indicates possession (like 'of' or 's), absence (with **br
 * *Prepositions:* Used after **brez** (without), **iz/izmed/med** (from/among), **pri** (at/by/have), **od** (from), **do** (to/until).
 * *Examples:* To je delo **mojega očeta** (This is my father's work). Sem **iz mesta** (I am from the city). **Pri meni** je ura (I have a watch - literally "At me there is a watch"). Gredo **brez vode** (They are going without water). Videl sem veliko **lepih žensk** (I saw many beautiful women).
 
-# Studying & Writing (Locative case)
+# Studying & Writing
 
 ## The Proper Locative Case: Location and Topic
 
@@ -163,7 +163,7 @@ The **Locative case** is used for location ('in', 'on', 'at') or the topic of di
     * *Plural (all genders):* hard/soft **-ih**. (e.g., v dobr**ih** domov**ih** - in good houses, o svež**ih** zrak**ih** - about fresh air)
 * *Examples:* Moja knjiga je **na stolu** (My book is on the table). Govorimo **o našem domu** (We are talking about our house). Živijo **v velikem mestu** (They live in a big city). Otroci se igrajo **na dvoriščih** (Children are playing in the yards).
 
-# Animals (Dative case)
+# Animals
 
 ## The Dative Case: To Whom? For Whom?
 
@@ -276,7 +276,7 @@ To state the time of day, you typically use the preposition **ob** followed by t
 
 * *Example:* ob osm**ih** uri petinštirideset minut - at eight forty-five.
 
-# Talking about Time (past tense)
+# Talking about Time
 
 ## The Simple Past Tense
 
@@ -292,7 +292,7 @@ Talking about actions that happened and finished in the past uses the simple pas
 
 * *Examples:* Včeraj **sem delal** (masc.) (Yesterday I worked). Včeraj ona **je delala** (fem.) (Yesterday she worked). Midva **sva videla** film (We two saw a film). Oni **so prišli** pozno (They arrived late).
 
-# Seasons of the year (future tense)
+# Seasons of the year
 
 ## The Future Tense
 
@@ -304,7 +304,7 @@ To express actions that will happen in the future using imperfective verbs, you 
 * *Examples (Compound Future - imperfective):* Jaz **bom bral** knjigo (I will read a book). Ti **boš govoril** z njim (You will talk with him). Ona **bo delala** jutri (She will work tomorrow). Midva **bova pisala** (We two will write). Oni **bodo gledali** film (They will watch a film).
 * *Examples (Simple Future - perfective):* Jaz **preberem** knjigo (I will read a book). Ti **poveš** mu (You will tell him). Ona **naredi** to (She will do it).
 
-# Clothes  (basic conjunctions)
+# Clothes
 
 ## Using Conjunctions: 'in', 'ali', 'pa'
 
@@ -314,7 +314,7 @@ Conjunctions are like connecting words that join words, phrases, or clauses. Thr
 * **ali:** Means "or," offering an alternative. (e.g., Kava **ali** čaj? - Coffee or tea? Boste prišli **ali** ostali doma? - Will you come or stay home?)
 * **pa:** Can mean "and" or "but," often adding a slight emphasis or contrast. (e.g., On je učitelj, **pa** ona je študentka - He is a teacher, and she is a student / He is a teacher, but she is a student. Jaz grem, **pa** ti ostaneš - I am going, and you are staying.)
 
-# Character (Conditional)
+# Character
 
 ## Conditional Forms: Saying "Would Do"
 
@@ -325,7 +325,7 @@ To talk about hypothetical situations or what someone "would do," you use the co
 
 * *Examples:* Jaz **bi bral** (masc.) / **bi brala** (fem.) to knjigo (I would read that book). On **bi šel** v kino (He would go to the cinema). Midva **bi delala** to vse skupaj (We two would do that all together). Kaj **bi** vi **hoteli**? (What would you like?).
 
-# Emotions (adverbs)
+# Emotions
 
 ## Using Adverbs
 
@@ -334,7 +334,7 @@ Adverbs modify verbs, adjectives, or other adverbs, telling us *how*, *when*, *w
 * *Examples:* dobro (well, from dober - good), hitro (quickly, from hiter - quick), tiho (quietly, from tih - quiet), daleč (far).
 * *In sentences:* On govori **dobro** (He speaks well). Ona teče **hitro** (She runs quickly). Živimo **daleč** (We live far away).
 
-# Physical Appearance (Easy comparisons)
+# Physical Appearance
 
 ## Easy Comparisons: Višje and Kot/Od
 

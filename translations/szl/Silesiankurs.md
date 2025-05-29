@@ -1,5 +1,5 @@
 # Module 1 - Very basic grammar and phrases
-## Conjugation of to be and the Nominative Case
+## Conjugation of to be
 New Words: [to (nijaki rod), ta (żeński rod), tyn (muśki rod), tamtyn (muśki rod), tamto (żeński rod), żech je, żeś je, je, żechmy som, żeście som, som, jo, ty, ôn, ôna, ôno, my, wy, ôni, ône, czowiek, baba, chop, dziecie, kamrat, siostra, ôjc/stary, dōm, miasto, dziyń, tyż, kto]
 Phrases: [
     "Jo żech je mondry.",
@@ -29,7 +29,7 @@ Phrases: [
     "Ôni som barzij mili"
 ]
 
-## Greetings & Phrases for conversations
+## Greetings & Phrases
 New Words: [powitać, zdrowy/jo, godka, rano, wieczōr, dziyń, noc, dziynkuja, pardon, przeprōsz, dobry, lepszy, idzie/możno, szkoda, tak, co, niy, ja, snoc, dej]
 Phrases: [
     "Dobre rano!",
@@ -73,7 +73,7 @@ Phrases: [
     "Dej!"
 ]
 
-## Family (Instrumental case)
+## Family
 New Words: [brat, starzik, babka, ciotka, wnuk, wnuczka, matka, ôjc, familijo, syn, cōrka, stryk, godo, idzie, idymy, miyszko]
 Phrases: [
     "Ôn je z moim bratym.",
@@ -98,7 +98,7 @@ Phrases: [
     "Ôna godo z wnukym fest."
 ]
 
-## Hobbies (Verbs – Imperfective only)
+## Hobbies
 New Words: [czytać, pisać (pisze), grać, ôglōndać, suchać, malować, śpiywać, uczyć sie, siedzieć (siedzi), szyć (szyje), tańczyć]
 Phrases: [
     "Jo czytōm ksiónżka.",
@@ -124,7 +124,7 @@ Phrases: [
     "Ôna gro na gitara."
 ]
 
-## Sports (very basic accusative case + very basic locative)
+## Sports
 New Words: [fusbal, kôszkôwka, tenis, pływanie, pływać, bieganie, biegać, rano, lubić, hokej, szport, gra, trenować, sztadijōn, wartko, ciynżki]
 Phrases: [
     "Grōm we fusbal.",
@@ -150,7 +150,7 @@ Phrases: [
 ]
 
 # Module 2 – Food and Drinks
-## Food (Accusative case)
+## Food
 New Words: [chlyb, warzyć, nōńś, jeiś (je), masło, mlyko, miyso, jajco, śniodanie, ôbiad, kupić, wieczerza, danie/talyrz, ksiónżka, słodki, jedzynie]
 Phrases: [
     "Jo jym chlyb.",
@@ -176,7 +176,7 @@ Phrases: [
     "Ôni wiedzōm, co jo zawżdy jym chlyb z masłym."
 ]
 
-## Drinks (Genitive case)
+## Drinks
 New Words: [woda, piwo, pić, wino, kafa, sok, chcieć (chce), flaszka, probować nojś, szolka, flaszka, tyj, mlyko, bez, za, z/ze, u]
 Phrases: [
     "Jo niy mōm wody.",
@@ -228,7 +228,7 @@ Phrases: [
 ]
 
 # Module 3 – Learning and Languages
-## Studying & Writing (Locative case)
+## Studying & Writing
 New Words: [szkōła, rechtōrka, rechtōr, zapisek, uczeń, ksiónżka, zadańy, stōł, tusz, papjōr, przymiōt, metoda, pjyro, zeszyt, na]
 Phrases: [
     "To moja szkōła.",
@@ -279,7 +279,7 @@ Phrases: [
     "Piykno figura stoji na stole."
 ]
 
-## Nationalities / Languages
+## Nationalities
 New Words: [słowian, gŏdka, kraj, nŏrōd, miano, Kroatka, Rus, Polŏk, Niymiec, Anglik]
 Phrases: [
     "Ôn je Słowianym.",
@@ -358,7 +358,7 @@ Phrases: [
 ]
 
 # Module 5 – Describing nature and directions
-## Animals (Dative case)
+## Animals
 New Words: [kōt, pies, ptōk, pōmogać, pokozać (pokoże), kōń, dować (dowo), ryba, żaba, niedźwiedź, wilk, mysz, zwiyrzã]
 Phrases: [
     "Jo dōm kotu ryba.",
@@ -459,7 +459,7 @@ Phrases: [
     "Czyrwōno rōża rośńe sam."
 ]
 
-## Cardinal points/directions
+## Cardinal points
 New Words: [pōłnoc, połednie, zachōd, weschōd, pōłnocny, połedniowy, zachodni, weschodni, kōmpas, strōna, kaj, wstoć (wstōwŏ), pokozać, karta, rajzować, prowo, lewo, prosto]
 Phrases: [
     "Pōłnoc je zimnŏ.",
@@ -486,7 +486,7 @@ Phrases: [
 ]
 
 # Module 6 Grammar revision
-## Grammar revision cases
+## Cases revision
 New Words: [
     "rzōńzać (rzōńże)",
     "darōnek",
@@ -518,7 +518,7 @@ Phrases: [
     "Dobrej nocy!"
 ]
 
-## Grammar revision pronouncs
+## Pronouns revision
 New Words: [
     "wiedzieć",
     "znać",
@@ -805,7 +805,7 @@ Phrases: [
 
 # Module 9 – Time and the calendar
 
-## Talking about Time (past tense)
+## Talking about Time
 New Words: [czas, minuta, sekunda, godzina, dzisiŏj, bōł, bōła, bōło, byli, szedł, szła, szło, szli, wcora, juter, wieczōr, pōłnoc, wiela, spać (śpi), trwać]
 Phrases: [
     "Wiela je czasu?",
@@ -856,7 +856,7 @@ Phrases: [
     "Lipiec je miesiōńcym lata."
 ]
 
-## Seasons of the year (future tense)
+## Seasons of the year
 New Words: [lato, jesiyń, zima, wiosna, sezōn, być, byda, bydźesz, bydźe, bydzymy, bydźecie, bydōm]
 Phrases: [
     "We lecie bydźe ciepło.",
@@ -883,7 +883,7 @@ Phrases: [
 
 # Module 10 – Bodies, Clothes talking about people
 
-## Clothes  (basic conjunctions)
+## Clothes
 New Words: [heja, nosić, galoty, t-šyrt, szalik, czopka, mantyl, rynkawiczka, gacie, skarpeta, ôbuw, ôblyczynia, brzidki, ôblykać, piżama]
 Phrases: [
     "Ôn nosi modro heja.",
@@ -933,7 +933,7 @@ Phrases: [
     "Ôna słyszy cie yno jednym uchym."
 ]
 
-## Character (Conditional)
+## Character
 New Words: [dobry, złe, srogi, słaby, ôdwŏżny, cichy, mondry, głupi, szczery, lyńiwy, bōł bych, bōł byś, bōł by, byli byśmy, byli byście, byli by, milczeć (milczy)]
 Phrases: [
     "Ôn to dobry czowiek.",
@@ -958,7 +958,7 @@ Phrases: [
     "Jak jo bōł bych ôdwŏżny, to jo bōł bych sie niy bojoł."
 ]
 
-## Emotions (adverbs)
+## Emotions
 New Words: [wesoły, smutny, zły, miłość, przestrašōny, pokōj, zawiś, wstydliwy, wstyd, ôdważny, wesoły, drapanie, czuć (czuje), chować, uciekać]
 Phrases: [
     "Czuja sie wesoło dzisiŏj.",
@@ -983,7 +983,7 @@ Phrases: [
     "Cyrpieć yno chcymy jak lubiymy."
 ]
 
-## Physical Appearance (Easy comparisons)
+## Physical Appearance
 New Words: [wysoki, niski, gruby, chudy, mały, piykny, brzidki, stary, młody, włosy, ôczy, niż, wyżej, skōra, mynij, śmiŏć sie (śmieje sie), bliszczeć, gwiazda, jasno, ćmawo]
 Phrases: [
     "Ôn je wyżej wysoki a srogi niż ôn.",

@@ -1,4 +1,4 @@
-# Conjugation of to be and the Nominative Case
+# Conjugation of to be
 
 ## Welcome to the course!
 
@@ -51,7 +51,7 @@ Demonstrative pronouns help us specify particular nouns, similar to using "this"
 
 * *Examples:* **Tento** dom je veľký (This house is big). **Tá** kniha je moja (That book is mine). **Toto** je naše mesto (This is our city). **Títo** ľudia sú veselí (These people are cheerful).
 
-# Family (Instrumental case)
+# Family
 
 ## The Instrumental Case: With and By Means Of
 
@@ -67,7 +67,7 @@ The **Instrumental case** primarily indicates *s kým* or *čím* an action is p
     * *Plural (all genders):* hard/soft **-ými**. (e.g., s dobr**ými** brat**mi** - with good brothers, s cudz**ími** učiteľ**mi** - with foreign teachers)
 * *Examples:* Idem **s priateľom** (I am going with a friend). Oni hovoria **s nami** (They are talking with us). Píšem **perom** (I am writing with a pen). Ona je **dobrou študentkou** (She is a good student). My sme **dobrými študentmi** (We are good students).
 
-# Hobbies (Verbs – Imperfective only)
+# Hobbies
 
 ## Verb Conjugations (Present Tense - Imperfective)
 
@@ -78,7 +78,7 @@ Imperfective verbs describe actions that are ongoing, repeated, or not completed
 * **-iť conjugation:** Includes verbs like **hovoriť** (to speak), **vidieť** (to see). Endings: -**ím**, -**íš**, -**í**, -**íme**, -**íte**, -**ia**.
     * *Example: hovoriť* -> Ja hovor**ím** (I speak/am speaking), Ty hovor**íš** (You speak/are speaking), On/Ona/Ono hovor**í** (He/She/It speaks/is speaking), My hovor**íme** (We speak/are speaking), Vy hovor**íte** (You speak/are speaking), Oni/Ony hovor**ia** (They speak/are speaking).
 
-# Sports (very basic accusative case + very basic locative)
+# Sports
 
 ## Basic Accusative and Locative (Singular Only)
 
@@ -93,7 +93,7 @@ Let's start with a simplified look at two more cases in the singular. The **Accu
     * *Feminine:* Ends in **-e** or **-i**. (e.g., na **rieke** - on a river, v **zemi** - in the earth)
 * *Examples:* Čítam **knihu** (I am reading a book). Sedíme **na stole** (We are sitting on a table).
 
-# Food (Accusative case)
+# Food
 
 ## The Proper Accusative Case: The Direct Object
 
@@ -113,7 +113,7 @@ The **Accusative case** is the case of the direct object, indicating the person 
     * *Plural Masculine Animate:* Same as Genitive Plural (hard **-ých**, soft **-ích**). (e.g., Vidím **starých** otcov - I see old fathers, Vidím **cudzích** mužov - I see foreign men)
 * *Examples:* Ja čítam **zaujímavú knihu** (I am reading an interesting book). On vidí **svojho otca** (He sees his father). My kupujeme **nové auto** (We are buying a new car).
 
-# Drinks (Genitive case)
+# Drinks
 
 ## The Genitive Case: Possession, Absence, and More
 
@@ -129,7 +129,7 @@ The **Genitive case** indicates possession (like 'of' or 's), absence (with **be
 * *Prepositions:* Used after **bez** (without), **z/zo** (from), **u** (at/by/have), and others like **do** (to/until), **od** (from).
 * *Examples:* To je práca **môjho otca** (This is my father's work). Ja som **z mesta** (I am from the city). **U mňa** je hodinky (I have a watch - literally "At me there is a watch"). Oni idú **bez vody** (They are going without water). Videl som veľa **krásnych žien** (I saw many beautiful women).
 
-# Studying & Writing (Locative case)
+# Studying & Writing
 
 ## The Proper Locative Case: Location and Topic
 
@@ -145,7 +145,7 @@ The **Locative case** is used for location ('in', 'on', 'at') or the topic of di
     * *Plural (all genders):* hard/soft **-ých/-ích**. (e.g., v dobr**ých** dom**och** - in good houses, o cudz**ích** muž**och** - about foreign men)
 * *Examples:* Moja kniha je **na stole** (My book is on the table). Hovoríme **o našom dome** (We are talking about our house). Oni žijú **vo veľkom meste** (They live in a big city). Deti sa hrajú **na dvoroch** (Children are playing in the yards).
 
-# Animals (Dative case)
+# Animals
 
 ## The Dative Case: To Whom? For Whom?
 
@@ -256,7 +256,7 @@ To state the time of day, you typically use the preposition **o** followed by th
 
 * *Example:* o osm**ej** hodine štyridsaťpäť minút - at eight forty-five.
 
-# Talking about Time (past tense)
+# Talking about Time
 
 ## The Simple Past Tense (minulý čas)
 
@@ -270,7 +270,7 @@ Talking about actions that happened and finished in the past uses the simple pas
 
 * *Examples:* Včera **som pracoval** (masc.) (Yesterday I worked). Včera ona **pracovala** (fem.) (Yesterday she worked). My **sme videli** film (We saw a film). Oni **prišli** neskoro (They arrived late).
 
-# Seasons of the year (future tense)
+# Seasons of the year
 
 ## The Future Tense
 
@@ -282,7 +282,7 @@ To express actions that will happen in the future using imperfective verbs, you 
 * *Examples (Compound Future - imperfective):* Ja **budem čítať** knihu (I will read a book). Ty **budeš hovoriť** s ním (You will talk with him). Ona **bude pracovať** zajtra (She will work tomorrow). My **budeme písať** (We will write). Oni **budú pozerať** film (They will watch a film).
 * *Examples (Simple Future - perfective):* Ja **prečítam** knihu (I will read a book). Ty **povieš** mu (You will tell him). Ona **urobí** to (She will do it).
 
-# Clothes  (basic conjunctions)
+# Clothes
 
 ## Using Conjunctions: 'a', 'i', 'alebo'
 
@@ -292,7 +292,7 @@ Conjunctions are like connecting words that join words, phrases, or clauses. Thr
 * **i:** Simply means "and," connecting similar things. (e.g., Ja **i** ty - I and you. Čítam **i** píšem - I read and write.)
 * **alebo:** Means "or," offering an alternative. (e.g., Káva **alebo** čaj? - Coffee or tea? Prídete **alebo** ostanete doma? - Will you come or stay at home?)
 
-# Character (Conditional)
+# Character
 
 ## Conditional Forms: Saying "Would Do"
 
@@ -303,7 +303,7 @@ To talk about hypothetical situations or what someone "would do," you use the co
 
 * *Examples:* Ja **by som čítal** (masc.) / **by som čítala** (fem.) tú knihu (I would read that book). On **by šiel** do kina (He would go to the cinema). My **by sme robili** to všetko spolu (We would do that all together). Čo **by ste chceli**? (What would you like?).
 
-# Emotions (adverbs)
+# Emotions
 
 ## Using Adverbs
 
@@ -312,7 +312,7 @@ Adverbs modify verbs, adjectives, or other adverbs, telling us *how*, *when*, *w
 * *Examples:* dobre (well, from dobrý - good), rýchlo (quickly, from rýchly - quick), ticho (quietly, from tichý - quiet), ďaleko (far).
 * *In sentences:* On hovorí **dobre** (He speaks well). Ona beží **rýchlo** (She runs quickly). Žijeme **ďaleko** (We live far away).
 
-# Physical Appearance (Easy comparisons)
+# Physical Appearance
 
 ## Easy Comparisons: Vyššie and Než/Od
 

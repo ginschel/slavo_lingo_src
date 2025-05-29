@@ -1,4 +1,4 @@
-# Conjugation of to be and the Nominative Case
+# Conjugation of to be
 
 ## Welcome to the course!
 
@@ -49,7 +49,7 @@ Demonstrative pronouns help us specify particular nouns, similar to using "this"
 
 * *Examples:* **Toś ten** dom wjeliki (This/That house is big). **Toś ta** knigła moja (This/That book is mine). **Toś to** jo naše město (This/That is our city). **Toś te** luźe su wjasołe (These/Those people are cheerful).
 
-# Family (Instrumental case)
+# Family
 
 ## The Instrumental Case: With and By Means Of
 
@@ -65,7 +65,7 @@ The **Instrumental case** primarily indicates *z kim* or *čim* an action is per
     * *Plural (all genders):* ending **-ymi** (hard) / **-imi** (soft). (e.g., z dobr**ymi** bratš**ami** - with good brothers, z něžn**imi** wucabnik**ami** - with tender teachers)
 * *Examples:* Som **z pśijaśelom** (I am with a friend). Wóni rozmówaju **z nami** (They are talking with us). Pišom **pśez wóźin** (I am writing with a pen - literally 'through a pen'). Wóna **dobra studentka** (She is a good student - present tense of 'to be' omitted). Smy **dobrymi studentami** (We are good students - present tense of 'to be' omitted, Instrumental plural used).
 
-# Hobbies (Verbs – Imperfective only)
+# Hobbies
 
 ## Verb Conjugations (Present Tense - Imperfective)
 
@@ -76,7 +76,7 @@ Imperfective verbs describe actions that are ongoing, repeated, or not completed
 * **Type 2 (often -iś, -yś stem):** Includes verbs like **powědaś** (to speak), **wiźeś** (to see). Endings: -**im**/-**ym**, -**iš**/-**yš**, -**i**/-**y**, -**imy**/-**ymy**, -**iśe**/-**yśe**, -**e**- / -**e**-.
     * *Example: powědaś* -> Ja powěź**im**, Ty powěź**iš**, Wón/Wóna/Wóno powěź**i**, My powěź**imy**, Wy powěź**iśe**, Wóni/Wone powěź**e**.
 
-# Sports (very basic accusative case + very basic locative)
+# Sports
 
 ## Basic Accusative and Locative (Singular Only)
 
@@ -91,7 +91,7 @@ Let's start with a simplified look at two more cases in the singular. The **Accu
     * *Feminine:* Ends in **-e**. (e.g., na **rěk**e - on a river, w **zemj**i - in the earth, w **škol**e - in a school)
 * *Examples:* Ja cytam **knigłu** (I am reading a book). Smy seźimy **na stolu** (We are sitting on a table).
 
-# Food (Accusative case)
+# Food
 
 ## The Proper Accusative Case: The Direct Object
 
@@ -111,7 +111,7 @@ The **Accusative case** is the case of the direct object, indicating the person 
     * *Plural Masculine Animate:* Same as Genitive Plural (hard **-ych**, soft **-ich**). (e.g., Ja wiźim **starych** nańšow - I see old fathers, Ja wiźim **něžnych** luźijow - I see tender people)
 * *Examples:* Ja cytam **zajmowu knigłu** (I am reading an interesting book). Wón wiźi **swojogo nanśa** (He sees his father). My kupujomy **něžne kwěśe** (We are buying tender flowers).
 
-# Drinks (Genitive case)
+# Drinks
 
 ## The Genitive Case: Possession, Absence, and More
 
@@ -127,7 +127,7 @@ The **Genitive case** indicates possession (like 'of' or 's), absence (with **be
 * *Prepositions:* Used after **bez** (without), **z** (from), **pśi** (at/by/have), and others like **do** (to/until), **wót** (from).
 * *Examples:* To jo źěło **mojogo nanśa** (This is my father's work). Ja som **z města** (I am from the city). **Pśi mě** jo zegark (I have a watch - literally "At me there is a watch"). Wóni jadu **bez wódy** (They are going without water). Som wiźeł **wjele krasnych žonow** (I saw many beautiful women).
 
-# Studying & Writing (Locative case)
+# Studying & Writing
 
 ## The Proper Locative Case: Location and Topic
 
@@ -143,7 +143,7 @@ The **Locative case** (Prepositional) specifies location ('in', 'on', 'at') or t
     * *Plural (all genders):* hard **-ych**, soft **-ich**. (e.g., w dobr**ych** dom**ach** - in good houses, wó něžn**ych** luź**ach** - about tender people)
 * *Examples:* Moja knigła **na stolu** (My book is on the table). Smy powědamy **wó našom domu** (We are talking about our house). Wóni bydli **w wjelikem městje** (They live in a big city). Źiśi graju **na dworach** (Children are playing in the yards).
 
-# Animals (Dative case)
+# Animals
 
 ## The Dative Case: To Whom? For Whom?
 
@@ -254,7 +254,7 @@ To state the time of day, you typically use the preposition **w** followed by th
 
 * *Example:* 8:45 -> w wósym**ej** goźinje styrdśeśi pěś minut - at eight forty-five.
 
-# Talking about Time (past tense)
+# Talking about Time
 
 ## The Simple Past Tense
 
@@ -268,7 +268,7 @@ Talking about actions that happened and finished in the past uses the simple pas
 
 * *Examples:* Wcora **ja źěłał** (masc.) (Yesterday I worked). Wcora wóna **źěłała** (fem.) (Yesterday she worked). My **wiźeli** film (We saw a film). Wóni **pśiźěli** pózdźej (They arrived late).
 
-# Seasons of the year (future tense)
+# Seasons of the year
 
 ## The Future Tense
 
@@ -279,7 +279,7 @@ To express actions that will happen in the future using imperfective verbs, you 
 
 * *Examples:* Ja **bydom cytaś** knigłu (I will read a book). Ty **byźoš powědaś** z nim (You will talk with him). Wóna **byźo źěłaś** zajtša (She will work tomorrow). My **byźomy pisaś** (We will write). Wóni **byźo glědaś** film (They will watch a film).
 
-# Clothes  (basic conjunctions)
+# Clothes
 
 ## Using Conjunctions: 'a', 'a a', 'abo'
 
@@ -289,7 +289,7 @@ Conjunctions are like connecting words that join words, phrases, or clauses. Som
 * **a a:** Means "and," connecting similar items in a list. (e.g., Ja, **a a** ty, **a a** wón - I, and you, and he).
 * **abo:** Means "or," offering an alternative. (e.g., Kawa **abo** teja? - Coffee or tea? Buźośo **abo** wóstanjote doma? - Will you come or stay home?).
 
-# Character (Conditional)
+# Character
 
 ## Conditional Forms: Saying "Would Do"
 
@@ -299,7 +299,7 @@ To talk about hypothetical situations or what someone "would do," you use the co
 
 * *Examples:* Ja **cytał by** (m.) / **cytała by** (f.) tu knigłu (I would read that book). Wón **šoł by** do kina (He would go to the cinema). My **zrobili by** to wšykno gromaźe (We would do that all together). Co **by wy kśěli**? (What would you like? - using the past tense plural form for 'wy').
 
-# Emotions (adverbs)
+# Emotions
 
 ## Using Adverbs
 
@@ -308,7 +308,7 @@ Adverbs modify verbs, adjectives, or other adverbs, telling us *how*, *when*, *w
 * *Examples:* derje (well, from dobry - good), malsnje (quickly, from malsny - quick), śicho (quietly, from śichy - quiet), daloko (far).
 * *In sentences:* Wón powěda **derje** (He speaks well). Wóna běža **malsnje** (She runs quickly). My bydlime **daloko** (We live far away).
 
-# Physical Appearance (Easy comparisons)
+# Physical Appearance
 
 ## Easy Comparisons: Wušej and Njež
 

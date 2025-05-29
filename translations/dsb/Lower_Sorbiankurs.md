@@ -1,5 +1,5 @@
 # Module 1 - Very basic grammar and phrases
-## Conjugation of to be and the Nominative Case
+## Conjugation of to be
 New Words: [to (srjejźny rod), ta (žeński rod), ten (muski rod), tamten (muski rod), tamta (žeński rod), som, sy, jo, smy, sćo, su, ja, ty, wón, wóna, wóno, my, wy, wóni, wone, cłowjek, žona, muž, źiśe, pśijaśel, sotša, staršy, dom, město, źeń, teke, chto]
 Phrases: [
     "Ja som mudry.",
@@ -29,7 +29,7 @@ Phrases: [
     "Wóni su wjele mjase"
 ]
 
-## Greetings & Phrases for conversations
+## Greetings & Phrases
 New Words: [pózdraw, zdråw, powěźeńka, ranjo, wjacor, źeń, noc, źěkuju, pardón, wódaj, dobry, lěpšy, móžno, škoda, tak, což, nje, jo, snano, daj]
 Phrases: [
     "Dobro ranjo!",
@@ -73,7 +73,7 @@ Phrases: [
     "Daj!"
 ]
 
-## Family (Instrumental case)
+## Family
 New Words: [bratš, źěd, babka, śěśka, wnuk, wnucka, maś, wótšc, familija, syn, źowka, wuj (wótcowy bratš), powěda, źe, źomy, źiwe]
 Phrases: [
     "Wón jo z mójim bratšom.",
@@ -98,7 +98,7 @@ Phrases: [
     "Wóna powěda z wnukom cesto."
 ]
 
-## Hobbies (Verbs – Imperfective only)
+## Hobbies
 New Words: [cytaś, pisaś (pišo), graś, glědaś, słuchaś, mólowaś, spiwaś, wuknuś se, sedźeś (sedźi), šyś (šyjo), tancyrowaś]
 Phrases: [
     "Ja cytam knigłu.",
@@ -124,7 +124,7 @@ Phrases: [
     "Wóna gra na gitaru."
 ]
 
-## Sports (very basic accusative case + very basic locative)
+## Sports
 New Words: [football, basketball, tennis, plawanja, plowaś, běg, běgaś, ranim, luściś, hockey, sport, gra, trenowaś, stadion, snadny, śěžki]
 Phrases: [
     "Gram we football.",
@@ -150,7 +150,7 @@ Phrases: [
 ]
 
 # Module 2 – Food and Drinks
-## Food (Accusative case)
+## Food
 New Words: [klěb, wariś, njasć, jěsć (jě), masło, mloko, měso, jajco, zjutšnu, wobjed, kupiś, wjacorju, blido, knigła, słodki, jědł]
 Phrases: [
     "Ja jěm klěb.",
@@ -176,7 +176,7 @@ Phrases: [
     "Wóni wědźa, až ja zawšu jěm klěb z masłom."
 ]
 
-## Drinks (Genitive case)
+## Drinks
 New Words: [wóda, piwo, piś, wino, kafa, sok, kśěś (kśě), flaska, wopytaś namakaś, cokel, butelka, caj, mloko, bźez, za, z/ze, pśi/měś]
 Phrases: [
     "Ja nje mam wódy.",
@@ -228,7 +228,7 @@ Phrases: [
 ]
 
 # Module 3 – Learning and Languages
-## Studying & Writing (Locative case)
+## Studying & Writing
 New Words: [šula, wucabnica, wucabnik, zapisk, wuknik, knigła, nadawk, blido, tuš, papjer, pśedmjat, metoda, pjero, zapiskowy zmušk, na]
 Phrases: [
     "To mója šula.",
@@ -279,7 +279,7 @@ Phrases: [
     "Krasna figura stoja na blidźe."
 ]
 
-## Nationalities / Languages
+## Nationalities
 New Words: [Słowjan, rěc, kraj, narod, mě, Chorwatka, Ruso, Pólak, Nimc, Englez]
 Phrases: [
     "Wón jo Słowjan.",
@@ -358,7 +358,7 @@ Phrases: [
 ]
 
 # Module 5 – Describing nature and directions
-## Animals (Dative case)
+## Animals
 New Words: [kócka, pjas, ptašk, pomagaś, pokazaś (pokažo), kóń, daś (dajo), ryba, žaba, mjadwjeź, wjelk, myš, zwěrje]
 Phrases: [
     "Ja dam kócku rybu.",
@@ -459,7 +459,7 @@ Phrases: [
     "Cerwjena róža rosćo how."
 ]
 
-## Cardinal points/directions
+## Cardinal points
 New Words: [nord, sud, zapad, pódzajtšo, nordowy, sudowy, zapadny, pódzajtšny, kompas, bok, źo, wustaś (wustajo), pokazaś, karta, puśowaś, rědne, lěwe, proste]
 Phrases: [
     "Nord jo zymny.",
@@ -486,7 +486,7 @@ Phrases: [
 ]
 
 # Module 6 Grammar revision
-## Grammar revision cases
+## Cases revision
 New Words: [
     "rězaś (rěžo)",
     "dar",
@@ -518,7 +518,7 @@ Phrases: [
     "Měrna noc!"
 ]
 
-## Grammar revision pronouncs
+## Pronouns revision
 New Words: [
     "znaś",
     "wěźeś (wě)",
@@ -805,7 +805,7 @@ Phrases: [
 
 # Module 9 – Time and the calendar
 
-## Talking about Time (past tense)
+## Talking about Time
 New Words: [cas, minuta, sekunda, goźina, źinsaj, běšo, běšo, běšo, běchu, šedł, šeźeła, šedło, šedli, cera, zajtša, wjacor, pśełnoc, gaž wjele, spaś (spi), trajś]
 Phrases: [
     "Gaž wjele jo casa?",
@@ -856,7 +856,7 @@ Phrases: [
     "Julij jo z mjasecom lěśa."
 ]
 
-## Seasons of the year (future tense)
+## Seasons of the year
 New Words: [lěśo, nazymje, zyma, nalěśe, sezon, byś, budu, buźoš, buźe, buźomy, buźośo, budu]
 Phrases: [
     "We lěśe buźe śopło.",
@@ -883,7 +883,7 @@ Phrases: [
 
 # Module 10 – Bodies, Clothes talking about people
 
-## Clothes  (basic conjunctions)
+## Clothes
 New Words: [ košula, nosyś, nogawice, t-šyrt, šalik, capka, płasć, rukajca, gace, škarpetka, wobuśe, woblac, grane, woblěkaś, pyžama]
 Phrases: [
     "Wón nosy módru košulu.",
@@ -933,7 +933,7 @@ Phrases: [
     "Wóna słyšo śi jano jadenym wuchom."
 ]
 
-## Character (Conditional)
+## Character
 New Words: [dobry, zły, sylny, słaby, wusudny, śichy, mudry, głupy, šćery, lěny, był by, był by, był by, byli by, byli by, byli by, mlčaś (mlcy)]
 Phrases: [
     "Wón to dobry cłowjek.",
@@ -958,7 +958,7 @@ Phrases: [
     "Kak ja był by wusudny, to ja był by se nje bojoł."
 ]
 
-## Emotions (adverbs)
+## Emotions
 New Words: [wjasoły, smuśny, gniwny, lubosć, pśestrašony, měr, zawisć, zhanbny, ganjba, górdy, wjaseły, śěgnjeśe, cuś (cujo), chowasć, ćěkaś]
 Phrases: [
     "Cujom se wjasołe źinsaj.",
@@ -983,7 +983,7 @@ Phrases: [
     "Śarpiś jano kśěmy gaž lubijomy."
 ]
 
-## Physical Appearance (Easy comparisons)
+## Physical Appearance
 New Words: [wusoki, niski, tusty, chudy, mały, rědny, grabny, stary, młody, włosy, wocy, njež, wušej, kóža, mańšy, smjaś se (smějo se), błyskaś, gwězda, swětły, śamny]
 Phrases: [
     "Wón jo wušej wusoki a sylny njež wón.",

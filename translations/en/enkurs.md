@@ -1,5 +1,5 @@
 # Module 1 - Very basic grammar and phrases
-## Conjugation of to be and the Nominative Case
+## Conjugation of to be
 New Words: [this, this, that, that over there, that over there, am, are, is, are, are, are, I, you, he, she, it, we, you, they (m/mixed), they (f/n), person, woman, man, child, friend, sister, parent, house, city, day, also, who]
 Phrases: ["I am wise.",
 "This is my sister.",
@@ -27,7 +27,7 @@ Phrases: ["I am wise.",
 "They are very kind.",
 "They are very kind"]
 
-## Greetings & Phrases for conversations
+## Greetings & Phrases
 New Words: [greeting, healthy/hello, conversation, morning, evening, day, night, thanks, pardon, excuse me, good, better, possible, pity, so, what, no, yes, maybe/can, let's go]
 Phrases: [
 "Good morning!",
@@ -70,7 +70,7 @@ Phrases: [
 "Are you ready?",
 "Let's go!"]
 
-## Family (Instrumental case)
+## Family
 New Words: [brother, grandfather, grandmother, aunt, grandson, granddaughter, mother, father, family, son, daughter, uncle (father's brother), speaks, goes, we go, lives]
 Phrases: [
 "He is my brother.",
@@ -95,7 +95,7 @@ Phrases: [
 "She talks with her grandson often."
 ]
 
-## Hobbies (Verbs – Imperfective only)
+## Hobbies
 New Words: [to read, to write (writes), to play, to watch, to listen, to paint, to sing, to learn, to sit (sits), to sew (sews), to dance]
 Phrases: ["I am reading a book.",
 "She is writing letters.",
@@ -119,7 +119,7 @@ Phrases: ["I am reading a book.",
 "I dance a lot",
 "She is playing the guitar."]
 
-## Sports (very basic accusative case + very basic locative)
+## Sports
 New Words: [football, basketball, tennis, swimming, to swim, running, to run, in the morning, to love/like, hockey, sport, game, to train, stadium, fast, difficult]
 Phrases: ["I play football.",
 "She plays basketball.",
@@ -143,7 +143,7 @@ Phrases: ["I play football.",
 "Hockey is difficult."]
 
 # Module 2 – Food and Drinks
-## Food (Accusative case)
+## Food
 New Words: [bread, to prepare, to carry, to eat (eats), butter, milk, meat, egg, breakfast, lunch, to buy, dinner, dish, book, sweet, food]
 Phrases: ["I am eating bread.",
 "She is eating meat.",
@@ -167,7 +167,7 @@ Phrases: ["I am eating bread.",
 "We see your pizza on the table.",
 "They know that I always eat bread with butter."]
 
-## Drinks (Genitive case)
+## Drinks
 New Words: [water, beer, to drink, wine, coffee, juice, to want (wants), bottle (flask), to try to find, glass, bottle, tea, milk, without, for, from, at/by]
 Phrases: ["I do not have water.",
 "She does not drink wine.",
@@ -215,7 +215,7 @@ Phrases: ["The apple is red.",
 "The melon is very tasty."]
 
 # Module 3 – Learning and Languages
-## Studying & Writing (Locative case)
+## Studying & Writing
 New Words: [school, female teacher, male teacher, note, student, book, assignment, table, ink, paper, subject, method, pen, notebook, on]
 Phrases: ["This is my school.",
 "She is a teacher.",
@@ -262,7 +262,7 @@ Phrases: ["This is a circle.",
 "The table has the shape of a square.",
 "A beautiful figure is standing on the table."]
 
-## Nationalities / Languages
+## Nationalities
 New Words: [Slav, language, country, nation, name, Croat (f), Russian (m), Pole (m), German (m), Englishman]
 Phrases: ["He is a Slav.",
 "She speaks the Slavic language.",
@@ -335,7 +335,7 @@ Phrases: ["The knife is lying on the table.",
 "The kitchen has a good smell in the evening."]
 
 # Module 5 – Describing nature and directions
-## Animals (Dative case)
+## Animals
 New Words: [cat, dog, bird, to help, to show (shows), horse, to give (gives), fish, frog, bear, wolf, mouse, animal]
 Phrases: ["I give the cat a fish.",
 "She says to the dog.",
@@ -429,7 +429,7 @@ Phrases: [
 "The yellow sun warms the earth.",
 "A red rose grows here."]
 
-## Cardinal points/directions
+## Cardinal points
 New Words: [north, south, west, east, northern, southern, western, eastern, compass, side, where, to rise (rises), to show, map, to travel, right, left, straight]
 Phrases: ["The north is cold.",
 "The south is warm.",
@@ -454,7 +454,7 @@ Phrases: ["The north is cold.",
 "We are going right now and then straight."]
 
 # Module 6 Grammar revision
-## Grammar revision cases
+## Cases revision
 New Words: [to cut (cuts), gift, universe, mirror]
 Phrases: ["There is no bone here.",
 "I give to the woman.",
@@ -479,7 +479,7 @@ Phrases: ["There is no bone here.",
 "In the cities you will see many people.",
 "Good night!"]
 
-## Grammar revision pronouncs
+## Pronouns revision
 New Words: [to know, to know (knows), dream, thing]
 Phrases: ["I don't know that.",
 "I have known about that thing for a long time.",
@@ -742,7 +742,7 @@ Phrases: ["at twenty past the first hour",
 # Module 9 – Time and the calendar
 Here is the translation of your entire markdown file:
 
-## Talking about Time (past tense)
+## Talking about Time
 
 New Words: [time, minute, second, hour, today, was (m), was (f), was (n), were, went/walked (m), went/walked (f), went/walked (n), went/walked (pl), yesterday, tomorrow, evening, midnight, how much, to sleep (sleeps), to last]
 Phrases: ["What time is it?",
@@ -793,7 +793,7 @@ Phrases: ["Monday is the first day of the week.",
 "July is the month of summer."
 ]
 
-## Seasons of the year (future tense)
+## Seasons of the year
 
 New Words: [summer, autumn, winter, spring, season, to be, I will be, you will be, he/she/it will be, we will be, you will be, they will be]
 Phrases: ["In the summer it will be warm.",
@@ -820,7 +820,7 @@ Phrases: ["In the summer it will be warm.",
 
 # Module 10 – Bodies, Clothes talking about people
 
-## Clothes (basic conjunctions)
+## Clothes
 
 New Words: [shirt, to wear, trousers, t-shirt, scarf, hat, coat, glove, underwear, sock, footwear, clothes, ugly, to dress, pajamas]
 Phrases: ["He wears a blue shirt.",
@@ -870,7 +870,7 @@ Phrases: ["My hand hurts.",
 "She hears you only with one ear."
 ]
 
-## Character (Conditional)
+## Character
 
 New Words: [good, bad, strong, weak, brave, quiet, wise, stupid, sincere, lazy, I would be, you would be, he/she/it would be, we would be, you would be, they would be, to be silent (is silent)]
 Phrases: ["He is a good person.",
@@ -895,7 +895,7 @@ Phrases: ["He is a good person.",
 "If I were brave, I would not be afraid."
 ]
 
-## Emotions (adverbs)
+## Emotions
 
 New Words: [joyful, sad, angry, love, frightened, peace, envy, ashamed, shame, proud, cheerful, tremor, to feel (feels), to hide, to run away]
 Phrases: ["We feel joyful this week.",
@@ -919,7 +919,7 @@ Phrases: ["We feel joyful this week.",
 "Joy comes from within.",
 "We only suffer when we love."]
 
-## Physical Appearance (Easy comparisons)
+## Physical Appearance
 
 New Words: [tall, short, fat, thin, small, beautiful, ugly, old, young, hair, eyes, than, taller/higher, skin, less, to laugh (laughs), to shine, star, light, dark]
 Phrases: ["He is taller and stronger than he is.",

@@ -1,4 +1,4 @@
-# Conjugation of to be and the Nominative Case
+# Conjugation of to be
 
 ## Welcome to the course!
 
@@ -52,7 +52,7 @@ Demonstrative pronouns help us point out specific nouns, like saying "this" or "
 
 * *Examples:* **Toj** dom jest veliky (This/That house is big). **Ta** kniga jest moja (This/That book is mine). **To** jest naše selo (This/That is our village). **Ti** ljudi sut veseli (These/Those people are cheerful).
 
-# Family (Instrumental case)
+# Family
 
 ## The Instrumental Case: With and By Means Of
 
@@ -69,7 +69,7 @@ including **jest** (to be) when describing someone's profession or state.
     * *Plural (all genders):* hard/soft **-ymi**. (e.g., s dobr**ymi** bratanami - with good brothers, s svěž**ymi** učiteljami - with fresh teachers)
 * *Examples:* Idem **s prijateljem** (I am going with a friend). Oni govorjat **s nami** (They are talking with us). Pišem **perom** (I am writing with a pen). Ona jest **dobroju studentkoju** (She is a good student). My jesmo **dobrymi studentami** (We are good students).
 
-# Hobbies (Verbs – Imperfective only)
+# Hobbies
 
 ## Two Main Verb Conjugations (Imperfective)
 
@@ -80,7 +80,7 @@ Imperfective verbs describe actions that are ongoing, repeated, or not completed
 * **Conjugation 2 (often -i-/-ě- stem):** Includes verbs like **govoriti** (to speak), **viděti** (to see). 'Ja' often ends in -im (with possible consonant changes), 'ty' in -iš, etc.
     * *Example: govoriti* -> Ja govori**m** (I speak/am speaking), Ty govori**š** (You speak/are speaking), On/Ona/Ono govori (He/She/It speaks/is speaking), My govori**mo** (We speak/are speaking), Vy govori**te** (You speak/are speaking), Oni/Ony govor**et** (They speak/are speaking).
 
-# Sports (very basic accusative case + very basic locative)
+# Sports
 
 ## Basic Accusative and Locative (Singular Only)
 
@@ -95,7 +95,7 @@ The **Locative case** is used for location after prepositions like **na** (on) o
     * *Feminine:* Often end in **-ě** or **-i**(soft ending). (e.g., na **rěkě** - on a river, na **zemji** - on land)
 * *Examples:* Čitam **knigu** (I am reading a book). Sidim **na stolu** (We are sitting on a table).
 
-# Food (Accusative case)
+# Food
 
 
 ## The Proper Accusative Case: The Direct Object
@@ -117,7 +117,7 @@ Its forms depend on gender, number, and whether a masculine noun is animate (liv
     * *Plural Masc Animate:* Same as Genitive Plural (hard/soft **-yh/-ih**). (e.g., Vidim **staryh** otcov - I see old fathers, Vidim **svěžih** mužev - I see fresh men)
 * *Examples:* Ja čitam **interesnu knigu** (I am reading an interesting book). On vidi **svojego otca** (He sees his father). My kupujemo **svěže avto** (We are buying a fresh car).
 
-# Drinks (Genitive case)
+# Drinks
 
 ## The Genitive Case: Possession, Absence, and More
 
@@ -134,7 +134,7 @@ Its main role is showing belonging or relation, or being required by certain pre
 * *Prepositions:* Used after **bez** (without), **iz** (from), **u** (at/by/have), and others like **do** (to/until), **ot** (from).
 * *Examples:* To jest rabota **mojego otca** (This is my father's work). Ja jesm **iz grada** (I am from the city). **U mně** jest časovnik (I have a watch - literally "At me there is a watch"). Oni jedut **bez vody** (They are going without water). Viděl jesm mnogo **krasnyh žen** (I saw many beautiful women).
 
-# Studying & Writing (Locative case)
+# Studying & Writing
 
 ## The Proper Locative Case: Location and Topic
 
@@ -152,7 +152,7 @@ The **Locative case** specifies location ('in', 'on', 'at') or the topic of disc
 
 
 
-# Animals (Dative case)
+# Animals
 
 ## The Dative Case: To Whom? For Whom?
 
@@ -272,7 +272,7 @@ To state the time of the day you have to use + ordninal number + locative + čas
 
 For instance 8:45 -> o osmoj časině četyrideset pet
 
-# Talking about Time (past tense)
+# Talking about Time
 
 ## The Simple Past Tense
 
@@ -290,7 +290,7 @@ The form of to be can be omitted for the third person singular and plural.
 * *Examples:* Včera jesm **rabotal** (masc.) (Yesterday i worked). Včera ona **rabotala** (fem.) (Yesterday she worked). My jesmo **viděli** film (We saw a film). Oni **pribyli** pozdno (They arrived late).
 
 
-# Seasons of the year (future tense)
+# Seasons of the year
 
 ## The Future Tense
 
@@ -301,7 +301,7 @@ To express actions that will happen in the future using imperfective verbs, you 
 
 * *Examples:* Ja **budu čitati** knigu (I will read a book). Ty **budeš govoriti** s nim (You will speak with him). Ona **bude rabotati** jutro (She will work tomorrow). My **budemo pisati** (We will write). Oni **budut gledati** film (They will watch a film).
 
-# Clothes  (basic conjunctions)
+# Clothes
 
 ## Using Conjunctions: 'i', 'ili', 'a'
 
@@ -322,7 +322,7 @@ The particle **by** often appears after the subject or the verb.
 
 * *Examples:* Ja **čital byh** (m.) / **čitala byh** (f.) tu knigų (I would read that book). On **išel by** do kina (He would go to the cinema). My **dělali byhmo** to vsi zajedno (We would do that all together). čto **byste** **hotěli**? (What would you like? - using past tense plural for 'vy')
 
-# Emotions (adverbs)
+# Emotions
 
 ## Using Adverbs
 
@@ -331,7 +331,7 @@ Adverbs modify verbs, adjectives, or other adverbs, telling us *how*, *when*, *w
 * *Examples:* dobro (well, from dobry - good), brzo (quickly, from brzy - quick), tiho (quietly, from tihy - quiet), daleko (far).
 * *In sentences:* On govori **dobro** (He speaks well). Ona běga **brzo** (She runs quickly). Živemo **daleko** (We live far away).
 
-# Physical Appearance (Easy comparisons)
+# Physical Appearance
 
 ## Easy Comparisons: Vyše and Než
 

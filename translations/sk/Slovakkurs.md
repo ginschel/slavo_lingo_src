@@ -1,5 +1,5 @@
 # Module 1 - Very basic grammar and phrases
-## Conjugation of to be and the Nominative Case
+## Conjugation of to be
 New Words: [to, tá, ten, tamten, tamtá, som, si, je, sme, ste, sú, ja, ty, on, ona, ono, my, vy, oni, one, človek, žena, muž, dieťa, priateľ, sestra, rodič, dom, mesto, deň, tiež, kto]
 Phrases: [
     "Ja som múdry.",
@@ -29,7 +29,7 @@ Phrases: [
     "Oni sú veľmi milí"
 ]
 
-## Greetings & Phrases for conversations
+## Greetings & Phrases
 New Words: [pozdrav, zdravý, beseda, ráno, večer, deň, noc, chvála, pardon, izvini, dobrý, lepšie, možno, škoda, tak, čo, nie, áno, môže, daj]
 Phrases: [
     "Dobré ráno!",
@@ -73,7 +73,7 @@ Phrases: [
     "Daj!"
 ]
 
-## Family (Instrumental case)
+## Family
 New Words: [brat, dedo, babka, tetka, vnuk, vnučka, matka, otec, rodina, syn, dcéra, strýc, hovorí, ide, ideme, žije]
 Phrases: [
     "On je mojím bratom.",
@@ -98,7 +98,7 @@ Phrases: [
     "Ona hovorí s vnukom často."
 ]
 
-## Hobbies (Verbs – Imperfective only)
+## Hobbies
 New Words: [čítať, písať(píše), hrať, pozerať, počúvať, maľovať, spievať, učiť sa, sedieť(sedí), šiť (šije), tancovať]
 Phrases: ["Ja čítam knihu.",
 "Ona píše listy.",
@@ -122,7 +122,7 @@ Phrases: ["Ja čítam knihu.",
 "Ja tancujem veľa",
 "Ona hrá na gitaru."]
 
-## Sports (very basic accusative case + very basic locative)
+## Sports
 New Words: [futbal, basketbal, tenis, plávanie, plávať, beh, behať, ráno, ľúbiť, hokej, šport, hra, trénovať, štadión, rýchlo, ťažký]
 Phrases: [
     "Hrám futbal.",
@@ -148,7 +148,7 @@ Phrases: [
 ]
 
 # Module 2 – Food and Drinks
-## Food (Accusative case)
+## Food
 New Words: [chlieb, variť, niesť, jesť (je), maslo, mlieko, mäso, vajce, raňajky, obed, kúpiť, večera, jedlo, kniha, sladký, jedlo]
 Phrases: [
     "Ja jem chlieb.",
@@ -174,7 +174,7 @@ Phrases: [
     "Oni vedia, čo ja vždy jem chlieb s maslom."
 ]
 
-## Drinks (Genitive case)
+## Drinks
 New Words: [voda, pivo, piť, víno, káva, džús, chcieť (chce), fľaška, skúsiť nájsť, šálka, fľaša, čaj, mlieko, bez, za, z, u]
 Phrases: [
     "Ja nemám vody.",
@@ -226,7 +226,7 @@ Phrases: [
 ]
 
 # Module 3 – Learning and Languages
-## Studying & Writing (Locative case)
+## Studying & Writing
 New Words: [škola, učiteľka, učiteľ, zápis, žiak, kniha, úloha, stôl, tuš, papier, predmet, metóda, pero, zápisník, na]
 Phrases: [
     "To je moja škola.",
@@ -277,7 +277,7 @@ Phrases: [
     "Krásna figúra stojí na stole."
 ]
 
-## Nationalities / Languages
+## Nationalities
 New Words: [slovan, jazyk, štát, národ, meno, Chorvátka, Rus, Poliak, Nemec, Angličan]
 Phrases: [
     "On je Slovan.",
@@ -354,7 +354,7 @@ Phrases: ["Nôž leží na stole.",
 "Kuchyňa má dobrý zápach večer."]
 
 # Module 5 – Describing nature and directions
-## Animals (Dative case)
+## Animals
 New Words: [mačka, pes, vták, pomáhať, ukázať (ukáže), kôň, dať (dá), ryba, žaba, medveď, vlk, myš, zviera]
 Phrases: [
     "Ja dám mačke rybu.",
@@ -455,7 +455,7 @@ Phrases: [
     "Červená ruža rastie tu."
 ]
 
-## Cardinal points/directions
+## Cardinal points
 New Words: [sever, juh, západ, východ, severný, južný, západný, východný, kompas, strana, kde, vstať (vstane), ukazovať, mapa, cestovať, vpravo, vľavo, priamo]
 Phrases: ["Sever je chladný.",
 "Juh je teplý.",
@@ -480,7 +480,7 @@ Phrases: ["Sever je chladný.",
 "Ideme hneď vpravo a potom priamo."]
 
 # Module 6 Grammar revision
-## Grammar revision cases
+## Cases revision
 New Words: [
     "rezať (reže)",
     "dar",
@@ -512,7 +512,7 @@ Phrases: [
     "Pokojnú noc!"
 ]
 
-## Grammar revision pronouncs
+## Pronouns revision
 New Words: [
     "vedieť",
     "vedieť (vie)",
@@ -804,7 +804,7 @@ Phrases: [
 
 # Module 9 – Time and the calendar
 
-## Talking about Time (past tense)
+## Talking about Time
 New Words: [čas, minúta, sekunda, hodina, dnes, bol, bola, bolo, boli, išiel, šla, šlo, šli, včera, zajtra, večer, polnoc, koľko, spať (spí), trvať]
 Phrases: [
     "Koľko je hodín?",
@@ -855,7 +855,7 @@ Phrases: [
     "Júl je mesiacom leta."
 ]
 
-## Seasons of the year (future tense)
+## Seasons of the year
 New Words: [leto, jeseň, zima, jar, ročné obdobie, byť, budem, budeš, bude, budeme, budete, budú]
 Phrases: [
     "V lete bude teplo.",
@@ -882,7 +882,7 @@ Phrases: [
 
 # Module 10 – Bodies, Clothes talking about people
 
-## Clothes  (basic conjunctions)
+## Clothes
 New Words: [košeľa, nosiť, nohavice, tričko, šál, čiapka, kabát, rukavica, nohavičky, ponožka, obuv, oblečenie, škaredý, obliekať sa, pyžamo]
 Phrases: [
     "On nosí modrú košeľu.",
@@ -932,7 +932,7 @@ Phrases: [
     "Ona ťa počuje len jedným uchom."
 ]
 
-## Character (Conditional)
+## Character
 New Words: [dobrý, zlý, silný, slabý, smelý, tichý, múdry, hlúpy, úprimný, lenivý, bol by som, bol by si, bol by, boli by sme, boli by ste, boli by, mlčať (mlčí)]
 Phrases: [
     "On je dobrý človek.",
@@ -957,7 +957,7 @@ Phrases: [
     "Ak by som ja bol smelý, tak by som sa nebál."
 ]
 
-## Emotions (adverbs)
+## Emotions
 New Words: [radostný, žalostný, hnevlivý, láska, prestrašený, pokoj, závisť, hanebný, hanba, hrdý, veselý, chvenie, cítiť (cíti), skrývať, utekať]
 Phrases: [
     "Cítim sa radostne dnes.",
@@ -982,7 +982,7 @@ Phrases: [
     "Trpieť len chceme, keď ľúbime."
 ]
 
-## Physical Appearance (Easy comparisons)
+## Physical Appearance
 New Words: [vysoký, nízky, tučný, chudý, malý, krásny, škaredý, starý, mladý, vlasy, oči, než, viac, koža, menej, smiať sa (smeje sa), bliskať sa, hviezda, svetlý, tmavý]
 Phrases: [
     "On je viac vysoký a silný než on.",

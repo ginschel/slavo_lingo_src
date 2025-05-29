@@ -1,4 +1,4 @@
-# Conjugation of to be and the Nominative Case
+# Conjugation of to be
 
 ## Welcome to the course!
 
@@ -51,7 +51,7 @@ Demonstrative pronouns help us specify particular nouns, similar to using "this"
 
 * *Examples:* **Гэ́ты** дом вялі́кі (This house is big). **Тая́** кнíга мая́ (That book is mine). **Тое** наша мястэ́чка (That is our small town). **Гэ́тыя** лю́дзі вясёлыя (These people are cheerful).
 
-# Family (Instrumental case)
+# Family
 
 ## The Instrumental Case: With and By Means Of
 
@@ -67,7 +67,7 @@ The **Instrumental case** primarily indicates *з кíм* or *ч*ы*м* an actio
     * *Plural (all genders):* ending **-ымі** (hard) / **-імі** (soft). (e.g., з до́бр**ымі** бра́т**амі** - with good brothers, з сíн**імі** настаўнік**амі́** - with blue teachers)
 * *Examples:* Я іду́ **з дру́гам** (I am going with a friend). Яны́ размаўля́юць **з на́мі** (They are talking with us). Я пішу́ **ру́чкай** (I am writing with a pen). Яна́ **добрая студэ́нтка** (She is a good student - 'ёсць' omitted). Мы **до́брыя студэ́нты** (We are good students - 'ёсць' omitted).
 
-# Hobbies (Verbs – Imperfective only)
+# Hobbies
 
 ## Verb Conjugations (Present Tense - Imperfective)
 
@@ -78,7 +78,7 @@ Imperfective verbs describe actions that are ongoing, repeated, or not completed
 * **Second Conjugation:** Often verbs with infinitives ending in -**ыць**, -**іць**, -**ець**, -**аць** (after certain consonants). Endings: -**у**/-**ю**, -**ыш**/-**іш**, -**ыць**/-**іць**, -**ым**/-**ім**, -**ыце**/-**іце**, -**аць**/-**яць**.
     * *Example: гавары́ць* (to speak) -> Я говар**у́**, Ты го́вар**ыш**, Ён/Яна́/Яно́ го́вар**ыць**, Мы го́вар**ым**, Вы го́вар**ыце**, Яны́ го́вар**аць**.
 
-# Sports (very basic accusative case + very basic locative)
+# Sports
 
 ## Basic Accusative and Locative (Singular Only)
 
@@ -93,7 +93,7 @@ Let's start with a simplified look at two more cases in the singular. The **Accu
     * *Feminine:* Ends in **-е** or **-і** (after certain consonants). (e.g., на **рац**э́** - on a river, у **зямл**í** - in the earth, у **шко́л**е** - in a school)
 * *Examples:* Я чыта́ю **кнíгу** (I am reading a book). Мы сідзі́м **на стале́** (We are sitting on a table).
 
-# Food (Accusative case)
+# Food
 
 ## The Proper Accusative Case: The Direct Object
 
@@ -113,7 +113,7 @@ The **Accusative case** is the case of the direct object, indicating the person 
     * *Plural Masculine Animate:* Same as Genitive Plural (hard **-ых**, soft **-іх**). (e.g., Я ба́чу **стары́х** ба́цькаў - I see old fathers, Я ба́чу **сíніх** людзе́й - I see blue people)
 * *Examples:* Я чыта́ю **ціка́вую кнíгу** (I am reading an interesting book). Ён ба́чыць **свайго́ ба́цьку** (He sees his father). Мы купля́ем **сíняе а́ўта** (We are buying a blue car).
 
-# Drinks (Genitive case)
+# Drinks
 
 ## The Genitive Case: Possession, Absence, and More
 
@@ -129,7 +129,7 @@ The **Genitive case** indicates possession (like 'of' or 's), absence (with **б
 * *Prepositions:* Used after **без** (without), **з/із** (from), **ад** (from), **у/каля** (at/by/have), and others like **да** (to/until).
 * *Examples:* Гэ́та рабо́та **майго́ ба́цькі** (This is my father's work). Я **з го́рада** (I am from the city). **У мяне́** ёсць гадзі́ннік (I have a watch - literally "At me there is a watch"). Яны́ е́дуць **без вады́** (They are going without water). Я ба́чыў **мно́га прыго́жых жа́нчын** (I saw many beautiful women).
 
-# Studying & Writing (Locative case)
+# Studying & Writing
 
 ## The Proper Locative Case: Location and Topic
 
@@ -145,7 +145,7 @@ The **Locative case** (Prepositional) specifies location ('in', 'on', 'at') or t
     * *Plural (all genders):* hard **-ых**, soft **-іх**. (e.g., у до́бр**ых** дом**ах** - in good houses, пра сíн**іх** людз**е́й** - about blue people)
 * *Examples:* Мая́ кнíга **на стале́** (My book is on the table). Мы гаво́рым **пра наш дом** (We are talking about our house). Яны́ жыву́ць **у вялі́кім го́радзе** (They live in a big city). Дзе́ці гуля́юць **у двара́х** (Children are playing in the yards).
 
-# Animals (Dative case)
+# Animals
 
 ## The Dative Case: To Whom? For Whom?
 
@@ -256,7 +256,7 @@ To state the time of day, you typically use the preposition **у/ў** followed b
 
 * *Example:* 8:45 -> у восьм**ай** гадзі́не со́рак пяць хвілі́н - at eight forty-five.
 
-# Talking about Time (past tense)
+# Talking about Time
 
 ## The Simple Past Tense
 
@@ -270,7 +270,7 @@ Talking about actions that happened and finished in the past uses the simple pas
 
 * *Examples:* Учо́ра **я працава́ў** (masc.) (Yesterday I worked). Учо́ра яна́ **працава́ла** (fem.) (Yesterday she worked). Мы **ба́чылі** фільм (We saw a film). Яны́ **прыбы́лі** по́зна (They arrived late).
 
-# Seasons of the year (future tense)
+# Seasons of the year
 
 ## The Future Tense
 
@@ -282,7 +282,7 @@ To express actions that will happen in the future using imperfective verbs, you 
 * *Examples (Compound Future):* Я **бу́ду чыта́ць** кнíгу (I will read a book). Ты **бу́дзеш гавары́ць** з ім (You will talk with him). Яна́ **бу́дзе працава́ць** за́ўтра (She will work tomorrow). Мы **бу́дзем піса́ць** (We will write). Яны́ **бу́дуць глядзе́ць** фільм (They will watch a film).
 * *Examples (Synthetic Future):* Я **прачыта́ю** кнíгу (I will read a book). Ты **ска́жаш** яму́ (You will tell him). Яна́ **зро́біць** гэта (She will do it).
 
-# Clothes  (basic conjunctions)
+# Clothes
 
 ## Using Conjunctions: 'і', 'а', 'цi', 'або'
 
@@ -293,7 +293,7 @@ Conjunctions are like connecting words that join words, phrases, or clauses. Som
 * **цi:** Means "or" when offering a choice or asking a question. (e.g., Ка́ва **цi** чай? - Coffee or tea? Ты ідзе́ш **цi** застае́шся?)
 * **або:** Also means "or," generally when presenting distinct alternatives. (e.g., Прыйдзі́це сёння **або** за́ўтра - Come today or tomorrow.)
 
-# Character (Conditional)
+# Character
 
 ## Conditional Forms: Saying "Would Do"
 
@@ -303,7 +303,7 @@ To talk about hypothetical situations or what someone "would do," you use the co
 
 * *Examples:* Я **чыта́ў бы** (m.) / **чыта́ла бы** (f.) тую́ кнíгу (I would read that book). Ён **пайшо́ў бы** ў кін**о́** (He would go to the cinema). Мы **зрабі́лі б** гэта ўсё ра́зам (We would do that all together - **бы** can shorten to **б** after a vowel). Што **б вы хаце́лі**? (What would you like? - **бы** after a vowel).
 
-# Emotions (adverbs)
+# Emotions
 
 ## Using Adverbs
 
@@ -312,7 +312,7 @@ Adverbs modify verbs, adjectives, or other adverbs, telling us *how*, *when*, *w
 * *Examples:* до́бра (well, from до́бры - good), ху́тка (quickly, from ху́ткі - quick), цíха (quietly, from цíхі - quiet), дале́ка (far).
 * *In sentences:* Ён гаво́рыць **до́бра** (He speaks well). Яна́ бе́гае **ху́тка** (She runs quickly). Мы жыве́м **дале́ка** (We live far away).
 
-# Physical Appearance (Easy comparisons)
+# Physical Appearance
 
 ## Easy Comparisons: Вышэ́й and Чым/За
 

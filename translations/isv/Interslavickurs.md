@@ -1,5 +1,5 @@
 # Module 1 - Very basic grammar and phrases 
-## Conjugation of to be and the Nominative Case
+## Conjugation of to be
 New Words: [to, ta, toj, tamtoj, tamta, jesm, jesi, jest,jesmo,jeste,sut,ja, ty, on, ona, ono, my, vy, oni, one, člověk, žena, muž, děte, prijatelj, sestra, roditelj, dom, město, denj,tož, kto]
 Phrases: [
     "Ja jesm mudry.",
@@ -29,7 +29,7 @@ Phrases: [
     "Oni sut mnogo mili"
 ]
 
-## Greetings & Phrases for conversations
+## Greetings & Phrases
 New Words: [pozdrav, zdrav, besěda, jutro, večer, denj, noč, hvala, pardon, izvini, dobry, lěpše, možno, škoda, tako,čto, ne, da, može, davaj]
 Phrases: [
     "Dobro utro!",
@@ -73,7 +73,7 @@ Phrases: [
     "Davaj!"
 ]
 
-## Family (Instrumental case)
+## Family
 New Words: [brat, děd, babka, tetka, vnuk, vnučka, matka, otěc, rodina, syn, dočerka, stryjec, govori, ide,idemo, žive]
 Phrases: [
     "On jest moim bratom.",
@@ -98,7 +98,7 @@ Phrases: [
     "Ona govori s vnukom često."
 ]
 
-## Hobbies (Verbs – Imperfective only)
+## Hobbies
 New Words: [čitati, pisati(piše), igrati, gleděti, slušati, malovati, pěvati, učiti se, sěděti(sědi), šiti (šije), tancevati]
 Phrases: ["Ja čitam knigu.",
 "Ona piše pisma.",
@@ -122,7 +122,7 @@ Phrases: ["Ja čitam knigu.",
 "Ja tancujem mnogo",
 "Ona igra na gitaru."]
 
-## Sports (very basic accusative case + very basic locative)
+## Sports
 New Words: [futbol, basketbol, tenis, plavanje, plavati, běg, běgati, utrom, ljubiti, hokej, sport, igra, trenovati, stadion, brzy, težky]
 Phrases: [
     "Igram v futbol.",
@@ -148,7 +148,7 @@ Phrases: [
 ]
 
 # Module 2 – Food and Drinks
-## Food (Accusative case)
+## Food
 New Words: [hlěb, gotoviti, nesti, jesti (je), maslo, mlěko, meso, jajce, zautraka, oběd, kupiti, večerja, bljudo, kniga, solodky, jeda]
 Phrases: [
     "Ja jem hlěb.",
@@ -174,7 +174,7 @@ Phrases: [
     "Oni znajut, čto ja vsegda jem hlěb s maslom."
 ]
 
-## Drinks (Genitive case)
+## Drinks
 New Words: [voda, pivo, piti, vino, kava, sok,htěti (hče), fljaška, probovati najdti, čaška, butylka, čaj, mlěko, bez, za, iz, u]
 Phrases: [
     "Ja ne imam vody.",
@@ -226,7 +226,7 @@ Phrases: [
 ]
 
 # Module 3 – Learning and Languages  
-## Studying & Writing (Locative case)
+## Studying & Writing
 New Words: [škola, učiteljka, učitelj, zapis, učenik, kniga, zadanje, stol, tuš , papir, prědmet, metoda, pero, zapisnik, na]
 Phrases: [
     "To moja škola.",
@@ -277,7 +277,7 @@ Phrases: [
     "Krasna figura stoji na stolu."
 ]
 
-## Nationalities / Languages
+## Nationalities
 New Words: [slovjanin, jezyk, država, narod, ime, Hrvatka, Rus, Poljak, Němec, Angličanin]
 Phrases: [
     "On jest Slovjaninom.",
@@ -354,7 +354,7 @@ Phrases: ["Nož leži na stolu.",
 "Kuhnja ima dobry zapah v večeru."]
 
 # Module 5 – Describing nature and directions
-## Animals (Dative case)
+## Animals
 New Words: [kot, pes, ptica, pomagati, kazati (kaže), konj, dati (da),ryba, žaba, medvěd, volk, myš, zvěr]
 Phrases: [
     "Ja dam kotu rybu.",
@@ -455,7 +455,7 @@ Phrases: [
     "črvena roza rastě tu."
 ]
 
-## Cardinal points/directions
+## Cardinal points
 New Words: [sěver, jug, zapad, vozhod, sěverny, južny, zapadny, vozhodny, kompas, strana, kde, vstati (vstane), pokazovati, mapa, putovati, pravo, lěvo,premo]
 Phrases: ["Sěver jest hladny.",
 "Jug jest teply.",
@@ -480,7 +480,7 @@ Phrases: ["Sěver jest hladny.",
 "Idemo tutčas vpravo i potom premo."]
 
 # Module 6 Grammar revision
-## Grammar revision cases
+## Cases revision
 New Words: [
     "rězati (rěže)",
     "dar",
@@ -512,7 +512,7 @@ Phrases: [
     "Spokojnoj noči!"
 ]
 
-## Grammar revision pronouncs
+## Pronouns revision
 New Words: [
     "znati",
     "věděti (vě)",
@@ -804,7 +804,7 @@ Phrases: [
 
 # Module 9 – Time and the calendar
 
-## Talking about Time (past tense)
+## Talking about Time
 New Words: [čas, minuta, sekunda, časina, tutdenj, byl, byla, bylo, byli, sěl, šla, šlo, šli, včera, zautra, večer, polnoč, koliko, spati (spi), trvati]
 Phrases: [
     "Koliko jest časa?",
@@ -855,7 +855,7 @@ Phrases: [
     "Julij jest měsecem lěta."
 ]
 
-## Seasons of the year (future tense)
+## Seasons of the year
 New Words: [lěto, jesenj, zima, vesna, sezon, byti, budu, buděš, bude, budemo, budete, budut]
 Phrases: [
     "V lětu bude teplo.",
@@ -882,7 +882,7 @@ Phrases: [
 
 # Module 10 – Bodies, Clothes talking about people
 
-## Clothes  (basic conjunctions)
+## Clothes
 New Words: [košulja, nositi, nogavice, teniska, šalik, šapka, paljto, rukavica, gače,škarpetka, obuvka, odež, bridky, oblěkati, pižama]
 Phrases: [
     "On nosi modru košulju.",
@@ -932,7 +932,7 @@ Phrases: [
     "Ona slyši tebe toliko jedinom uhom."
 ]
 
-## Character  (Conditional)
+## Character
 New Words: [dobry, zly, silny, slaby, směly, tihy, mudry, glupy, iskreny, lěnivy, byh, bsy, by, byhmo, byste, by, molčati (molči)]
 Phrases: [
     "On to dobry člověk.",
@@ -957,7 +957,7 @@ Phrases: [
     "Kak ja by byl směly, to ja by ne bojil se."
 ]
 
-## Emotions (adverbs)
+## Emotions
 New Words: [radostny, žalostny, gněvny, ljubov, prěstrašeny, spokoj, zavist, sramny, styd, gordy, vesely, trěpet, čuti (čuje), skryvati, uběgati]
 Phrases: [
     "Čujem se radostno tutdenj.",
@@ -982,7 +982,7 @@ Phrases: [
     "Trpěti toliko hčemo kogda ljubimo."
 ]
 
-## Physical Appearance (Easy comparisons)
+## Physical Appearance
 New Words: [vysoky, nizky, debely, chudy, maly, krasivy, bridky, stary, mlady, vlasy, oči, než, vyše,koža, menje, smějati se (směje), blěskati, zvězda, světly, temny]
 Phrases: [
     "On jest vyše vysoky i silny než on.",

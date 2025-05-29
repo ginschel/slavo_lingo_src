@@ -1,4 +1,4 @@
-# Conjugation of to be and the Nominative Case
+# Conjugation of to be
 
 ## Welcome to the course!
 
@@ -51,7 +51,7 @@ Demonstrative pronouns help us specify particular nouns, similar to using "this"
 
 * *Examples:* **Овај** дом је велик (This house is big). **Та** књига је моја (That book is mine). **Ово** је наше село (This is our village). **Ови** људи су весели (These people are cheerful).
 
-# Family (Instrumental case)
+# Family
 
 ## The Instrumental Case: With and By Means Of
 
@@ -67,7 +67,7 @@ The **Instrumental case** primarily indicates *с ким* or *чиме* an actio
     * *Plural (all genders):* ending **-им**. (e.g., с добр**им** браћ**ом** - with good brothers, са тих**им** ветров**има** - with quiet winds)
 * *Examples:* Идем **с пријатељем** (I am going with a friend). Они разговарају **с нама** (They are talking with us). Пишем **оловком** (I am writing with a pen). Она је **добром студенткињом** (She is a good student). Ми смо **добрим студентима** (We are good students).
 
-# Hobbies (Verbs – Imperfective only)
+# Hobbies
 
 ## Verb Conjugations (Present Tense - Imperfective)
 
@@ -80,7 +80,7 @@ Imperfective verbs describe actions that are ongoing, repeated, or not completed
 * **-јем conjugation:** Includes verbs like **пити** (to drink), **живети** (to live). Endings often involve -ј-.
     * *Example: пити* -> Ја пи**јем** (I drink/am drinking), Ти пи**јеш** (You drink/are drinking), Он/Она/Оно пи**је** (He/She/It drinks/is drinking), Ми пи**јемо** (We drink/are drinking), Ви пи**јете** (You drink/are drinking), Они/Оне пи**ју** (They drink/are drinking).
 
-# Sports (very basic accusative case + very basic locative)
+# Sports
 
 ## Basic Accusative and Locative (Singular Only)
 
@@ -95,7 +95,7 @@ Let's start with a simplified look at two more cases in the singular. The **Accu
     * *Feminine:* Ends in **-и**. (e.g., на **реци** - on a river, у **земљи** - in the earth)
 * *Examples:* Читам **књигу** (I am reading a book). Седимо **на столу** (We are sitting on a table).
 
-# Food (Accusative case)
+# Food
 
 ## The Proper Accusative Case: The Direct Object
 
@@ -114,7 +114,7 @@ The **Accusative case** is the case of the direct object, indicating the person 
     * *Plural Masculine Animate:* Same as Genitive Plural (hard **-их**, soft **-их**). (e.g., Видим **старих** очева - I see old fathers, Видим **тихим** људима - I see quiet people)
 * *Examples:* Ја читам **занимљиву књигу** (I am reading an interesting book). Он види **свог оца** (He sees his father). Ми купујемо **нов ауто** (We are buying a new car).
 
-# Drinks (Genitive case)
+# Drinks
 
 ## The Genitive Case: Possession, Absence, and More
 
@@ -130,7 +130,7 @@ The **Genitive case** indicates possession (like 'of' or 's), absence (with **б
 * *Prepositions:* Used after **без** (without), **из** (from), **код** (at/by/have), and others like **до** (to/until), **од** (from).
 * *Examples:* То је посао **мог оца** (This is my father's work). Ја сам **из града** (I am from the city). **Код мене** је сат (I have a watch - literally "At me there is a watch"). Они иду **без воде** (They are going without water). Видео сам много **лепих жена** (I saw many beautiful women).
 
-# Studying & Writing (Locative case)
+# Studying & Writing
 
 ## The Proper Locative Case: Location and Topic
 
@@ -146,7 +146,7 @@ The **Locative case** is used for location ('in', 'on', 'at') or the topic of di
     * *Plural (all genders):* hard/soft **-им**. (e.g., у добрим домовима - in good houses, о тих**им** људима - about quiet people)
 * *Examples:* Моја књига је **на столу** (My book is on the table). Говоримо **о нашем дому** (We are talking about our house). Они живе **у великом граду** (They live in a big city). Деца се играју **у двориштима** (Children are playing in the yards).
 
-# Animals (Dative case)
+# Animals
 
 ## The Dative Case: To Whom? For Whom?
 
@@ -257,7 +257,7 @@ To state the time of day, you typically use the preposition **у** followed by t
 
 * *Example:* у осм**и** сати четрдесет пет минута - at eight forty-five.
 
-# Talking about Time (past tense)
+# Talking about Time
 
 ## The Simple Past Tense (perfekat)
 
@@ -267,7 +267,7 @@ Talking about actions that happened and finished in the past uses the simple pas
 
 * *Examples:* Јуче **сам радио** (masc.) (Yesterday I worked). Јуче **је радила** (fem.) (Yesterday she worked). Ми **смо видели** филм (We saw a film). Они **су стигли** касно (They arrived late).
 
-# Seasons of the year (future tense)
+# Seasons of the year
 
 ## The Future Tense
 
@@ -278,7 +278,7 @@ To express actions that will happen in the future using imperfective verbs, you 
 
 * *Examples:* Ја **ћу читати** књигу (I will read a book). Ти **ћеш говорити** с њим (You will talk with him). Она **ће радити** сутра (She will work tomorrow). Ми **ћемо писати** (We will write). Они **ће гледати** филм (They will watch a film).
 
-# Clothes  (basic conjunctions)
+# Clothes
 
 ## Using Conjunctions: 'и', 'а', 'или'
 
@@ -288,7 +288,7 @@ Conjunctions are like connecting words that join words, phrases, or clauses. Thr
 * **а:** Primarily means "but" when showing a contrast, or can also mean "and" to connect related but slightly different ideas. (e.g., Он је учитељ, **а** она је студенткиња - He is a teacher, but she is a student. Ја идем, **а** ти остајеш - I am going, and you are staying.)
 * **или:** Means "or," offering an alternative. (e.g., Кафа **или** чај? - Coffee or tea? Хоћете ли доћи **или** остати код куће? - Will you come or stay at home?)
 
-# Character (Conditional)
+# Character
 
 ## Conditional Forms: Saying "Would Do"
 
@@ -299,7 +299,7 @@ To talk about hypothetical situations or what someone "would do," you use the co
 
 * *Examples:* Ја **бих читао** (masc.) / **бих читала** (fem.) ту књигу (I would read that book). Он **би ишао** у биоскоп (He would go to the cinema). Ми **бисмо радили** то све заједно (We would do that all together). Шта **бисте хтели**? (What would you like?).
 
-# Emotions (adverbs)
+# Emotions
 
 ## Using Adverbs
 
@@ -308,7 +308,7 @@ Adverbs modify verbs, adjectives, or other adverbs, telling us *how*, *when*, *w
 * *Examples:* добро (well, from добар - good), брзо (quickly, from брз - quick), тихо (quietly, from тих - quiet), далеко (far).
 * *In sentences:* Он говори **добро** (He speaks well). Она трчи **брзо** (She runs quickly). Живимо **далеко** (We live far away).
 
-# Physical Appearance (Easy comparisons)
+# Physical Appearance
 
 ## Easy Comparisons: Више and Него/Од
 

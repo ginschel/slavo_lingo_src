@@ -1,5 +1,5 @@
 # Module 1 - Very basic grammar and phrases
-## Conjugation of to be and the Nominative Case
+## Conjugation of to be
 New Words: [to, ta, ten, tamten, tamta, jem, jes, je, jesmë, jeste, są, ja, ti, on, ona, ono, më, wë, oni, one, człowiek, białka, chłop, dzéckò, przëjacel, sostra, starszi, dom, gard, dzéń, téż, chto]
 Phrases: [
     "Jô jem mądri.",
@@ -29,7 +29,7 @@ Phrases: [
     "Oni są wiele miłi"
 ]
 
-## Greetings & Phrases for conversations
+## Greetings & Phrases
 New Words: [pòzdrowienié, zdrowi, gôdka, zôranô, wieczór, dzéń, noc, chwała, przeproszenié, wëbaczë, dobri, lëpszô, mòżebné, szkòda, tak, co, nie, jo, mòże, dôj]
 Phrases: [
     "Dobré zôranô!",
@@ -73,7 +73,7 @@ Phrases: [
     "Dôj!"
 ]
 
-## Family (Instrumental case)
+## Family
 New Words: [brat, dzôd, babka, cota, wnuk, wnëczka, matka, òjciec, rodzëzna, syn, dzéwka, strój, gôdô, jidze, dzemë, żëje]
 Phrases: [
 "On je mòjim bratã.",
@@ -98,7 +98,7 @@ Phrases: [
 "Òna gôdô z wnukã czãsto."
 ]
 
-## Hobbies (Verbs – Imperfective only)
+## Hobbies
 New Words: [czëtac, pisac (pisze), grac, òbzérac, słëchac, malowac, spiéwac, ùczëc sã, sedzec (sedzy), szaic (szaje), tańcowac]
 Phrases: ["Ja czëtóm knégã.",
 "Òna pisze lëstë.",
@@ -122,7 +122,7 @@ Phrases: ["Ja czëtóm knégã.",
 "Ja tańcëjã wiele",
 "Òna grô na gitarze."]
 
-## Sports (very basic accusative case + very basic locative)
+## Sports
 New Words: [bal, kòszôrtã, tenis, pławanié, pławac, bieg, biedz, zôranô, miłowac, hokej, sport, gra, trenowac, stadion, chùtczi, cãżczi]
 Phrases: [
     "Gróm w bal.",
@@ -148,7 +148,7 @@ Phrases: [
 ]
 
 # Module 2 – Food and Drinks
-## Food (Accusative case)
+## Food
 New Words: [chléb, gotowac, nesc, jesc (je), masło, mlékò, miãso, jajkò, sniôdanié, òbiôd, kùpic, wieczérzô, spôdk, knéga, słodczi, jiedzô]
 Phrases: [
     "Ja jem chléb.",
@@ -174,7 +174,7 @@ Phrases: [
     "Òni wiedzą, co ja wszëtkã jem chléb z masłã."
 ]
 
-## Drinks (Genitive case)
+## Drinks
 New Words: [wòda, piwò, pic, winò, kawa, sok, chòce (chce), flaszka, skùszëc nalezc, czôszka, bùtelka, czaj, mlékò, bez, za, z, przë]
 Phrases: [
     "Ja nie mô wòdë.",
@@ -226,7 +226,7 @@ Phrases: [
 ]
 
 # Module 3 – Learning and Languages
-## Studying & Writing (Locative case)
+## Studying & Writing
 New Words: [szkòła, ùczëcelka, ùczëcel, zôpisk, ùcznik, knéga, zadanié, stół, tusz, papiór, przedmiot, metoda, pióro, zôpisk, na]
 Phrases: [
     "To je mòja szkòła.",
@@ -277,7 +277,7 @@ Phrases: [
     "Snôżô figùra stoji na stole."
 ]
 
-## Nationalities / Languages
+## Nationalities
 New Words: [Słowiôrz, jãzëk, państwò, nôród, miono, Charwatka, Rusk, Pòlôch, Niemc, Anielczón]
 Phrases: [
     "On je Słowiôrzã.",
@@ -354,7 +354,7 @@ Phrases: ["Nôż leżi na stole.",
 "Kùchnia mô dobri zôpach wieczór."]
 
 # Module 5 – Describing nature and directions
-## Animals (Dative case)
+## Animals
 New Words: [kòt, pies, ptôch, pòmògac, ùkôzac (ùkôże), kòń, dac (dô), rëba, żaba, niedwiedź, wëlk, mësz, zwierzã]
 Phrases: [
     "Ja dóm kòtowi rëbã.",
@@ -455,7 +455,7 @@ Phrases: [
     "Czôrná róża ròsce tu."
 ]
 
-## Cardinal points/directions
+## Cardinal points
 New Words: [norda, pòłnié, zôpôd, pòrénk, nordowi, pòłniowi, zôpôdni, pòrénkòwi, kòmpas, strona, dze, wstac (wstané), pòkôzac, mapa, céstowac, wprôwò, wlewò, prosto]
 Phrases: ["Norda je zëmnô.",
 "Pòłnié je ciepłé.",
@@ -480,7 +480,7 @@ Phrases: ["Norda je zëmnô.",
 "Jidzemë dzysô wprôwò i pòtemù prosto."]
 
 # Module 6 Grammar revision
-## Grammar revision cases
+## Cases revision
 New Words: [
     "rézac (réże)",
     " dar",
@@ -512,7 +512,7 @@ Phrases: [
     "Spòkòjnô noc!"
 ]
 
-## Grammar revision pronouncs
+## Pronouns revision
 New Words: [
     "znac",
     " wiedzëc (wie)",
@@ -804,7 +804,7 @@ Phrases: [
 
 # Module 9 – Time and the calendar
 
-## Talking about Time (past tense)
+## Talking about Time
 New Words: [czas, minuta, sekùnda, gòdzëna, dzysô, béł, bëła, bëło, bëlë, szedł, szła, szło, szlë, wczora, jùtrô, wieczór, pòłnoc, kòle, spac (spi), trwac]
 Phrases: [
     "Kòle je gòdzënów?",
@@ -855,7 +855,7 @@ Phrases: [
     "Lëpińc je miesãcã lata."
 ]
 
-## Seasons of the year (future tense)
+## Seasons of the year
 New Words: [lato, jeséń, zëma, zymk, pòrô rokù, bëc, będã, bãdzësz, bãdze, bãdzemë, bãdzëce, bãdą]
 Phrases: [
     "W lece bãdze ciepło.",
@@ -882,7 +882,7 @@ Phrases: [
 
 # Module 10 – Bodies, Clothes talking about people
 
-## Clothes  (basic conjunctions)
+## Clothes
 New Words: [kòszëla, nosëc, bùksë, tričkò, szal, czapka, płôszcz, rãkawica, slipë, skarpétka, òbùwié, òdzenié, brzëtczi, òblékac, piżama]
 Phrases: [
     "On nosy mòdrą kòszëlã.",
@@ -932,7 +932,7 @@ Phrases: [
     "Òna słëszé cébie blós jednym ùchã."
 ]
 
-## Character (Conditional)
+## Character
 New Words: [dobri, zli, sëlni, słabi, òdwôżni, cëchi, mądri, głëpi, sczérzi, leniwi, béł jem, béł jes, béł je, bëlë jesmë, bëlë jeste, bëlë są, mlëczec (mlëczi)]
 Phrases: [
     "On to je dobri człowiek.",
@@ -957,7 +957,7 @@ Phrases: [
     "Jak ja bëł jem béł òdwôżni, to ja bëł jem sã nie bòjôł."
 ]
 
-## Emotions (adverbs)
+## Emotions
 New Words: [rôdostni, żôłostni, gniewni, miłota, przestrażony, spòkój, zawiésc, sromòtni, srom, gòrdi, wiesôłi, trzemienié, czëc (czëje), skrëwac, ùcekac]
 Phrases: [
     "Czëjã sã rôdostno dzysô.",
@@ -981,7 +981,7 @@ Phrases: [
     "Rôdosc jidze z wnątrz.",
     "Czerpiec blós chceme czej miłujemë."]
 
-## Physical Appearance (Easy comparisons)
+## Physical Appearance
 New Words: [wësoki, niszczi, grëbi, chùdi, môłi, snôżi, brzëtczi, stôri, młodi, włoscë, òczë, jakno, wicy, skórka, mnié, smiac sã (smieje sã), lësnąc sã, gwiôzda, swietłi, cëmni]
 Phrases: ["On je wicy wësoki i sëlni jakno on.",
 "Òna je niszkô i chùdô jakno on.",

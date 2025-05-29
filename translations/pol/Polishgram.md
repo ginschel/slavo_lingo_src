@@ -1,4 +1,4 @@
-# Conjugation of to be and the Nominative Case
+# Conjugation of to be
 
 ## Welcome to the course!
 
@@ -48,7 +48,7 @@ Demonstrative pronouns help us specify particular nouns, similar to using "this"
 
 * *Examples:* **Ten** dom jest duży (This/That house is big). **Ta** książka jest moja (This/That book is mine). **To** jest nasze miasto (This/That is our city). **Ci** ludzie są weseli (These/Those people are cheerful).
 
-# Family (Instrumental case)
+# Family
 
 ## The Instrumental Case: With and By Means Of
 
@@ -64,7 +64,7 @@ The **Instrumental case** primarily indicates *with whom* or *with what* an acti
     * *Plural (all genders):* ending **-ymi** or **-imi**. (e.g., z dobrymi braćmi - with good brothers, z ostatn**imi** nauczycielami - with the last teachers)
 * *Examples:* Idę **z przyjacielem** (I am going with a friend). Oni rozmawiają **z nami** (They are talking with us). Piszę **piórem** (I am writing with a pen). Ona jest **dobrą studentką** (She is a good student). My jesteśmy **dobrymi studentami** (We are good students).
 
-# Hobbies (Verbs – Imperfective only)
+# Hobbies
 
 ## Two Main Verb Conjugations (Imperfective)
 
@@ -75,7 +75,7 @@ Imperfective verbs describe actions that are ongoing, repeated, or not completed
 * **Conjugation 2 (often consonant or -i/-y stem):** Includes verbs like **mówić** (to speak), **widzieć** (to see). 'Ja' often ends in -ę/-m (with possible consonant changes), 'ty' in -isz/-ysz, etc.
     * *Example: mówić* -> Ja mówię (I speak/am speaking), Ty mówisz (You speak/are speaking), On/Ona/Ono mówi (He/She/It speaks/is speaking), My mówimy (We speak/am speaking), Wy mówicie (You speak/am speaking), Oni/One mówią (They speak/am speaking).
 
-# Sports (very basic accusative case + very basic locative)
+# Sports
 
 ## Basic Accusative and Locative (Singular Only)
 
@@ -89,7 +89,7 @@ Let's begin with a simplified look at two more cases in the singular. The **Accu
     * *Feminine:* Often end in **-e** or **-i** (after a soft consonant). (e.g., na **rzece** - on a river, w **ziemi** - in the earth, w **szkole** - in a school)
 * *Examples:* Czytam **książkę** (I am reading a book). Siedzimy **na stole** (We are sitting on a table).
 
-# Food (Accusative case)
+# Food
 
 ## The Proper Accusative Case: The Direct Object
 
@@ -109,7 +109,7 @@ The **Accusative case** is the case of the direct object, indicating the person 
     * *Plural Masculine Animate:* Same as Genitive Plural (**-ych/-ich**). (e.g., Widzę **starych** ojców - I see old fathers, Widzę **ostatnich** mężczyzn - I see the last men)
 * *Examples:* Ja czytam **interesującą książkę** (I am reading an interesting book). On widzi **swojego ojca** (He sees his father). My kupujemy **ostatnie auto** (We are buying the last car).
 
-# Drinks (Genitive case)
+# Drinks
 
 ## The Genitive Case: Possession, Absence, and More
 
@@ -125,7 +125,7 @@ The **Genitive case** indicates possession (like 'of' or 's), absence (with **be
 * *Prepositions:* Used after **bez** (without), **z/ze** (from), **u** (at/by/have), and others like **do** (to/until), **od** (from).
 * *Examples:* To jest praca **mojego ojca** (This is my father's work). Ja jestem **z miasta** (I am from the city). **U mnie** jest zegarek (I have a watch - literally "At me there is a watch"). Oni jadą **bez wody** (They are going without water). Widziałem **wiele pięknych kobiet** (I saw many beautiful women).
 
-# Studying & Writing (Locative case)
+# Studying & Writing
 
 ## The Proper Locative Case: Location and Topic
 
@@ -141,7 +141,7 @@ The **Locative case** specifies location ('in', 'on', 'at') or the topic of disc
     * *Plural (all genders):* ending **-ych** or **-ich**. (e.g., w dobr**ych** domach - in good houses, o ostatn**ich** mężczyznach - about the last men)
 * *Examples:* Moja książka jest **na stole** (My book is on the table). Mówimy **o naszym domu** (We are talking about our house). Oni żyją **w wielkim mieście** (They live in a big city). Dzieci bawią się **na podwórzach** (Children are playing in the yards).
 
-# Animals (Dative case)
+# Animals
 
 ## The Dative Case: To Whom? For Whom?
 
@@ -252,7 +252,7 @@ To state the time of day, you typically use the preposition **o** followed by th
 
 * *Example:* 8:45 -> o ósmej czterdzieści pięć (or o ósmej czterdzieści pięć minut) - at eight forty-five.
 
-# Talking about Time (past tense)
+# Talking about Time
 
 ## The Simple Past Tense
 
@@ -267,7 +267,7 @@ Talking about actions that happened and finished in the past uses the simple pas
 
 * *Examples:* Wczoraj **pracowałem** (masc.) (Yesterday I worked). Wczoraj ona **pracowała** (fem.) (Yesterday she worked). My **widzieliśmy** film (We saw a film). Oni **przybyli** późno (They arrived late).
 
-# Seasons of the year (future tense)
+# Seasons of the year
 
 ## The Future Tense
 
@@ -278,7 +278,7 @@ To express actions that will happen in the future using imperfective verbs, you 
 
 * *Examples:* Ja **będę czytać** książkę (I will read a book). Ty **będziesz rozmawiać** z nim (You will talk with him). Ona **będzie pracować** jutro (She will work tomorrow). My **będziemy pisać** (We will write). Oni **będą oglądać** film (They will watch a film).
 
-# Clothes  (basic conjunctions)
+# Clothes
 
 ## Using Conjunctions: 'i', 'lub', 'a'
 
@@ -288,7 +288,7 @@ Conjunctions are like connecting words that join words, phrases, or clauses. Thr
 * **lub:** Means "or," offering an alternative. (e.g., Kawa **lub** herbata? - Coffee or tea? Przyjdziecie **lub** zostaniecie w domu? - Will you come or stay home?)
 * **a:** Primarily means "but" when showing a contrast, or can also mean "and" to connect related but slightly different ideas. (e.g., On jest nauczycielem, **a** ona jest studentką - He is a teacher, but she is a student. Ja idę, **a** ty zostajesz - I am going, and you are staying.)
 
-# Character (Conditional)
+# Character
 
 ## Conditional Forms: Saying "Would Do"
 
@@ -298,7 +298,7 @@ To talk about hypothetical situations or what someone "would do," you use the co
 
 * *Examples:* Ja **czytałbym** (m.) / **czytałabym** (ż.) tę książkę (I would read that book). On **poszedłby** do kina (He would go to the cinema). My **zrobilibyśmy** to wszystko razem (We would do that all together). Co **chcielibyście**? (What would you like? - using the past tense plural form for 'wy').
 
-# Emotions (adverbs)
+# Emotions
 
 ## Using Adverbs
 
@@ -307,7 +307,7 @@ Adverbs modify verbs, adjectives, or other adverbs, telling us *how*, *when*, *w
 * *Examples:* dobrze (well, from dobry - good), szybko (quickly, from szybki - quick), cicho (quietly, from cichy - quiet), daleko (far).
 * *In sentences:* On mówi **dobrze** (He speaks well). Ona biega **szybko** (She runs quickly). Żyjemy **daleko** (We live far away).
 
-# Physical Appearance (Easy comparisons)
+# Physical Appearance
 
 ## Easy Comparisons: Bardziej and Niż
 

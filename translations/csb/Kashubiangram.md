@@ -1,4 +1,4 @@
-# Conjugation of to be and the Nominative Case
+# Conjugation of to be
 
 ## Welcome to the course!
 
@@ -53,7 +53,7 @@ Demonstrative pronouns help us specify particular nouns, similar to using "this"
 
 * *Examples:* **Tén** dom je wiôldżi (This/That house is big). **Tô** knéga je mòja (This/That book is mine). **To** je najszé pòle (This/That is our field). **Ci** lëdze sã weseli (These/Those people are cheerful).
 
-# Family (Instrumental case)
+# Family
 
 ## The Instrumental Case: With and By Means Of
 
@@ -69,7 +69,7 @@ The **Instrumental case** primarily indicates *z kim* or *z czim* an action is p
     * *Plural (all genders):* hard/soft **-ima**. (e.g., z dobr**ima** brat**ama** - with good brothers, z juńdz**ima** ùczëcél**ama** - with different teachers)
 * *Examples:* Jdã **z kamratã** (I am going with a friend). Òni gôdają **z nama** (They are talking with us). Piszę **òłówkã** (I am writing with a pencil). Òna je **dobrą sztudéntkô** (She is a good student). Më jãmë **dobrima sztudéntama** (We are good students).
 
-# Hobbies (Verbs – Imperfective only)
+# Hobbies
 
 ## Verb Conjugations (Present Tense - Imperfective)
 
@@ -80,7 +80,7 @@ Imperfective verbs describe actions that are ongoing, repeated, or not completed
 * **-ec conjugation:** Includes verbs like **widzec** (to see), **mòwic** (to speak).
     * *Example: mòwic* -> Jô mòwi**ã** (I speak/am speaking), Të mòwi**sz**, Òn/Òna/Òno mòwi. Më mòwi**më**, Wë mòwi**ce**, Òni/Òne mòwi**ą**.
 
-# Sports (very basic accusative case + very basic locative)
+# Sports
 
 ## Basic Accusative and Locative (Singular Only)
 
@@ -95,7 +95,7 @@ Let's start with a simplified look at two more cases in the singular. The **Accu
     * *Feminine:* Often end in **-e** or **-i**. (e.g., na **rece** - on a river, na **zemi** - on land)
 * *Examples:* Czëtóm **knégã** (I am reading a book - Accusative feminine ending). Sedzëma **na stolu** (We are sitting on a table).
 
-# Food (Accusative case)
+# Food
 
 ## The Proper Accusative Case: The Direct Object
 
@@ -115,7 +115,7 @@ The **Accusative case** is the case of the direct object, indicating the person 
     * *Plural Masculine Animate:* Same as Genitive Plural (hard **-ich**, soft **-ich**). (e.g., Widzã **stôrich** òjców - I see old fathers, Widzã **juńdzich** chłopów - I see different men)
 * *Examples:* Jô czëtóm **cékażą knégã** (I am reading an interesting book). Òn widzë **swòjégò òjca** (He sees his father). Më kùpiemë **nowé aùto** (We are buying a new car).
 
-# Drinks (Genitive case)
+# Drinks
 
 ## The Genitive Case: Possession, Absence, and More
 
@@ -131,7 +131,7 @@ The **Genitive case** indicates possession (like 'of' or 's), absence (with **be
 * *Prepositions:* Used after **bez** (without), **z/ze** (from), **ù** (at/by/have), and others like **do** (to/until), **òd** (from).
 * *Examples:* To je robòta **mòjégò òjca** (This is my father's work). Jô jãm **z gardu** (I am from the city). **Ù mie** je zegar (I have a watch - literally "At me there is a watch"). Òni jidą **bez wòdë** (They are going without water). Widza jem wiele **pòknich białków** (I saw many beautiful women).
 
-# Studying & Writing (Locative case)
+# Studying & Writing
 
 ## The Proper Locative Case: Location and Topic
 
@@ -147,7 +147,7 @@ The **Locative case** is used for location ('in', 'on', 'at') or the topic of di
     * *Plural (all genders):* hard/soft **-ich**. (e.g., w dobrich dom**ach** - in good houses, ò juńdzich chłop**ach** - about different men)
 * *Examples:* Mòja knéga je **na stolu** (My book is on the table). Gôdómë **ò najszim domù** (We are talking about our house). Òni mieszkają **w wiôldżim gardze** (They live in a big city). Dzëci sã grôją **na dwòrach** (Children are playing in the yards).
 
-# Animals (Dative case)
+# Animals
 
 ## The Dative Case: To Whom? For Whom?
 
@@ -258,7 +258,7 @@ To state the time of day, you typically use the preposition **òb** followed by 
 
 * *Example:* òb òsmi gòdzënie sztërëdzescë piãc - at eight forty-five.
 
-# Talking about Time (past tense)
+# Talking about Time
 
 ## The Simple Past Tense
 
@@ -269,7 +269,7 @@ Talking about actions that happened and finished in the past uses the simple pas
 
 * *Examples (with miec):* Westerdô **jô móm robił** (masc.) (Yesterday I worked). Westerdô òna **mô robiła** (fem.) (Yesterday she worked). Më **môme widzelë** film (We saw a film). Òni **mają przëszlë** pózdze (They arrived late).
 
-# Seasons of the year (future tense)
+# Seasons of the year
 
 ## The Future Tense
 
@@ -281,7 +281,7 @@ To express actions that will happen in the future using imperfective verbs, you 
 * *Examples (Compound Future - imperfective):* Jô **bùdã czëtac** knégã (I will read a book). Të **bùdzesz gôdac** z nim (You will talk with him). Òna **bùdze robic** jutrã (She will work tomorrow). Më **bùdzemë pisac** (We will write). Òni **bùdą kùkac** na film (They will watch a film).
 * *Examples (Simple Future - perfective):* Jô **przeczëtóm** knégã (I will read a book). Të **pòwiesz** mù (You will tell him). Òna **zrobi** to (She will do it).
 
-# Clothes  (basic conjunctions)
+# Clothes
 
 ## Using Conjunctions: 'ë', 'a', 'abò'
 
@@ -291,7 +291,7 @@ Conjunctions are like connecting words that join words, phrases, or clauses. Thr
 * **a:** Primarily means "but" when showing a contrast, or can also mean "and" to connect related but slightly different ideas. (e.g., Òn je ùczëcel, **a** òna je sztudéntka - He is a teacher, but she is a student. Jô jidã, **a** të òstajesz - I am going, and you are staying.)
 * **abò:** Means "or," offering an alternative. (e.g., Kawa **abò** téj? - Coffee or tea? Przëńdzece **abò** òstanace doma? - Will you come or stay at home?)
 
-# Character (Conditional)
+# Character
 
 ## Conditional Forms: Saying "Would Do"
 
@@ -301,7 +301,7 @@ To talk about hypothetical situations or what someone "would do," you use the co
 
 * *Examples:* Jô **bëczëtôł** (masc.) / **bë czëtôła** (fem.) tą knégã (I would read that book). Òn **bë szedł** do kina (He would go to the cinema). Më **bë robilë** to wszëtkò razã (We would do that all together). Czë to **bë wë chcële**? (What would you like?).
 
-# Emotions (adverbs)
+# Emotions
 
 ## Using Adverbs
 
@@ -310,7 +310,7 @@ Adverbs modify verbs, adjectives, or other adverbs, telling us *how*, *when*, *w
 * *Examples:* dobrze (well, from dobri - good), chùtczi (quickly, from chùtczi - quick), cëchò (quietly, from cëchi - quiet), dalekò (far).
 * *In sentences:* Òn gôdô **dobrze** (He speaks well). Òna biégô **chùtczi** (She runs quickly). Mieszkómë **dalekò** (We live far away).
 
-# Physical Appearance (Easy comparisons)
+# Physical Appearance
 
 ## Easy Comparisons: Wëżi and Jak/ niż
 

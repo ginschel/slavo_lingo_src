@@ -1,4 +1,4 @@
-# Conjugation of to be and the Nominative Case
+# Conjugation of to be
 
 ## Welcome to the course!
 
@@ -51,7 +51,7 @@ Demonstrative pronouns help us specify particular nouns, similar to using "this"
 
 * *Examples:* **Tyn** dom je wielgi (This/That house is big). **Ta** ksiůnżka je moja (This/That book is mine). **To** je nasze pole (This/That is our field). **Ci** ludzie sům wieseli (These/Those people are cheerful).
 
-# Family (Instrumental case)
+# Family
 
 ## The Instrumental Case: With and By Means Of
 
@@ -67,7 +67,7 @@ The **Instrumental case** primarily indicates *s kim* or *czym* an action is per
     * *Plural (all genders):* ending **-ymi**. (e.g., z dobrymi bratami - with good brothers, z inš**ymi** utytelami - with different teachers)
 * *Examples:* Idym **s kamratym** (I am going with a friend). Łoni gŏdajům **s nami** (They are talking with us). Pisza **uůwkym** (I am writing with a pencil). Łona je **dobrům študyntkům** (She is a good student). My żeśmy sům **dobrymi študyntami** (We are good students).
 
-# Hobbies (Verbs – Imperfective only)
+# Hobbies
 
 ## Verb Conjugations (Present Tense - Imperfective)
 
@@ -80,7 +80,7 @@ Imperfective verbs describe actions that are ongoing, repeated, or not completed
 * **-ować conjugation:** Includes verbs like **kupować** (to buy). Endings: -**uja**, -**ujysz**, -**uje**, -**ujymy**, -**ujycie**, -**ujům**.
     * *Example: kupować* -> Jo kup**uja** (I buy/am buying), Ty kup**ujysz** (You buy/are buying), Łon/Łona/Łono kup**uje** (He/She/It buys/is buying), My kup**ujymy** (We buy/are buying), Wy kup**ujycie** (You buy/are buying), Łoni/Łone kup**ujům** (They buy/are buying).
 
-# Sports (very basic accusative case + very basic locative)
+# Sports
 
 ## Basic Accusative and Locative (Singular Only)
 
@@ -95,7 +95,7 @@ Let's begin with a simplified look at two more cases in the singular. The **Accu
     * *Feminine:* Often end in **-e** or **-i**. (e.g., na **rzyce** - on a river, na **ziymi** - on land)
 * *Examples:* Czytóm **ksiůnżka** (I am reading a book - Accusative feminine ending). Siedzymy **na stole** (We are sitting on a table).
 
-# Food (Accusative case)
+# Food
 
 ## The Proper Accusative Case: The Direct Object
 
@@ -115,7 +115,7 @@ The **Accusative case** is the case of the direct object, indicating the person 
     * *Plural Masculine Animate:* Same as Genitive Plural (hard **-ych**, soft **-ich**). (e.g., Widza **starych** ôjcōw - I see old fathers, Widza **inšich** chopōw - I see different men)
 * *Examples:* Jo czytóm **ciekawóm ksiůnżka** (I am reading an interesting book). Łon widzi **swojigo ôjca** (He sees his father). My kupujymy **nowe auto** (We are buying a new car).
 
-# Drinks (Genitive case)
+# Drinks
 
 ## The Genitive Case: Possession, Absence, and More
 
@@ -131,7 +131,7 @@ The **Genitive case** indicates possession (like 'of' or 's), absence (with **be
 * *Prepositions:* Used after **bez** (without), **z** (from), **u** (at/by/have), and others like **do** (to/until), **ôd** (from).
 * *Examples:* To je robota **mojego ôjca** (This is my father's work). Jo żech je **z miasta** (I am from the city). **U mie** je zygarek (I have a watch - literally "At me there is a watch"). Łoni jadům **bez wody** (They are going without water). Widzioł żech mocka **piynknych bab** (I saw many beautiful women).
 
-# Studying & Writing (Locative case)
+# Studying & Writing
 
 ## The Proper Locative Case: Location and Topic
 
@@ -147,7 +147,7 @@ The **Locative case** (Miejscownik) specifies location ('in', 'on', 'at') or the
     * *Plural (all genders):* hard/soft **-ych/-ich**. (e.g., we dobrych domach - in good houses, ô inšich chopach - about different men)
 * *Examples:* Moja ksiůnżka je **na stole** (My book is on the table). Gŏdomy **ô naszym domu** (We are talking about our house). Łoni miyszkajům **we wielgim mieście** (They live in a big city). Bajtle sie szpilajům **na placach** (Children are playing in the yards).
 
-# Animals (Dative case)
+# Animals
 
 ## The Dative Case: To Whom? For Whom?
 
@@ -258,7 +258,7 @@ To state the time of day, you typically use the preposition **ô** followed by t
 
 * *Example:* 8:45 -> ô ôsm**ej** godźinie sztyrdzieści pjůńć - at eight forty-five.
 
-# Talking about Time (past tense)
+# Talking about Time
 
 ## The Simple Past Tense
 
@@ -272,7 +272,7 @@ Talking about actions that happened and finished in the past uses the simple pas
 
 * *Examples:* Wczora **jo żech robioł** (masc.) (Yesterday I worked). Wczora łona **robioła** (fem.) (Yesterday she worked). My **żeśmy widzieli** film (We saw a film). Łoni **przijechali** zôś (They arrived again).
 
-# Seasons of the year (future tense)
+# Seasons of the year
 
 ## The Future Tense
 
@@ -283,7 +283,7 @@ To express actions that will happen in the future using imperfective verbs, you 
 
 * *Examples:* Jo **byda czytać** ksiůnżka (I will read a book). Ty **bydziesz godać** s nim (You will talk with him). Łona **byńdzie robić** jutro (She will work tomorrow). My **bydymy pisać** (We will write). Łoni **byndům dziwać sie** na film (They will watch a film).
 
-# Clothes  (basic conjunctions)
+# Clothes
 
 ## Using Conjunctions: 'i', 'a', 'abo'
 
@@ -293,7 +293,7 @@ Conjunctions are like connecting words that join words, phrases, or clauses. Thr
 * **a:** Primarily means "but" when showing a contrast, or can also mean "and" to connect related but slightly different ideas. (e.g., Łon je utytelem, **a** łona je študyntkům - He is a teacher, but she is a student. Jo ida, **a** ty zostajesz - I am going, and you are staying.)
 * **abo:** Means "or," offering an alternative. (e.g., Kawa **abo** tukej? - Coffee or here? Przijedziecie **abo** zostaniecie doma? - Will you come or stay at home?)
 
-# Character (Conditional)
+# Character
 
 ## Conditional Forms: Saying "Would Do"
 
@@ -303,7 +303,7 @@ To talk about hypothetical situations or what someone "would do," you use the co
 
 * *Examples:* Jo **czytoł by** (m.) / **czytoła by** (f.) ta ksiůnżka (I would read that book). Łon **poszoł by** do kina (He would go to the cinema). My **robili by** to wszyjsko razym (We would do that all together). Co **byście chciele**? (What would you like? - using the past tense plural form for 'wy').
 
-# Emotions (adverbs)
+# Emotions
 
 ## Using Adverbs
 
@@ -312,7 +312,7 @@ Adverbs modify verbs, adjectives, or other adverbs, telling us *how*, *when*, *w
 * *Examples:* dobrze (well, from dobry - good), wartko (quickly, from wartki - quick), cicho (quietly, from cichy - quiet), daleko (far).
 * *In sentences:* Łon gŏdo **dobrze** (He speaks well). Łona bioego **wartko** (She runs quickly). Miyszkōmy **daleko** (We live far away).
 
-# Physical Appearance (Easy comparisons)
+# Physical Appearance
 
 ## Easy Comparisons: Wyży and Niż
 

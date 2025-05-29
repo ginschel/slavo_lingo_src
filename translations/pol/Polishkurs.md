@@ -1,5 +1,5 @@
 # Module 1 - Very basic grammar and phrases
-## Conjugation of to be and the Nominative Case
+## Conjugation of to be
 New Words: [to (r. nijaki), ta (r. żeński), ten (r. męski), tamten (r. męski), tamta (r. żeński), jestem, jesteś, jest, jesteśmy, jesteście, są, ja, ty, on, ona, ono, my, wy, oni, one, człowiek, kobieta, mąż, dziecko, przyjaciel, siostra, rodzic, dom, miasto, dzień, też, kto]
 Phrases: [
     "Ja jestem mądry.",
@@ -29,7 +29,7 @@ Phrases: [
     "Oni są bardzo mili"
 ]
 
-## Greetings & Phrases for conversations
+## Greetings & Phrases
 New Words: [pozdrowienie, cześć, rozmowa, rano, wieczór, dzień, noc, dziękuję, przepraszam, wybacz, dobry, lepiej, można, szkoda, tak, co, nie, tak (potwierdzenie), może, dawaj]
 Phrases: [
     "Dzień dobry!",
@@ -73,7 +73,7 @@ Phrases: [
     "Dawaj!/Chodź!"
 ]
 
-## Family (Instrumental case)
+## Family
 New Words: [brat, dziadek, babcia, ciocia, wnuk, wnuczka, matka, ojciec, rodzina, syn, córka, stryj, mówi, idzie, idziemy, żyje]
 Phrases: [
     "On jest moim bratem.",
@@ -98,7 +98,7 @@ Phrases: [
     "Ona rozmawia z wnukiem często."
 ]
 
-## Hobbies (Verbs – Imperfective only)
+## Hobbies
 New Words: [czytać, pisać (pisze), grać, patrzeć, słuchać, malować, śpiewać, uczyć się, siedzieć (siedzi), szyć (szyje), tańczyć]
 Phrases: [
     "Ja czytam książkę.",
@@ -124,7 +124,7 @@ Phrases: [
     "Ona gra na gitarze."
 ]
 
-## Sports (very basic accusative case + very basic locative)
+## Sports
 New Words: [piłka nożna, koszykówka, tenis, pływanie, pływać, bieganie, biegać, rano, lubić, hokej, sport, gra, trenować, stadion, szybko, ciężki]
 Phrases: [
     "Gram w piłkę nożną.",
@@ -150,7 +150,7 @@ Phrases: [
 ]
 
 # Module 2 – Food and Drinks
-## Food (Accusative case)
+## Food
 New Words: [chleb, gotować, nieść, jeść (je), masło, mleko, mięso, jajko, śniadanie, obiad, kupić, kolacja, danie, książka, słodki, jedzenie]
 Phrases: [
     "Ja jem chleb.",
@@ -176,7 +176,7 @@ Phrases: [
     "Oni wiedzą, że ja zawsze jem chleb z masłem."
 ]
 
-## Drinks (Genitive case)
+## Drinks
 New Words: [woda, piwo, pić, wino, kawa, sok, chcieć (chce), flaszka, próbować znaleźć, filiżanka/kubek, butelka, herbata, mleko, bez, za, z/ze (pochodzenie), u]
 Phrases: [
     "Ja nie mam wody.",
@@ -228,7 +228,7 @@ Phrases: [
 ]
 
 # Module 3 – Learning and Languages
-## Studying & Writing (Locative case)
+## Studying & Writing
 New Words: [szkoła, nauczycielka, nauczyciel, notatka/zapis, uczeń, książka, zadanie (domowe), stół, tusz, papier, przedmiot, metoda, pióro, zeszyt, na]
 Phrases: [
     "To moja szkoła.",
@@ -279,7 +279,7 @@ Phrases: [
     "Piękna figura stoi na stole."
 ]
 
-## Nationalities / Languages
+## Nationalities
 New Words: [słowianin, język, państwo, naród, imię, Chorwatka, Rosjanin, Polak, Niemiec, Anglik]
 Phrases: [
     "On jest Słowianinem.",
@@ -357,7 +357,7 @@ Phrases: [
 ]
 
 # Module 5 – Describing nature and directions
-## Animals (Dative case)
+## Animals
 New Words: [kot, pies, ptak, pomagać, pokazywać/mówić (mówi/pokazuje), koń, dać (daje), ryba, żaba, niedźwiedź, wilk, mysz, zwierzę]
 Phrases: [
     "Ja dam kotu rybę.",
@@ -458,7 +458,7 @@ Phrases: [
     "Czerwona róża rośnie tutaj."
 ]
 
-## Cardinal points/directions
+## Cardinal points
 New Words: [północ, południe, zachód, wschód, północny, południowy, zachodni, wschodni, kompas, strona, gdzie, wstać (wstaje), pokazywać, mapa, podróżować, prawo, lewo, prosto]
 Phrases: [
     "Północ jest zimna.",
@@ -485,7 +485,7 @@ Phrases: [
 ]
 
 # Module 6 Grammar revision
-## Grammar revision cases
+## Cases revision
 New Words: [
     "ciąć (tnie)",
     "prezent",
@@ -517,7 +517,7 @@ Phrases: [
     "Spokojnej nocy!"
 ]
 
-## Grammar revision pronouncs
+## Pronouns revision
 New Words: [
     "znać (fakty)",
     "wiedzieć (wie)",
@@ -800,7 +800,7 @@ Phrases: [
 ]
 
 # Module 9 – Time and the calendar
-## Talking about Time (past tense)
+## Talking about Time
 New Words: [czas, minuta, sekunda, godzina, dzisiaj, był, była, było, byli, szedł, szła, szło, szli, wczoraj, jutro, wieczór, północ, ile, spać (śpi), trwać]
 Phrases: [
     "Która jest godzina?",
@@ -851,7 +851,7 @@ Phrases: [
     "Lipiec jest miesiącem lata."
 ]
 
-## Seasons of the year (future tense)
+## Seasons of the year
 New Words: [lato, jesień, zima, wiosna, sezon, być, będę, będziesz, będzie, będziemy, będziecie, będą]
 Phrases: [
     "W lecie będzie ciepło.",
@@ -877,7 +877,7 @@ Phrases: [
 ]
 
 # Module 10 – Bodies, Clothes talking about people
-## Clothes  (basic conjunctions)
+## Clothes
 New Words: [koszula, nosić, spodnie, koszulka (T-shirt), szalik, czapka, płaszcz, rękawiczka, majtki/gacie, skarpetka, buty, odzież, brzydki, ubierać, piżama]
 Phrases: [
     "On nosi niebieską koszulę.",
@@ -927,7 +927,7 @@ Phrases: [
     "Ona słyszy cię tylko jednym uchem."
 ]
 
-## Character (Conditional)
+## Character
 New Words: [dobry, zły, silny, słaby, śmiały, cichy, mądry, głupi, szczery, leniwy, byłbym, byłbyś, byłby, bylibyśmy, bylibyście, byliby, milczeć (milczy)]
 Phrases: [
     "On to dobry człowiek.",
@@ -952,7 +952,7 @@ Phrases: [
     "Gdybym był śmiały, to bym się nie bał."
 ]
 
-## Emotions (adverbs)
+## Emotions
 New Words: [radosny, żałosny/smutny, gniewny/zły, miłość, przestraszony, spokój, zazdrość, wstydliwy, wstyd, dumny, wesoły, drżenie/strach, czuć (czuje), ukrywać, uciekać]
 Phrases: [
     "Czuję się radośnie dzisiaj.",
@@ -977,7 +977,7 @@ Phrases: [
     "Cierpieć chcemy tylko, kiedy kochamy."
 ]
 
-## Physical Appearance (Easy comparisons)
+## Physical Appearance
 New Words: [wysoki, niski, gruby, chudy, mały, piękny, brzydki, stary, młody, włosy, oczy, niż, wyżej, skóra, mniej, śmiać się (śmieje się), błyszczeć, gwiazda, jasny, ciemny]
 Phrases: [
     "On jest bardziej wysoki i silny niż on.",
